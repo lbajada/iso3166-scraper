@@ -114,6 +114,7 @@ def getCountries():
             
             if fieldName == short_name_lower_case_field_name:
                 short_name_lower_case = core_view.find("div", {"class": "core-view-field-value"}).contents[0]
+                short_name_lower_case = short_name_lower_case.replace("*", "")
 
             if fieldName == alpha3_code_field_name:
                 alpha3_code = core_view.find("div", {"class": "core-view-field-value"}).contents[0]
