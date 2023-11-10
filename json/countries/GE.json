@@ -1,0 +1,129 @@
+{
+    "alpha2_code": "GE",
+    "short_name": "GEORGIA",
+    "short_name_lower_case": "Georgia",
+    "full_name": null,
+    "alpha3_code": "GEO",
+    "numeric_code": 268,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "autonomous republic",
+            "3166-2_code": "GE-AB",
+            "name": "Abkhazia",
+            "local_variant": "Apkhazeti",
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous republic",
+            "3166-2_code": "GE-AJ",
+            "name": "Ajaria",
+            "local_variant": "Ach'ara",
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-GU",
+            "name": "Guria",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-IM",
+            "name": "Imereti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-KA",
+            "name": "K'akheti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-KK",
+            "name": "Kvemo Kartli",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-MM",
+            "name": "Mtskheta-Mtianeti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-RL",
+            "name": "Rach'a-Lechkhumi-Kvemo Svaneti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-SZ",
+            "name": "Samegrelo-Zemo Svaneti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-SJ",
+            "name": "Samtskhe-Javakheti",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GE-SK",
+            "name": "Shida Kartli",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "GE-TB",
+            "name": "Tbilisi",
+            "local_variant": null,
+            "language_code": "ka",
+            "romanization_system": "National draft 2002",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ka",
+            "administrative_language_alpha3": "kat",
+            "local_short_name": "Sakartvelo"
+        }
+    ]
+}

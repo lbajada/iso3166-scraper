@@ -1,0 +1,53 @@
+{
+    "alpha2_code": "KI",
+    "short_name": "KIRIBATI",
+    "short_name_lower_case": "Kiribati",
+    "full_name": "the Republic of Kiribati",
+    "alpha3_code": "KIR",
+    "numeric_code": 296,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Abariringa, Banaba, Enderbury Island, Gilbert Islands, Kiritimati, part of Line Islands, Phoenix Islands, Tarawa",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "group of islands (20 inhabited islands)",
+            "3166-2_code": "KI-G",
+            "name": "Gilbert Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "group of islands (20 inhabited islands)",
+            "3166-2_code": "KI-L",
+            "name": "Line Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "group of islands (20 inhabited islands)",
+            "3166-2_code": "KI-P",
+            "name": "Phoenix Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Kiribati"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "gil",
+            "local_short_name": "Kiribati"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "alpha2_code": "IL",
+    "short_name": "ISRAEL",
+    "short_name_lower_case": "Israel",
+    "full_name": "the State of Israel",
+    "alpha3_code": "ISR",
+    "numeric_code": 376,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "IL-M",
+            "name": "Al Awsaţ",
+            "local_variant": "El Awsaṭ",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-D",
+            "name": "Al Janūbī",
+            "local_variant": "El Janūbī",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-JM",
+            "name": "Al Quds",
+            "local_variant": "El Quds",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-Z",
+            "name": "Ash Shamālī",
+            "local_variant": "Esh Shamālī",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-D",
+            "name": "HaDarom",
+            "local_variant": "Southern",
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-M",
+            "name": "HaMerkaz",
+            "local_variant": "Central",
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-Z",
+            "name": "HaTsafon",
+            "local_variant": "Northern",
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-HA",
+            "name": "H̱efa",
+            "local_variant": "Haifa",
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-TA",
+            "name": "Tall Abīb",
+            "local_variant": "Tell Abīb",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-TA",
+            "name": "Tel Aviv",
+            "local_variant": null,
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-JM",
+            "name": "Yerushalayim",
+            "local_variant": "Jerusalem",
+            "language_code": "he",
+            "romanization_system": "National 2006 = UN IX/9 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "IL-HA",
+            "name": "Ḩayfā",
+            "local_variant": "Ḥeifa",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Isrā'īl"
+        },
+        {
+            "administrative_language_alpha2": "he",
+            "administrative_language_alpha3": "heb",
+            "local_short_name": "Yisra'el"
+        }
+    ]
+}

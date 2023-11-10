@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "NU",
+    "short_name": "NIUE",
+    "short_name_lower_case": "Niue",
+    "full_name": null,
+    "alpha3_code": "NIU",
+    "numeric_code": 570,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Niue"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "niu",
+            "local_short_name": "Niue"
+        }
+    ]
+}

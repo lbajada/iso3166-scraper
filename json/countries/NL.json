@@ -1,0 +1,183 @@
+{
+    "alpha2_code": "NL",
+    "short_name": "NETHERLANDS, KINGDOM OF THE",
+    "short_name_lower_case": "Netherlands (Kingdom of the)",
+    "full_name": "the Kingdom of the Netherlands",
+    "alpha3_code": "NLD",
+    "numeric_code": 528,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "country",
+            "3166-2_code": "NL-AW",
+            "name": "Aruba (see also separate country code entry under AW)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "NL-BQ1",
+            "name": "Bonaire (see also separate country code entry under BQ)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "country",
+            "3166-2_code": "NL-CW",
+            "name": "Curaçao (see also separate country code entry under CW)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-DR",
+            "name": "Drenthe",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-FL",
+            "name": "Flevoland",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-FR",
+            "name": "Fryslân",
+            "local_variant": null,
+            "language_code": "fy",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-GE",
+            "name": "Gelderland",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-GR",
+            "name": "Groningen",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-LI",
+            "name": "Limburg",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-NB",
+            "name": "Noord-Brabant",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-NH",
+            "name": "Noord-Holland",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-OV",
+            "name": "Overijssel",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "NL-BQ2",
+            "name": "Saba (see also separate country code entry under BQ)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "NL-BQ3",
+            "name": "Sint Eustatius (see also separate country code entry under BQ)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "country",
+            "3166-2_code": "NL-SX",
+            "name": "Sint Maarten (see also separate country code entry under SX)",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-UT",
+            "name": "Utrecht",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-ZE",
+            "name": "Zeeland",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NL-ZH",
+            "name": "Zuid-Holland",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "Nederland"
+        }
+    ]
+}

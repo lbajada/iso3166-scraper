@@ -1,0 +1,129 @@
+{
+    "alpha2_code": "CG",
+    "short_name": "CONGO",
+    "short_name_lower_case": "Congo (the)",
+    "full_name": "the Republic of the Congo",
+    "alpha3_code": "COG",
+    "numeric_code": 178,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "CG-11",
+            "name": "Bouenza",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-BZV",
+            "name": "Brazzaville",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-8",
+            "name": "Cuvette",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-15",
+            "name": "Cuvette-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-5",
+            "name": "Kouilou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-7",
+            "name": "Likouala",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-2",
+            "name": "Lékoumou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-9",
+            "name": "Niari",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-14",
+            "name": "Plateaux",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-16",
+            "name": "Pointe-Noire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-12",
+            "name": "Pool",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CG-13",
+            "name": "Sangha",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Congo (le)"
+        }
+    ]
+}

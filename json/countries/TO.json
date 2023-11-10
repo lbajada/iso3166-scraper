@@ -1,0 +1,116 @@
+{
+    "alpha2_code": "TO",
+    "short_name": "TONGA",
+    "short_name_lower_case": "Tonga",
+    "full_name": "the Kingdom of Tonga",
+    "alpha3_code": "TON",
+    "numeric_code": 776,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Tongatapu (principal island)",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "division",
+            "3166-2_code": "TO-01",
+            "name": "'Eua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-01",
+            "name": "'Eua",
+            "local_variant": null,
+            "language_code": "to",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-02",
+            "name": "Ha'apai",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-02",
+            "name": "Ha'apai",
+            "local_variant": null,
+            "language_code": "to",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-03",
+            "name": "Niuas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-03",
+            "name": "Niuas",
+            "local_variant": null,
+            "language_code": "to",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-04",
+            "name": "Tongatapu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-04",
+            "name": "Tongatapu",
+            "local_variant": null,
+            "language_code": "to",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-05",
+            "name": "Vava'u",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "TO-05",
+            "name": "Vava'u",
+            "local_variant": null,
+            "language_code": "to",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Tonga"
+        },
+        {
+            "administrative_language_alpha2": "to",
+            "administrative_language_alpha3": "ton",
+            "local_short_name": "Tonga"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "CX",
+    "short_name": "CHRISTMAS ISLAND",
+    "short_name_lower_case": "Christmas Island",
+    "full_name": null,
+    "alpha3_code": "CXR",
+    "numeric_code": 162,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Christmas Island"
+        }
+    ]
+}

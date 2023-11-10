@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "PN",
+    "short_name": "PITCAIRN",
+    "short_name_lower_case": "Pitcairn",
+    "full_name": null,
+    "alpha3_code": "PCN",
+    "numeric_code": 612,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Ducie Island, Henderson Island, Oeno Island",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Pitcairn"
+        }
+    ]
+}

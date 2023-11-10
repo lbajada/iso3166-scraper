@@ -1,0 +1,111 @@
+{
+    "alpha2_code": "SS",
+    "short_name": "SOUTH SUDAN",
+    "short_name_lower_case": "South Sudan",
+    "full_name": "the Republic of South Sudan",
+    "alpha3_code": "SSD",
+    "numeric_code": 728,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "state",
+            "3166-2_code": "SS-EC",
+            "name": "Central Equatoria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-EE",
+            "name": "Eastern Equatoria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-JG",
+            "name": "Jonglei",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-LK",
+            "name": "Lakes",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-BN",
+            "name": "Northern Bahr el Ghazal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-UY",
+            "name": "Unity",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-NU",
+            "name": "Upper Nile",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-WR",
+            "name": "Warrap",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-BW",
+            "name": "Western Bahr el Ghazal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "SS-EW",
+            "name": "Western Equatoria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "South Sudan"
+        }
+    ]
+}

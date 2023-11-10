@@ -1,0 +1,102 @@
+{
+    "alpha2_code": "UM",
+    "short_name": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "short_name_lower_case": "United States Minor Outlying Islands (the)",
+    "full_name": null,
+    "alpha3_code": "UMI",
+    "numeric_code": 581,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Baker Island, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Midway Islands, Navassa Island , Palmyra Atoll, Wake Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-81",
+            "name": "Baker Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-84",
+            "name": "Howland Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-86",
+            "name": "Jarvis Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-67",
+            "name": "Johnston Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-89",
+            "name": "Kingman Reef",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-71",
+            "name": "Midway Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-76",
+            "name": "Navassa Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-95",
+            "name": "Palmyra Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "islands, groups of islands",
+            "3166-2_code": "UM-79",
+            "name": "Wake Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "United States Minor Outlying Islands (the)"
+        }
+    ]
+}

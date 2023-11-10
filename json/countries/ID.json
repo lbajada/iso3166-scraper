@@ -1,0 +1,417 @@
+{
+    "alpha2_code": "ID",
+    "short_name": "INDONESIA",
+    "short_name_lower_case": "Indonesia",
+    "full_name": "the Republic of Indonesia",
+    "alpha3_code": "IDN",
+    "numeric_code": 360,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "ID-AC",
+            "name": "Aceh",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-BA",
+            "name": "Bali",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-NU"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-BT",
+            "name": "Banten",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-BE",
+            "name": "Bengkulu",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-GO",
+            "name": "Gorontalo",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "capital district",
+            "3166-2_code": "ID-JK",
+            "name": "Jakarta Raya",
+            "local_variant": "DKI Jakarta; DKI",
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-JA",
+            "name": "Jambi",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-JW",
+            "name": "Jawa",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-JB",
+            "name": "Jawa Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-JT",
+            "name": "Jawa Tengah",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-JI",
+            "name": "Jawa Timur",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-KA",
+            "name": "Kalimantan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KB",
+            "name": "Kalimantan Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-KA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KS",
+            "name": "Kalimantan Selatan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-KA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KT",
+            "name": "Kalimantan Tengah",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-KA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KI",
+            "name": "Kalimantan Timur",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-KA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KU",
+            "name": "Kalimantan Utara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-KA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-BB",
+            "name": "Kepulauan Bangka Belitung",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-KR",
+            "name": "Kepulauan Riau",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-LA",
+            "name": "Lampung",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-ML",
+            "name": "Maluku",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-MA",
+            "name": "Maluku",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-ML"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-MU",
+            "name": "Maluku Utara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-ML"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-NU",
+            "name": "Nusa Tenggara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-NB",
+            "name": "Nusa Tenggara Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-NU"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-NT",
+            "name": "Nusa Tenggara Timur",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-NU"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-PP",
+            "name": "Papua",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-PA",
+            "name": "Papua",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-PB",
+            "name": "Papua Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-PE",
+            "name": "Papua Pengunungan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-PS",
+            "name": "Papua Selatan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-PT",
+            "name": "Papua Tengah",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-RI",
+            "name": "Riau",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-SL",
+            "name": "Sulawesi",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SR",
+            "name": "Sulawesi Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SN",
+            "name": "Sulawesi Selatan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-ST",
+            "name": "Sulawesi Tengah",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SG",
+            "name": "Sulawesi Tenggara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SA",
+            "name": "Sulawesi Utara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SL"
+        },
+        {
+            "category": "geographical unit",
+            "3166-2_code": "ID-SM",
+            "name": "Sumatera",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SB",
+            "name": "Sumatera Barat",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SS",
+            "name": "Sumatera Selatan",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ID-SU",
+            "name": "Sumatera Utara",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-SM"
+        },
+        {
+            "category": "special region",
+            "3166-2_code": "ID-YO",
+            "name": "Yogyakarta",
+            "local_variant": "DI Yogya; DIY",
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-JW"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "id",
+            "administrative_language_alpha3": "ind",
+            "local_short_name": "Indonesia"
+        }
+    ]
+}

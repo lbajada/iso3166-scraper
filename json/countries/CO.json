@@ -1,0 +1,318 @@
+{
+    "alpha2_code": "CO",
+    "short_name": "COLOMBIA",
+    "short_name_lower_case": "Colombia",
+    "full_name": "the Republic of Colombia",
+    "alpha3_code": "COL",
+    "numeric_code": 170,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Malpelo Island, San Andrés y Providencia Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "CO-AMA",
+            "name": "Amazonas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-ANT",
+            "name": "Antioquia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-ARA",
+            "name": "Arauca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-ATL",
+            "name": "Atlántico",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-BOL",
+            "name": "Bolívar",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-BOY",
+            "name": "Boyacá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CAL",
+            "name": "Caldas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CAQ",
+            "name": "Caquetá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CAS",
+            "name": "Casanare",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CAU",
+            "name": "Cauca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CES",
+            "name": "Cesar",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CHO",
+            "name": "Chocó",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-CUN",
+            "name": "Cundinamarca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-COR",
+            "name": "Córdoba",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "capital district",
+            "3166-2_code": "CO-DC",
+            "name": "Distrito Capital de Bogotá",
+            "local_variant": "Distrito Capital",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-GUA",
+            "name": "Guainía",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-GUV",
+            "name": "Guaviare",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-HUI",
+            "name": "Huila",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-LAG",
+            "name": "La Guajira",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-MAG",
+            "name": "Magdalena",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-MET",
+            "name": "Meta",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-NAR",
+            "name": "Nariño",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-NSA",
+            "name": "Norte de Santander",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-PUT",
+            "name": "Putumayo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-QUI",
+            "name": "Quindío",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-RIS",
+            "name": "Risaralda",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-SAP",
+            "name": "San Andrés, Providencia y Santa Catalina",
+            "local_variant": "San Andrés",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-SAN",
+            "name": "Santander",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-SUC",
+            "name": "Sucre",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-TOL",
+            "name": "Tolima",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-VAC",
+            "name": "Valle del Cauca",
+            "local_variant": "Valle",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-VAU",
+            "name": "Vaupés",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "CO-VID",
+            "name": "Vichada",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Colombia"
+        }
+    ]
+}

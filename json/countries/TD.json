@@ -1,0 +1,440 @@
+{
+    "alpha2_code": "TD",
+    "short_name": "CHAD",
+    "short_name_lower_case": "Chad",
+    "full_name": "the Republic of Chad",
+    "alpha3_code": "TCD",
+    "numeric_code": 148,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "TD-BA",
+            "name": "Al Baţḩā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LC",
+            "name": "Al Buḩayrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-BG",
+            "name": "Bahr el Ghazal",
+            "local_variant": "Barh-el-Ghazal",
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-BA",
+            "name": "Batha",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-BG",
+            "name": "Baḩr al Ghazāl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-BO",
+            "name": "Borkou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-BO",
+            "name": "Būrkū",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-CB",
+            "name": "Chari-Baguirmi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-EE",
+            "name": "Ennedi-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-EO",
+            "name": "Ennedi-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-GR",
+            "name": "Guéra",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-HL",
+            "name": "Hadjer Lamis",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-EO",
+            "name": "Inīdī al Gharbī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-EE",
+            "name": "Inīdī ash Sharqī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-KA",
+            "name": "Kanem",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-KA",
+            "name": "Kānim",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LC",
+            "name": "Lac",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LO",
+            "name": "Logone-Occidental",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LR",
+            "name": "Logone-Oriental",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LO",
+            "name": "Lūghūn al Gharbī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-LR",
+            "name": "Lūghūn ash Sharqī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-ND",
+            "name": "Madīnat Injamīnā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MA",
+            "name": "Mandoul",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-ME",
+            "name": "Mayo-Kebbi-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MO",
+            "name": "Mayo-Kebbi-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MC",
+            "name": "Moyen-Chari",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MA",
+            "name": "Māndūl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MO",
+            "name": "Māyū Kībbī al Gharbī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-ME",
+            "name": "Māyū Kībbī ash Sharqī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-OD",
+            "name": "Ouaddaï",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-GR",
+            "name": "Qīrā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-SA",
+            "name": "Salamat",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-SA",
+            "name": "Salāmāt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-CB",
+            "name": "Shārī Bāqirmī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-MC",
+            "name": "Shārī al Awsaţ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-SI",
+            "name": "Sila",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-SI",
+            "name": "Sīlā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-TA",
+            "name": "Tandjilé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-TI",
+            "name": "Tibastī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-TI",
+            "name": "Tibesti",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-TA",
+            "name": "Tānjīlī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-ND",
+            "name": "Ville de Ndjamena",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-OD",
+            "name": "Waddāy",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-WF",
+            "name": "Wadi Fira",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-WF",
+            "name": "Wādī Fīrā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TD-HL",
+            "name": "Ḩajjar Lamīs",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Tshād"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Tchad (le)"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "alpha2_code": "BA",
+    "short_name": "BOSNIA AND HERZEGOVINA",
+    "short_name_lower_case": "Bosnia and Herzegovina",
+    "full_name": null,
+    "alpha3_code": "BIH",
+    "numeric_code": 70,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Herzegovina *",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district with special status",
+            "3166-2_code": "BA-BRC",
+            "name": "Brčko distrikt",
+            "local_variant": null,
+            "language_code": "bs",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district with special status",
+            "3166-2_code": "BA-BRC",
+            "name": "Brčko distrikt",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district with special status",
+            "3166-2_code": "BA-BRC",
+            "name": "Brčko distrikt",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-BIH",
+            "name": "Federacija Bosne i Hercegovine",
+            "local_variant": null,
+            "language_code": "bs",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-BIH",
+            "name": "Federacija Bosne i Hercegovine",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-BIH",
+            "name": "Federacija Bosne i Hercegovine",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-SRP",
+            "name": "Republika Srpska",
+            "local_variant": null,
+            "language_code": "bs",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-SRP",
+            "name": "Republika Srpska",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "entity",
+            "3166-2_code": "BA-SRP",
+            "name": "Republika Srpska",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "bs",
+            "administrative_language_alpha3": "bos",
+            "local_short_name": "Bosna i Hercegovina"
+        },
+        {
+            "administrative_language_alpha2": "hr",
+            "administrative_language_alpha3": "hrv",
+            "local_short_name": "Bosna i Hercegovina"
+        },
+        {
+            "administrative_language_alpha2": "sr",
+            "administrative_language_alpha3": "srp",
+            "local_short_name": "Bosna i Hercegovina"
+        }
+    ]
+}

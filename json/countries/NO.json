@@ -1,0 +1,287 @@
+{
+    "alpha2_code": "NO",
+    "short_name": "NORWAY",
+    "short_name_lower_case": "Norway",
+    "full_name": "the Kingdom of Norway",
+    "alpha3_code": "NOR",
+    "numeric_code": 578,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "NO-42",
+            "name": "Agder",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-42",
+            "name": "Agder",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-34",
+            "name": "Innlandet",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-34",
+            "name": "Innlandet",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "arctic region",
+            "3166-2_code": "NO-22",
+            "name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "arctic region",
+            "3166-2_code": "NO-22",
+            "name": "Jan Mayen (Arctic Region) (see also separate country code entry under SJ)",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-15",
+            "name": "Møre og Romsdal",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-15",
+            "name": "Møre og Romsdal",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-18",
+            "name": "Nordland",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-18",
+            "name": "Nordland",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-03",
+            "name": "Oslo",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-03",
+            "name": "Oslo",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-11",
+            "name": "Rogaland",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-11",
+            "name": "Rogaland",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-54",
+            "name": "Romssa ja Finnmárkku",
+            "local_variant": null,
+            "language_code": "se",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "arctic region",
+            "3166-2_code": "NO-21",
+            "name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "arctic region",
+            "3166-2_code": "NO-21",
+            "name": "Svalbard (Arctic Region) (see also separate country code entry under SJ)",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-54",
+            "name": "Troms og Finnmark",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-54",
+            "name": "Troms og Finnmark",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-54",
+            "name": "Tromssan ja Finmarkun",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-50",
+            "name": "Trööndelage",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-50",
+            "name": "Trøndelag",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-50",
+            "name": "Trøndelag",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-38",
+            "name": "Vestfold og Telemark",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-38",
+            "name": "Vestfold og Telemark",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-46",
+            "name": "Vestland",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-46",
+            "name": "Vestland",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-30",
+            "name": "Viken",
+            "local_variant": null,
+            "language_code": "nn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "NO-30",
+            "name": "Viken",
+            "local_variant": null,
+            "language_code": "nb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nn",
+            "administrative_language_alpha3": "nno",
+            "local_short_name": "Noreg"
+        },
+        {
+            "administrative_language_alpha2": "nb",
+            "administrative_language_alpha3": "nob",
+            "local_short_name": "Norge"
+        }
+    ]
+}

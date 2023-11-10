@@ -1,0 +1,723 @@
+{
+    "alpha2_code": "TH",
+    "short_name": "THAILAND",
+    "short_name_lower_case": "Thailand",
+    "full_name": "the Kingdom of Thailand",
+    "alpha3_code": "THA",
+    "numeric_code": 764,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "TH-37",
+            "name": "Amnat Charoen",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-15",
+            "name": "Ang Thong",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-38",
+            "name": "Bueng Kan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-31",
+            "name": "Buri Ram",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-24",
+            "name": "Chachoengsao",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-18",
+            "name": "Chai Nat",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-36",
+            "name": "Chaiyaphum",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-22",
+            "name": "Chanthaburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-50",
+            "name": "Chiang Mai",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-57",
+            "name": "Chiang Rai",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-20",
+            "name": "Chon Buri",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-86",
+            "name": "Chumphon",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-46",
+            "name": "Kalasin",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-62",
+            "name": "Kamphaeng Phet",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-71",
+            "name": "Kanchanaburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-40",
+            "name": "Khon Kaen",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-81",
+            "name": "Krabi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan administration",
+            "3166-2_code": "TH-10",
+            "name": "Krung Thep Maha Nakhon",
+            "local_variant": "Bangkok",
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-52",
+            "name": "Lampang",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-51",
+            "name": "Lamphun",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-42",
+            "name": "Loei",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-16",
+            "name": "Lop Buri",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-58",
+            "name": "Mae Hong Son",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-44",
+            "name": "Maha Sarakham",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-49",
+            "name": "Mukdahan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-26",
+            "name": "Nakhon Nayok",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-73",
+            "name": "Nakhon Pathom",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-48",
+            "name": "Nakhon Phanom",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-30",
+            "name": "Nakhon Ratchasima",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-60",
+            "name": "Nakhon Sawan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-80",
+            "name": "Nakhon Si Thammarat",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-55",
+            "name": "Nan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-96",
+            "name": "Narathiwat",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-39",
+            "name": "Nong Bua Lam Phu",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-43",
+            "name": "Nong Khai",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-12",
+            "name": "Nonthaburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-13",
+            "name": "Pathum Thani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-94",
+            "name": "Pattani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-82",
+            "name": "Phangnga",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-93",
+            "name": "Phatthalung",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative city",
+            "3166-2_code": "TH-S",
+            "name": "Phatthaya",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-56",
+            "name": "Phayao",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-67",
+            "name": "Phetchabun",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-76",
+            "name": "Phetchaburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-66",
+            "name": "Phichit",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-65",
+            "name": "Phitsanulok",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-14",
+            "name": "Phra Nakhon Si Ayutthaya",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-54",
+            "name": "Phrae",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-83",
+            "name": "Phuket",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-25",
+            "name": "Prachin Buri",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-77",
+            "name": "Prachuap Khiri Khan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-85",
+            "name": "Ranong",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-70",
+            "name": "Ratchaburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-21",
+            "name": "Rayong",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-45",
+            "name": "Roi Et",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-27",
+            "name": "Sa Kaeo",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-47",
+            "name": "Sakon Nakhon",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-11",
+            "name": "Samut Prakan",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-74",
+            "name": "Samut Sakhon",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-75",
+            "name": "Samut Songkhram",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-19",
+            "name": "Saraburi",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-91",
+            "name": "Satun",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-33",
+            "name": "Si Sa Ket",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-17",
+            "name": "Sing Buri",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-90",
+            "name": "Songkhla",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-64",
+            "name": "Sukhothai",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-72",
+            "name": "Suphan Buri",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-84",
+            "name": "Surat Thani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-32",
+            "name": "Surin",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-63",
+            "name": "Tak",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-92",
+            "name": "Trang",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-23",
+            "name": "Trat",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-34",
+            "name": "Ubon Ratchathani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-41",
+            "name": "Udon Thani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-61",
+            "name": "Uthai Thani",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-53",
+            "name": "Uttaradit",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-95",
+            "name": "Yala",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TH-35",
+            "name": "Yasothon",
+            "local_variant": null,
+            "language_code": "th",
+            "romanization_system": "National 2000 = ISO 11940-2:2007 = UN VIII/12 2002",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "th",
+            "administrative_language_alpha3": "tha",
+            "local_short_name": "Prathet Thai"
+        }
+    ]
+}

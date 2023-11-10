@@ -1,0 +1,219 @@
+{
+    "alpha2_code": "GT",
+    "short_name": "GUATEMALA",
+    "short_name_lower_case": "Guatemala",
+    "full_name": "the Republic of Guatemala",
+    "alpha3_code": "GTM",
+    "numeric_code": 320,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "GT-16",
+            "name": "Alta Verapaz",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-15",
+            "name": "Baja Verapaz",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-04",
+            "name": "Chimaltenango",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-20",
+            "name": "Chiquimula",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-02",
+            "name": "El Progreso",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-05",
+            "name": "Escuintla",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-01",
+            "name": "Guatemala",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-13",
+            "name": "Huehuetenango",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-18",
+            "name": "Izabal",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-21",
+            "name": "Jalapa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-22",
+            "name": "Jutiapa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-17",
+            "name": "Petén",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-09",
+            "name": "Quetzaltenango",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-14",
+            "name": "Quiché",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-11",
+            "name": "Retalhuleu",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-03",
+            "name": "Sacatepéquez",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-12",
+            "name": "San Marcos",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-06",
+            "name": "Santa Rosa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-07",
+            "name": "Sololá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-10",
+            "name": "Suchitepéquez",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-08",
+            "name": "Totonicapán",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "GT-19",
+            "name": "Zacapa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Guatemala"
+        }
+    ]
+}

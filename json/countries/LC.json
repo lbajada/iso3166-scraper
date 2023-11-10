@@ -1,0 +1,111 @@
+{
+    "alpha2_code": "LC",
+    "short_name": "SAINT LUCIA",
+    "short_name_lower_case": "Saint Lucia",
+    "full_name": null,
+    "alpha3_code": "LCA",
+    "numeric_code": 662,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "LC-01",
+            "name": "Anse la Raye",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-12",
+            "name": "Canaries",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-02",
+            "name": "Castries",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-03",
+            "name": "Choiseul",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-05",
+            "name": "Dennery",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-06",
+            "name": "Gros Islet",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-07",
+            "name": "Laborie",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-08",
+            "name": "Micoud",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-10",
+            "name": "Soufrière",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LC-11",
+            "name": "Vieux Fort",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Saint Lucia"
+        }
+    ]
+}

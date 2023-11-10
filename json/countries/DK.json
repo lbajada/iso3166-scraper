@@ -1,0 +1,66 @@
+{
+    "alpha2_code": "DK",
+    "short_name": "DENMARK",
+    "short_name_lower_case": "Denmark",
+    "full_name": "the Kingdom of Denmark",
+    "alpha3_code": "DNK",
+    "numeric_code": 208,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "DK-84",
+            "name": "Hovedstaden",
+            "local_variant": null,
+            "language_code": "da",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DK-82",
+            "name": "Midtjylland",
+            "local_variant": null,
+            "language_code": "da",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DK-81",
+            "name": "Nordjylland",
+            "local_variant": null,
+            "language_code": "da",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DK-85",
+            "name": "Sjælland",
+            "local_variant": null,
+            "language_code": "da",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DK-83",
+            "name": "Syddanmark",
+            "local_variant": null,
+            "language_code": "da",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "da",
+            "administrative_language_alpha3": "dan",
+            "local_short_name": "Danmark"
+        }
+    ]
+}

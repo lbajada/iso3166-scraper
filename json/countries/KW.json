@@ -1,0 +1,75 @@
+{
+    "alpha2_code": "KW",
+    "short_name": "KUWAIT",
+    "short_name_lower_case": "Kuwait",
+    "full_name": "the State of Kuwait",
+    "alpha3_code": "KWT",
+    "numeric_code": 414,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-AH",
+            "name": "Al Aḩmadī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-FA",
+            "name": "Al Farwānīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-JA",
+            "name": "Al Jahrā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-KU",
+            "name": "Al ‘Āşimah",
+            "local_variant": "Al Kuwayt",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-MU",
+            "name": "Mubārak al Kabīr",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "KW-HA",
+            "name": "Ḩawallī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Kuwayt"
+        }
+    ]
+}

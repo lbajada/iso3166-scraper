@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "GH",
+    "short_name": "GHANA",
+    "short_name_lower_case": "Ghana",
+    "full_name": "the Republic of Ghana",
+    "alpha3_code": "GHA",
+    "numeric_code": 288,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "GH-AF",
+            "name": "Ahafo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-AH",
+            "name": "Ashanti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-BO",
+            "name": "Bono",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-BE",
+            "name": "Bono East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-CP",
+            "name": "Central",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-EP",
+            "name": "Eastern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-AA",
+            "name": "Greater Accra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-NE",
+            "name": "North East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-NP",
+            "name": "Northern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-OT",
+            "name": "Oti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-SV",
+            "name": "Savannah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-UE",
+            "name": "Upper East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-UW",
+            "name": "Upper West",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-TV",
+            "name": "Volta",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-WP",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GH-WN",
+            "name": "Western North",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Ghana"
+        }
+    ]
+}

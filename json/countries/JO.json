@@ -1,0 +1,129 @@
+{
+    "alpha2_code": "JO",
+    "short_name": "JORDAN",
+    "short_name_lower_case": "Jordan",
+    "full_name": "the Hashemite Kingdom of Jordan",
+    "alpha3_code": "JOR",
+    "numeric_code": 400,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-BA",
+            "name": "Al Balqā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-KA",
+            "name": "Al Karak",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-MA",
+            "name": "Al Mafraq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-AQ",
+            "name": "Al ‘Aqabah",
+            "local_variant": "Aqaba",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-AM",
+            "name": "Al ‘A̅şimah",
+            "local_variant": "‘Ammān",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-AZ",
+            "name": "Az Zarqā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-AT",
+            "name": "Aţ Ţafīlah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-IR",
+            "name": "Irbid",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-JA",
+            "name": "Jarash",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-MN",
+            "name": "Ma‘ān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-MD",
+            "name": "Mādabā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "JO-AJ",
+            "name": "‘Ajlūn",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Urdun"
+        }
+    ]
+}

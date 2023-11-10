@@ -1,0 +1,390 @@
+{
+    "alpha2_code": "GN",
+    "short_name": "GUINEA",
+    "short_name_lower_case": "Guinea",
+    "full_name": "the Republic of Guinea",
+    "alpha3_code": "GIN",
+    "numeric_code": 324,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-BE",
+            "name": "Beyla",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-BF",
+            "name": "Boffa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-B"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-B",
+            "name": "Boké",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-BK",
+            "name": "Boké",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-B"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "GN-C",
+            "name": "Conakry",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-CO",
+            "name": "Coyah",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-D"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-DB",
+            "name": "Dabola",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-F"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-DL",
+            "name": "Dalaba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-M"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-DI",
+            "name": "Dinguiraye",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-F"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-DU",
+            "name": "Dubréka",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-D"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-F",
+            "name": "Faranah",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-FA",
+            "name": "Faranah",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-F"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-FO",
+            "name": "Forécariah",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-D"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-FR",
+            "name": "Fria",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-B"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-GA",
+            "name": "Gaoual",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-B"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-GU",
+            "name": "Guékédou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-K",
+            "name": "Kankan",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KA",
+            "name": "Kankan",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-K"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-D",
+            "name": "Kindia",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KD",
+            "name": "Kindia",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-D"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KS",
+            "name": "Kissidougou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-F"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KB",
+            "name": "Koubia",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-L"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KN",
+            "name": "Koundara",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-B"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KO",
+            "name": "Kouroussa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-K"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-KE",
+            "name": "Kérouané",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-K"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-L",
+            "name": "Labé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-LA",
+            "name": "Labé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-L"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-LO",
+            "name": "Lola",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-LE",
+            "name": "Lélouma",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-L"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-MC",
+            "name": "Macenta",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-ML",
+            "name": "Mali",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-L"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-M",
+            "name": "Mamou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-MM",
+            "name": "Mamou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-M"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-MD",
+            "name": "Mandiana",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-K"
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GN-N",
+            "name": "Nzérékoré",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-NZ",
+            "name": "Nzérékoré",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-PI",
+            "name": "Pita",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-M"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-SI",
+            "name": "Siguiri",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-K"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-TO",
+            "name": "Tougué",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-L"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-TE",
+            "name": "Télimélé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-D"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "GN-YO",
+            "name": "Yomou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GN-N"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Guinée (la)"
+        }
+    ]
+}

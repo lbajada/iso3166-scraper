@@ -1,0 +1,48 @@
+{
+    "alpha2_code": "SH",
+    "short_name": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "short_name_lower_case": "Saint Helena, Ascension and Tristan da Cunha",
+    "full_name": null,
+    "alpha3_code": "SHN",
+    "numeric_code": 654,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Ascension Island, Gough Island, Inaccessible Island, Nightingale Island, Saint Helena Island , Stoltenhoff Island, Tristan da Cunha Archipelago",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "geographical entity",
+            "3166-2_code": "SH-AC",
+            "name": "Ascension",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "geographical entity",
+            "3166-2_code": "SH-HL",
+            "name": "Saint Helena",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "geographical entity",
+            "3166-2_code": "SH-TA",
+            "name": "Tristan da Cunha",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+    ]
+}

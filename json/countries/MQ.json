@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "MQ",
+    "short_name": "MARTINIQUE",
+    "short_name_lower_case": "Martinique",
+    "full_name": null,
+    "alpha3_code": "MTQ",
+    "numeric_code": 474,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Martinique (la)"
+        }
+    ]
+}

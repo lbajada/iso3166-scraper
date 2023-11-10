@@ -1,0 +1,255 @@
+{
+    "alpha2_code": "KP",
+    "short_name": "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+    "short_name_lower_case": "Korea (the Democratic People's Republic of)",
+    "full_name": "the Democratic People's Republic of Korea",
+    "alpha3_code": "PRK",
+    "numeric_code": 408,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "KP-04",
+            "name": "Chagang-do",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-09",
+            "name": "Hamgyǒng-bukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-08",
+            "name": "Hamgyǒng-namdo",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-08",
+            "name": "Hamkyeongnamto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-09",
+            "name": "Hamkyeongpukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-06",
+            "name": "Hwanghae-bukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-05",
+            "name": "Hwanghae-namdo",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-05",
+            "name": "Hwanghainamto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-06",
+            "name": "Hwanghaipukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-04",
+            "name": "Jakangto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KP-15",
+            "name": "Kaeseong",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KP-15",
+            "name": "Kaesŏng",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-07",
+            "name": "Kangweonto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-07",
+            "name": "Kangwǒn-do",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KP-14",
+            "name": "Nampho",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KP-14",
+            "name": "Namp’o",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-03",
+            "name": "P'yǒngan-bukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-02",
+            "name": "P'yǒngan-namdo",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "capital city",
+            "3166-2_code": "KP-01",
+            "name": "P'yǒngyang",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-02",
+            "name": "Phyeongannamto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-03",
+            "name": "Phyeonganpukto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "capital city",
+            "3166-2_code": "KP-01",
+            "name": "Phyeongyang",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special city",
+            "3166-2_code": "KP-13",
+            "name": "Raseon",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special city",
+            "3166-2_code": "KP-13",
+            "name": "Rasǒn",
+            "local_variant": "Najin Sǒnbong",
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-10",
+            "name": "Ryanggang-do",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "McCune-Reischauer 1939",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KP-10",
+            "name": "Ryangkangto",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "KPS 11080:2002",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ko",
+            "administrative_language_alpha3": "kor",
+            "local_short_name": "Chosŏn"
+        }
+    ]
+}

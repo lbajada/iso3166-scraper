@@ -1,0 +1,309 @@
+{
+    "alpha2_code": "BS",
+    "short_name": "BAHAMAS",
+    "short_name_lower_case": "Bahamas (the)",
+    "full_name": "the Commonwealth of the Bahamas",
+    "alpha3_code": "BHS",
+    "numeric_code": 44,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "BS-AK",
+            "name": "Acklins",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-BY",
+            "name": "Berry Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-BI",
+            "name": "Bimini",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-BP",
+            "name": "Black Point",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-CI",
+            "name": "Cat Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-CO",
+            "name": "Central Abaco",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-CS",
+            "name": "Central Andros",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-CE",
+            "name": "Central Eleuthera",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-FP",
+            "name": "City of Freeport",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-CK",
+            "name": "Crooked Island and Long Cay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-EG",
+            "name": "East Grand Bahama",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-EX",
+            "name": "Exuma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-GC",
+            "name": "Grand Cay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-HI",
+            "name": "Harbour Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-HT",
+            "name": "Hope Town",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-IN",
+            "name": "Inagua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-LI",
+            "name": "Long Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-MC",
+            "name": "Mangrove Cay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-MG",
+            "name": "Mayaguana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-MI",
+            "name": "Moore's Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "BS-NP",
+            "name": "New Providence",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-NO",
+            "name": "North Abaco",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-NS",
+            "name": "North Andros",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-NE",
+            "name": "North Eleuthera",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-RI",
+            "name": "Ragged Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-RC",
+            "name": "Rum Cay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-SS",
+            "name": "San Salvador",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-SO",
+            "name": "South Abaco",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-SA",
+            "name": "South Andros",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-SE",
+            "name": "South Eleuthera",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-SW",
+            "name": "Spanish Wells",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BS-WG",
+            "name": "West Grand Bahama",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Bahamas (the)"
+        }
+    ]
+}

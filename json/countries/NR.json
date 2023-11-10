@@ -1,0 +1,278 @@
+{
+    "alpha2_code": "NR",
+    "short_name": "NAURU",
+    "short_name_lower_case": "Nauru",
+    "full_name": "the Republic of Nauru",
+    "alpha3_code": "NRU",
+    "numeric_code": 520,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "NR-01",
+            "name": "Aiwo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-01",
+            "name": "Aiwo",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-02",
+            "name": "Anabar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-02",
+            "name": "Anabar",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-03",
+            "name": "Anetan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-03",
+            "name": "Anetan",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-04",
+            "name": "Anibare",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-04",
+            "name": "Anibare",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-05",
+            "name": "Baitsi",
+            "local_variant": "Baiti",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-05",
+            "name": "Baitsi",
+            "local_variant": "Baiti",
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-06",
+            "name": "Boe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-06",
+            "name": "Boe",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-07",
+            "name": "Buada",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-07",
+            "name": "Buada",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-08",
+            "name": "Denigomodu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-08",
+            "name": "Denigomodu",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-09",
+            "name": "Ewa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-09",
+            "name": "Ewa",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-10",
+            "name": "Ijuw",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-10",
+            "name": "Ijuw",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-11",
+            "name": "Meneng",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-11",
+            "name": "Meneng",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-12",
+            "name": "Nibok",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-12",
+            "name": "Nibok",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-13",
+            "name": "Uaboe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-13",
+            "name": "Uaboe",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-14",
+            "name": "Yaren",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "NR-14",
+            "name": "Yaren",
+            "local_variant": null,
+            "language_code": "na",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Nauru"
+        },
+        {
+            "administrative_language_alpha2": "na",
+            "administrative_language_alpha3": "nau",
+            "local_short_name": "Naoero"
+        }
+    ]
+}

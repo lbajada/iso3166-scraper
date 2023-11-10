@@ -1,0 +1,139 @@
+{
+    "alpha2_code": "VU",
+    "short_name": "VANUATU",
+    "short_name_lower_case": "Vanuatu",
+    "full_name": "the Republic of Vanuatu",
+    "alpha3_code": "VUT",
+    "numeric_code": 548,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Efate, Santo",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "VU-MAP",
+            "name": "Malampa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-MAP",
+            "name": "Malampa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-PAM",
+            "name": "Pénama",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-PAM",
+            "name": "Pénama",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-SAM",
+            "name": "Sanma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-SAM",
+            "name": "Sanma",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-SEE",
+            "name": "Shéfa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-SEE",
+            "name": "Shéfa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-TAE",
+            "name": "Taféa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-TAE",
+            "name": "Taféa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-TOB",
+            "name": "Torba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VU-TOB",
+            "name": "Torba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "bi",
+            "administrative_language_alpha3": "bis",
+            "local_short_name": "Vanuatu"
+        },
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Vanuatu"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Vanuatu (le)"
+        }
+    ]
+}

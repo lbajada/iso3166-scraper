@@ -1,0 +1,309 @@
+{
+    "alpha2_code": "PS",
+    "short_name": "PALESTINE, STATE OF",
+    "short_name_lower_case": "Palestine, State of",
+    "full_name": "the State of Palestine",
+    "alpha3_code": "PSE",
+    "numeric_code": 275,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-HBN",
+            "name": "Al Khalīl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JEM",
+            "name": "Al Quds",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JRH",
+            "name": "Arīḩā wal Aghwār",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-BTH",
+            "name": "Bayt Laḩm",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-BTH",
+            "name": "Bethlehem",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-DEB",
+            "name": "Dayr al Balaḩ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-DEB",
+            "name": "Deir El Balah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-GZA",
+            "name": "Gaza",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-GZA",
+            "name": "Ghazzah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-HBN",
+            "name": "Hebron",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JEN",
+            "name": "Janīn",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JEN",
+            "name": "Jenin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JRH",
+            "name": "Jericho and Al Aghwar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-JEM",
+            "name": "Jerusalem",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-KYS",
+            "name": "Khan Yunis",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-KYS",
+            "name": "Khān Yūnis",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-NBS",
+            "name": "Nablus",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-NGZ",
+            "name": "North Gaza",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-NBS",
+            "name": "Nāblus",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-QQA",
+            "name": "Qalqilya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-QQA",
+            "name": "Qalqīlyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-RFH",
+            "name": "Rafah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-RFH",
+            "name": "Rafaḩ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-RBH",
+            "name": "Ramallah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-RBH",
+            "name": "Rām Allāh wal Bīrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-SLT",
+            "name": "Salfit",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-SLT",
+            "name": "Salfīt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-NGZ",
+            "name": "Shamāl Ghazzah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-TBS",
+            "name": "Tubas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-TKM",
+            "name": "Tulkarm",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-TBS",
+            "name": "Ţūbās",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "PS-TKM",
+            "name": "Ţūlkarm",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Dawlat Filasţīn"
+        }
+    ]
+}

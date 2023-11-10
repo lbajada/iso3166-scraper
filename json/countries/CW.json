@@ -1,0 +1,30 @@
+{
+    "alpha2_code": "CW",
+    "short_name": "CURAÇAO",
+    "short_name_lower_case": "Curaçao",
+    "full_name": null,
+    "alpha3_code": "CUW",
+    "numeric_code": 531,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Curaçao"
+        },
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "Curaçao"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "pap",
+            "local_short_name": "Kòrsou"
+        }
+    ]
+}

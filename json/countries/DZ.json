@@ -1,0 +1,543 @@
+{
+    "alpha2_code": "DZ",
+    "short_name": "ALGERIA",
+    "short_name_lower_case": "Algeria",
+    "full_name": "the People's Democratic Republic of Algeria",
+    "alpha3_code": "DZA",
+    "numeric_code": 12,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "DZ-01",
+            "name": "Adrar",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-16",
+            "name": "Alger",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-23",
+            "name": "Annaba",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-44",
+            "name": "Aïn Defla",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-46",
+            "name": "Aïn Témouchent",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-05",
+            "name": "Batna",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-07",
+            "name": "Biskra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-09",
+            "name": "Blida",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-50",
+            "name": "Bordj Badji Mokhtar",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-34",
+            "name": "Bordj Bou Arréridj",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-10",
+            "name": "Bouira",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-35",
+            "name": "Boumerdès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-08",
+            "name": "Béchar",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-06",
+            "name": "Béjaïa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-52",
+            "name": "Béni Abbès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-02",
+            "name": "Chlef",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-25",
+            "name": "Constantine",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-56",
+            "name": "Djanet",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-17",
+            "name": "Djelfa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-32",
+            "name": "El Bayadh",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-57",
+            "name": "El Meghaier",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-58",
+            "name": "El Meniaa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-39",
+            "name": "El Oued",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-36",
+            "name": "El Tarf",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-47",
+            "name": "Ghardaïa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-24",
+            "name": "Guelma",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-33",
+            "name": "Illizi",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-54",
+            "name": "In Guezzam",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-53",
+            "name": "In Salah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-18",
+            "name": "Jijel",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-40",
+            "name": "Khenchela",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-03",
+            "name": "Laghouat",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-28",
+            "name": "M'sila",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-29",
+            "name": "Mascara",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-43",
+            "name": "Mila",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-27",
+            "name": "Mostaganem",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-26",
+            "name": "Médéa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-45",
+            "name": "Naama",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-31",
+            "name": "Oran",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-30",
+            "name": "Ouargla",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-51",
+            "name": "Ouled Djellal",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-04",
+            "name": "Oum el Bouaghi",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-48",
+            "name": "Relizane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-20",
+            "name": "Saïda",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-22",
+            "name": "Sidi Bel Abbès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-21",
+            "name": "Skikda",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-41",
+            "name": "Souk Ahras",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-19",
+            "name": "Sétif",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-11",
+            "name": "Tamanrasset",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-14",
+            "name": "Tiaret",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-49",
+            "name": "Timimoun",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-37",
+            "name": "Tindouf",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-42",
+            "name": "Tipaza",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-38",
+            "name": "Tissemsilt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-15",
+            "name": "Tizi Ouzou",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-13",
+            "name": "Tlemcen",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-55",
+            "name": "Touggourt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DZ-12",
+            "name": "Tébessa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Jazā'ir"
+        }
+    ]
+}

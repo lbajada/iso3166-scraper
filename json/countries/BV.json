@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "BV",
+    "short_name": "BOUVET ISLAND",
+    "short_name_lower_case": "Bouvet Island",
+    "full_name": null,
+    "alpha3_code": "BVT",
+    "numeric_code": 74,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nn",
+            "administrative_language_alpha3": "nno",
+            "local_short_name": "Bouvetøya"
+        },
+        {
+            "administrative_language_alpha2": "nb",
+            "administrative_language_alpha3": "nob",
+            "local_short_name": "Bouvetøya"
+        }
+    ]
+}

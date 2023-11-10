@@ -1,0 +1,264 @@
+{
+    "alpha2_code": "EG",
+    "short_name": "EGYPT",
+    "short_name_lower_case": "Egypt",
+    "full_name": "the Arab Republic of Egypt",
+    "alpha3_code": "EGY",
+    "numeric_code": 818,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-DK",
+            "name": "Ad Daqahlīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-BA",
+            "name": "Al Baḩr al Aḩmar",
+            "local_variant": "Red Sea",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-BH",
+            "name": "Al Buḩayrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-FYM",
+            "name": "Al Fayyūm",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-GH",
+            "name": "Al Gharbīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-ALX",
+            "name": "Al Iskandarīyah",
+            "local_variant": "Alexandria",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-IS",
+            "name": "Al Ismā'īlīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-GZ",
+            "name": "Al Jīzah",
+            "local_variant": "Giza",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-MN",
+            "name": "Al Minyā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-MNF",
+            "name": "Al Minūfīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-KB",
+            "name": "Al Qalyūbīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-C",
+            "name": "Al Qāhirah",
+            "local_variant": "Cairo",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-LX",
+            "name": "Al Uqşur",
+            "local_variant": "Luxor",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-WAD",
+            "name": "Al Wādī al Jadīd",
+            "local_variant": "New Valley",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-SUZ",
+            "name": "As Suways",
+            "local_variant": "Suez",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-SHR",
+            "name": "Ash Sharqīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-ASN",
+            "name": "Aswān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-AST",
+            "name": "Asyūţ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-BNS",
+            "name": "Banī Suwayf",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-PTS",
+            "name": "Būr Sa‘īd",
+            "local_variant": "Port Said",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-DT",
+            "name": "Dumyāţ",
+            "local_variant": "Damietta",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-JS",
+            "name": "Janūb Sīnā'",
+            "local_variant": "South Sinai",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-KFS",
+            "name": "Kafr ash Shaykh",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-MT",
+            "name": "Maţrūḩ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-KN",
+            "name": "Qinā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-SIN",
+            "name": "Shamāl Sīnā'",
+            "local_variant": "North Sinai",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "EG-SHG",
+            "name": "Sūhāj",
+            "local_variant": "Sohag",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Mişr"
+        }
+    ]
+}

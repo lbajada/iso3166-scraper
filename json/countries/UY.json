@@ -1,0 +1,192 @@
+{
+    "alpha2_code": "UY",
+    "short_name": "URUGUAY",
+    "short_name_lower_case": "Uruguay",
+    "full_name": "the Eastern Republic of Uruguay",
+    "alpha3_code": "URY",
+    "numeric_code": 858,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "UY-AR",
+            "name": "Artigas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-CA",
+            "name": "Canelones",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-CL",
+            "name": "Cerro Largo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-CO",
+            "name": "Colonia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-DU",
+            "name": "Durazno",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-FS",
+            "name": "Flores",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-FD",
+            "name": "Florida",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-LA",
+            "name": "Lavalleja",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-MA",
+            "name": "Maldonado",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-MO",
+            "name": "Montevideo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-PA",
+            "name": "Paysandú",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-RV",
+            "name": "Rivera",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-RO",
+            "name": "Rocha",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-RN",
+            "name": "Río Negro",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-SA",
+            "name": "Salto",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-SJ",
+            "name": "San José",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-SO",
+            "name": "Soriano",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-TA",
+            "name": "Tacuarembó",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "UY-TT",
+            "name": "Treinta y Tres",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Uruguay (el)"
+        }
+    ]
+}

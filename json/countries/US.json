@@ -1,0 +1,534 @@
+{
+    "alpha2_code": "US",
+    "short_name": "UNITED STATES OF AMERICA",
+    "short_name_lower_case": "United States of America (the)",
+    "full_name": "the United States of America",
+    "alpha3_code": "USA",
+    "numeric_code": 840,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "state",
+            "3166-2_code": "US-AL",
+            "name": "Alabama",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-AK",
+            "name": "Alaska",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-AS",
+            "name": "American Samoa (see also separate country code entry under AS)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-AZ",
+            "name": "Arizona",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-AR",
+            "name": "Arkansas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-CA",
+            "name": "California",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-CO",
+            "name": "Colorado",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-CT",
+            "name": "Connecticut",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-DE",
+            "name": "Delaware",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "US-DC",
+            "name": "District of Columbia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-FL",
+            "name": "Florida",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-GA",
+            "name": "Georgia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-GU",
+            "name": "Guam (see also separate country code entry under GU)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-HI",
+            "name": "Hawaii",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-ID",
+            "name": "Idaho",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-IL",
+            "name": "Illinois",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-IN",
+            "name": "Indiana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-IA",
+            "name": "Iowa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-KS",
+            "name": "Kansas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-KY",
+            "name": "Kentucky",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-LA",
+            "name": "Louisiana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-ME",
+            "name": "Maine",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MD",
+            "name": "Maryland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MA",
+            "name": "Massachusetts",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MI",
+            "name": "Michigan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MN",
+            "name": "Minnesota",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MS",
+            "name": "Mississippi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MO",
+            "name": "Missouri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-MT",
+            "name": "Montana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NE",
+            "name": "Nebraska",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NV",
+            "name": "Nevada",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NH",
+            "name": "New Hampshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NJ",
+            "name": "New Jersey",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NM",
+            "name": "New Mexico",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NY",
+            "name": "New York",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-NC",
+            "name": "North Carolina",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-ND",
+            "name": "North Dakota",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-MP",
+            "name": "Northern Mariana Islands (see also separate country code entry under MP)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-OH",
+            "name": "Ohio",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-OK",
+            "name": "Oklahoma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-OR",
+            "name": "Oregon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-PA",
+            "name": "Pennsylvania",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-PR",
+            "name": "Puerto Rico (see also separate country code entry under PR)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-RI",
+            "name": "Rhode Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-SC",
+            "name": "South Carolina",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-SD",
+            "name": "South Dakota",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-TN",
+            "name": "Tennessee",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-TX",
+            "name": "Texas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-UM",
+            "name": "United States Minor Outlying Islands (see also separate country code entry under UM)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-UT",
+            "name": "Utah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-VT",
+            "name": "Vermont",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "outlying area",
+            "3166-2_code": "US-VI",
+            "name": "Virgin Islands, U.S. (see also separate country code entry under VI)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-VA",
+            "name": "Virginia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-WA",
+            "name": "Washington",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-WV",
+            "name": "West Virginia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-WI",
+            "name": "Wisconsin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "US-WY",
+            "name": "Wyoming",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "United States of America (the)"
+        }
+    ]
+}

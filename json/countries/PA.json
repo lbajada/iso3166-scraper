@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "PA",
+    "short_name": "PANAMA",
+    "short_name_lower_case": "Panama",
+    "full_name": "the Republic of Panama",
+    "alpha3_code": "PAN",
+    "numeric_code": 591,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "PA-1",
+            "name": "Bocas del Toro",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-4",
+            "name": "Chiriquí",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-2",
+            "name": "Coclé",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-3",
+            "name": "Colón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-5",
+            "name": "Darién",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "indigenous region",
+            "3166-2_code": "PA-EM",
+            "name": "Emberá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "indigenous region",
+            "3166-2_code": "PA-KY",
+            "name": "Guna Yala",
+            "local_variant": "Kuna Yala",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-6",
+            "name": "Herrera",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-7",
+            "name": "Los Santos",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "indigenous region",
+            "3166-2_code": "PA-NT",
+            "name": "Naso Tjër Di",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "indigenous region",
+            "3166-2_code": "PA-NB",
+            "name": "Ngäbe-Buglé",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-8",
+            "name": "Panamá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-10",
+            "name": "Panamá Oeste",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PA-9",
+            "name": "Veraguas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Panamá"
+        }
+    ]
+}

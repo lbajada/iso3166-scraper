@@ -1,0 +1,399 @@
+{
+    "alpha2_code": "RO",
+    "short_name": "ROMANIA",
+    "short_name_lower_case": "Romania",
+    "full_name": null,
+    "alpha3_code": "ROU",
+    "numeric_code": 642,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "RO-AB",
+            "name": "Alba",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-AR",
+            "name": "Arad",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-AG",
+            "name": "Argeș",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BC",
+            "name": "Bacău",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BH",
+            "name": "Bihor",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BN",
+            "name": "Bistrița-Năsăud",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BT",
+            "name": "Botoșani",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BV",
+            "name": "Brașov",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BR",
+            "name": "Brăila",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "RO-B",
+            "name": "București",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-BZ",
+            "name": "Buzău",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-CS",
+            "name": "Caraș-Severin",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-CJ",
+            "name": "Cluj",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-CT",
+            "name": "Constanța",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-CV",
+            "name": "Covasna",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-CL",
+            "name": "Călărași",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-DJ",
+            "name": "Dolj",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-DB",
+            "name": "Dâmbovița",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-GL",
+            "name": "Galați",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-GR",
+            "name": "Giurgiu",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-GJ",
+            "name": "Gorj",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-HR",
+            "name": "Harghita",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-HD",
+            "name": "Hunedoara",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-IL",
+            "name": "Ialomița",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-IS",
+            "name": "Iași",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-IF",
+            "name": "Ilfov",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-MM",
+            "name": "Maramureș",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-MH",
+            "name": "Mehedinți",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-MS",
+            "name": "Mureș",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-NT",
+            "name": "Neamț",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-OT",
+            "name": "Olt",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-PH",
+            "name": "Prahova",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-SM",
+            "name": "Satu Mare",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-SB",
+            "name": "Sibiu",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-SV",
+            "name": "Suceava",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-SJ",
+            "name": "Sălaj",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-TR",
+            "name": "Teleorman",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-TM",
+            "name": "Timiș",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-TL",
+            "name": "Tulcea",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-VS",
+            "name": "Vaslui",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-VN",
+            "name": "Vrancea",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "RO-VL",
+            "name": "Vâlcea",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ro",
+            "administrative_language_alpha3": "ron",
+            "local_short_name": "România"
+        }
+    ]
+}

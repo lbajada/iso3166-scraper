@@ -1,0 +1,197 @@
+{
+    "alpha2_code": "FJ",
+    "short_name": "FIJI",
+    "short_name_lower_case": "Fiji",
+    "full_name": "the Republic of Fiji",
+    "alpha3_code": "FJI",
+    "numeric_code": 242,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Rotuma Island, Vanua Levu, Viti Levu",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "FJ-01",
+            "name": "Ba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-W"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-02",
+            "name": "Bua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-N"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-03",
+            "name": "Cakaudrove",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-N"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "FJ-C",
+            "name": "Central",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "FJ-E",
+            "name": "Eastern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-04",
+            "name": "Kadavu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-E"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-05",
+            "name": "Lau",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-E"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-06",
+            "name": "Lomaiviti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-E"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-07",
+            "name": "Macuata",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-N"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-08",
+            "name": "Nadroga and Navosa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-W"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-09",
+            "name": "Naitasiri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-10",
+            "name": "Namosi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-C"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "FJ-N",
+            "name": "Northern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-11",
+            "name": "Ra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-W"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-12",
+            "name": "Rewa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-C"
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "FJ-R",
+            "name": "Rotuma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-13",
+            "name": "Serua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "FJ-14",
+            "name": "Tailevu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "FJ-C"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "FJ-W",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Fiji"
+        },
+        {
+            "administrative_language_alpha2": "fj",
+            "administrative_language_alpha3": "fij",
+            "local_short_name": "Viti"
+        }
+    ]
+}

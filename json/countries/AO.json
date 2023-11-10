@@ -1,0 +1,183 @@
+{
+    "alpha2_code": "AO",
+    "short_name": "ANGOLA",
+    "short_name_lower_case": "Angola",
+    "full_name": "the Republic of Angola",
+    "alpha3_code": "AGO",
+    "numeric_code": 24,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Cabinda",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "AO-BGO",
+            "name": "Bengo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-BGU",
+            "name": "Benguela",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-BIE",
+            "name": "Bié",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-CAB",
+            "name": "Cabinda",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-CCU",
+            "name": "Cuando Cubango",
+            "local_variant": "Kuando Kubango",
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-CNO",
+            "name": "Cuanza-Norte",
+            "local_variant": "Kwanza Norte",
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-CUS",
+            "name": "Cuanza-Sul",
+            "local_variant": "Kwanza Sul",
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-CNN",
+            "name": "Cunene",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-HUA",
+            "name": "Huambo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-HUI",
+            "name": "Huíla",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-LUA",
+            "name": "Luanda",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-LNO",
+            "name": "Lunda-Norte",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-LSU",
+            "name": "Lunda-Sul",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-MAL",
+            "name": "Malange",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-MOX",
+            "name": "Moxico",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-NAM",
+            "name": "Namibe",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-UIG",
+            "name": "Uíge",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AO-ZAI",
+            "name": "Zaire",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Angola"
+        }
+    ]
+}

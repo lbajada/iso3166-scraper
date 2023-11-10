@@ -1,0 +1,120 @@
+{
+    "alpha2_code": "AM",
+    "short_name": "ARMENIA",
+    "short_name_lower_case": "Armenia",
+    "full_name": "the Republic of Armenia",
+    "alpha3_code": "ARM",
+    "numeric_code": 51,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "AM-AG",
+            "name": "Aragac̣otn",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-AR",
+            "name": "Ararat",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-AV",
+            "name": "Armavir",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "AM-ER",
+            "name": "Erevan",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-GR",
+            "name": "Geġark'unik'",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-KT",
+            "name": "Kotayk'",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-LO",
+            "name": "Loṙi",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-SU",
+            "name": "Syunik'",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-TV",
+            "name": "Tavuš",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-VD",
+            "name": "Vayoć Jor",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "AM-SH",
+            "name": "Širak",
+            "local_variant": null,
+            "language_code": "hy",
+            "romanization_system": "ISO 9985:1996",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "hy",
+            "administrative_language_alpha3": "hye",
+            "local_short_name": "Hayastan"
+        }
+    ]
+}

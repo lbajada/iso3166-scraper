@@ -1,0 +1,669 @@
+{
+    "alpha2_code": "BD",
+    "short_name": "BANGLADESH",
+    "short_name_lower_case": "Bangladesh",
+    "full_name": "the People's Republic of Bangladesh",
+    "alpha3_code": "BGD",
+    "numeric_code": 50,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "BD-05",
+            "name": "Bagerhat",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-01",
+            "name": "Bandarban",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-02",
+            "name": "Barguna",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-A",
+            "name": "Barishal",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-06",
+            "name": "Barishal",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-07",
+            "name": "Bhola",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-03",
+            "name": "Bogura",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-04",
+            "name": "Brahmanbaria",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-09",
+            "name": "Chandpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-45",
+            "name": "Chapai Nawabganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-B",
+            "name": "Chattogram",
+            "local_variant": "Chittagong",
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-10",
+            "name": "Chattogram",
+            "local_variant": "Chittagong",
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-12",
+            "name": "Chuadanga",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-11",
+            "name": "Cox's Bazar",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-08",
+            "name": "Cumilla",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-C",
+            "name": "Dhaka",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-13",
+            "name": "Dhaka",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-14",
+            "name": "Dinajpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-15",
+            "name": "Faridpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-16",
+            "name": "Feni",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-19",
+            "name": "Gaibandha",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-18",
+            "name": "Gazipur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-17",
+            "name": "Gopalganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-20",
+            "name": "Habiganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-G"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-21",
+            "name": "Jamalpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-H"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-22",
+            "name": "Jashore",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-25",
+            "name": "Jhalakathi",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-23",
+            "name": "Jhenaidah",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-24",
+            "name": "Joypurhat",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-29",
+            "name": "Khagrachhari",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-D",
+            "name": "Khulna",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-27",
+            "name": "Khulna",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-26",
+            "name": "Kishoreganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-28",
+            "name": "Kurigram",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-30",
+            "name": "Kushtia",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-31",
+            "name": "Lakshmipur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-32",
+            "name": "Lalmonirhat",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-36",
+            "name": "Madaripur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-37",
+            "name": "Magura",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-33",
+            "name": "Manikganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-39",
+            "name": "Meherpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-38",
+            "name": "Moulvibazar",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-G"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-35",
+            "name": "Munshiganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-H",
+            "name": "Mymensingh",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-34",
+            "name": "Mymensingh",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-H"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-48",
+            "name": "Naogaon",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-43",
+            "name": "Narail",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-40",
+            "name": "Narayanganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-42",
+            "name": "Narsingdi",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-44",
+            "name": "Natore",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-41",
+            "name": "Netrakona",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-H"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-46",
+            "name": "Nilphamari",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-47",
+            "name": "Noakhali",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-49",
+            "name": "Pabna",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-52",
+            "name": "Panchagarh",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-51",
+            "name": "Patuakhali",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-50",
+            "name": "Pirojpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-A"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-53",
+            "name": "Rajbari",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-E",
+            "name": "Rajshahi",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-54",
+            "name": "Rajshahi",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-56",
+            "name": "Rangamati",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-B"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-F",
+            "name": "Rangpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-55",
+            "name": "Rangpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-58",
+            "name": "Satkhira",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-D"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-62",
+            "name": "Shariatpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-57",
+            "name": "Sherpur",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-H"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-59",
+            "name": "Sirajganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-61",
+            "name": "Sunamganj",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-G"
+        },
+        {
+            "category": "division",
+            "3166-2_code": "BD-G",
+            "name": "Sylhet",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-60",
+            "name": "Sylhet",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-G"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-63",
+            "name": "Tangail",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BD-64",
+            "name": "Thakurgaon",
+            "local_variant": null,
+            "language_code": "bn",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "BD-F"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "bn",
+            "administrative_language_alpha3": "ben",
+            "local_short_name": "Bāṁlādesh"
+        }
+    ]
+}

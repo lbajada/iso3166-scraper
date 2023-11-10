@@ -1,0 +1,323 @@
+{
+    "alpha2_code": "NZ",
+    "short_name": "NEW ZEALAND",
+    "short_name_lower_case": "New Zealand",
+    "full_name": null,
+    "alpha3_code": "NZL",
+    "numeric_code": 554,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Antipodes Islands, Auckland Islands, Campbell Island, Chatham Islands, Kermadec Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "NZ-AUK",
+            "name": "Auckland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-BOP",
+            "name": "Bay of Plenty",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-CAN",
+            "name": "Canterbury",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special island authority",
+            "3166-2_code": "NZ-CIT",
+            "name": "Chatham Islands Territory",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-GIS",
+            "name": "Gisborne",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WGN",
+            "name": "Greater Wellington",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-HKB",
+            "name": "Hawke's Bay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-MWT",
+            "name": "Manawatū Whanganui",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-MWT",
+            "name": "Manawatū-Whanganui",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-MBH",
+            "name": "Marlborough",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-NSN",
+            "name": "Nelson",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-NTL",
+            "name": "Northland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-OTA",
+            "name": "Otago",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-STL",
+            "name": "Southland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-TKI",
+            "name": "Taranaki",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-TKI",
+            "name": "Taranaki",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-TAS",
+            "name": "Tasman",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-HKB",
+            "name": "Te Matau-a-Māui",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WGN",
+            "name": "Te Pane Matua Taiao",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WTC",
+            "name": "Te Tai o Poutini",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-STL",
+            "name": "Te Taiao Tonga",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-GIS",
+            "name": "Te Tairāwhiti",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-NTL",
+            "name": "Te Taitokerau",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-TAS",
+            "name": "Te tai o Aorere",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-BOP",
+            "name": "Toi Moana",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-AUK",
+            "name": "Tāmaki -Makaurau",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WKO",
+            "name": "Waikato",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WKO",
+            "name": "Waikato",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-CAN",
+            "name": "Waitaha",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-WTC",
+            "name": "West Coast",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-NSN",
+            "name": "Whakatū",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special island authority",
+            "3166-2_code": "NZ-CIT",
+            "name": "Wharekauri",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "NZ-OTA",
+            "name": "Ō Tākou",
+            "local_variant": null,
+            "language_code": "mi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "New Zealand"
+        },
+        {
+            "administrative_language_alpha2": "mi",
+            "administrative_language_alpha3": "mri",
+            "local_short_name": "Aotearoa"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "alpha2_code": "AT",
+    "short_name": "AUSTRIA",
+    "short_name_lower_case": "Austria",
+    "full_name": "the Republic of Austria",
+    "alpha3_code": "AUT",
+    "numeric_code": 40,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "state",
+            "3166-2_code": "AT-1",
+            "name": "Burgenland",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-2",
+            "name": "Kärnten",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-3",
+            "name": "Niederösterreich",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-4",
+            "name": "Oberösterreich",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-5",
+            "name": "Salzburg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-6",
+            "name": "Steiermark",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-7",
+            "name": "Tirol",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-8",
+            "name": "Vorarlberg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AT-9",
+            "name": "Wien",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Österreich"
+        }
+    ]
+}

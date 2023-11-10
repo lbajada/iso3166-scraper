@@ -1,0 +1,129 @@
+{
+    "alpha2_code": "GW",
+    "short_name": "GUINEA-BISSAU",
+    "short_name_lower_case": "Guinea-Bissau",
+    "full_name": "the Republic of Guinea-Bissau",
+    "alpha3_code": "GNB",
+    "numeric_code": 624,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "GW-BA",
+            "name": "Bafatá",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-L"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-BM",
+            "name": "Biombo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-N"
+        },
+        {
+            "category": "autonomous sector",
+            "3166-2_code": "GW-BS",
+            "name": "Bissau",
+            "local_variant": "SAB",
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-BL",
+            "name": "Bolama / Bijagós",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-S"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-CA",
+            "name": "Cacheu",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-N"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-GA",
+            "name": "Gabú",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-L"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GW-L",
+            "name": "Leste",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GW-N",
+            "name": "Norte",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-OI",
+            "name": "Oio",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-N"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-QU",
+            "name": "Quinara",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-S"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GW-S",
+            "name": "Sul",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GW-TO",
+            "name": "Tombali",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GW-S"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Guiné-Bissau (a)"
+        }
+    ]
+}

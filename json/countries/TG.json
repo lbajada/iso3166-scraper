@@ -1,0 +1,66 @@
+{
+    "alpha2_code": "TG",
+    "short_name": "TOGO",
+    "short_name_lower_case": "Togo",
+    "full_name": "the Togolese Republic",
+    "alpha3_code": "TGO",
+    "numeric_code": 768,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "TG-C",
+            "name": "Centrale",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TG-K",
+            "name": "Kara",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TG-M",
+            "name": "Maritime (Région)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TG-P",
+            "name": "Plateaux",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TG-S",
+            "name": "Savanes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Togo (le)"
+        }
+    ]
+}

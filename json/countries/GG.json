@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "GG",
+    "short_name": "GUERNSEY",
+    "short_name_lower_case": "Guernsey",
+    "full_name": null,
+    "alpha3_code": "GGY",
+    "numeric_code": 831,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Alderney Island  , Brecqhou Island , Burhou Island, Sark Island , Herm Island, Jethou Island, Lihou Island, Little Sark Island",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Guernsey"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Guernesey"
+        }
+    ]
+}

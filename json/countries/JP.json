@@ -1,0 +1,651 @@
+{
+    "alpha2_code": "JP",
+    "short_name": "JAPAN",
+    "short_name_lower_case": "Japan",
+    "full_name": null,
+    "alpha3_code": "JPN",
+    "numeric_code": 392,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-23",
+            "name": "Aichi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-23",
+            "name": "Aiti",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-05",
+            "name": "Akita",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-02",
+            "name": "Aomori",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-12",
+            "name": "Chiba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-38",
+            "name": "Ehime",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-18",
+            "name": "Fukui",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-40",
+            "name": "Fukuoka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-07",
+            "name": "Fukushima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-21",
+            "name": "Gifu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-21",
+            "name": "Gihu",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-10",
+            "name": "Gunma",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-34",
+            "name": "Hiroshima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-34",
+            "name": "Hirosima",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-01",
+            "name": "Hokkaido",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-01",
+            "name": "Hokkaidô",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-18",
+            "name": "Hukui",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-40",
+            "name": "Hukuoka",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-07",
+            "name": "Hukusima",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-28",
+            "name": "Hyogo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-28",
+            "name": "Hyôgo",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-08",
+            "name": "Ibaraki",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-17",
+            "name": "Ishikawa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-17",
+            "name": "Isikawa",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-03",
+            "name": "Iwate",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-37",
+            "name": "Kagawa",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-46",
+            "name": "Kagoshima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-46",
+            "name": "Kagosima",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-14",
+            "name": "Kanagawa",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-39",
+            "name": "Kochi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-43",
+            "name": "Kumamoto",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-26",
+            "name": "Kyoto",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-26",
+            "name": "Kyôto",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-39",
+            "name": "Kôti",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-24",
+            "name": "Mie",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-04",
+            "name": "Miyagi",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-45",
+            "name": "Miyazaki",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-20",
+            "name": "Nagano",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-42",
+            "name": "Nagasaki",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-29",
+            "name": "Nara",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-15",
+            "name": "Niigata",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-44",
+            "name": "Oita",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-33",
+            "name": "Okayama",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-47",
+            "name": "Okinawa",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-27",
+            "name": "Osaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-41",
+            "name": "Saga",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-11",
+            "name": "Saitama",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-25",
+            "name": "Shiga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-32",
+            "name": "Shimane",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-22",
+            "name": "Shizuoka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-25",
+            "name": "Siga",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-32",
+            "name": "Simane",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-22",
+            "name": "Sizuoka",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-12",
+            "name": "Tiba",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-09",
+            "name": "Tochigi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-36",
+            "name": "Tokushima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-36",
+            "name": "Tokusima",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-13",
+            "name": "Tokyo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-09",
+            "name": "Totigi",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-31",
+            "name": "Tottori",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-16",
+            "name": "Toyama",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-13",
+            "name": "Tôkyô",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-30",
+            "name": "Wakayama",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-06",
+            "name": "Yamagata",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-35",
+            "name": "Yamaguchi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-35",
+            "name": "Yamaguti",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-19",
+            "name": "Yamanashi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-19",
+            "name": "Yamanasi",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-44",
+            "name": "Ôita",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "JP-27",
+            "name": "Ôsaka",
+            "local_variant": null,
+            "language_code": "ja",
+            "romanization_system": "ISO 3602:1989",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ja",
+            "administrative_language_alpha3": "jpn",
+            "local_short_name": "Nihon/Nippon"
+        }
+    ]
+}

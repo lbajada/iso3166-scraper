@@ -1,0 +1,85 @@
+{
+    "alpha2_code": "MG",
+    "short_name": "MADAGASCAR",
+    "short_name_lower_case": "Madagascar",
+    "full_name": "the Republic of Madagascar",
+    "alpha3_code": "MDG",
+    "numeric_code": 450,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "MG-T",
+            "name": "Antananarivo",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MG-D",
+            "name": "Antsiranana",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MG-F",
+            "name": "Fianarantsoa",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MG-M",
+            "name": "Mahajanga",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MG-A",
+            "name": "Toamasina",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MG-U",
+            "name": "Toliara",
+            "local_variant": null,
+            "language_code": "mg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Madagascar"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Madagascar"
+        },
+        {
+            "administrative_language_alpha2": "mg",
+            "administrative_language_alpha3": "mlg",
+            "local_short_name": "Madagasikara"
+        }
+    ]
+}

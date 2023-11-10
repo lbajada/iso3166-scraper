@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "LB",
+    "short_name": "LEBANON",
+    "short_name_lower_case": "Lebanon",
+    "full_name": "the Lebanese Republic",
+    "alpha3_code": "LBN",
+    "numeric_code": 422,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-AK",
+            "name": "Aakkâr",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BI",
+            "name": "Al Biqā‘",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-JA",
+            "name": "Al Janūb",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-NA",
+            "name": "An Nabaţīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-AS",
+            "name": "Ash Shimāl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BH",
+            "name": "Baalbek-Hermel",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BA",
+            "name": "Bayrūt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BA",
+            "name": "Beyrouth",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BI",
+            "name": "Béqaa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-BH",
+            "name": "B‘alabak-Al Hirmil",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-JL",
+            "name": "Jabal Lubnān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-AS",
+            "name": "Liban-Nord",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-JA",
+            "name": "Liban-Sud",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-JL",
+            "name": "Mont-Liban",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-NA",
+            "name": "Nabatîyé",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "LB-AK",
+            "name": "‘Akkār",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Lubnān"
+        }
+    ]
+}

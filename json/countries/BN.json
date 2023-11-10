@@ -1,0 +1,98 @@
+{
+    "alpha2_code": "BN",
+    "short_name": "BRUNEI DARUSSALAM",
+    "short_name_lower_case": "Brunei Darussalam",
+    "full_name": null,
+    "alpha3_code": "BRN",
+    "numeric_code": 96,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "BN-BE",
+            "name": "Belait",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-BE",
+            "name": "Belait",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-BM",
+            "name": "Brunei dan Muara",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-BM",
+            "name": "Brunei-Muara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-TE",
+            "name": "Temburong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-TE",
+            "name": "Temburong",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-TU",
+            "name": "Tutong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BN-TU",
+            "name": "Tutong",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Brunei Darussalam"
+        },
+        {
+            "administrative_language_alpha2": "ms",
+            "administrative_language_alpha3": "msa",
+            "local_short_name": "Negara Brunei Darussalam"
+        }
+    ]
+}

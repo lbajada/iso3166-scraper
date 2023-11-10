@@ -1,0 +1,269 @@
+{
+    "alpha2_code": "KG",
+    "short_name": "KYRGYZSTAN",
+    "short_name_lower_case": "Kyrgyzstan",
+    "full_name": "the Kyrgyz Republic",
+    "alpha3_code": "KGZ",
+    "numeric_code": 417,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "KG-B",
+            "name": "Batken",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-B",
+            "name": "Batkenskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-B",
+            "name": "Batkenskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GB",
+            "name": "Bishkek Shaary",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-C",
+            "name": "Chuyskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-C",
+            "name": "Chüy",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-J",
+            "name": "Dzhalal-Abadskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-J",
+            "name": "Džalal-Abadskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GB",
+            "name": "Gorod Bishkek",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GB",
+            "name": "Gorod Biškek",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GO",
+            "name": "Gorod Osh",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GO",
+            "name": "Gorod Oš",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-Y",
+            "name": "Issyk-Kul'skaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-Y",
+            "name": "Issyk-Kul'skaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-J",
+            "name": "Jalal-Abad",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-N",
+            "name": "Naryn",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-N",
+            "name": "Narynskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-N",
+            "name": "Narynskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-O",
+            "name": "Osh",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KG-GO",
+            "name": "Osh Shaary",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-O",
+            "name": "Oshskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-O",
+            "name": "Ošskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-T",
+            "name": "Talas",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-T",
+            "name": "Talasskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-T",
+            "name": "Talasskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-Y",
+            "name": "Ysyk-Köl",
+            "local_variant": null,
+            "language_code": "ky",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KG-C",
+            "name": "Čujskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ky",
+            "administrative_language_alpha3": "kir",
+            "local_short_name": "Kyrgyzstan"
+        },
+        {
+            "administrative_language_alpha2": "ru",
+            "administrative_language_alpha3": "rus",
+            "local_short_name": "Kyrgyzstan"
+        }
+    ]
+}

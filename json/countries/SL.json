@@ -1,0 +1,66 @@
+{
+    "alpha2_code": "SL",
+    "short_name": "SIERRA LEONE",
+    "short_name_lower_case": "Sierra Leone",
+    "full_name": "the Republic of Sierra Leone",
+    "alpha3_code": "SLE",
+    "numeric_code": 694,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "SL-E",
+            "name": "Eastern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SL-NW",
+            "name": "North Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SL-N",
+            "name": "Northern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SL-S",
+            "name": "Southern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "area",
+            "3166-2_code": "SL-W",
+            "name": "Western Area (Freetown)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Sierra Leone"
+        }
+    ]
+}

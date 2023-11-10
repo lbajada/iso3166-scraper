@@ -1,0 +1,350 @@
+{
+    "alpha2_code": "IN",
+    "short_name": "INDIA",
+    "short_name_lower_case": "India",
+    "full_name": "the Republic of India",
+    "alpha3_code": "IND",
+    "numeric_code": 356,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Andaman Islands, Laccadive Islands , Minicoy Island, Nicobar Islands, Amindivi Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-AN",
+            "name": "Andaman and Nicobar Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-AP",
+            "name": "Andhra Pradesh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-AR",
+            "name": "Arunāchal Pradesh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-AS",
+            "name": "Assam",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-BR",
+            "name": "Bihār",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-CH",
+            "name": "Chandīgarh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-CT",
+            "name": "Chhattīsgarh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-DL",
+            "name": "Delhi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-DH",
+            "name": "Dādra and Nagar Haveli and Damān and Diu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-GA",
+            "name": "Goa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-GJ",
+            "name": "Gujarāt",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-HR",
+            "name": "Haryāna",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-HP",
+            "name": "Himāchal Pradesh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-JK",
+            "name": "Jammu and Kashmīr",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-JH",
+            "name": "Jhārkhand",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-KA",
+            "name": "Karnātaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-KL",
+            "name": "Kerala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-LA",
+            "name": "Ladākh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-LD",
+            "name": "Lakshadweep",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-MP",
+            "name": "Madhya Pradesh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-MH",
+            "name": "Mahārāshtra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-MN",
+            "name": "Manipur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-ML",
+            "name": "Meghālaya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-MZ",
+            "name": "Mizoram",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-NL",
+            "name": "Nāgāland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-OR",
+            "name": "Odisha",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Union territory",
+            "3166-2_code": "IN-PY",
+            "name": "Puducherry",
+            "local_variant": "Pondicherry",
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-PB",
+            "name": "Punjab",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-RJ",
+            "name": "Rājasthān",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-SK",
+            "name": "Sikkim",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-TN",
+            "name": "Tamil Nādu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-TG",
+            "name": "Telangāna",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-TR",
+            "name": "Tripura",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-UP",
+            "name": "Uttar Pradesh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-UT",
+            "name": "Uttarākhand",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "IN-WB",
+            "name": "West Bengal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": "Indian System of Transliteration",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "India"
+        },
+        {
+            "administrative_language_alpha2": "hi",
+            "administrative_language_alpha3": "hin",
+            "local_short_name": "Bhārat"
+        }
+    ]
+}

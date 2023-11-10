@@ -1,0 +1,566 @@
+{
+    "alpha2_code": "KZ",
+    "short_name": "KAZAKHSTAN",
+    "short_name_lower_case": "Kazakhstan",
+    "full_name": "the Republic of Kazakhstan",
+    "alpha3_code": "KAZ",
+    "numeric_code": 398,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "KZ-10",
+            "name": "Abajskaja oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-10",
+            "name": "Abay oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-10",
+            "name": "Abayskaya oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-11",
+            "name": "Akmolinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-11",
+            "name": "Akmolinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-15",
+            "name": "Aktjubinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-15",
+            "name": "Aktyubinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-19",
+            "name": "Almatinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-19",
+            "name": "Almatinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-75",
+            "name": "Almaty",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-75",
+            "name": "Almaty",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-75",
+            "name": "Almaty",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-19",
+            "name": "Almaty oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-11",
+            "name": "Aqmola oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-15",
+            "name": "Aqtöbe oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-71",
+            "name": "Astana",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-71",
+            "name": "Astana",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-71",
+            "name": "Astana",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-23",
+            "name": "Atyrauskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-23",
+            "name": "Atyrauskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-23",
+            "name": "Atyraū oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-27",
+            "name": "Batys Qazaqstan oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-35",
+            "name": "Karagandinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-35",
+            "name": "Karagandinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-39",
+            "name": "Kostanajskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-39",
+            "name": "Kostanayskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-43",
+            "name": "Kyzylordinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-43",
+            "name": "Kyzylordinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-47",
+            "name": "Mangghystaū oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-47",
+            "name": "Mangistauskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-47",
+            "name": "Mangystauskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-55",
+            "name": "Pavlodar oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-55",
+            "name": "Pavlodarskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-55",
+            "name": "Pavlodarskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-35",
+            "name": "Qaraghandy oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-39",
+            "name": "Qostanay oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-43",
+            "name": "Qyzylorda oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-59",
+            "name": "Severo-Kazahstanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-59",
+            "name": "Severo-Kazakhstanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-63",
+            "name": "Shyghys Qazaqstan oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-79",
+            "name": "Shymkent",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-79",
+            "name": "Shymkent",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-59",
+            "name": "Soltüstik Qazaqstan oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-61",
+            "name": "Turkestankaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-61",
+            "name": "Turkestanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-61",
+            "name": "Türkistan oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-62",
+            "name": "Ulytauskaja oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-62",
+            "name": "Ulytauskaya oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-62",
+            "name": "Ulytaū oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-63",
+            "name": "Vostochno-Kazakhstanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-63",
+            "name": "Vostočno-Kazahstanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-27",
+            "name": "Zapadno-Kazahstanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-27",
+            "name": "Zapadno-Kazakhstanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-31",
+            "name": "Zhambyl oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-31",
+            "name": "Zhambylskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-33",
+            "name": "Zhetisū oblysy",
+            "local_variant": null,
+            "language_code": "kk",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-33",
+            "name": "Zhetysuskaya oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "KZ-79",
+            "name": "Šimkent",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-31",
+            "name": "Žambylskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "KZ-33",
+            "name": "Žetysuskaja oblast’",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "kk",
+            "administrative_language_alpha3": "kaz",
+            "local_short_name": "Qazaqstan"
+        },
+        {
+            "administrative_language_alpha2": "ru",
+            "administrative_language_alpha3": "rus",
+            "local_short_name": "Kazahstan"
+        }
+    ]
+}

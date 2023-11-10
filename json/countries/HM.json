@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "HM",
+    "short_name": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "short_name_lower_case": "Heard Island and McDonald Islands",
+    "full_name": null,
+    "alpha3_code": "HMD",
+    "numeric_code": 334,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "McDonald Islands *",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Heard Island and McDonald Islands"
+        }
+    ]
+}

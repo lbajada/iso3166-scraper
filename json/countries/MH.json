@@ -1,0 +1,494 @@
+{
+    "alpha2_code": "MH",
+    "short_name": "MARSHALL ISLANDS",
+    "short_name_lower_case": "Marshall Islands (the)",
+    "full_name": "the Republic of the Marshall Islands",
+    "alpha3_code": "MHL",
+    "numeric_code": 584,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Jaluit, Kwajalein, Majuro",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ALK",
+            "name": "Aelok",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ALL",
+            "name": "Aelōn̄ḷapḷap",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ALL",
+            "name": "Ailinglaplap",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ALK",
+            "name": "Ailuk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ARN",
+            "name": "Arno",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ARN",
+            "name": "Arṇo",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-AUR",
+            "name": "Aur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-AUR",
+            "name": "Aur",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-KIL",
+            "name": "Bikini & Kili",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-EBO",
+            "name": "Ebon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LIB",
+            "name": "Ellep",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ENI",
+            "name": "Enewetak & Ujelang",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-EBO",
+            "name": "Epoon",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-JAB",
+            "name": "Jabat",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-JAL",
+            "name": "Jaluit",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-JAB",
+            "name": "Jebat",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-JAL",
+            "name": "Jālwōj",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-KWA",
+            "name": "Kuwajleen",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-KWA",
+            "name": "Kwajalein",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LAE",
+            "name": "Lae",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LAE",
+            "name": "Lae",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LIB",
+            "name": "Lib",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LIK",
+            "name": "Likiep",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-LIK",
+            "name": "Likiep",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MAJ",
+            "name": "Majuro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MAL",
+            "name": "Maloelap",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MEJ",
+            "name": "Mejit",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MIL",
+            "name": "Mile",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MIL",
+            "name": "Mili",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MEJ",
+            "name": "Mājej",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MAJ",
+            "name": "Mājro",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-NMK",
+            "name": "Namdrik",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-NMU",
+            "name": "Namu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-NMK",
+            "name": "Naṃdik",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-NMU",
+            "name": "Naṃo",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-KIL",
+            "name": "Pikinni & Kōle",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "chain (of islands)",
+            "3166-2_code": "MH-L",
+            "name": "Ralik chain",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "chain (of islands)",
+            "3166-2_code": "MH-L",
+            "name": "Ralik chain",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "chain (of islands)",
+            "3166-2_code": "MH-T",
+            "name": "Ratak chain",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "chain (of islands)",
+            "3166-2_code": "MH-T",
+            "name": "Ratak chain",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-RON",
+            "name": "Rongelap",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-RON",
+            "name": "Ron̄ḷap",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-UJA",
+            "name": "Ujae",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-UJA",
+            "name": "Ujae",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-UTI",
+            "name": "Utrik",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-UTI",
+            "name": "Utrōk",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-WTH",
+            "name": "Wotho",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-WTJ",
+            "name": "Wotje",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-WTJ",
+            "name": "Wōjjā",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-WTH",
+            "name": "Wōtto",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-ENI",
+            "name": "Ānewetak & Wūjlan̄",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-L"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MH-MAL",
+            "name": "Ṃaḷoeḷap",
+            "local_variant": null,
+            "language_code": "mh",
+            "romanization_system": null,
+            "parent_subdivision": "MH-T"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Marshall Islands (the)"
+        },
+        {
+            "administrative_language_alpha2": "mh",
+            "administrative_language_alpha3": "mah",
+            "local_short_name": "Aelōn̄ in M̧ajeļ"
+        }
+    ]
+}

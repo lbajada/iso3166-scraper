@@ -1,0 +1,733 @@
+{
+    "alpha2_code": "PE",
+    "short_name": "PERU",
+    "short_name_lower_case": "Peru",
+    "full_name": "the Republic of Peru",
+    "alpha3_code": "PER",
+    "numeric_code": 604,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "PE-AMA",
+            "name": "Amarumayu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-AMA",
+            "name": "Amasunu",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-AMA",
+            "name": "Amazonas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ANC",
+            "name": "Ancash",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ANC",
+            "name": "Ankashu",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ANC",
+            "name": "Anqash",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-APU",
+            "name": "Apurimaq",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-APU",
+            "name": "Apurimaq",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-APU",
+            "name": "Apurímac",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ARE",
+            "name": "Arequipa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ARE",
+            "name": "Arikipa",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ARE",
+            "name": "Ariqipa",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-AYA",
+            "name": "Ayacucho",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-AYA",
+            "name": "Ayakuchu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-AYA",
+            "name": "Ayaquchu",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAJ",
+            "name": "Cajamarca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CUS",
+            "name": "Cusco",
+            "local_variant": "Cuzco",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAL",
+            "name": "El Callao",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUV",
+            "name": "Huancavelica",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-JUN",
+            "name": "Hunin",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUC",
+            "name": "Huánuco",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ICA",
+            "name": "Ica",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ICA",
+            "name": "Ika",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-ICA",
+            "name": "Ika",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-JUN",
+            "name": "Junin",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-JUN",
+            "name": "Junín",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAL",
+            "name": "Kallao",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAJ",
+            "name": "Kashamarka",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CUS",
+            "name": "Kusku",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAL",
+            "name": "La Libertad",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAL",
+            "name": "La Libertad",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAM",
+            "name": "Lambayeque",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAM",
+            "name": "Lambayeque",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAM",
+            "name": "Lampalliqi",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LIM",
+            "name": "Lima",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LIM",
+            "name": "Lima",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LIM",
+            "name": "Lima",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "PE-LMA",
+            "name": "Lima hatun llaqta",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "PE-LMA",
+            "name": "Lima llaqta suyu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LOR",
+            "name": "Loreto",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LOR",
+            "name": "Luritu",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LOR",
+            "name": "Luritu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MDD",
+            "name": "Madre de Dios",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MDD",
+            "name": "Madre de Dios",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MDD",
+            "name": "Mayutata",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MOQ",
+            "name": "Moquegua",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MOQ",
+            "name": "Moqwegwa",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "PE-LMA",
+            "name": "Municipalidad Metropolitana de Lima",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-MOQ",
+            "name": "Muqiwa",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PAS",
+            "name": "Pasco",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PAS",
+            "name": "Pasqu",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PAS",
+            "name": "Pasqu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PIU",
+            "name": "Piura",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PIU",
+            "name": "Piura",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PIU",
+            "name": "Piwra",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PUN",
+            "name": "Puno",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PUN",
+            "name": "Puno",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-PUN",
+            "name": "Punu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAJ",
+            "name": "Qajamarka",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CAL",
+            "name": "Qallaw",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-LAL",
+            "name": "Qispi kay",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-CUS",
+            "name": "Qusqu",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-SAM",
+            "name": "San Martin",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-SAM",
+            "name": "San Martín",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-SAM",
+            "name": "San Martín",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TAC",
+            "name": "Tacna",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TAC",
+            "name": "Takna",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TAC",
+            "name": "Taqna",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TUM",
+            "name": "Tumbes",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TUM",
+            "name": "Tumbes",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-TUM",
+            "name": "Tumpis",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-UCA",
+            "name": "Ucayali",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-UCA",
+            "name": "Ukayali",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-UCA",
+            "name": "Ukayali",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUV",
+            "name": "Wankawelika",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUV",
+            "name": "Wankawillka",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUC",
+            "name": "Wanuku",
+            "local_variant": null,
+            "language_code": "ay",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PE-HUC",
+            "name": "Wanuku",
+            "local_variant": null,
+            "language_code": "qu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ay",
+            "administrative_language_alpha3": "aym",
+            "local_short_name": "Perú"
+        },
+        {
+            "administrative_language_alpha2": "qu",
+            "administrative_language_alpha3": "que",
+            "local_short_name": "Perú"
+        },
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Perú (el)"
+        }
+    ]
+}

@@ -1,0 +1,741 @@
+{
+    "alpha2_code": "MK",
+    "short_name": "NORTH MACEDONIA",
+    "short_name_lower_case": "North Macedonia",
+    "full_name": "the Republic of North Macedonia",
+    "alpha3_code": "MKD",
+    "numeric_code": 807,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-801",
+            "name": "Aerodrom †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-802",
+            "name": "Aračinovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-201",
+            "name": "Berovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-501",
+            "name": "Bitola",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-401",
+            "name": "Bogdanci",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-601",
+            "name": "Bogovinje",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-402",
+            "name": "Bosilovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-602",
+            "name": "Brvenica",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-803",
+            "name": "Butel †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-313",
+            "name": "Centar Župa",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-814",
+            "name": "Centar †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-303",
+            "name": "Debar",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-304",
+            "name": "Debrca",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-203",
+            "name": "Delčevo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-502",
+            "name": "Demir Hisar",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-103",
+            "name": "Demir Kapija",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-406",
+            "name": "Dojran",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-503",
+            "name": "Dolneni",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-804",
+            "name": "Gazi Baba †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-405",
+            "name": "Gevgelija",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-805",
+            "name": "Gjorče Petrov †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-604",
+            "name": "Gostivar",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-102",
+            "name": "Gradsko",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-807",
+            "name": "Ilinden",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-606",
+            "name": "Jegunovce",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-205",
+            "name": "Karbinci",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-808",
+            "name": "Karpoš †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-104",
+            "name": "Kavadarci",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-809",
+            "name": "Kisela Voda †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-307",
+            "name": "Kičevo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-407",
+            "name": "Konče",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-206",
+            "name": "Kočani",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-701",
+            "name": "Kratovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-702",
+            "name": "Kriva Palanka",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-504",
+            "name": "Krivogaštani",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-505",
+            "name": "Kruševo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-703",
+            "name": "Kumanovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-704",
+            "name": "Lipkovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-105",
+            "name": "Lozovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-207",
+            "name": "Makedonska Kamenica",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-308",
+            "name": "Makedonski Brod",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-607",
+            "name": "Mavrovo i Rostuše",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-506",
+            "name": "Mogila",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-106",
+            "name": "Negotino",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-507",
+            "name": "Novaci",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-408",
+            "name": "Novo Selo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-310",
+            "name": "Ohrid",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-208",
+            "name": "Pehčevo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-810",
+            "name": "Petrovec",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-311",
+            "name": "Plasnica",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-508",
+            "name": "Prilep",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-209",
+            "name": "Probištip",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-409",
+            "name": "Radoviš",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-705",
+            "name": "Rankovce",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-509",
+            "name": "Resen",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-107",
+            "name": "Rosoman",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-811",
+            "name": "Saraj †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-812",
+            "name": "Sopište",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-706",
+            "name": "Staro Nagoričane",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-312",
+            "name": "Struga",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-410",
+            "name": "Strumica",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-813",
+            "name": "Studeničani",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-108",
+            "name": "Sveti Nikole",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-608",
+            "name": "Tearce",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-609",
+            "name": "Tetovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-403",
+            "name": "Valandovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-404",
+            "name": "Vasilevo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-101",
+            "name": "Veles",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-301",
+            "name": "Vevčani",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-202",
+            "name": "Vinica",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-603",
+            "name": "Vrapčište",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-806",
+            "name": "Zelenikovo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-204",
+            "name": "Zrnovci",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-815",
+            "name": "Čair †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-109",
+            "name": "Čaška",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-210",
+            "name": "Češinovo-Obleševo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-816",
+            "name": "Čučer-Sandevo",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-211",
+            "name": "Štip",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-817",
+            "name": "Šuto Orizari †",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "MK-605",
+            "name": "Želino",
+            "local_variant": null,
+            "language_code": "mk",
+            "romanization_system": "BGN/PCGN 2013",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "mk",
+            "administrative_language_alpha3": "mkd",
+            "local_short_name": "Severna Makedonija"
+        }
+    ]
+}

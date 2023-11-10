@@ -1,0 +1,219 @@
+{
+    "alpha2_code": "LY",
+    "short_name": "LIBYA",
+    "short_name_lower_case": "Libya",
+    "full_name": "the State of Libya",
+    "alpha3_code": "LBY",
+    "numeric_code": 434,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-BU",
+            "name": "Al Buţnān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-JA",
+            "name": "Al Jabal al Akhḑar",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-JG",
+            "name": "Al Jabal al Gharbī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-JI",
+            "name": "Al Jafārah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-JU",
+            "name": "Al Jufrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-KF",
+            "name": "Al Kufrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-MJ",
+            "name": "Al Marj",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-MB",
+            "name": "Al Marqab",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-WA",
+            "name": "Al Wāḩāt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-NQ",
+            "name": "An Nuqāţ al Khams",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-ZA",
+            "name": "Az Zāwiyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-BA",
+            "name": "Banghāzī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-DR",
+            "name": "Darnah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-GT",
+            "name": "Ghāt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-MI",
+            "name": "Mişrātah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-MQ",
+            "name": "Murzuq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-NL",
+            "name": "Nālūt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-SB",
+            "name": "Sabhā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-SR",
+            "name": "Surt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-WD",
+            "name": "Wādī al Ḩayāt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-WS",
+            "name": "Wādī ash Shāţi’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "popularate",
+            "3166-2_code": "LY-TB",
+            "name": "Ţarābulus",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Lībiyā"
+        }
+    ]
+}

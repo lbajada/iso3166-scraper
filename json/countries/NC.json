@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "NC",
+    "short_name": "NEW CALEDONIA",
+    "short_name_lower_case": "New Caledonia",
+    "full_name": null,
+    "alpha3_code": "NCL",
+    "numeric_code": 540,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Loyalty Islands",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Nouvelle-Calédonie (la)"
+        }
+    ]
+}

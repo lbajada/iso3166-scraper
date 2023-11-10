@@ -1,0 +1,174 @@
+{
+    "alpha2_code": "MC",
+    "short_name": "MONACO",
+    "short_name_lower_case": "Monaco",
+    "full_name": "the Principality of Monaco",
+    "alpha3_code": "MCO",
+    "numeric_code": 492,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-FO",
+            "name": "Fontvieille",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-JE",
+            "name": "Jardin Exotique",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-CL",
+            "name": "La Colle",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-CO",
+            "name": "La Condamine",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-GA",
+            "name": "La Gare",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-SO",
+            "name": "La Source",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-LA",
+            "name": "Larvotto",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-MA",
+            "name": "Malbousquet",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-MO",
+            "name": "Monaco-Ville",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-MG",
+            "name": "Moneghetti",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-MC",
+            "name": "Monte-Carlo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-MU",
+            "name": "Moulins",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-PH",
+            "name": "Port-Hercule",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-SR",
+            "name": "Saint-Roman",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-SD",
+            "name": "Sainte-Dévote",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-SP",
+            "name": "Spélugues",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "quarter",
+            "3166-2_code": "MC-VR",
+            "name": "Vallon de la Rousse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Monaco"
+        }
+    ]
+}

@@ -1,0 +1,399 @@
+{
+    "alpha2_code": "MV",
+    "short_name": "MALDIVES",
+    "short_name_lower_case": "Maldives",
+    "full_name": "the Republic of Maldives",
+    "alpha3_code": "MDV",
+    "numeric_code": 462,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "city",
+            "3166-2_code": "MV-01",
+            "name": "Addu",
+            "local_variant": "Seenu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MV-01",
+            "name": "Addu City",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-00",
+            "name": "Ariatholhu Dhekunuburi",
+            "local_variant": "Alifu Dhaalu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-02",
+            "name": "Ariatholhu Uthuruburi",
+            "local_variant": "Alifu Alifu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-03",
+            "name": "Faadhippolhu",
+            "local_variant": "Lhaviyani",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-03",
+            "name": "Faadhippolhu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-04",
+            "name": "Felidheatholhu",
+            "local_variant": "Vaavu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-04",
+            "name": "Felidhu Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-29",
+            "name": "Fuvammulah",
+            "local_variant": "Gnaviyani",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-29",
+            "name": "Fuvammulah",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-05",
+            "name": "Hahdhunmathi",
+            "local_variant": "Laamu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-05",
+            "name": "Hahdhunmathi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-28",
+            "name": "Huvadhuatholhu Dhekunuburi",
+            "local_variant": "Gaafu Dhaalu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-27",
+            "name": "Huvadhuatholhu Uthuruburi",
+            "local_variant": "Gaafu Alifu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-08",
+            "name": "Kolhumadulu",
+            "local_variant": "Thaa",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-08",
+            "name": "Kolhumadulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MV-MLE",
+            "name": "Maale",
+            "local_variant": null,
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-26",
+            "name": "Maaleatholhu",
+            "local_variant": "Kaafu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-20",
+            "name": "Maalhosmadulu Dhekunuburi",
+            "local_variant": "Baa",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-13",
+            "name": "Maalhosmadulu Uthuruburi",
+            "local_variant": "Raa",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MV-MLE",
+            "name": "Male",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-26",
+            "name": "Male Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-25",
+            "name": "Miladhunmadulu Dhekunuburi",
+            "local_variant": "Noonu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-24",
+            "name": "Miladhunmadulu Uthuruburi",
+            "local_variant": "Shaviyani",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-12",
+            "name": "Mulakatholhu",
+            "local_variant": "Meemu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-12",
+            "name": "Mulaku Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-17",
+            "name": "Nilandheatholhu Dhekunuburi",
+            "local_variant": "Dhaalu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-14",
+            "name": "Nilandheatholhu Uthuruburi",
+            "local_variant": "Faafu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-02",
+            "name": "North Ari Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-27",
+            "name": "North Huvadhu Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-13",
+            "name": "North Maalhosmadulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-24",
+            "name": "North Miladhunmadulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-14",
+            "name": "North Nilandhe Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-07",
+            "name": "North Thiladhunmathi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-00",
+            "name": "South Ari Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-28",
+            "name": "South Huvadhu Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-20",
+            "name": "South Maalhosmadulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-25",
+            "name": "South Miladhunmadulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-17",
+            "name": "South Nilandhe Atoll",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-23",
+            "name": "South Thiladhunmathi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-23",
+            "name": "Thiladhunmathee Dhekunuburi",
+            "local_variant": "Haa Dhaalu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative atoll",
+            "3166-2_code": "MV-07",
+            "name": "Thiladhunmathee Uthuruburi",
+            "local_variant": "Haa Alifu",
+            "language_code": "dv",
+            "romanization_system": "BGN/PCGN 1988",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "dv",
+            "administrative_language_alpha3": "div",
+            "local_short_name": "Dhivehi Raajje"
+        }
+    ]
+}

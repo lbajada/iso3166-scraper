@@ -1,0 +1,75 @@
+{
+    "alpha2_code": "TM",
+    "short_name": "TURKMENISTAN",
+    "short_name_lower_case": "Turkmenistan",
+    "full_name": null,
+    "alpha3_code": "TKM",
+    "numeric_code": 795,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "TM-A",
+            "name": "Ahal",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TM-S",
+            "name": "Aşgabat",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TM-B",
+            "name": "Balkan",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TM-D",
+            "name": "Daşoguz",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TM-L",
+            "name": "Lebap",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TM-M",
+            "name": "Mary",
+            "local_variant": null,
+            "language_code": "tk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "tk",
+            "administrative_language_alpha3": "tuk",
+            "local_short_name": "Türkmenistan"
+        }
+    ]
+}

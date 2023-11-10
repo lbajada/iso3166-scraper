@@ -1,0 +1,264 @@
+{
+    "alpha2_code": "UA",
+    "short_name": "UKRAINE",
+    "short_name_lower_case": "Ukraine",
+    "full_name": null,
+    "alpha3_code": "UKR",
+    "numeric_code": 804,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "republic",
+            "3166-2_code": "UA-43",
+            "name": "Avtonomna Respublika Krym",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-71",
+            "name": "Cherkaska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-74",
+            "name": "Chernihivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-77",
+            "name": "Chernivetska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-12",
+            "name": "Dnipropetrovska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-14",
+            "name": "Donetska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-26",
+            "name": "Ivano-Frankivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-63",
+            "name": "Kharkivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-65",
+            "name": "Khersonska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-68",
+            "name": "Khmelnytska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-35",
+            "name": "Kirovohradska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "UA-30",
+            "name": "Kyiv",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-32",
+            "name": "Kyivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-09",
+            "name": "Luhanska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-46",
+            "name": "Lvivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-48",
+            "name": "Mykolaivska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-51",
+            "name": "Odeska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-53",
+            "name": "Poltavska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-56",
+            "name": "Rivnenska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "UA-40",
+            "name": "Sevastopol",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-59",
+            "name": "Sumska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-61",
+            "name": "Ternopilska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-05",
+            "name": "Vinnytska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-07",
+            "name": "Volynska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-21",
+            "name": "Zakarpatska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-23",
+            "name": "Zaporizka oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UA-18",
+            "name": "Zhytomyrska oblast",
+            "local_variant": null,
+            "language_code": "uk",
+            "romanization_system": "National 2010 = UN X/9 2012",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "uk",
+            "administrative_language_alpha3": "ukr",
+            "local_short_name": "Ukraina"
+        }
+    ]
+}

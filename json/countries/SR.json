@@ -1,0 +1,111 @@
+{
+    "alpha2_code": "SR",
+    "short_name": "SURINAME",
+    "short_name_lower_case": "Suriname",
+    "full_name": "the Republic of Suriname",
+    "alpha3_code": "SUR",
+    "numeric_code": 740,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "SR-BR",
+            "name": "Brokopondo",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-CM",
+            "name": "Commewijne",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-CR",
+            "name": "Coronie",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-MA",
+            "name": "Marowijne",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-NI",
+            "name": "Nickerie",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-PR",
+            "name": "Para",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-PM",
+            "name": "Paramaribo",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-SA",
+            "name": "Saramacca",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-SI",
+            "name": "Sipaliwini",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SR-WA",
+            "name": "Wanica",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "Suriname"
+        }
+    ]
+}

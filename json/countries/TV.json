@@ -1,0 +1,98 @@
+{
+    "alpha2_code": "TV",
+    "short_name": "TUVALU",
+    "short_name_lower_case": "Tuvalu",
+    "full_name": null,
+    "alpha3_code": "TUV",
+    "numeric_code": 798,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Funafuti (principal atoll)",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "town council",
+            "3166-2_code": "TV-FUN",
+            "name": "Funafuti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NMG",
+            "name": "Nanumaga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NMA",
+            "name": "Nanumea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NIT",
+            "name": "Niutao",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NUI",
+            "name": "Nui",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NKF",
+            "name": "Nukufetau",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-NKL",
+            "name": "Nukulaelae",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island council",
+            "3166-2_code": "TV-VAI",
+            "name": "Vaitupu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Tuvalu"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "tvl",
+            "local_short_name": "Tuvalu"
+        }
+    ]
+}

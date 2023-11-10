@@ -1,0 +1,309 @@
+{
+    "alpha2_code": "RS",
+    "short_name": "SERBIA",
+    "short_name_lower_case": "Serbia",
+    "full_name": "the Republic of Serbia",
+    "alpha3_code": "SRB",
+    "numeric_code": 688,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "city",
+            "3166-2_code": "RS-00",
+            "name": "Beograd",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-14",
+            "name": "Borski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-11",
+            "name": "Braničevski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-23",
+            "name": "Jablanički okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-04",
+            "name": "Južnobanatski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-06",
+            "name": "Južnobački okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-09",
+            "name": "Kolubarski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous province",
+            "3166-2_code": "RS-KM",
+            "name": "Kosovo-Metohija",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-25",
+            "name": "Kosovski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-KM"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-28",
+            "name": "Kosovsko-Mitrovački okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-KM"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-29",
+            "name": "Kosovsko-Pomoravski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-KM"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-08",
+            "name": "Mačvanski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-17",
+            "name": "Moravički okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-20",
+            "name": "Nišavski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-26",
+            "name": "Pećki okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-KM"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-22",
+            "name": "Pirotski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-10",
+            "name": "Podunavski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-13",
+            "name": "Pomoravski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-27",
+            "name": "Prizrenski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-KM"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-24",
+            "name": "Pčinjski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-19",
+            "name": "Rasinski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-18",
+            "name": "Raški okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-03",
+            "name": "Severnobanatski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-01",
+            "name": "Severnobački okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-02",
+            "name": "Srednjebanatski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-07",
+            "name": "Sremski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-21",
+            "name": "Toplički okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous province",
+            "3166-2_code": "RS-VO",
+            "name": "Vojvodina",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-15",
+            "name": "Zaječarski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-05",
+            "name": "Zapadnobački okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": "RS-VO"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-16",
+            "name": "Zlatiborski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "RS-12",
+            "name": "Šumadijski okrug",
+            "local_variant": null,
+            "language_code": "sr",
+            "romanization_system": "UN III/11 1977",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "sr",
+            "administrative_language_alpha3": "srp",
+            "local_short_name": "Srbija"
+        }
+    ]
+}

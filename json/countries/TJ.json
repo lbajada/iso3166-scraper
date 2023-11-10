@@ -1,0 +1,66 @@
+{
+    "alpha2_code": "TJ",
+    "short_name": "TAJIKISTAN",
+    "short_name_lower_case": "Tajikistan",
+    "full_name": "the Republic of Tajikistan",
+    "alpha3_code": "TJK",
+    "numeric_code": 762,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "capital territory",
+            "3166-2_code": "TJ-DU",
+            "name": "Dushanbe",
+            "local_variant": null,
+            "language_code": "tg",
+            "romanization_system": "BGN/PCGN 1994",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TJ-KT",
+            "name": "Khatlon",
+            "local_variant": null,
+            "language_code": "tg",
+            "romanization_system": "BGN/PCGN 1994",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "TJ-GB",
+            "name": "Kŭhistoni Badakhshon",
+            "local_variant": null,
+            "language_code": "tg",
+            "romanization_system": "BGN/PCGN 1994",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TJ-SU",
+            "name": "Sughd",
+            "local_variant": null,
+            "language_code": "tg",
+            "romanization_system": "BGN/PCGN 1994",
+            "parent_subdivision": null
+        },
+        {
+            "category": "districts under republic administration",
+            "3166-2_code": "TJ-RA",
+            "name": "nohiyahoi tobei jumhurí",
+            "local_variant": null,
+            "language_code": "tg",
+            "romanization_system": "BGN/PCGN 1994",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "tg",
+            "administrative_language_alpha3": "tgk",
+            "local_short_name": "Tojikiston"
+        }
+    ]
+}

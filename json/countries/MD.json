@@ -1,0 +1,354 @@
+{
+    "alpha2_code": "MD",
+    "short_name": "MOLDOVA, REPUBLIC OF",
+    "short_name_lower_case": "Moldova (the Republic of)",
+    "full_name": "the Republic of Moldova",
+    "alpha3_code": "MDA",
+    "numeric_code": 498,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "MD-AN",
+            "name": "Anenii Noi",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-BS",
+            "name": "Basarabeasca",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MD-BD",
+            "name": "Bender [Tighina]",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-BR",
+            "name": "Briceni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MD-BA",
+            "name": "Bălți",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CA",
+            "name": "Cahul",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CT",
+            "name": "Cantemir",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MD-CU",
+            "name": "Chișinău",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CM",
+            "name": "Cimișlia",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CR",
+            "name": "Criuleni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CL",
+            "name": "Călărași",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-CS",
+            "name": "Căușeni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-DO",
+            "name": "Dondușeni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-DR",
+            "name": "Drochia",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-DU",
+            "name": "Dubăsari",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-ED",
+            "name": "Edineț",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-FL",
+            "name": "Florești",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-FA",
+            "name": "Fălești",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-GL",
+            "name": "Glodeni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous territorial unit",
+            "3166-2_code": "MD-GA",
+            "name": "Găgăuzia, Unitatea teritorială autonomă (UTAG)",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-HI",
+            "name": "Hîncești",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-IA",
+            "name": "Ialoveni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-LE",
+            "name": "Leova",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-NI",
+            "name": "Nisporeni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-OC",
+            "name": "Ocnița",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-OR",
+            "name": "Orhei",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-RE",
+            "name": "Rezina",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-RI",
+            "name": "Rîșcani",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-SO",
+            "name": "Soroca",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-ST",
+            "name": "Strășeni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "territorial unit",
+            "3166-2_code": "MD-SN",
+            "name": "Stînga Nistrului, unitatea teritorială din",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-SI",
+            "name": "Sîngerei",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-TA",
+            "name": "Taraclia",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-TE",
+            "name": "Telenești",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-UN",
+            "name": "Ungheni",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-SD",
+            "name": "Șoldănești",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MD-SV",
+            "name": "Ștefan Vodă",
+            "local_variant": null,
+            "language_code": "ro",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ro",
+            "administrative_language_alpha3": "ron",
+            "local_short_name": "Republica Moldova"
+        }
+    ]
+}

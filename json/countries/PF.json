@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "PF",
+    "short_name": "FRENCH POLYNESIA",
+    "short_name_lower_case": "French Polynesia",
+    "full_name": null,
+    "alpha3_code": "PYF",
+    "numeric_code": 258,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Austral Islands , Gambier Islands, Marquesas Islands , Society Archipelago , Tahiti, Tuamotu Islands",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Polynésie française (la)"
+        }
+    ]
+}

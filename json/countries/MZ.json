@@ -1,0 +1,120 @@
+{
+    "alpha2_code": "MZ",
+    "short_name": "MOZAMBIQUE",
+    "short_name_lower_case": "Mozambique",
+    "full_name": "the Republic of Mozambique",
+    "alpha3_code": "MOZ",
+    "numeric_code": 508,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "MZ-P",
+            "name": "Cabo Delgado",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-G",
+            "name": "Gaza",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-I",
+            "name": "Inhambane",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-B",
+            "name": "Manica",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "MZ-MPM",
+            "name": "Maputo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-L",
+            "name": "Maputo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-N",
+            "name": "Nampula",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-A",
+            "name": "Niassa",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-S",
+            "name": "Sofala",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-T",
+            "name": "Tete",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MZ-Q",
+            "name": "Zambézia",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Moçambique"
+        }
+    ]
+}

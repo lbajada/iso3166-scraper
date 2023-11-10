@@ -1,0 +1,93 @@
+{
+    "alpha2_code": "QA",
+    "short_name": "QATAR",
+    "short_name_lower_case": "Qatar",
+    "full_name": "the State of Qatar",
+    "alpha3_code": "QAT",
+    "numeric_code": 634,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-DA",
+            "name": "Ad Dawḩah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-KH",
+            "name": "Al Khawr wa adh Dhakhīrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-WA",
+            "name": "Al Wakrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-RA",
+            "name": "Ar Rayyān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-MS",
+            "name": "Ash Shamāl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-SH",
+            "name": "Ash Shīḩānīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-ZA",
+            "name": "Az̧ Z̧a‘āyin",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "QA-US",
+            "name": "Umm Şalāl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Qaţar"
+        }
+    ]
+}

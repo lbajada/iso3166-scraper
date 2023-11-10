@@ -1,0 +1,112 @@
+{
+    "alpha2_code": "BQ",
+    "short_name": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "short_name_lower_case": "Bonaire, Sint Eustatius and Saba",
+    "full_name": null,
+    "alpha3_code": "BES",
+    "numeric_code": 535,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Bonaire, Saba, Sint Eustatius",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-BO",
+            "name": "Bonaire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-BO",
+            "name": "Bonaire",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-BO",
+            "name": "Boneiru",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SA",
+            "name": "Saba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SA",
+            "name": "Saba",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SA",
+            "name": "Saba",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SE",
+            "name": "Sint Eustatius",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SE",
+            "name": "Sint Eustatius",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "BQ-SE",
+            "name": "Sint Eustatius",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Bonaire, Sint Eustatius and Saba"
+        },
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "Bonaire, Sint Eustatius en Saba"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "pap",
+            "local_short_name": "Boneiru, Sint Eustatius y Saba"
+        }
+    ]
+}

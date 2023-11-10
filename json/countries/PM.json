@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "PM",
+    "short_name": "SAINT PIERRE AND MIQUELON",
+    "short_name_lower_case": "Saint Pierre and Miquelon",
+    "full_name": null,
+    "alpha3_code": "SPM",
+    "numeric_code": 666,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Miquelon *",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Saint-Pierre-et-Miquelon"
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "alpha2_code": "CY",
+    "short_name": "CYPRUS",
+    "short_name_lower_case": "Cyprus",
+    "full_name": "the Republic of Cyprus",
+    "alpha3_code": "CYP",
+    "numeric_code": 196,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "CY-04",
+            "name": "Ammochostos",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-05",
+            "name": "Baf",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-06",
+            "name": "Girne",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-06",
+            "name": "Keryneia",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-03",
+            "name": "Larnaka",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-03",
+            "name": "Larnaka",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-01",
+            "name": "Lefkosia",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-01",
+            "name": "Lefkoşa",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-02",
+            "name": "Lemesos",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-02",
+            "name": "Leymasun",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-04",
+            "name": "Mağusa",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "CY-05",
+            "name": "Pafos",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "el",
+            "administrative_language_alpha3": "ell",
+            "local_short_name": "Kýpros"
+        },
+        {
+            "administrative_language_alpha2": "tr",
+            "administrative_language_alpha3": "tur",
+            "local_short_name": "Kıbrıs"
+        }
+    ]
+}

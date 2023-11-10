@@ -1,0 +1,120 @@
+{
+    "alpha2_code": "LI",
+    "short_name": "LIECHTENSTEIN",
+    "short_name_lower_case": "Liechtenstein",
+    "full_name": "the Principality of Liechtenstein",
+    "alpha3_code": "LIE",
+    "numeric_code": 438,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "commune",
+            "3166-2_code": "LI-01",
+            "name": "Balzers",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-02",
+            "name": "Eschen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-03",
+            "name": "Gamprin",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-04",
+            "name": "Mauren",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-05",
+            "name": "Planken",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-06",
+            "name": "Ruggell",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-07",
+            "name": "Schaan",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-08",
+            "name": "Schellenberg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-09",
+            "name": "Triesen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-10",
+            "name": "Triesenberg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "LI-11",
+            "name": "Vaduz",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Liechtenstein"
+        }
+    ]
+}

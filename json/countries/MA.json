@@ -1,0 +1,804 @@
+{
+    "alpha2_code": "MA",
+    "short_name": "MOROCCO",
+    "short_name_lower_case": "Morocco",
+    "full_name": "the Kingdom of Morocco",
+    "alpha3_code": "MAR",
+    "numeric_code": 504,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-AGD",
+            "name": "Agadir-Ida-Ou-Tanane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-HAO",
+            "name": "Al Haouz",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-HOC",
+            "name": "Al Hoceïma",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-AOU",
+            "name": "Aousserd (EH)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-ASZ",
+            "name": "Assa-Zag (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-AZI",
+            "name": "Azilal",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BES",
+            "name": "Benslimane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BER",
+            "name": "Berkane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BRR",
+            "name": "Berrechid",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BOD",
+            "name": "Boujdour (EH)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BOM",
+            "name": "Boulemane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-BEM",
+            "name": "Béni Mellal",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-05"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-05",
+            "name": "Béni Mellal-Khénifra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-CAS",
+            "name": "Casablanca",
+            "local_variant": "Dar el Beïda",
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-06",
+            "name": "Casablanca-Settat",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-CHE",
+            "name": "Chefchaouen",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-CHI",
+            "name": "Chichaoua",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-CHT",
+            "name": "Chtouka-Ait Baha",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-12",
+            "name": "Dakhla-Oued Ed-Dahab (EH)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-DRI",
+            "name": "Driouch",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-08",
+            "name": "Drâa-Tafilalet",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-HAJ",
+            "name": "El Hajeb",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-JDI",
+            "name": "El Jadida",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-KES",
+            "name": "El Kelâa des Sraghna",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-ERR",
+            "name": "Errachidia",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-ESM",
+            "name": "Es-Semara (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-ESI",
+            "name": "Essaouira",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-FAH",
+            "name": "Fahs-Anjra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-FIG",
+            "name": "Figuig",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-FQH",
+            "name": "Fquih Ben Salah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-05"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-FES",
+            "name": "Fès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-03",
+            "name": "Fès-Meknès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-GUE",
+            "name": "Guelmim",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-10"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-10",
+            "name": "Guelmim-Oued Noun (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-GUF",
+            "name": "Guercif",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-IFR",
+            "name": "Ifrane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-INE",
+            "name": "Inezgane-Ait Melloul",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-JRA",
+            "name": "Jerada",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-KHO",
+            "name": "Khouribga",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-KHE",
+            "name": "Khémisset",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-KHN",
+            "name": "Khénifra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-KEN",
+            "name": "Kénitra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-02",
+            "name": "L'Oriental",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-LAR",
+            "name": "Larache",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-LAA",
+            "name": "Laâyoune (EH)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-11"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-11",
+            "name": "Laâyoune-Sakia El Hamra (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-MAR",
+            "name": "Marrakech",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-07",
+            "name": "Marrakech-Safi",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-MEK",
+            "name": "Meknès",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-MID",
+            "name": "Midelt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-08"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-MOH",
+            "name": "Mohammadia",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-MOU",
+            "name": "Moulay Yacoub",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-MED",
+            "name": "Médiouna",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-MDF",
+            "name": "M’diq-Fnideq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-NAD",
+            "name": "Nador",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-NOU",
+            "name": "Nouaceur",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-OUA",
+            "name": "Ouarzazate",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-OUD",
+            "name": "Oued Ed-Dahab (EH)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-OUZ",
+            "name": "Ouezzane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-OUJ",
+            "name": "Oujda-Angad",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-RAB",
+            "name": "Rabat",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-04",
+            "name": "Rabat-Salé-Kénitra",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-REH",
+            "name": "Rehamna",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SAF",
+            "name": "Safi",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-SAL",
+            "name": "Salé",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SEF",
+            "name": "Sefrou",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SET",
+            "name": "Settat",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SIB",
+            "name": "Sidi Bennour",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SIF",
+            "name": "Sidi Ifni",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SIK",
+            "name": "Sidi Kacem",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-SIL",
+            "name": "Sidi Slimane",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-SKH",
+            "name": "Skhirate-Témara",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-04"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-09",
+            "name": "Souss-Massa",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TNT",
+            "name": "Tan-Tan (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-10"
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "MA-TNG",
+            "name": "Tanger-Assilah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MA-01",
+            "name": "Tanger-Tétouan-Al Hoceïma",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAO",
+            "name": "Taounate",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAI",
+            "name": "Taourirt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAF",
+            "name": "Tarfaya (EH-partial)",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAR",
+            "name": "Taroudannt",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAT",
+            "name": "Tata",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TAZ",
+            "name": "Taza",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TIN",
+            "name": "Tinghir",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TIZ",
+            "name": "Tiznit",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-TET",
+            "name": "Tétouan",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-YUS",
+            "name": "Youssoufia",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MA-ZAG",
+            "name": "Zagora",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": "MA-08"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Maghrib"
+        }
+    ]
+}

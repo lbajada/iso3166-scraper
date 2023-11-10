@@ -1,0 +1,1781 @@
+{
+    "alpha2_code": "PH",
+    "short_name": "PHILIPPINES",
+    "short_name_lower_case": "Philippines (the)",
+    "full_name": "the Republic of the Philippines",
+    "alpha3_code": "PHL",
+    "numeric_code": 608,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "PH-ABR",
+            "name": "Abra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ABR",
+            "name": "Abra",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AGN",
+            "name": "Agusan del Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AGS",
+            "name": "Agusan del Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AKL",
+            "name": "Aklan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AKL",
+            "name": "Aklan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ALB",
+            "name": "Albay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ALB",
+            "name": "Albay",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ANT",
+            "name": "Antike",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ANT",
+            "name": "Antique",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-APA",
+            "name": "Apayao",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-APA",
+            "name": "Apayaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AUR",
+            "name": "Aurora",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AUR",
+            "name": "Aurora",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-14",
+            "name": "Autonomous Region in Muslim Mindanao (ARMM)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BAS",
+            "name": "Basilan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BAS",
+            "name": "Basilan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BAN",
+            "name": "Bataan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BAN",
+            "name": "Bataan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BTN",
+            "name": "Batanes",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BTN",
+            "name": "Batanes",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BTG",
+            "name": "Batangas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BTG",
+            "name": "Batangas",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BEN",
+            "name": "Benget",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BEN",
+            "name": "Benguet",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-05",
+            "name": "Bicol (Region V)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BIL",
+            "name": "Biliran",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BIL",
+            "name": "Biliran",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BOH",
+            "name": "Bohol",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BOH",
+            "name": "Bohol",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BUK",
+            "name": "Bukidnon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BUK",
+            "name": "Bukidnon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BUL",
+            "name": "Bulacan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-BUL",
+            "name": "Bulakan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAG",
+            "name": "Cagayan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-02",
+            "name": "Cagayan Valley (Region II)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-40",
+            "name": "Calabarzon (Region IV-A)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAN",
+            "name": "Camarines Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAS",
+            "name": "Camarines Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAM",
+            "name": "Camiguin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAP",
+            "name": "Capiz",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-13",
+            "name": "Caraga (Region XIII)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAT",
+            "name": "Catanduanes",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAV",
+            "name": "Cavite",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CEB",
+            "name": "Cebu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-03",
+            "name": "Central Luzon (Region III)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-07",
+            "name": "Central Visayas (Region VII)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-15",
+            "name": "Cordillera Administrative Region (CAR)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NCO",
+            "name": "Cotabato",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-11",
+            "name": "Davao (Region XI)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DVO",
+            "name": "Davao Occidental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAO",
+            "name": "Davao Oriental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-COM",
+            "name": "Davao de Oro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAV",
+            "name": "Davao del Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAS",
+            "name": "Davao del Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DIN",
+            "name": "Dinagat Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-EAS",
+            "name": "Eastern Samar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-08",
+            "name": "Eastern Visayas (Region VIII)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-GUI",
+            "name": "Gimaras",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-GUI",
+            "name": "Guimaras",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AGN",
+            "name": "Hilagang Agusan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAV",
+            "name": "Hilagang Dabaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILN",
+            "name": "Hilagang Iloko",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAN",
+            "name": "Hilagang Kamarines",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAN",
+            "name": "Hilagang Lanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NSA",
+            "name": "Hilagang Samar",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZAN",
+            "name": "Hilagang Sambuwangga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUN",
+            "name": "Hilagang Surigaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-IFU",
+            "name": "Ifugao",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-01",
+            "name": "Ilocos (Region I)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILN",
+            "name": "Ilocos Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILS",
+            "name": "Ilocos Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILI",
+            "name": "Iloilo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILI",
+            "name": "Iloilo",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-IFU",
+            "name": "Ipugaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ISA",
+            "name": "Isabela",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ISA",
+            "name": "Isabela",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAV",
+            "name": "Kabite",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAG",
+            "name": "Kagayan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-KAL",
+            "name": "Kalinga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-KAL",
+            "name": "Kalinga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAM",
+            "name": "Kamigin",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DVO",
+            "name": "Kanlurang Dabaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MDC",
+            "name": "Kanlurang Mindoro",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MSC",
+            "name": "Kanlurang Misamis",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NEC",
+            "name": "Kanlurang Negros",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAP",
+            "name": "Kapis",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAT",
+            "name": "Katanduwanes",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SLE",
+            "name": "Katimogang Leyte",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-QUE",
+            "name": "Keson",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-QUI",
+            "name": "Kirino",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NCO",
+            "name": "Kotabato",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LUN",
+            "name": "La Union",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LUN",
+            "name": "La Unyon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAG",
+            "name": "Laguna",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAG",
+            "name": "Laguna",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MOU",
+            "name": "Lalawigang Bulubundukin",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAN",
+            "name": "Lanao del Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAS",
+            "name": "Lanao del Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LEY",
+            "name": "Leyte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LEY",
+            "name": "Leyte",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAG",
+            "name": "Magindanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAG",
+            "name": "Maguindanao",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAD",
+            "name": "Marinduke",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAD",
+            "name": "Marinduque",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAS",
+            "name": "Masbate",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MAS",
+            "name": "Masbate",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-41",
+            "name": "Mimaropa (Region IV-B)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MDC",
+            "name": "Mindoro Occidental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MDR",
+            "name": "Mindoro Oriental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MSC",
+            "name": "Misamis Occidental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MSR",
+            "name": "Misamis Oriental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MOU",
+            "name": "Mountain Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-15"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-14",
+            "name": "Nagsasariling Rehiyon ng Muslim sa Mindanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-00",
+            "name": "National Capital Region",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NEC",
+            "name": "Negros Occidental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NER",
+            "name": "Negros Oriental",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-10",
+            "name": "Northern Mindanao (Region X)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NSA",
+            "name": "Northern Samar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NUE",
+            "name": "Nueva Ecija",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NUV",
+            "name": "Nueva Vizcaya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NUV",
+            "name": "Nuweva Biskaya",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NUE",
+            "name": "Nuweva Esiha",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PLW",
+            "name": "Palawan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PLW",
+            "name": "Palawan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-00",
+            "name": "Pambansang Punong Rehiyon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PAM",
+            "name": "Pampanga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PAM",
+            "name": "Pampanga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PAN",
+            "name": "Pangasinan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-PAN",
+            "name": "Pangasinan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DIN",
+            "name": "Pulo ng Dinagat",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-QUE",
+            "name": "Quezon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-QUI",
+            "name": "Quirino",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-02"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-15",
+            "name": "Rehiyon ng Administratibo ng Kordilyera",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-05",
+            "name": "Rehiyon ng Bikol",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-40",
+            "name": "Rehiyon ng Calabarzon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-11",
+            "name": "Rehiyon ng Dabaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-07",
+            "name": "Rehiyon ng Gitnang Bisaya",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-03",
+            "name": "Rehiyon ng Gitnang Luson",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-10",
+            "name": "Rehiyon ng Hilagang Mindanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-01",
+            "name": "Rehiyon ng Iloko",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-06",
+            "name": "Rehiyon ng Kanlurang Bisaya",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-13",
+            "name": "Rehiyon ng Karaga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-02",
+            "name": "Rehiyon ng Lambak ng Kagayan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-41",
+            "name": "Rehiyon ng Mimaropa",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-08",
+            "name": "Rehiyon ng Silangang Bisaya",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-12",
+            "name": "Rehiyon ng Soccsksargen",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-09",
+            "name": "Rehiyon ng Tangway ng Sambuwangga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-RIZ",
+            "name": "Risal",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-RIZ",
+            "name": "Rizal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ROM",
+            "name": "Romblon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ROM",
+            "name": "Romblon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-WSA",
+            "name": "Samar",
+            "local_variant": "Western Samar",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-WSA",
+            "name": "Samar",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZMB",
+            "name": "Sambales",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZSI",
+            "name": "Sambuwangga Sibugay",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SAR",
+            "name": "Sarangani",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SAR",
+            "name": "Sarangani",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CEB",
+            "name": "Sebu",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SIG",
+            "name": "Sikihor",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAO",
+            "name": "Silangang Dabaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MDR",
+            "name": "Silangang Mindoro",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-MSR",
+            "name": "Silangang Misamis",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-NER",
+            "name": "Silangang Negros",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-EAS",
+            "name": "Silangang Samar",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SIG",
+            "name": "Siquijor",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-07"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-12",
+            "name": "Soccsksargen (Region XII)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SOR",
+            "name": "Sorsogon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SOR",
+            "name": "Sorsogon",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SCO",
+            "name": "South Cotabato",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SLE",
+            "name": "Southern Leyte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUK",
+            "name": "Sultan Kudarat",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUK",
+            "name": "Sultan Kudarat",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SLU",
+            "name": "Sulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SLU",
+            "name": "Sulu",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUN",
+            "name": "Surigao del Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUR",
+            "name": "Surigao del Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-TAR",
+            "name": "Tarlac",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-TAR",
+            "name": "Tarlak",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-TAW",
+            "name": "Tawi-Tawi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-TAW",
+            "name": "Tawi-Tawi",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-AGS",
+            "name": "Timog Agusan",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-DAS",
+            "name": "Timog Dabaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ILS",
+            "name": "Timog Iloko",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-CAS",
+            "name": "Timog Kamarines",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SCO",
+            "name": "Timog Kotabato",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-LAS",
+            "name": "Timog Lanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZAS",
+            "name": "Timog Sambuwangga",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-SUR",
+            "name": "Timog Surigaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-13"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-06",
+            "name": "Western Visayas (Region VI)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZMB",
+            "name": "Zambales",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-03"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "PH-09",
+            "name": "Zamboanga Peninsula (Region IX)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZSI",
+            "name": "Zamboanga Sibugay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZAN",
+            "name": "Zamboanga del Norte",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PH-ZAS",
+            "name": "Zamboanga del Sur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "PH-09"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Philippines (the)"
+        },
+        {
+            "administrative_language_alpha2": "tl",
+            "administrative_language_alpha3": "tgl",
+            "local_short_name": "Pilipinas"
+        }
+    ]
+}

@@ -1,0 +1,867 @@
+{
+    "alpha2_code": "EE",
+    "short_name": "ESTONIA",
+    "short_name_lower_case": "Estonia",
+    "full_name": "the Republic of Estonia",
+    "alpha3_code": "EST",
+    "numeric_code": 233,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-130",
+            "name": "Alutaguse",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-141",
+            "name": "Anija",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-142",
+            "name": "Antsla",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-87"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-171",
+            "name": "Elva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-184",
+            "name": "Haapsalu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-56"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-191",
+            "name": "Haljala",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-37",
+            "name": "Harjumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-198",
+            "name": "Harku",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-39",
+            "name": "Hiiumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-205",
+            "name": "Hiiumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-39"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-214",
+            "name": "Häädemeeste",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-45",
+            "name": "Ida-Virumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-255",
+            "name": "Järva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-52"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-52",
+            "name": "Järvamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-245",
+            "name": "Jõelähtme",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-247",
+            "name": "Jõgeva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-50"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-50",
+            "name": "Jõgevamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-251",
+            "name": "Jõhvi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-272",
+            "name": "Kadrina",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-283",
+            "name": "Kambja",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-284",
+            "name": "Kanepi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-64"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-291",
+            "name": "Kastre",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-293",
+            "name": "Kehtna",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-71"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-296",
+            "name": "Keila",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-303",
+            "name": "Kihnu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-305",
+            "name": "Kiili",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-317",
+            "name": "Kohila",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-71"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-321",
+            "name": "Kohtla-Järve",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-338",
+            "name": "Kose",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-353",
+            "name": "Kuusalu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-424",
+            "name": "Loksa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-432",
+            "name": "Luunja",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-431",
+            "name": "Lääne-Harju",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-441",
+            "name": "Lääne-Nigula",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-56"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-60",
+            "name": "Lääne-Virumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-56",
+            "name": "Läänemaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-430",
+            "name": "Lääneranna",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-442",
+            "name": "Lüganuse",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-446",
+            "name": "Maardu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-478",
+            "name": "Muhu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-74"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-480",
+            "name": "Mulgi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-84"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-486",
+            "name": "Mustvee",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-50"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-503",
+            "name": "Märjamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-71"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-511",
+            "name": "Narva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-514",
+            "name": "Narva-Jõesuu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-528",
+            "name": "Nõo",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-557",
+            "name": "Otepää",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-81"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-567",
+            "name": "Paide",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-52"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-586",
+            "name": "Peipsiääre",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-624",
+            "name": "Pärnu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-68",
+            "name": "Pärnumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-638",
+            "name": "Põhja-Pärnumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-615",
+            "name": "Põhja-Sakala",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-84"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-618",
+            "name": "Põltsamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-50"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-622",
+            "name": "Põlva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-64"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-64",
+            "name": "Põlvamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-651",
+            "name": "Raasiku",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-653",
+            "name": "Rae",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-663",
+            "name": "Rakvere",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-661",
+            "name": "Rakvere",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-668",
+            "name": "Rapla",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-71"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-71",
+            "name": "Raplamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-689",
+            "name": "Ruhnu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-74"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-708",
+            "name": "Räpina",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-64"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-698",
+            "name": "Rõuge",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-87"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-712",
+            "name": "Saarde",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-74",
+            "name": "Saaremaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-714",
+            "name": "Saaremaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-74"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-719",
+            "name": "Saku",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-726",
+            "name": "Saue",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-732",
+            "name": "Setomaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-87"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-735",
+            "name": "Sillamäe",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-784",
+            "name": "Tallinn",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-792",
+            "name": "Tapa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-793",
+            "name": "Tartu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-796",
+            "name": "Tartu",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-79"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-79",
+            "name": "Tartumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-803",
+            "name": "Toila",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-45"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-809",
+            "name": "Tori",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-68"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-824",
+            "name": "Tõrva",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-81"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-834",
+            "name": "Türi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-52"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-855",
+            "name": "Valga",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-81"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-81",
+            "name": "Valgamaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-890",
+            "name": "Viimsi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-37"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-897",
+            "name": "Viljandi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-84"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-899",
+            "name": "Viljandi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-84"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-84",
+            "name": "Viljandimaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-901",
+            "name": "Vinni",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-903",
+            "name": "Viru-Nigula",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-907",
+            "name": "Vormsi",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-56"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-928",
+            "name": "Väike-Maarja",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-60"
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "EE-919",
+            "name": "Võru",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-87"
+        },
+        {
+            "category": "rural municipality",
+            "3166-2_code": "EE-917",
+            "name": "Võru",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": "EE-87"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "EE-87",
+            "name": "Võrumaa",
+            "local_variant": null,
+            "language_code": "et",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "et",
+            "administrative_language_alpha3": "est",
+            "local_short_name": "Eesti"
+        }
+    ]
+}

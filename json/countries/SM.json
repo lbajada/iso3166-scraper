@@ -1,0 +1,102 @@
+{
+    "alpha2_code": "SM",
+    "short_name": "SAN MARINO",
+    "short_name_lower_case": "San Marino",
+    "full_name": "the Republic of San Marino",
+    "alpha3_code": "SMR",
+    "numeric_code": 674,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-01",
+            "name": "Acquaviva",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-06",
+            "name": "Borgo Maggiore",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-02",
+            "name": "Chiesanuova",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-07",
+            "name": "Città di San Marino",
+            "local_variant": "San Marino",
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-03",
+            "name": "Domagnano",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-04",
+            "name": "Faetano",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-05",
+            "name": "Fiorentino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-08",
+            "name": "Montegiardino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SM-09",
+            "name": "Serravalle",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "it",
+            "administrative_language_alpha3": "ita",
+            "local_short_name": "San Marino"
+        }
+    ]
+}

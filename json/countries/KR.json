@@ -1,0 +1,174 @@
+{
+    "alpha2_code": "KR",
+    "short_name": "KOREA, REPUBLIC OF",
+    "short_name_lower_case": "Korea (the Republic of)",
+    "full_name": "the Republic of Korea",
+    "alpha3_code": "KOR",
+    "numeric_code": 410,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-26",
+            "name": "Busan-gwangyeoksi",
+            "local_variant": "Busan",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-43",
+            "name": "Chungcheongbuk-do",
+            "local_variant": "Chungbuk",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-44",
+            "name": "Chungcheongnam-do",
+            "local_variant": "Chungnam",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-27",
+            "name": "Daegu-gwangyeoksi",
+            "local_variant": "Daegu",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-30",
+            "name": "Daejeon-gwangyeoksi",
+            "local_variant": "Daejeon",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-42",
+            "name": "Gangwon-do",
+            "local_variant": "Gangwon",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-29",
+            "name": "Gwangju-gwangyeoksi",
+            "local_variant": "Gwangju",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-41",
+            "name": "Gyeonggi-do",
+            "local_variant": "Gyeonggi",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-47",
+            "name": "Gyeongsangbuk-do",
+            "local_variant": "Gyeongbuk",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-48",
+            "name": "Gyeongsangnam-do",
+            "local_variant": "Gyeongnam",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-28",
+            "name": "Incheon-gwangyeoksi",
+            "local_variant": "Incheon",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special self-governing province",
+            "3166-2_code": "KR-49",
+            "name": "Jeju-teukbyeoljachido",
+            "local_variant": "Jeju",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-45",
+            "name": "Jeollabuk-do",
+            "local_variant": "Jeonbuk",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KR-46",
+            "name": "Jeollanam-do",
+            "local_variant": "Jeonnam",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special self-governing city",
+            "3166-2_code": "KR-50",
+            "name": "Sejong",
+            "local_variant": null,
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special city",
+            "3166-2_code": "KR-11",
+            "name": "Seoul-teukbyeolsi",
+            "local_variant": "Seoul",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "KR-31",
+            "name": "Ulsan-gwangyeoksi",
+            "local_variant": "Ulsan",
+            "language_code": "ko",
+            "romanization_system": "National 2000",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ko",
+            "administrative_language_alpha3": "kor",
+            "local_short_name": "Hanguk"
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "alpha2_code": "BT",
+    "short_name": "BHUTAN",
+    "short_name_lower_case": "Bhutan",
+    "full_name": "the Kingdom of Bhutan",
+    "alpha3_code": "BTN",
+    "numeric_code": 64,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "BT-33",
+            "name": "Bumthang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-12",
+            "name": "Chhukha",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-22",
+            "name": "Dagana",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-GA",
+            "name": "Gasa",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-13",
+            "name": "Haa",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-44",
+            "name": "Lhuentse",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-42",
+            "name": "Monggar",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-11",
+            "name": "Paro",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-43",
+            "name": "Pema Gatshel",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-23",
+            "name": "Punakha",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-45",
+            "name": "Samdrup Jongkhar",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-14",
+            "name": "Samtse",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-31",
+            "name": "Sarpang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-15",
+            "name": "Thimphu",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-TY",
+            "name": "Trashi Yangtse",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-41",
+            "name": "Trashigang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-32",
+            "name": "Trongsa",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-21",
+            "name": "Tsirang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-24",
+            "name": "Wangdue Phodrang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "BT-34",
+            "name": "Zhemgang",
+            "local_variant": null,
+            "language_code": "dz",
+            "romanization_system": "National 1997",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "dz",
+            "administrative_language_alpha3": "dzo",
+            "local_short_name": "Druk-Yul"
+        }
+    ]
+}

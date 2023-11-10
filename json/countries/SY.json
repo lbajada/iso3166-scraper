@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "SY",
+    "short_name": "SYRIAN ARAB REPUBLIC",
+    "short_name_lower_case": "Syrian Arab Republic (the)",
+    "full_name": "the Syrian Arab Republic",
+    "alpha3_code": "SYR",
+    "numeric_code": 760,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "SY-LA",
+            "name": "Al Lādhiqīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-QU",
+            "name": "Al Qunayţirah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-HA",
+            "name": "Al Ḩasakah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-RA",
+            "name": "Ar Raqqah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-SU",
+            "name": "As Suwaydā'",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-DR",
+            "name": "Dar'ā",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-DY",
+            "name": "Dayr az Zawr",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-DI",
+            "name": "Dimashq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-ID",
+            "name": "Idlib",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-RD",
+            "name": "Rīf Dimashq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-TA",
+            "name": "Ţarţūs",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-HL",
+            "name": "Ḩalab",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-HM",
+            "name": "Ḩamāh",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SY-HI",
+            "name": "Ḩimş",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "alpha2_code": "GL",
+    "short_name": "GREENLAND",
+    "short_name_lower_case": "Greenland",
+    "full_name": null,
+    "alpha3_code": "GRL",
+    "numeric_code": 304,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "GL-AV",
+            "name": "Avannaata Kommunia",
+            "local_variant": null,
+            "language_code": "kl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "GL-KU",
+            "name": "Kommune Kujalleq",
+            "local_variant": null,
+            "language_code": "kl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "GL-QT",
+            "name": "Kommune Qeqertalik",
+            "local_variant": null,
+            "language_code": "kl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "GL-SM",
+            "name": "Kommuneqarfik Sermersooq",
+            "local_variant": null,
+            "language_code": "kl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "GL-QE",
+            "name": "Qeqqata Kommunia",
+            "local_variant": null,
+            "language_code": "kl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "da",
+            "administrative_language_alpha3": "dan",
+            "local_short_name": "Grønland"
+        },
+        {
+            "administrative_language_alpha2": "kl",
+            "administrative_language_alpha3": "kal",
+            "local_short_name": "Kalaallit Nunaat"
+        }
+    ]
+}

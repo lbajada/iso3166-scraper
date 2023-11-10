@@ -1,0 +1,315 @@
+{
+    "alpha2_code": "CH",
+    "short_name": "SWITZERLAND",
+    "short_name_lower_case": "Switzerland",
+    "full_name": "the Swiss Confederation",
+    "alpha3_code": "CHE",
+    "numeric_code": 756,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "canton",
+            "3166-2_code": "CH-AG",
+            "name": "Aargau",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-AR",
+            "name": "Appenzell Ausserrhoden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-AI",
+            "name": "Appenzell Innerrhoden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-BL",
+            "name": "Basel-Landschaft",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-BS",
+            "name": "Basel-Stadt",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-BE",
+            "name": "Bern",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-BE",
+            "name": "Berne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-FR",
+            "name": "Freiburg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-FR",
+            "name": "Fribourg",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-GE",
+            "name": "Genève",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-GL",
+            "name": "Glarus",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-GR",
+            "name": "Graubünden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-GR",
+            "name": "Grigioni",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-GR",
+            "name": "Grischun",
+            "local_variant": null,
+            "language_code": "rm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-JU",
+            "name": "Jura",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-LU",
+            "name": "Luzern",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-NE",
+            "name": "Neuchâtel",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-NW",
+            "name": "Nidwalden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-OW",
+            "name": "Obwalden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-SG",
+            "name": "Sankt Gallen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-SH",
+            "name": "Schaffhausen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-SZ",
+            "name": "Schwyz",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-SO",
+            "name": "Solothurn",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-TG",
+            "name": "Thurgau",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-TI",
+            "name": "Ticino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-UR",
+            "name": "Uri",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-VS",
+            "name": "Valais",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-VD",
+            "name": "Vaud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-VS",
+            "name": "Wallis",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-ZG",
+            "name": "Zug",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "CH-ZH",
+            "name": "Zürich",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Schweiz (die)"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Suisse (la)"
+        },
+        {
+            "administrative_language_alpha2": "it",
+            "administrative_language_alpha3": "ita",
+            "local_short_name": "Svizzera (la)"
+        },
+        {
+            "administrative_language_alpha2": "rm",
+            "administrative_language_alpha3": "roh",
+            "local_short_name": "Svizra (la)"
+        }
+    ]
+}

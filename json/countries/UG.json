@@ -1,0 +1,1272 @@
+{
+    "alpha2_code": "UG",
+    "short_name": "UGANDA",
+    "short_name_lower_case": "Uganda",
+    "full_name": "the Republic of Uganda",
+    "alpha3_code": "UGA",
+    "numeric_code": 800,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "UG-314",
+            "name": "Abim",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-301",
+            "name": "Adjumani",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-322",
+            "name": "Agago",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-323",
+            "name": "Alebtong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-315",
+            "name": "Amolatar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-324",
+            "name": "Amudat",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-216",
+            "name": "Amuria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-316",
+            "name": "Amuru",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-302",
+            "name": "Apac",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-303",
+            "name": "Arua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-217",
+            "name": "Budaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-218",
+            "name": "Bududa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-201",
+            "name": "Bugiri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-235",
+            "name": "Bugweri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-420",
+            "name": "Buhweju",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-117",
+            "name": "Buikwe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-219",
+            "name": "Bukedea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-118",
+            "name": "Bukomansibi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-220",
+            "name": "Bukwo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-225",
+            "name": "Bulambuli",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-416",
+            "name": "Buliisa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-401",
+            "name": "Bundibugyo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-430",
+            "name": "Bunyangabu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-402",
+            "name": "Bushenyi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-202",
+            "name": "Busia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-221",
+            "name": "Butaleja",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-119",
+            "name": "Butambala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-233",
+            "name": "Butebo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-120",
+            "name": "Buvuma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-226",
+            "name": "Buyende",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "UG-C",
+            "name": "Central",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-317",
+            "name": "Dokolo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "UG-E",
+            "name": "Eastern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-121",
+            "name": "Gomba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-304",
+            "name": "Gulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-403",
+            "name": "Hoima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-417",
+            "name": "Ibanda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-203",
+            "name": "Iganga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-418",
+            "name": "Isingiro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-204",
+            "name": "Jinja",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-318",
+            "name": "Kaabong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-404",
+            "name": "Kabale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-405",
+            "name": "Kabarole",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-213",
+            "name": "Kaberamaido",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-427",
+            "name": "Kagadi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-428",
+            "name": "Kakumiro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-237",
+            "name": "Kalaki",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-101",
+            "name": "Kalangala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-222",
+            "name": "Kaliro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-122",
+            "name": "Kalungu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "city",
+            "3166-2_code": "UG-102",
+            "name": "Kampala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-205",
+            "name": "Kamuli",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-413",
+            "name": "Kamwenge",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-414",
+            "name": "Kanungu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-206",
+            "name": "Kapchorwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-236",
+            "name": "Kapelebyong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-335",
+            "name": "Karenga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-126",
+            "name": "Kasanda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-406",
+            "name": "Kasese",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-207",
+            "name": "Katakwi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-112",
+            "name": "Kayunga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-433",
+            "name": "Kazo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-407",
+            "name": "Kibaale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-103",
+            "name": "Kiboga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-227",
+            "name": "Kibuku",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-432",
+            "name": "Kikuube",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-419",
+            "name": "Kiruhura",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-421",
+            "name": "Kiryandongo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-408",
+            "name": "Kisoro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-434",
+            "name": "Kitagwenda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-305",
+            "name": "Kitgum",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-319",
+            "name": "Koboko",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-325",
+            "name": "Kole",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-306",
+            "name": "Kotido",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-208",
+            "name": "Kumi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-333",
+            "name": "Kwania",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-228",
+            "name": "Kween",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-123",
+            "name": "Kyankwanzi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-422",
+            "name": "Kyegegwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-415",
+            "name": "Kyenjojo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-125",
+            "name": "Kyotera",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-326",
+            "name": "Lamwo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-307",
+            "name": "Lira",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-229",
+            "name": "Luuka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-104",
+            "name": "Luwero",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-124",
+            "name": "Lwengo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-114",
+            "name": "Lyantonde",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-336",
+            "name": "Madi-Okollo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-223",
+            "name": "Manafwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-320",
+            "name": "Maracha",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-105",
+            "name": "Masaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-409",
+            "name": "Masindi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-214",
+            "name": "Mayuge",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-209",
+            "name": "Mbale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-410",
+            "name": "Mbarara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-423",
+            "name": "Mitooma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-115",
+            "name": "Mityana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-308",
+            "name": "Moroto",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-309",
+            "name": "Moyo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-106",
+            "name": "Mpigi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-107",
+            "name": "Mubende",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-108",
+            "name": "Mukono",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-334",
+            "name": "Nabilatuk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-311",
+            "name": "Nakapiripirit",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-116",
+            "name": "Nakaseke",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-109",
+            "name": "Nakasongola",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-230",
+            "name": "Namayingo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-234",
+            "name": "Namisindwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-224",
+            "name": "Namutumba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-327",
+            "name": "Napak",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-310",
+            "name": "Nebbi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-231",
+            "name": "Ngora",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "UG-N",
+            "name": "Northern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-424",
+            "name": "Ntoroko",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-411",
+            "name": "Ntungamo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-328",
+            "name": "Nwoya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-337",
+            "name": "Obongi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-331",
+            "name": "Omoro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-329",
+            "name": "Otuke",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-321",
+            "name": "Oyam",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-312",
+            "name": "Pader",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-332",
+            "name": "Pakwach",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-210",
+            "name": "Pallisa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-110",
+            "name": "Rakai",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-429",
+            "name": "Rubanda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-425",
+            "name": "Rubirizi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-431",
+            "name": "Rukiga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-412",
+            "name": "Rukungiri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-435",
+            "name": "Rwampara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-111",
+            "name": "Sembabule",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-232",
+            "name": "Serere",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-426",
+            "name": "Sheema",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-W"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-215",
+            "name": "Sironko",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-211",
+            "name": "Soroti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-212",
+            "name": "Tororo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-E"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-113",
+            "name": "Wakiso",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-C"
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "UG-W",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-313",
+            "name": "Yumbe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "UG-330",
+            "name": "Zombo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "UG-N"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Uganda"
+        }
+    ]
+}

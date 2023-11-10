@@ -1,0 +1,210 @@
+{
+    "alpha2_code": "SE",
+    "short_name": "SWEDEN",
+    "short_name_lower_case": "Sweden",
+    "full_name": "the Kingdom of Sweden",
+    "alpha3_code": "SWE",
+    "numeric_code": 752,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "SE-K",
+            "name": "Blekinge län [SE-10]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-W",
+            "name": "Dalarnas län [SE-20]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-I",
+            "name": "Gotlands län [SE-09]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-X",
+            "name": "Gävleborgs län [SE-21]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-N",
+            "name": "Hallands län [SE-13]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-Z",
+            "name": "Jämtlands län [SE-23]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-F",
+            "name": "Jönköpings län [SE-06]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-H",
+            "name": "Kalmar län [SE-08]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-G",
+            "name": "Kronobergs län [SE-07]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-BD",
+            "name": "Norrbottens län [SE-25]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-M",
+            "name": "Skåne län [SE-12]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-AB",
+            "name": "Stockholms län [SE-01]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-D",
+            "name": "Södermanlands län [SE-04]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-C",
+            "name": "Uppsala län [SE-03]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-S",
+            "name": "Värmlands län [SE-17]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-AC",
+            "name": "Västerbottens län [SE-24]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-Y",
+            "name": "Västernorrlands län [SE-22]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-U",
+            "name": "Västmanlands län [SE-19]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-O",
+            "name": "Västra Götalands län [SE-14]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-T",
+            "name": "Örebro län [SE-18]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "SE-E",
+            "name": "Östergötlands län [SE-05]",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "sv",
+            "administrative_language_alpha3": "swe",
+            "local_short_name": "Sverige"
+        }
+    ]
+}

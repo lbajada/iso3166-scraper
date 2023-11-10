@@ -1,0 +1,229 @@
+{
+    "alpha2_code": "PG",
+    "short_name": "PAPUA NEW GUINEA",
+    "short_name_lower_case": "Papua New Guinea",
+    "full_name": "the Independent State of Papua New Guinea",
+    "alpha3_code": "PNG",
+    "numeric_code": 598,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Bismarck Archipelago, Bougainville (principal island), Solomon Islands, Northern",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "autonomous region",
+            "3166-2_code": "PG-NSB",
+            "name": "Bougainville",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-CPM",
+            "name": "Central",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-CPK",
+            "name": "Chimbu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-EBR",
+            "name": "East New Britain",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-ESW",
+            "name": "East Sepik",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-EHG",
+            "name": "Eastern Highlands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-EPW",
+            "name": "Enga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-GPK",
+            "name": "Gulf",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-HLA",
+            "name": "Hela",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-JWK",
+            "name": "Jiwaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-MPM",
+            "name": "Madang",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-MRL",
+            "name": "Manus",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-MBA",
+            "name": "Milne Bay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-MPL",
+            "name": "Morobe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PG-NCD",
+            "name": "National Capital District (Port Moresby)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-NIK",
+            "name": "New Ireland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-NPP",
+            "name": "Northern",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-SHM",
+            "name": "Southern Highlands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-WBK",
+            "name": "West New Britain",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-SAN",
+            "name": "West Sepik",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-WPD",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PG-WHM",
+            "name": "Western Highlands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Papua New Guinea"
+        },
+        {
+            "administrative_language_alpha2": "ho",
+            "administrative_language_alpha3": "hmo",
+            "local_short_name": "Papuaniugini"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "tpi",
+            "local_short_name": "Papuaniugini"
+        }
+    ]
+}

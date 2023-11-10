@@ -1,0 +1,57 @@
+{
+    "alpha2_code": "FM",
+    "short_name": "MICRONESIA (FEDERATED STATES OF)",
+    "short_name_lower_case": "Micronesia (Federated States of)",
+    "full_name": "the Federated States of Micronesia",
+    "alpha3_code": "FSM",
+    "numeric_code": 583,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Caroline Islands , Chuuk, Kosrae, Pohnpei, Yap",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "state",
+            "3166-2_code": "FM-TRK",
+            "name": "Chuuk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "FM-KSA",
+            "name": "Kosrae",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "FM-PNI",
+            "name": "Pohnpei",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "FM-YAP",
+            "name": "Yap",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Micronesia (Federated States of)"
+        }
+    ]
+}

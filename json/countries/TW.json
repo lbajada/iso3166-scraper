@@ -1,0 +1,219 @@
+{
+    "alpha2_code": "TW",
+    "short_name": "TAIWAN, PROVINCE OF CHINA",
+    "short_name_lower_case": "Taiwan (Province of China)",
+    "full_name": null,
+    "alpha3_code": "TWN",
+    "numeric_code": 158,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Penghu (Pescadores) Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "TW-CHA",
+            "name": "Changhua",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TW-CYI",
+            "name": "Chiayi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-CYQ",
+            "name": "Chiayi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TW-HSZ",
+            "name": "Hsinchu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-HSQ",
+            "name": "Hsinchu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-HUA",
+            "name": "Hualien",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-KHH",
+            "name": "Kaohsiung",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TW-KEE",
+            "name": "Keelung",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-KIN",
+            "name": "Kinmen",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-LIE",
+            "name": "Lienchiang",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-MIA",
+            "name": "Miaoli",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-NAN",
+            "name": "Nantou",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-NWT",
+            "name": "New Taipei",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-PEN",
+            "name": "Penghu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-PIF",
+            "name": "Pingtung",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-TXG",
+            "name": "Taichung",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-TNN",
+            "name": "Tainan",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-TPE",
+            "name": "Taipei",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-TTT",
+            "name": "Taitung",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special municipality",
+            "3166-2_code": "TW-TAO",
+            "name": "Taoyuan",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-ILA",
+            "name": "Yilan",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "TW-YUN",
+            "name": "Yunlin",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "zh",
+            "administrative_language_alpha3": "zho",
+            "local_short_name": "Taiwan"
+        }
+    ]
+}

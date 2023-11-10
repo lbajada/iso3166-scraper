@@ -1,0 +1,84 @@
+{
+    "alpha2_code": "CR",
+    "short_name": "COSTA RICA",
+    "short_name_lower_case": "Costa Rica",
+    "full_name": "the Republic of Costa Rica",
+    "alpha3_code": "CRI",
+    "numeric_code": 188,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Coco Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "CR-A",
+            "name": "Alajuela",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-C",
+            "name": "Cartago",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-G",
+            "name": "Guanacaste",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-H",
+            "name": "Heredia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-L",
+            "name": "Limón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-P",
+            "name": "Puntarenas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CR-SJ",
+            "name": "San José",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Costa Rica"
+        }
+    ]
+}

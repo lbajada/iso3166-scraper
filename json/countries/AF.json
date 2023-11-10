@@ -1,0 +1,638 @@
+{
+    "alpha2_code": "AF",
+    "short_name": "AFGHANISTAN",
+    "short_name_lower_case": "Afghanistan",
+    "full_name": "the Islamic Republic of Afghanistan",
+    "alpha3_code": "AFG",
+    "numeric_code": 4,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "AF-BDS",
+            "name": "Badakhshān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BDS",
+            "name": "Badakhshān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BGL",
+            "name": "Baghlān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BGL",
+            "name": "Baghlān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BAL",
+            "name": "Balkh",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BAL",
+            "name": "Balkh",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BDG",
+            "name": "Bādghīs",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BDG",
+            "name": "Bādghīs",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BAM",
+            "name": "Bāmyān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-BAM",
+            "name": "Bāmyān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-DAY",
+            "name": "Dāykundī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-DAY",
+            "name": "Dāykundī",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-FRA",
+            "name": "Farāh",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-FRA",
+            "name": "Farāh",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-FYB",
+            "name": "Fāryāb",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-FYB",
+            "name": "Fāryāb",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-GHA",
+            "name": "Ghaznī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-GHA",
+            "name": "Ghaznī",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-GHO",
+            "name": "Ghōr",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-GHO",
+            "name": "Ghōr",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-HEL",
+            "name": "Helmand",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-HEL",
+            "name": "Helmand",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-HER",
+            "name": "Herāt",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-HER",
+            "name": "Herāt",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-JOW",
+            "name": "Jowzjān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-JOW",
+            "name": "Jowzjān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAN",
+            "name": "Kandahār",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAN",
+            "name": "Kandahār",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KHO",
+            "name": "Khōst",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KHO",
+            "name": "Khōst",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KNR",
+            "name": "Kunaṟ",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KNR",
+            "name": "Kunaṟ",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KDZ",
+            "name": "Kunduz",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KDZ",
+            "name": "Kunduz",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAB",
+            "name": "Kābul",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAB",
+            "name": "Kābul",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAP",
+            "name": "Kāpīsā",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-KAP",
+            "name": "Kāpīsā",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-LAG",
+            "name": "Laghmān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-LAG",
+            "name": "Laghmān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-LOG",
+            "name": "Lōgar",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-LOG",
+            "name": "Lōgar",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NAN",
+            "name": "Nangarhār",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NAN",
+            "name": "Nangarhār",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NIM",
+            "name": "Nīmrōz",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NIM",
+            "name": "Nīmrōz",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NUR",
+            "name": "Nūristān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-NUR",
+            "name": "Nūristān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PIA",
+            "name": "Paktiyā",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PIA",
+            "name": "Paktiyā",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PKA",
+            "name": "Paktīkā",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PKA",
+            "name": "Paktīkā",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PAN",
+            "name": "Panjshayr",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PAN",
+            "name": "Panjshayr",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PAR",
+            "name": "Parwān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-PAR",
+            "name": "Parwān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-SAM",
+            "name": "Samangān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-SAM",
+            "name": "Samangān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-SAR",
+            "name": "Sar-e Pul",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-SAR",
+            "name": "Sar-e Pul",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-TAK",
+            "name": "Takhār",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-TAK",
+            "name": "Takhār",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-URU",
+            "name": "Uruzgān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-URU",
+            "name": "Uruzgān",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-WAR",
+            "name": "Wardak",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-WAR",
+            "name": "Wardak",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-ZAB",
+            "name": "Zābul",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "AF-ZAB",
+            "name": "Zābul",
+            "local_variant": null,
+            "language_code": "ps",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fa",
+            "administrative_language_alpha3": "fas",
+            "local_short_name": "Afghānistān"
+        },
+        {
+            "administrative_language_alpha2": "ps",
+            "administrative_language_alpha3": "pus",
+            "local_short_name": "Afghānistān"
+        }
+    ]
+}

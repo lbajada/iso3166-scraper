@@ -1,0 +1,1250 @@
+{
+    "alpha2_code": "MT",
+    "short_name": "MALTA",
+    "short_name_lower_case": "Malta",
+    "full_name": "the Republic of Malta",
+    "alpha3_code": "MLT",
+    "numeric_code": 470,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "local council",
+            "3166-2_code": "MT-01",
+            "name": "Attard",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-01",
+            "name": "Attard",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-02",
+            "name": "Balzan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-02",
+            "name": "Balzan",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-03",
+            "name": "Birgu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-03",
+            "name": "Birgu",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-04",
+            "name": "Birkirkara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-04",
+            "name": "Birkirkara",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-05",
+            "name": "Birżebbuġa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-05",
+            "name": "Birżebbuġa",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-06",
+            "name": "Bormla",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-06",
+            "name": "Bormla",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-07",
+            "name": "Dingli",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-07",
+            "name": "Dingli",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-08",
+            "name": "Fgura",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-08",
+            "name": "Fgura",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-09",
+            "name": "Floriana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-09",
+            "name": "Floriana",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-10",
+            "name": "Fontana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-10",
+            "name": "Fontana",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-11",
+            "name": "Gudja",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-11",
+            "name": "Gudja",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-13",
+            "name": "Għajnsielem",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-13",
+            "name": "Għajnsielem",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-14",
+            "name": "Għarb",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-14",
+            "name": "Għarb",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-15",
+            "name": "Għargħur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-15",
+            "name": "Għargħur",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-16",
+            "name": "Għasri",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-16",
+            "name": "Għasri",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-17",
+            "name": "Għaxaq",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-17",
+            "name": "Għaxaq",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-12",
+            "name": "Gżira",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-12",
+            "name": "Gżira",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-19",
+            "name": "Iklin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-19",
+            "name": "Iklin",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-20",
+            "name": "Isla",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-20",
+            "name": "Isla",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-21",
+            "name": "Kalkara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-21",
+            "name": "Kalkara",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-22",
+            "name": "Kerċem",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-22",
+            "name": "Kerċem",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-23",
+            "name": "Kirkop",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-23",
+            "name": "Kirkop",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-24",
+            "name": "Lija",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-24",
+            "name": "Lija",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-25",
+            "name": "Luqa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-25",
+            "name": "Luqa",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-26",
+            "name": "Marsa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-26",
+            "name": "Marsa",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-27",
+            "name": "Marsaskala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-27",
+            "name": "Marsaskala",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-28",
+            "name": "Marsaxlokk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-28",
+            "name": "Marsaxlokk",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-29",
+            "name": "Mdina",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-29",
+            "name": "Mdina",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-30",
+            "name": "Mellieħa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-30",
+            "name": "Mellieħa",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-32",
+            "name": "Mosta",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-32",
+            "name": "Mosta",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-33",
+            "name": "Mqabba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-33",
+            "name": "Mqabba",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-34",
+            "name": "Msida",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-34",
+            "name": "Msida",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-35",
+            "name": "Mtarfa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-35",
+            "name": "Mtarfa",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-36",
+            "name": "Munxar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-36",
+            "name": "Munxar",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-31",
+            "name": "Mġarr",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-31",
+            "name": "Mġarr",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-37",
+            "name": "Nadur",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-37",
+            "name": "Nadur",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-38",
+            "name": "Naxxar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-38",
+            "name": "Naxxar",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-39",
+            "name": "Paola",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-39",
+            "name": "Paola",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-40",
+            "name": "Pembroke",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-40",
+            "name": "Pembroke",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-41",
+            "name": "Pietà",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-41",
+            "name": "Pietà",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-42",
+            "name": "Qala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-42",
+            "name": "Qala",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-43",
+            "name": "Qormi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-43",
+            "name": "Qormi",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-44",
+            "name": "Qrendi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-44",
+            "name": "Qrendi",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-45",
+            "name": "Rabat Gozo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-45",
+            "name": "Rabat Għawdex",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-46",
+            "name": "Rabat Malta",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-46",
+            "name": "Rabat Malta",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-47",
+            "name": "Safi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-47",
+            "name": "Safi",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-49",
+            "name": "Saint John",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-48",
+            "name": "Saint Julian's",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-50",
+            "name": "Saint Lawrence",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-53",
+            "name": "Saint Lucia's",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-51",
+            "name": "Saint Paul's Bay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-50",
+            "name": "San Lawrenz",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-51",
+            "name": "San Pawl il-Baħar",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-48",
+            "name": "San Ġiljan",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-49",
+            "name": "San Ġwann",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-52",
+            "name": "Sannat",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-52",
+            "name": "Sannat",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-53",
+            "name": "Santa Luċija",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-54",
+            "name": "Santa Venera",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-54",
+            "name": "Santa Venera",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-55",
+            "name": "Siġġiewi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-55",
+            "name": "Siġġiewi",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-56",
+            "name": "Sliema",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-56",
+            "name": "Sliema",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-57",
+            "name": "Swieqi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-57",
+            "name": "Swieqi",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-58",
+            "name": "Ta' Xbiex",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-58",
+            "name": "Ta' Xbiex",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-59",
+            "name": "Tarxien",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-59",
+            "name": "Tarxien",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-60",
+            "name": "Valletta",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-60",
+            "name": "Valletta",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-61",
+            "name": "Xagħra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-61",
+            "name": "Xagħra",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-62",
+            "name": "Xewkija",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-62",
+            "name": "Xewkija",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-63",
+            "name": "Xgħajra",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-63",
+            "name": "Xgħajra",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-18",
+            "name": "Ħamrun",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-18",
+            "name": "Ħamrun",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-64",
+            "name": "Żabbar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-64",
+            "name": "Żabbar",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-65",
+            "name": "Żebbuġ Gozo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-65",
+            "name": "Żebbuġ Għawdex",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-66",
+            "name": "Żebbuġ Malta",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-66",
+            "name": "Żebbuġ Malta",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-67",
+            "name": "Żejtun",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-67",
+            "name": "Żejtun",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-68",
+            "name": "Żurrieq",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "local council",
+            "3166-2_code": "MT-68",
+            "name": "Żurrieq",
+            "local_variant": null,
+            "language_code": "mt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Malta"
+        },
+        {
+            "administrative_language_alpha2": "mt",
+            "administrative_language_alpha3": "mlt",
+            "local_short_name": "Malta"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "alpha2_code": "SZ",
+    "short_name": "ESWATINI",
+    "short_name_lower_case": "Eswatini",
+    "full_name": "the Kingdom of Eswatini",
+    "alpha3_code": "SWZ",
+    "numeric_code": 748,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "SZ-HH",
+            "name": "Hhohho",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-HH",
+            "name": "Hhohho",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-LU",
+            "name": "Lubombo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-LU",
+            "name": "Lubombo",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-MA",
+            "name": "Manzini",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-MA",
+            "name": "Manzini",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-SH",
+            "name": "Shiselweni",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SZ-SH",
+            "name": "Shiselweni",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Eswatini"
+        },
+        {
+            "administrative_language_alpha2": "ss",
+            "administrative_language_alpha3": "ssw",
+            "local_short_name": "eSwatini"
+        }
+    ]
+}

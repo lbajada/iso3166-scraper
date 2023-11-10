@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "TC",
+    "short_name": "TURKS AND CAICOS ISLANDS",
+    "short_name_lower_case": "Turks and Caicos Islands (the)",
+    "full_name": null,
+    "alpha3_code": "TCA",
+    "numeric_code": 796,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Caicos Islands",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Turks and Caicos Islands (the)"
+        }
+    ]
+}

@@ -1,0 +1,2010 @@
+{
+    "alpha2_code": "GB",
+    "short_name": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND",
+    "short_name_lower_case": "United Kingdom of Great Britain and Northern Ireland (the)",
+    "full_name": "the United Kingdom of Great Britain and Northern Ireland",
+    "alpha3_code": "GBR",
+    "numeric_code": 826,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ABE",
+            "name": "Aberdeen City",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ABD",
+            "name": "Aberdeenshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ANS",
+            "name": "Angus",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-ANN",
+            "name": "Antrim and Newtownabbey",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-AND",
+            "name": "Ards and North Down",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-AGB",
+            "name": "Argyll and Bute",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-ABC",
+            "name": "Armagh City, Banbridge and Craigavon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-BDG",
+            "name": "Barking and Dagenham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-BNE",
+            "name": "Barnet",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-BNS",
+            "name": "Barnsley",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BAS",
+            "name": "Bath and North East Somerset",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BDF",
+            "name": "Bedford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-BFS",
+            "name": "Belfast City",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-BEX",
+            "name": "Bexley",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-BIR",
+            "name": "Birmingham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BBD",
+            "name": "Blackburn with Darwen",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BPL",
+            "name": "Blackpool",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BGW",
+            "name": "Blaenau Gwent",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-BOL",
+            "name": "Bolton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BCP",
+            "name": "Bournemouth, Christchurch and Poole",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BRC",
+            "name": "Bracknell Forest",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-BRD",
+            "name": "Bradford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-BEN",
+            "name": "Brent",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BGE",
+            "name": "Bridgend [Pen-y-bont ar Ogwr GB-POG]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BNH",
+            "name": "Brighton and Hove",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BST",
+            "name": "Bristol, City of",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-BRY",
+            "name": "Bromley",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-BKM",
+            "name": "Buckinghamshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-BUR",
+            "name": "Bury",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CAY",
+            "name": "Caerphilly [Caerffili GB-CAF]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-CLD",
+            "name": "Calderdale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-CAM",
+            "name": "Cambridgeshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-CMD",
+            "name": "Camden",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CRF",
+            "name": "Cardiff [Caerdydd GB-CRD]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CMN",
+            "name": "Carmarthenshire [Sir Gaerfyrddin GB-GFY]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-CCG",
+            "name": "Causeway Coast and Glens",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CBF",
+            "name": "Central Bedfordshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CGN",
+            "name": "Ceredigion [Sir Ceredigion]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CHE",
+            "name": "Cheshire East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CHW",
+            "name": "Cheshire West and Chester",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-CLK",
+            "name": "Clackmannanshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CWY",
+            "name": "Conwy",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-CON",
+            "name": "Cornwall",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-COV",
+            "name": "Coventry",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-CRY",
+            "name": "Croydon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-CMA",
+            "name": "Cumbria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-DAL",
+            "name": "Darlington",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-DEN",
+            "name": "Denbighshire [Sir Ddinbych GB-DDB]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-DER",
+            "name": "Derby",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-DBY",
+            "name": "Derbyshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-DRS",
+            "name": "Derry and Strabane",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-DEV",
+            "name": "Devon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-DNC",
+            "name": "Doncaster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-DOR",
+            "name": "Dorset",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-DUD",
+            "name": "Dudley",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-DGY",
+            "name": "Dumfries and Galloway",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-DND",
+            "name": "Dundee City",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-DUR",
+            "name": "Durham, County",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-EAL",
+            "name": "Ealing",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-EAY",
+            "name": "East Ayrshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-EDU",
+            "name": "East Dunbartonshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ELN",
+            "name": "East Lothian",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ERW",
+            "name": "East Renfrewshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-ERY",
+            "name": "East Riding of Yorkshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-ESX",
+            "name": "East Sussex",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-EDH",
+            "name": "Edinburgh, City of",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ELS",
+            "name": "Eilean Siar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-ENF",
+            "name": "Enfield",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "country",
+            "3166-2_code": "GB-ENG",
+            "name": "England",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-ESS",
+            "name": "Essex",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-FAL",
+            "name": "Falkirk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-FMO",
+            "name": "Fermanagh and Omagh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-FIF",
+            "name": "Fife",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-FLN",
+            "name": "Flintshire [Sir y Fflint GB-FFL]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-GAT",
+            "name": "Gateshead",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-GLG",
+            "name": "Glasgow City",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-GLS",
+            "name": "Gloucestershire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-GRE",
+            "name": "Greenwich",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-GWN",
+            "name": "Gwynedd",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HCK",
+            "name": "Hackney",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-HAL",
+            "name": "Halton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HMF",
+            "name": "Hammersmith and Fulham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-HAM",
+            "name": "Hampshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HRY",
+            "name": "Haringey",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HRW",
+            "name": "Harrow",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-HPL",
+            "name": "Hartlepool",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HAV",
+            "name": "Havering",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-HEF",
+            "name": "Herefordshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-HRT",
+            "name": "Hertfordshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-HLD",
+            "name": "Highland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HIL",
+            "name": "Hillingdon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-HNS",
+            "name": "Hounslow",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-IVC",
+            "name": "Inverclyde",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-AGY",
+            "name": "Isle of Anglesey [Sir Ynys Môn GB-YNM]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-IOW",
+            "name": "Isle of Wight",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-IOS",
+            "name": "Isles of Scilly",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-ISL",
+            "name": "Islington",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-KEC",
+            "name": "Kensington and Chelsea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-KEN",
+            "name": "Kent",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-KHL",
+            "name": "Kingston upon Hull",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-KTT",
+            "name": "Kingston upon Thames",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-KIR",
+            "name": "Kirklees",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-KWL",
+            "name": "Knowsley",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-LBH",
+            "name": "Lambeth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-LAN",
+            "name": "Lancashire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-LDS",
+            "name": "Leeds",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-LCE",
+            "name": "Leicester",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-LEC",
+            "name": "Leicestershire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-LEW",
+            "name": "Lewisham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-LIN",
+            "name": "Lincolnshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-LBC",
+            "name": "Lisburn and Castlereagh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-LIV",
+            "name": "Liverpool",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "city corporation",
+            "3166-2_code": "GB-LND",
+            "name": "London, City of",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-LUT",
+            "name": "Luton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-MAN",
+            "name": "Manchester",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-MDW",
+            "name": "Medway",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-MTY",
+            "name": "Merthyr Tydfil [Merthyr Tudful GB-MTU]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-MRT",
+            "name": "Merton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-MEA",
+            "name": "Mid and East Antrim",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-MUL",
+            "name": "Mid-Ulster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-MDB",
+            "name": "Middlesbrough",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-MLN",
+            "name": "Midlothian",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-MIK",
+            "name": "Milton Keynes",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-MON",
+            "name": "Monmouthshire [Sir Fynwy GB-FYN]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-MRY",
+            "name": "Moray",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NTL",
+            "name": "Neath Port Talbot [Castell-nedd Port Talbot GB-CTL]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-NET",
+            "name": "Newcastle upon Tyne",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-NWM",
+            "name": "Newham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NWP",
+            "name": "Newport [Casnewydd GB-CNW]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "GB-NMD",
+            "name": "Newry, Mourne and Down",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-NIR"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-NFK",
+            "name": "Norfolk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-NAY",
+            "name": "North Ayrshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NEL",
+            "name": "North East Lincolnshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-NLK",
+            "name": "North Lanarkshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NLN",
+            "name": "North Lincolnshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NNH",
+            "name": "North Northamptonshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NSM",
+            "name": "North Somerset",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-NTY",
+            "name": "North Tyneside",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-NYK",
+            "name": "North Yorkshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GB-NIR",
+            "name": "Northern Ireland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NBL",
+            "name": "Northumberland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-NGM",
+            "name": "Nottingham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-NTT",
+            "name": "Nottinghamshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-OLD",
+            "name": "Oldham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ORK",
+            "name": "Orkney Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-OXF",
+            "name": "Oxfordshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-PEM",
+            "name": "Pembrokeshire [Sir Benfro GB-BNF]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-PKN",
+            "name": "Perth and Kinross",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-PTE",
+            "name": "Peterborough",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-PLY",
+            "name": "Plymouth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-POR",
+            "name": "Portsmouth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-POW",
+            "name": "Powys",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-RDG",
+            "name": "Reading",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-RDB",
+            "name": "Redbridge",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-RCC",
+            "name": "Redcar and Cleveland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-RFW",
+            "name": "Renfrewshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-RCT",
+            "name": "Rhondda Cynon Taff [Rhondda CynonTaf]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-RIC",
+            "name": "Richmond upon Thames",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-RCH",
+            "name": "Rochdale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-ROT",
+            "name": "Rotherham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-RUT",
+            "name": "Rutland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SLF",
+            "name": "Salford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SAW",
+            "name": "Sandwell",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "country",
+            "3166-2_code": "GB-SCT",
+            "name": "Scotland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-SCB",
+            "name": "Scottish Borders",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SFT",
+            "name": "Sefton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SHF",
+            "name": "Sheffield",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-ZET",
+            "name": "Shetland Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SHR",
+            "name": "Shropshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SLG",
+            "name": "Slough",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SOL",
+            "name": "Solihull",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-SOM",
+            "name": "Somerset",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-SAY",
+            "name": "South Ayrshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SGC",
+            "name": "South Gloucestershire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-SLK",
+            "name": "South Lanarkshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-STY",
+            "name": "South Tyneside",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-STH",
+            "name": "Southampton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SOS",
+            "name": "Southend-on-Sea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-SWK",
+            "name": "Southwark",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SHN",
+            "name": "St. Helens",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-STS",
+            "name": "Staffordshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-STG",
+            "name": "Stirling",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SKP",
+            "name": "Stockport",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-STT",
+            "name": "Stockton-on-Tees",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-STE",
+            "name": "Stoke-on-Trent",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-SFK",
+            "name": "Suffolk",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-SND",
+            "name": "Sunderland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-SRY",
+            "name": "Surrey",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-STN",
+            "name": "Sutton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SWA",
+            "name": "Swansea [Abertawe GB-ATA]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-SWD",
+            "name": "Swindon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-TAM",
+            "name": "Tameside",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-TFW",
+            "name": "Telford and Wrekin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-THR",
+            "name": "Thurrock",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-TOB",
+            "name": "Torbay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-TOF",
+            "name": "Torfaen [Tor-faen]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-TWH",
+            "name": "Tower Hamlets",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-TRF",
+            "name": "Trafford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-VGL",
+            "name": "Vale of Glamorgan, The [Bro Morgannwg GB-BMG]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-WKF",
+            "name": "Wakefield",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "country",
+            "3166-2_code": "GB-WLS",
+            "name": "Wales [Cymru GB-CYM]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-WLL",
+            "name": "Walsall",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-WFT",
+            "name": "Waltham Forest",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-WND",
+            "name": "Wandsworth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WRT",
+            "name": "Warrington",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-WAR",
+            "name": "Warwickshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WBK",
+            "name": "West Berkshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-WDU",
+            "name": "West Dunbartonshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "council area",
+            "3166-2_code": "GB-WLN",
+            "name": "West Lothian",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-SCT"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WNH",
+            "name": "West Northamptonshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-WSX",
+            "name": "West Sussex",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "London borough",
+            "3166-2_code": "GB-WSM",
+            "name": "Westminster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-WGN",
+            "name": "Wigan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WIL",
+            "name": "Wiltshire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WNM",
+            "name": "Windsor and Maidenhead",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-WRL",
+            "name": "Wirral",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WOK",
+            "name": "Wokingham",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "metropolitan district",
+            "3166-2_code": "GB-WLV",
+            "name": "Wolverhampton",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "two-tier county",
+            "3166-2_code": "GB-WOR",
+            "name": "Worcestershire",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-WRX",
+            "name": "Wrexham [Wrecsam GB-WRC]",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-WLS"
+        },
+        {
+            "category": "unitary authority",
+            "3166-2_code": "GB-YOR",
+            "name": "York",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "GB-ENG"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "United Kingdom of Great Britain and Northern Ireland (the)"
+        }
+    ]
+}

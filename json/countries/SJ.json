@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "SJ",
+    "short_name": "SVALBARD AND JAN MAYEN",
+    "short_name_lower_case": "Svalbard and Jan Mayen",
+    "full_name": null,
+    "alpha3_code": "SJM",
+    "numeric_code": 744,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Bear Island , Jan Mayen",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nn",
+            "administrative_language_alpha3": "nno",
+            "local_short_name": "Svalbard og Jan Mayen"
+        },
+        {
+            "administrative_language_alpha2": "nb",
+            "administrative_language_alpha3": "nob",
+            "local_short_name": "Svalbard og Jan Mayen"
+        }
+    ]
+}

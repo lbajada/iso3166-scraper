@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "GF",
+    "short_name": "FRENCH GUIANA",
+    "short_name_lower_case": "French Guiana",
+    "full_name": null,
+    "alpha3_code": "GUF",
+    "numeric_code": 254,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Guyane française (la )"
+        }
+    ]
+}

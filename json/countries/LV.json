@@ -1,0 +1,408 @@
+{
+    "alpha2_code": "LV",
+    "short_name": "LATVIA",
+    "short_name_lower_case": "Latvia",
+    "full_name": "the Republic of Latvia",
+    "alpha3_code": "LVA",
+    "numeric_code": 428,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-002",
+            "name": "Aizkraukles novads",
+            "local_variant": "Aizkraukle",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-007",
+            "name": "Alūksnes novads",
+            "local_variant": "Alūksne",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-111",
+            "name": "Augšdaugavas novads",
+            "local_variant": "Augšdaugava",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-015",
+            "name": "Balvu novads",
+            "local_variant": "Balvi",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-016",
+            "name": "Bauskas novads",
+            "local_variant": "Bauska",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-022",
+            "name": "Cēsu novads",
+            "local_variant": "Cēsis",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-DGV",
+            "name": "Daugavpils",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-112",
+            "name": "Dienvidkurzemes Novads",
+            "local_variant": "Dienvidkurzeme",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-026",
+            "name": "Dobeles novads",
+            "local_variant": "Dobele",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-033",
+            "name": "Gulbenes novads",
+            "local_variant": "Gulbene",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-JEL",
+            "name": "Jelgava",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-041",
+            "name": "Jelgavas novads",
+            "local_variant": "Jelgava",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-042",
+            "name": "Jēkabpils novads",
+            "local_variant": "Jēkabpils",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-JUR",
+            "name": "Jūrmala",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-047",
+            "name": "Krāslavas novads",
+            "local_variant": "Krāslava",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-050",
+            "name": "Kuldīgas novads",
+            "local_variant": "Kuldīga",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-LPX",
+            "name": "Liepāja",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-054",
+            "name": "Limbažu novads",
+            "local_variant": "Limbaži",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-058",
+            "name": "Ludzas novads",
+            "local_variant": "Ludza",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-056",
+            "name": "Līvānu novads",
+            "local_variant": "Līvāni",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-059",
+            "name": "Madonas novads",
+            "local_variant": "Madona",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-062",
+            "name": "Mārupes novads",
+            "local_variant": "Mārupe",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-067",
+            "name": "Ogres novads",
+            "local_variant": "Ogre",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-068",
+            "name": "Olaines novads",
+            "local_variant": "Olaine",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-073",
+            "name": "Preiļu novads",
+            "local_variant": "Preiļi",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-080",
+            "name": "Ropažu novads",
+            "local_variant": "Ropaži",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-REZ",
+            "name": "Rēzekne",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-077",
+            "name": "Rēzeknes novads",
+            "local_variant": "Rēzekne",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-RIX",
+            "name": "Rīga",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-087",
+            "name": "Salaspils novads",
+            "local_variant": "Salaspils",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-088",
+            "name": "Saldus novads",
+            "local_variant": "Saldus",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-089",
+            "name": "Saulkrastu novads",
+            "local_variant": "Saulkrasti",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-091",
+            "name": "Siguldas novads",
+            "local_variant": "Sigulda",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-094",
+            "name": "Smiltenes novads",
+            "local_variant": "Smiltene",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-097",
+            "name": "Talsu novads",
+            "local_variant": "Talsi",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-099",
+            "name": "Tukuma novads",
+            "local_variant": "Tukums",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-101",
+            "name": "Valkas novads",
+            "local_variant": "Valka",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-113",
+            "name": "Valmieras Novads",
+            "local_variant": "Valmiera",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-102",
+            "name": "Varakļānu novads",
+            "local_variant": "Varakļāni",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state city",
+            "3166-2_code": "LV-VEN",
+            "name": "Ventspils",
+            "local_variant": null,
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-106",
+            "name": "Ventspils novads",
+            "local_variant": "Ventspils",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-011",
+            "name": "Ādažu novads",
+            "local_variant": "Ādaži",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LV-052",
+            "name": "Ķekavas novads",
+            "local_variant": "Ķekava",
+            "language_code": "lv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "lv",
+            "administrative_language_alpha3": "lav",
+            "local_short_name": "Latvija"
+        }
+    ]
+}

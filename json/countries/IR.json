@@ -1,0 +1,300 @@
+{
+    "alpha2_code": "IR",
+    "short_name": "IRAN (ISLAMIC REPUBLIC OF)",
+    "short_name_lower_case": "Iran (Islamic Republic of)",
+    "full_name": "the Islamic Republic of Iran",
+    "alpha3_code": "IRN",
+    "numeric_code": 364,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "IR-30",
+            "name": "Alborz",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-24",
+            "name": "Ardabīl",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-18",
+            "name": "Būshehr",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-14",
+            "name": "Chahār Maḩāl va Bakhtīārī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-10",
+            "name": "Eşfahān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-07",
+            "name": "Fārs",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-27",
+            "name": "Golestān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-01",
+            "name": "Gīlān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-13",
+            "name": "Hamadān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-22",
+            "name": "Hormozgān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-08",
+            "name": "Kermān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-05",
+            "name": "Kermānshāh",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-29",
+            "name": "Khorāsān-e Jonūbī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-09",
+            "name": "Khorāsān-e Raẕavī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-28",
+            "name": "Khorāsān-e Shomālī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-06",
+            "name": "Khūzestān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-17",
+            "name": "Kohgīlūyeh va Bowyer Aḩmad",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-12",
+            "name": "Kordestān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-15",
+            "name": "Lorestān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-00",
+            "name": "Markazī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-02",
+            "name": "Māzandarān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-26",
+            "name": "Qazvīn",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-25",
+            "name": "Qom",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-20",
+            "name": "Semnān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-11",
+            "name": "Sīstān va Balūchestān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-23",
+            "name": "Tehrān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-21",
+            "name": "Yazd",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-19",
+            "name": "Zanjān",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-04",
+            "name": "Āz̄ārbāyjān-e Ghārbī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-03",
+            "name": "Āz̄ārbāyjān-e Shārqī",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IR-16",
+            "name": "Īlām",
+            "local_variant": null,
+            "language_code": "fa",
+            "romanization_system": "BGN/PCGN 1958",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fa",
+            "administrative_language_alpha3": "fas",
+            "local_short_name": "Jomhūrī-ye Eslāmī-ye Īrān"
+        }
+    ]
+}

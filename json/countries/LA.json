@@ -1,0 +1,183 @@
+{
+    "alpha2_code": "LA",
+    "short_name": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+    "short_name_lower_case": "Lao People's Democratic Republic (the)",
+    "full_name": "the Lao People's Democratic Republic",
+    "alpha3_code": "LAO",
+    "numeric_code": 418,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "LA-AT",
+            "name": "Attapu",
+            "local_variant": "Attapeu",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-BK",
+            "name": "Bokèo",
+            "local_variant": null,
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-BL",
+            "name": "Bolikhamxai",
+            "local_variant": "Borikhamxay",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-CH",
+            "name": "Champasak",
+            "local_variant": "Champasack",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-HO",
+            "name": "Houaphan",
+            "local_variant": "Huaphanh",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-KH",
+            "name": "Khammouan",
+            "local_variant": "Khammuane",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-LM",
+            "name": "Louang Namtha",
+            "local_variant": "Luangnamtha",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-LP",
+            "name": "Louangphabang",
+            "local_variant": "Luangprabang",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-OU",
+            "name": "Oudômxai",
+            "local_variant": "Oudomxay",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-PH",
+            "name": "Phôngsali",
+            "local_variant": "Phongsaly",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-SL",
+            "name": "Salavan",
+            "local_variant": "Saravane",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-SV",
+            "name": "Savannakhét",
+            "local_variant": "Savannakhet",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "LA-VT",
+            "name": "Viangchan",
+            "local_variant": "Vientiane",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-VI",
+            "name": "Viangchan",
+            "local_variant": "Vientiane",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-XA",
+            "name": "Xaignabouli",
+            "local_variant": "Xayabury",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-XS",
+            "name": "Xaisômboun",
+            "local_variant": "Xaysomboon",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-XI",
+            "name": "Xiangkhouang",
+            "local_variant": "Xiengkhuang",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LA-XE",
+            "name": "Xékong",
+            "local_variant": "Sekong",
+            "language_code": "lo",
+            "romanization_system": "LAO CNT 1965",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "lo",
+            "administrative_language_alpha3": "lao",
+            "local_short_name": "Sathalanalat Paxathipatai Paxaxôn Lao"
+        }
+    ]
+}

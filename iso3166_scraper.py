@@ -1,149 +1,240 @@
 import os
-import json
-import csv
-import pandas as pd
+from selenium.webdriver.chrome.webdriver import WebDriver
 
-from bs4 import BeautifulSoup
+import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.expected_conditions import presence_of_element_located
 from selenium.webdriver.common.by import By
-
-from io import StringIO
 
 
 class Country(dict):
-    def __init__(self, alpha2_code, short_name_lower_case, alpha3_code, numeric_code, subdivisions):
-        dict.__init__(self, alpha2_code=alpha2_code, short_name_lower_case=short_name_lower_case, alpha3_code=alpha3_code, numeric_code=numeric_code, subdivisions=subdivisions)
+    def __init__(self, alpha2_code, short_name, short_name_lower_case, full_name, alpha3_code, numeric_code, remarks,
+                 independent, territory_name, status, subdivision_count, subdivisions, additional_information):
+        dict.__init__(self, alpha2_code=alpha2_code, short_name=short_name, short_name_lower_case=short_name_lower_case,
+                      full_name=full_name, alpha3_code=alpha3_code, numeric_code=numeric_code, remarks=remarks,
+                      independent=independent, territory_name=territory_name, status=status,
+                      subdivision_count=subdivision_count, subdivisions=subdivisions,
+                      additional_information=additional_information)
         self.alpha2_code = alpha2_code
+        self.short_name = short_name
         self.short_name_lower_case = short_name_lower_case
+        self.full_name = full_name
         self.alpha3_code = alpha3_code
         self.numeric_code = numeric_code
+        self.remarks = remarks
+        self.independent = independent
+        self.territory_name = territory_name
+        self.status = status
+        self.subdivision_count = subdivision_count
         self.subdivisions = subdivisions
+        self.additional_information = additional_information
+
+
+class AdditionalInformation(dict):
+    def __init__(self, administrative_language_alpha2, administrative_language_alpha3, local_short_name):
+        dict.__init__(self, administrative_language_alpha2=administrative_language_alpha2,
+                      administrative_language_alpha3=administrative_language_alpha3,
+                      local_short_name=local_short_name)
+        self.administrative_language_alpha2 = administrative_language_alpha2
+        self.administrative_language_alpha3 = administrative_language_alpha3
+        self.local_short_name = local_short_name
+
 
 class Subdivision(dict):
-    def __init__(self, category, code, name):
-        dict.__init__(self, category=category, code=code, name=name)
+    def __init__(self, category, code3166_2, name, local_variant, language_code, romanization_system,
+                 parent_subdivision):
+        dict.__init__(self, category=category, code3166_2=code3166_2, name=name, local_variant=local_variant,
+                      language_code=language_code, romanization_system=romanization_system,
+                      parent_subdivision=parent_subdivision)
         self.category = category
-        self.code = code
+        self.code3166_2 = code3166_2
         self.name = name
+        self.local_variant = local_variant
+        self.language_code = language_code
+        self.romanization_system = romanization_system
+        self.parent_subdivision = parent_subdivision
 
-def getCountryHtml(country_code):
+
+def get_chrome_driver() -> WebDriver:
     # instance of Options class allows
     # us to configure Headless Chrome
     options = Options()
-    
+
     # this parameter tells Chrome that
     # it should be run without UI (Headless)
     options.add_argument("--headless")
 
-    driver = webdriver.Chrome(options=options)
+    return webdriver.Chrome(options=options)
 
-    url = f"https://www.iso.org/obp/ui/#iso:code:3166:{country_code}"
 
-    driver.get(url)
-    
-    WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, "subdivision")))
+def get_country_urls() -> list[str]:
+    driver.get("https://www.iso.org/obp/ui/#iso:pub:PUB500001:en")
+    driver.refresh()
 
-    return driver.page_source
+    (WebDriverWait(driver, 10).until(presence_of_element_located((By.CLASS_NAME, "grs-grid"))))
 
-def getSubdivisions(html):
-    column1_text = "Subdivision category"
-    column2_text = "3166-2 code"
-    column3_text = "Subdivision name"
-    column4_text = "Local variant"
-    column5_text = "Language code"
-    column6_text = "Romanization system"
-    column7_text = "Parent subdivision"
+    urls = []
 
-    df = pd.read_html(StringIO(html), match=column2_text)[0]
-    df.reset_index()
+    for code in driver.find_element(By.CLASS_NAME, "grs-grid").find_elements(By.CSS_SELECTOR, "a"):
+        urls.append(code.get_attribute("href"))
+
+    return urls
+
+
+def get_additional_information() -> list[AdditionalInformation]:
+    al_alpha2_position = al_alpha3_position = local_short_name_position = None
+
+    additional_information_table_headers = (driver.find_element(By.ID, "country-additional-info")
+                                            .find_element(By.CSS_SELECTOR, "thead")
+                                            .find_elements(By.CSS_SELECTOR, "th"))
+
+    i = 0
+    for header in additional_information_table_headers:
+        match header.text:
+            case "Administrative language(s) alpha-2":
+                al_alpha2_position = i
+            case "Administrative language(s) alpha-3":
+                al_alpha3_position = i
+            case "Local short name":
+                local_short_name_position = i
+        i += 1
+
+    additional_information_table = (driver.find_element(By.ID, "country-additional-info")
+                                    .find_element(By.CSS_SELECTOR, "tbody")
+                                    .find_elements(By.CSS_SELECTOR, "tr"))
+
+    additional_information = []
+
+    for row in additional_information_table:
+        data = row.find_elements(By.CSS_SELECTOR, "td")
+        additional_information.append(
+            AdditionalInformation(administrative_language_alpha2=data[al_alpha2_position].text,
+                                  administrative_language_alpha3=data[al_alpha3_position].text,
+                                  local_short_name=data[local_short_name_position].text))
+
+    return additional_information
+
+
+def get_subdivisions() -> list[Subdivision]:
+    category_position = code_position = name_position = local_variant_position = language_code_position = \
+        romanization_system_position = parent_subdivision_position = None
+
+    subdivisions_table_headers = (driver.find_element(By.ID, "subdivision")
+                                  .find_element(By.CSS_SELECTOR, "thead")
+                                  .find_elements(By.CSS_SELECTOR, "th"))
+
+    i = 0
+    for header in subdivisions_table_headers:
+        match header.text:
+            case "Subdivision category":
+                category_position = i
+            case "3166-2 code":
+                code_position = i
+            case "Subdivision name":
+                name_position = i
+            case "Local variant":
+                local_variant_position = i
+            case "Language code":
+                language_code_position = i
+            case "Romanization system":
+                romanization_system_position = i
+            case "Parent subdivision":
+                parent_subdivision_position = i
+        i += 1
+
+    subdivisions_table = (driver.find_element(By.ID, "subdivision")
+                          .find_element(By.CSS_SELECTOR, "tbody")
+                          .find_elements(By.CSS_SELECTOR, "tr"))
 
     subdivisions = []
-    codes = []
 
-    for index, row in df.iterrows():
-        code = row[column2_text].replace("*", "")
-        
-        # Prevent duplicate entries of alpha2 code
-        if code not in codes:
-            subdivisions.append(Subdivision(category=row[column1_text], code=code, name=row[column3_text]))
-        
-        codes.append(code)
+    for row in subdivisions_table:
+        data = row.find_elements(By.CSS_SELECTOR, "td")
+        subdivisions.append(Subdivision(category=data[category_position].text,
+                                        code3166_2=data[code_position].text.replace("*", ""),
+                                        name=data[name_position].text, local_variant=data[local_variant_position].text,
+                                        language_code=data[language_code_position].text,
+                                        romanization_system=data[romanization_system_position].text,
+                                        parent_subdivision=data[parent_subdivision_position].text))
 
     return subdivisions
 
-def getCountryCodes():
-    file_path = "./just-codes.csv"
-    country_codes = []
 
-    with open(file_path, "r") as csv_file:
-        reader = csv.reader(csv_file)
-
-        for row in reader:
-            country_codes.append(row[0])
-
-    return country_codes
-
-def getCountries():
-    country_codes = getCountryCodes()
+def get_countries() -> list[Country]:
+    country_urls = get_country_urls()
     countries = []
 
-    alpha2_code_field_name = "Alpha-2 code"
-    short_name_lower_case_field_name = "Short name lower case"
-    alpha3_code_field_name = "Alpha-3 code"
-    numeric_code_field_name = "Numeric code"
+    for country_url in country_urls:
+        driver.get(country_url)
+        driver.refresh()
 
-    for country_code in country_codes:
-        html = getCountryHtml(country_code)
+        (WebDriverWait(driver, 10).until(presence_of_element_located((By.ID, "subdivision"))))
 
-        soup = BeautifulSoup(html, features="lxml")
-        core_views = soup.find_all("div", {"class": "core-view-line"})
+        subdivision_count = 0
+        if driver.find_elements(By.CLASS_NAME, "category-count"):
+            subdivision_count = int(driver.find_element(By.CLASS_NAME, "category-count").text)
 
-        alpha2_code = ""
-        short_name_lower_case = ""
-        alpha3_code = ""
-        numeric_code = 0
+        core_view_lines = (driver.find_element(By.CLASS_NAME, "core-view-summary")
+                           .find_elements(By.CLASS_NAME, "core-view-line"))
 
-        for core_view in core_views:
-            fieldName = core_view.find("div", {"class": "core-view-field-name"}).contents[0]
-            
-            if fieldName == alpha2_code_field_name:
-                alpha2_code = core_view.find("div", {"class": "core-view-field-value"}).contents[0]
-            
-            if fieldName == short_name_lower_case_field_name:
-                short_name_lower_case = core_view.find("div", {"class": "core-view-field-value"}).contents[0]
-                short_name_lower_case = short_name_lower_case.replace("*", "")
+        alpha2_code = short_name = short_name_lower_case = full_name = alpha3_code = numeric_code = remarks = \
+            independent = territory_name = status = None
 
-            if fieldName == alpha3_code_field_name:
-                alpha3_code = core_view.find("div", {"class": "core-view-field-value"}).contents[0]
+        for core_view in core_view_lines:
+            field_name = core_view.find_element(By.CLASS_NAME, "core-view-field-name").text
 
-            if fieldName == numeric_code_field_name:
-                numeric_code = int(core_view.find("div", {"class": "core-view-field-value"}).contents[0])
+            if core_view.find_elements(By.CLASS_NAME, "core-view-field-value"):
+                field_value = core_view.find_element(By.CLASS_NAME, "core-view-field-value").text
 
-        # Get country properties
-        # Make list of subdivisions
-        subdivisions = getSubdivisions(html)
-        
-        country = Country(alpha2_code=alpha2_code, alpha3_code=alpha3_code, numeric_code=numeric_code, short_name_lower_case=short_name_lower_case, subdivisions=subdivisions)
+                if field_value is not None and field_value != "":
+                    field_value.replace("*", "")
+                    match field_name:
+                        case "Alpha-2 code":
+                            alpha2_code = field_value
+                        case "Short name":
+                            short_name = field_value
+                        case "Short name lower case":
+                            short_name_lower_case = field_value
+                        case "Full name":
+                            full_name = field_value
+                        case "Alpha-3 code":
+                            alpha3_code = field_value
+                        case "Numeric code":
+                            numeric_code = int(field_value)
+                        case "Remarks":
+                            remarks = field_value
+                        case "Independent":
+                            independent = field_value
+                        case "Territory name":
+                            territory_name = field_value
+                        case "Status":
+                            status = field_value
+
+        country = Country(alpha2_code=alpha2_code, short_name=short_name, short_name_lower_case=short_name_lower_case,
+                          full_name=full_name, alpha3_code=alpha3_code, numeric_code=numeric_code, remarks=remarks,
+                          independent=independent, territory_name=territory_name, status=status,
+                          subdivision_count=subdivision_count, subdivisions=get_subdivisions(),
+                          additional_information=get_additional_information())
         countries.append(country)
 
-        file = open("./json/"+short_name_lower_case+".json", "+w", encoding="utf-8")
-        file.write(json.dumps(country, ensure_ascii=False, indent=4))
-        file.close()
+        country_file = open("./json/countries/" + alpha2_code + ".json", "+w", encoding="utf-8")
+        country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
+                           .replace("code3166_2", "3166-2_code"))
+        country_file.close()
 
     return countries
 
+
+driver = get_chrome_driver()
+
 jsonFolder = "./json"
 if not os.path.exists(jsonFolder):
-   # Create a new directory because it does not exist
-   os.makedirs(jsonFolder)
-   print("The new directory is created!")
+    os.makedirs(jsonFolder)
+    os.makedirs(jsonFolder + "/countries")
 
-countries = getCountries()
-file = open("./json/all_countries.json", "+w", encoding="utf-8")
-file.write(json.dumps(countries, ensure_ascii=False, indent=4))
-file.close()
-
-print(json.dumps(countries, ensure_ascii=False))
+all_countries_file = open("./json/all_countries.json", "+w", encoding="utf-8")
+all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
+                         .replace("code3166_2", "3166-2_code"))
+all_countries_file.close()

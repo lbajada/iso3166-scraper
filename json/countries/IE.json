@@ -1,0 +1,566 @@
+{
+    "alpha2_code": "IE",
+    "short_name": "IRELAND",
+    "short_name_lower_case": "Ireland",
+    "full_name": null,
+    "alpha3_code": "IRL",
+    "numeric_code": 372,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "IE-CN",
+            "name": "An Cabhán",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CE",
+            "name": "An Clár",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WH",
+            "name": "An Iarmhí",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LD",
+            "name": "An Longfort",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-M",
+            "name": "An Mhumhain",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MH",
+            "name": "An Mhí",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-D",
+            "name": "Baile Átha Cliath",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CW",
+            "name": "Carlow",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CN",
+            "name": "Cavan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CW",
+            "name": "Ceatharlach",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KY",
+            "name": "Ciarraí",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KK",
+            "name": "Cill Chainnigh",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KE",
+            "name": "Cill Dara",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WW",
+            "name": "Cill Mhantáin",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CE",
+            "name": "Clare",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-C",
+            "name": "Connacht",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-C",
+            "name": "Connaught",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CO",
+            "name": "Corcaigh",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-CO",
+            "name": "Cork",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-DL",
+            "name": "Donegal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-D",
+            "name": "Dublin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-DL",
+            "name": "Dún na nGall",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-G",
+            "name": "Gaillimh",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-G",
+            "name": "Galway",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KY",
+            "name": "Kerry",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KE",
+            "name": "Kildare",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-KK",
+            "name": "Kilkenny",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-L",
+            "name": "Laighin",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LS",
+            "name": "Laois",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LS",
+            "name": "Laois",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-L",
+            "name": "Leinster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LM",
+            "name": "Leitrim",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LM",
+            "name": "Liatroim",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LK",
+            "name": "Limerick",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WX",
+            "name": "Loch Garman",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LD",
+            "name": "Longford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LH",
+            "name": "Louth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LK",
+            "name": "Luimneach",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-LH",
+            "name": "Lú",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MO",
+            "name": "Maigh Eo",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MO",
+            "name": "Mayo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MH",
+            "name": "Meath",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MN",
+            "name": "Monaghan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-MN",
+            "name": "Muineachán",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-U"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-M",
+            "name": "Munster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-OY",
+            "name": "Offaly",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WD",
+            "name": "Port Láirge",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-RN",
+            "name": "Ros Comáin",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-RN",
+            "name": "Roscommon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-SO",
+            "name": "Sligeach",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-SO",
+            "name": "Sligo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-C"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-TA",
+            "name": "Tiobraid Árann",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-TA",
+            "name": "Tipperary",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-U",
+            "name": "Ulaidh",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IE-U",
+            "name": "Ulster",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-OY",
+            "name": "Uíbh Fhailí",
+            "local_variant": null,
+            "language_code": "ga",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WD",
+            "name": "Waterford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-M"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WH",
+            "name": "Westmeath",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WX",
+            "name": "Wexford",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "IE-WW",
+            "name": "Wicklow",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "IE-L"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Ireland"
+        },
+        {
+            "administrative_language_alpha2": "ga",
+            "administrative_language_alpha3": "gle",
+            "local_short_name": "Éire"
+        }
+    ]
+}

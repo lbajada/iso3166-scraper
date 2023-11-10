@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "DE",
+    "short_name": "GERMANY",
+    "short_name_lower_case": "Germany",
+    "full_name": "the Federal Republic of Germany",
+    "alpha3_code": "DEU",
+    "numeric_code": 276,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "Land",
+            "3166-2_code": "DE-BW",
+            "name": "Baden-Württemberg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-BY",
+            "name": "Bayern",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-BE",
+            "name": "Berlin",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-BB",
+            "name": "Brandenburg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-HB",
+            "name": "Bremen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-HH",
+            "name": "Hamburg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-HE",
+            "name": "Hessen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-MV",
+            "name": "Mecklenburg-Vorpommern",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-NI",
+            "name": "Niedersachsen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-NW",
+            "name": "Nordrhein-Westfalen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-RP",
+            "name": "Rheinland-Pfalz",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-SL",
+            "name": "Saarland",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-SN",
+            "name": "Sachsen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-ST",
+            "name": "Sachsen-Anhalt",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-SH",
+            "name": "Schleswig-Holstein",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Land",
+            "3166-2_code": "DE-TH",
+            "name": "Thüringen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Deutschland"
+        }
+    ]
+}

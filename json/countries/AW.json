@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "AW",
+    "short_name": "ARUBA",
+    "short_name_lower_case": "Aruba",
+    "full_name": null,
+    "alpha3_code": "ABW",
+    "numeric_code": 533,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "Aruba"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "pap",
+            "local_short_name": "Aruba"
+        }
+    ]
+}

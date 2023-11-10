@@ -1,0 +1,129 @@
+{
+    "alpha2_code": "MU",
+    "short_name": "MAURITIUS",
+    "short_name_lower_case": "Mauritius",
+    "full_name": "the Republic of Mauritius",
+    "alpha3_code": "MUS",
+    "numeric_code": 480,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Agalega Islands, Cargados Carajos Shoals, Rodrigues Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "dependency",
+            "3166-2_code": "MU-AG",
+            "name": "Agalega Islands",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-BL",
+            "name": "Black River",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "MU-CC",
+            "name": "Cargados Carajos Shoals",
+            "local_variant": "Saint Brandon Islands",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-FL",
+            "name": "Flacq",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-GP",
+            "name": "Grand Port",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-MO",
+            "name": "Moka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-PA",
+            "name": "Pamplemousses",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-PW",
+            "name": "Plaines Wilhems",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-PL",
+            "name": "Port Louis",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-RR",
+            "name": "Rivière du Rempart",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "MU-RO",
+            "name": "Rodrigues Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MU-SA",
+            "name": "Savanne",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Mauritius"
+        }
+    ]
+}

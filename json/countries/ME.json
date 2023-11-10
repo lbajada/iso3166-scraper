@@ -1,0 +1,237 @@
+{
+    "alpha2_code": "ME",
+    "short_name": "MONTENEGRO",
+    "short_name_lower_case": "Montenegro",
+    "full_name": null,
+    "alpha3_code": "MNE",
+    "numeric_code": 499,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-01",
+            "name": "Andrijevica",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-02",
+            "name": "Bar",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-03",
+            "name": "Berane",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-04",
+            "name": "Bijelo Polje",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-05",
+            "name": "Budva",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-06",
+            "name": "Cetinje",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-07",
+            "name": "Danilovgrad",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-22",
+            "name": "Gusinje",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-08",
+            "name": "Herceg-Novi",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-09",
+            "name": "Kolašin",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-10",
+            "name": "Kotor",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-11",
+            "name": "Mojkovac",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-12",
+            "name": "Nikšić",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-23",
+            "name": "Petnjica",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-13",
+            "name": "Plav",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-14",
+            "name": "Pljevlja",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-15",
+            "name": "Plužine",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-16",
+            "name": "Podgorica",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-17",
+            "name": "Rožaje",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-19",
+            "name": "Tivat",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-24",
+            "name": "Tuzi",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-20",
+            "name": "Ulcinj",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-18",
+            "name": "Šavnik",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "ME-21",
+            "name": "Žabljak",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "cnr",
+            "local_short_name": "Crna Gora"
+        }
+    ]
+}

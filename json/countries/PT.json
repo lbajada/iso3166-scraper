@@ -1,0 +1,201 @@
+{
+    "alpha2_code": "PT",
+    "short_name": "PORTUGAL",
+    "short_name_lower_case": "Portugal",
+    "full_name": "the Portuguese Republic",
+    "alpha3_code": "PRT",
+    "numeric_code": 620,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "PT-01",
+            "name": "Aveiro",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-02",
+            "name": "Beja",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-03",
+            "name": "Braga",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-04",
+            "name": "Bragança",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-05",
+            "name": "Castelo Branco",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-06",
+            "name": "Coimbra",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-08",
+            "name": "Faro",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-09",
+            "name": "Guarda",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-10",
+            "name": "Leiria",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-11",
+            "name": "Lisboa",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-12",
+            "name": "Portalegre",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-13",
+            "name": "Porto",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "PT-30",
+            "name": "Região Autónoma da Madeira",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "PT-20",
+            "name": "Região Autónoma dos Açores",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-14",
+            "name": "Santarém",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-15",
+            "name": "Setúbal",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-16",
+            "name": "Viana do Castelo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-17",
+            "name": "Vila Real",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-18",
+            "name": "Viseu",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "PT-07",
+            "name": "Évora",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Portugal"
+        }
+    ]
+}

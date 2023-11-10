@@ -1,0 +1,1929 @@
+{
+    "alpha2_code": "SI",
+    "short_name": "SLOVENIA",
+    "short_name_lower_case": "Slovenia",
+    "full_name": "the Republic of Slovenia",
+    "alpha3_code": "SVN",
+    "numeric_code": 705,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-001",
+            "name": "Ajdovščina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-213",
+            "name": "Ankaran",
+            "local_variant": "Ancarano",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-195",
+            "name": "Apače",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-002",
+            "name": "Beltinci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-148",
+            "name": "Benedikt",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-149",
+            "name": "Bistrica ob Sotli",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-003",
+            "name": "Bled",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-150",
+            "name": "Bloke",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-004",
+            "name": "Bohinj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-005",
+            "name": "Borovnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-006",
+            "name": "Bovec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-151",
+            "name": "Braslovče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-007",
+            "name": "Brda",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-008",
+            "name": "Brezovica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-009",
+            "name": "Brežice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-152",
+            "name": "Cankova",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-011",
+            "name": "Celje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-012",
+            "name": "Cerklje na Gorenjskem",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-013",
+            "name": "Cerknica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-014",
+            "name": "Cerkno",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-153",
+            "name": "Cerkvenjak",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-196",
+            "name": "Cirkulane",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-018",
+            "name": "Destrnik",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-019",
+            "name": "Divača",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-154",
+            "name": "Dobje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-020",
+            "name": "Dobrepolje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-155",
+            "name": "Dobrna",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-021",
+            "name": "Dobrova-Polhov Gradec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-156",
+            "name": "Dobrovnik",
+            "local_variant": "Dobronak",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-022",
+            "name": "Dol pri Ljubljani",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-157",
+            "name": "Dolenjske Toplice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-023",
+            "name": "Domžale",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-024",
+            "name": "Dornava",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-025",
+            "name": "Dravograd",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-026",
+            "name": "Duplek",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-027",
+            "name": "Gorenja vas-Poljane",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-028",
+            "name": "Gorišnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-207",
+            "name": "Gorje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-029",
+            "name": "Gornja Radgona",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-030",
+            "name": "Gornji Grad",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-031",
+            "name": "Gornji Petrovci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-158",
+            "name": "Grad",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-032",
+            "name": "Grosuplje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-159",
+            "name": "Hajdina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-161",
+            "name": "Hodoš",
+            "local_variant": "Hodos",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-162",
+            "name": "Horjul",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-160",
+            "name": "Hoče-Slivnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-034",
+            "name": "Hrastnik",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-035",
+            "name": "Hrpelje-Kozina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-036",
+            "name": "Idrija",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-037",
+            "name": "Ig",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-038",
+            "name": "Ilirska Bistrica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-039",
+            "name": "Ivančna Gorica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-040",
+            "name": "Izola",
+            "local_variant": "Isola",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-041",
+            "name": "Jesenice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-163",
+            "name": "Jezersko",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-042",
+            "name": "Juršinci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-043",
+            "name": "Kamnik",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-044",
+            "name": "Kanal ob Soči",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-045",
+            "name": "Kidričevo",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-046",
+            "name": "Kobarid",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-047",
+            "name": "Kobilje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-049",
+            "name": "Komen",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-164",
+            "name": "Komenda",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-050",
+            "name": "Koper",
+            "local_variant": "Capodistria",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-197",
+            "name": "Kostanjevica na Krki",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-165",
+            "name": "Kostel",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-051",
+            "name": "Kozje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-048",
+            "name": "Kočevje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-052",
+            "name": "Kranj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-053",
+            "name": "Kranjska Gora",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-166",
+            "name": "Križevci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-054",
+            "name": "Krško",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-055",
+            "name": "Kungota",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-056",
+            "name": "Kuzma",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-057",
+            "name": "Laško",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-058",
+            "name": "Lenart",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-059",
+            "name": "Lendava",
+            "local_variant": "Lendva",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-060",
+            "name": "Litija",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-061",
+            "name": "Ljubljana",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-062",
+            "name": "Ljubno",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-063",
+            "name": "Ljutomer",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-208",
+            "name": "Log-Dragomer",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-064",
+            "name": "Logatec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-167",
+            "name": "Lovrenc na Pohorju",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-065",
+            "name": "Loška dolina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-066",
+            "name": "Loški Potok",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-068",
+            "name": "Lukovica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-067",
+            "name": "Luče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-069",
+            "name": "Majšperk",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-198",
+            "name": "Makole",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-070",
+            "name": "Maribor",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-168",
+            "name": "Markovci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-071",
+            "name": "Medvode",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-072",
+            "name": "Mengeš",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-073",
+            "name": "Metlika",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-074",
+            "name": "Mežica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-169",
+            "name": "Miklavž na Dravskem polju",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-075",
+            "name": "Miren-Kostanjevica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-212",
+            "name": "Mirna",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-170",
+            "name": "Mirna Peč",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-076",
+            "name": "Mislinja",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-199",
+            "name": "Mokronog-Trebelno",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-078",
+            "name": "Moravske Toplice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-077",
+            "name": "Moravče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-079",
+            "name": "Mozirje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-080",
+            "name": "Murska Sobota",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-081",
+            "name": "Muta",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-082",
+            "name": "Naklo",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-083",
+            "name": "Nazarje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-084",
+            "name": "Nova Gorica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-085",
+            "name": "Novo Mesto",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-086",
+            "name": "Odranci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-171",
+            "name": "Oplotnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-087",
+            "name": "Ormož",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-088",
+            "name": "Osilnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-089",
+            "name": "Pesnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-090",
+            "name": "Piran",
+            "local_variant": "Pirano",
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-091",
+            "name": "Pivka",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-172",
+            "name": "Podlehnik",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-093",
+            "name": "Podvelka",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-092",
+            "name": "Podčetrtek",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-200",
+            "name": "Poljčane",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-173",
+            "name": "Polzela",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-094",
+            "name": "Postojna",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-174",
+            "name": "Prebold",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-095",
+            "name": "Preddvor",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-175",
+            "name": "Prevalje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-096",
+            "name": "Ptuj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-097",
+            "name": "Puconci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-100",
+            "name": "Radenci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-099",
+            "name": "Radeče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-101",
+            "name": "Radlje ob Dravi",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-102",
+            "name": "Radovljica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-103",
+            "name": "Ravne na Koroškem",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-176",
+            "name": "Razkrižje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-098",
+            "name": "Rače-Fram",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-201",
+            "name": "Renče-Vogrsko",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-209",
+            "name": "Rečica ob Savinji",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-104",
+            "name": "Ribnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-177",
+            "name": "Ribnica na Pohorju",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-107",
+            "name": "Rogatec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-106",
+            "name": "Rogaška Slatina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-105",
+            "name": "Rogašovci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-108",
+            "name": "Ruše",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-178",
+            "name": "Selnica ob Dravi",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-109",
+            "name": "Semič",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-110",
+            "name": "Sevnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-111",
+            "name": "Sežana",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-112",
+            "name": "Slovenj Gradec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-113",
+            "name": "Slovenska Bistrica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-114",
+            "name": "Slovenske Konjice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-179",
+            "name": "Sodražica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-180",
+            "name": "Solčava",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-202",
+            "name": "Središče ob Dravi",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-115",
+            "name": "Starše",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-203",
+            "name": "Straža",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-181",
+            "name": "Sveta Ana",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-204",
+            "name": "Sveta Trojica v Slovenskih goricah",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-182",
+            "name": "Sveti Andraž v Slovenskih goricah",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-116",
+            "name": "Sveti Jurij ob Ščavnici",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-210",
+            "name": "Sveti Jurij v Slovenskih goricah",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-205",
+            "name": "Sveti Tomaž",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-184",
+            "name": "Tabor",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-010",
+            "name": "Tišina",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-128",
+            "name": "Tolmin",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-129",
+            "name": "Trbovlje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-130",
+            "name": "Trebnje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-185",
+            "name": "Trnovska Vas",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-186",
+            "name": "Trzin",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-131",
+            "name": "Tržič",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-132",
+            "name": "Turnišče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "urban municipality",
+            "3166-2_code": "SI-133",
+            "name": "Velenje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-187",
+            "name": "Velika Polana",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-134",
+            "name": "Velike Lašče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-188",
+            "name": "Veržej",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-135",
+            "name": "Videm",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-136",
+            "name": "Vipava",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-137",
+            "name": "Vitanje",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-138",
+            "name": "Vodice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-139",
+            "name": "Vojnik",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-189",
+            "name": "Vransko",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-140",
+            "name": "Vrhnika",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-141",
+            "name": "Vuzenica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-142",
+            "name": "Zagorje ob Savi",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-143",
+            "name": "Zavrč",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-144",
+            "name": "Zreče",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-015",
+            "name": "Črenšovci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-016",
+            "name": "Črna na Koroškem",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-017",
+            "name": "Črnomelj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-033",
+            "name": "Šalovci",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-183",
+            "name": "Šempeter-Vrtojba",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-118",
+            "name": "Šentilj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-119",
+            "name": "Šentjernej",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-120",
+            "name": "Šentjur",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-211",
+            "name": "Šentrupert",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-117",
+            "name": "Šenčur",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-121",
+            "name": "Škocjan",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-122",
+            "name": "Škofja Loka",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-123",
+            "name": "Škofljica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-124",
+            "name": "Šmarje pri Jelšah",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-206",
+            "name": "Šmarješke Toplice",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-125",
+            "name": "Šmartno ob Paki",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-194",
+            "name": "Šmartno pri Litiji",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-126",
+            "name": "Šoštanj",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-127",
+            "name": "Štore",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-190",
+            "name": "Žalec",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-146",
+            "name": "Železniki",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-191",
+            "name": "Žetale",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-147",
+            "name": "Žiri",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-192",
+            "name": "Žirovnica",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "SI-193",
+            "name": "Žužemberk",
+            "local_variant": null,
+            "language_code": "sl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "sl",
+            "administrative_language_alpha3": "slv",
+            "local_short_name": "Slovenija"
+        }
+    ]
+}

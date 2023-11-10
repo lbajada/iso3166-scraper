@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "HK",
+    "short_name": "HONG KONG",
+    "short_name_lower_case": "Hong Kong",
+    "full_name": "the Hong Kong Special Administrative Region of China",
+    "alpha3_code": "HKG",
+    "numeric_code": 344,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Hong Kong"
+        },
+        {
+            "administrative_language_alpha2": "zh",
+            "administrative_language_alpha3": "zho",
+            "local_short_name": "Xianggang"
+        }
+    ]
+}

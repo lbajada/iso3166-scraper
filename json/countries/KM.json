@@ -1,0 +1,139 @@
+{
+    "alpha2_code": "KM",
+    "short_name": "COMOROS",
+    "short_name_lower_case": "Comoros (the)",
+    "full_name": "the Union of the Comoros",
+    "alpha3_code": "COM",
+    "numeric_code": 174,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Anjouan, Grande Comore, Mohéli",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "island",
+            "3166-2_code": "KM-G",
+            "name": "Andjazîdja",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-A",
+            "name": "Andjouân",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-G",
+            "name": "Anjazījah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-A",
+            "name": "Anjouan",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-A",
+            "name": "Anjwān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-G",
+            "name": "Grande Comore",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-M",
+            "name": "Mohéli",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-M",
+            "name": "Moûhîlî",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-M",
+            "name": "Mwali",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-M",
+            "name": "Mūhīlī",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-A",
+            "name": "Ndzuwani",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "island",
+            "3166-2_code": "KM-G",
+            "name": "Ngazidja",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "002",
+            "local_short_name": "Komori"
+        },
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Qamar"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Comores (les)"
+        }
+    ]
+}

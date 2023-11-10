@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "TF",
+    "short_name": "FRENCH SOUTHERN TERRITORIES",
+    "short_name_lower_case": "French Southern Territories (the)",
+    "full_name": null,
+    "alpha3_code": "ATF",
+    "numeric_code": 260,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Bassas da India, Crozet Archipelago, French scattered Indian Ocean Islands, Europa Island, Glorioso Islands , Juan de Nova Island, Kerguelen Islands, Saint-Paul Island, Tromelin Island, Amsterdam Island",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Terres australes françaises (les)"
+        }
+    ]
+}

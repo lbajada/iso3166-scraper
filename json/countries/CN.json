@@ -1,0 +1,354 @@
+{
+    "alpha2_code": "CN",
+    "short_name": "CHINA",
+    "short_name_lower_case": "China",
+    "full_name": "the People's Republic of China",
+    "alpha3_code": "CHN",
+    "numeric_code": 156,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "CN-AH",
+            "name": "Anhui Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative region",
+            "3166-2_code": "CN-MO",
+            "name": "Aomen Tebiexingzhengqu (see also separate country code entry under MO)",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CN-BJ",
+            "name": "Beijing Shi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CN-CQ",
+            "name": "Chongqing Shi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-FJ",
+            "name": "Fujian Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-GS",
+            "name": "Gansu Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-GD",
+            "name": "Guangdong Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "CN-GX",
+            "name": "Guangxi Zhuangzu Zizhiqu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-GZ",
+            "name": "Guizhou Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HI",
+            "name": "Hainan Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HE",
+            "name": "Hebei Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HL",
+            "name": "Heilongjiang Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HA",
+            "name": "Henan Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative region",
+            "3166-2_code": "CN-HK",
+            "name": "Hong Kong SAR (see also separate country code entry under HK)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HB",
+            "name": "Hubei Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-HN",
+            "name": "Hunan Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-JS",
+            "name": "Jiangsu Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-JX",
+            "name": "Jiangxi Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-JL",
+            "name": "Jilin Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-LN",
+            "name": "Liaoning Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative region",
+            "3166-2_code": "CN-MO",
+            "name": "Macao SAR (see also separate country code entry under MO)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative region",
+            "3166-2_code": "CN-MO",
+            "name": "Macau SAR (see also separate country code entry under MO)",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "CN-NM",
+            "name": "Nei Mongol Zizhiqu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "CN-NX",
+            "name": "Ningxia Huizu Zizhiqu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-QH",
+            "name": "Qinghai Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-SN",
+            "name": "Shaanxi Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-SD",
+            "name": "Shandong Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CN-SH",
+            "name": "Shanghai Shi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-SX",
+            "name": "Shanxi Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-SC",
+            "name": "Sichuan Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-TW",
+            "name": "Taiwan Sheng (see also separate country code entry under TW)",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CN-TJ",
+            "name": "Tianjin Shi",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "special administrative region",
+            "3166-2_code": "CN-HK",
+            "name": "Xianggang Tebiexingzhengqu (see also separate country code entry under HK)",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "CN-XJ",
+            "name": "Xinjiang Uygur Zizhiqu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "CN-XZ",
+            "name": "Xizang Zizhiqu",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-YN",
+            "name": "Yunnan Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "CN-ZJ",
+            "name": "Zhejiang Sheng",
+            "local_variant": null,
+            "language_code": "zh",
+            "romanization_system": "National 1958 = ISO 7098:2015 = UN III/8 1977",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "zh",
+            "administrative_language_alpha3": "zho",
+            "local_short_name": "Zhongguo"
+        }
+    ]
+}

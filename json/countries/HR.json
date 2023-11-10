@@ -1,0 +1,210 @@
+{
+    "alpha2_code": "HR",
+    "short_name": "CROATIA",
+    "short_name_lower_case": "Croatia",
+    "full_name": "the Republic of Croatia",
+    "alpha3_code": "HRV",
+    "numeric_code": 191,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "HR-07",
+            "name": "Bjelovarsko-bilogorska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-12",
+            "name": "Brodsko-posavska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-19",
+            "name": "Dubrovačko-neretvanska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "HR-21",
+            "name": "Grad Zagreb",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-18",
+            "name": "Istarska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-04",
+            "name": "Karlovačka županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-06",
+            "name": "Koprivničko-križevačka županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-02",
+            "name": "Krapinsko-zagorska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-09",
+            "name": "Ličko-senjska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-20",
+            "name": "Međimurska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-14",
+            "name": "Osječko-baranjska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-11",
+            "name": "Požeško-slavonska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-08",
+            "name": "Primorsko-goranska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-03",
+            "name": "Sisačko-moslavačka županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-17",
+            "name": "Splitsko-dalmatinska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-05",
+            "name": "Varaždinska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-10",
+            "name": "Virovitičko-podravska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-16",
+            "name": "Vukovarsko-srijemska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-13",
+            "name": "Zadarska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-01",
+            "name": "Zagrebačka županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HR-15",
+            "name": "Šibensko-kninska županija",
+            "local_variant": null,
+            "language_code": "hr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "hr",
+            "administrative_language_alpha3": "hrv",
+            "local_short_name": "Hrvatska"
+        }
+    ]
+}

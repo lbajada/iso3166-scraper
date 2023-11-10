@@ -1,0 +1,332 @@
+{
+    "alpha2_code": "CF",
+    "short_name": "CENTRAL AFRICAN REPUBLIC",
+    "short_name_lower_case": "Central African Republic (the)",
+    "full_name": "the Central African Republic",
+    "alpha3_code": "CAF",
+    "numeric_code": 140,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-BB",
+            "name": "Bamingui-Bangoran",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-BB",
+            "name": "Bamïngï-Bangoran",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "CF-BGF",
+            "name": "Bangui",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "commune",
+            "3166-2_code": "CF-BGF",
+            "name": "Bangî",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-BK",
+            "name": "Basse-Kotto",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-BK",
+            "name": "Do-Kötö",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "economic prefecture",
+            "3166-2_code": "CF-KB",
+            "name": "Gribingui",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "economic prefecture",
+            "3166-2_code": "CF-KB",
+            "name": "Gïrïbïngï",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HM",
+            "name": "Haut-Mbomou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HK",
+            "name": "Haute-Kotto",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HS",
+            "name": "Haute-Sangha / Mambéré-Kadéï",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-KG",
+            "name": "Kemö-Gïrïbïngï",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-KG",
+            "name": "Kémo-Gribingui",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-LB",
+            "name": "Lobaye",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-LB",
+            "name": "Lobâye",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-MB",
+            "name": "Mbomou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-MB",
+            "name": "Mbömü",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-NM",
+            "name": "Nana-Mambéré",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-NM",
+            "name": "Nanä-Mbaere",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-MP",
+            "name": "Ombella-Mpoko",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-UK",
+            "name": "Ouaka",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-AC",
+            "name": "Ouham",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-OP",
+            "name": "Ouham-Pendé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "economic prefecture",
+            "3166-2_code": "CF-SE",
+            "name": "Sangha",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "economic prefecture",
+            "3166-2_code": "CF-SE",
+            "name": "Sangä",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HK",
+            "name": "Tö-Kötö",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HM",
+            "name": "Tö-Mbömü",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-HS",
+            "name": "Tö-Sangä / Mbaere-Kadeï",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-VK",
+            "name": "Vakaga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-VK",
+            "name": "Vakaga",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-AC",
+            "name": "Wâmo",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-OP",
+            "name": "Wâmo-Pendë",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-UK",
+            "name": "Wäkä",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "prefecture",
+            "3166-2_code": "CF-MP",
+            "name": "Ömbëlä-Pökö",
+            "local_variant": null,
+            "language_code": "sg",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "République centrafricaine (la)"
+        },
+        {
+            "administrative_language_alpha2": "sg",
+            "administrative_language_alpha3": "sag",
+            "local_short_name": "Ködörösêse tî Bêafrîka"
+        }
+    ]
+}

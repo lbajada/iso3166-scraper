@@ -1,0 +1,219 @@
+{
+    "alpha2_code": "MN",
+    "short_name": "MONGOLIA",
+    "short_name_lower_case": "Mongolia",
+    "full_name": null,
+    "alpha3_code": "MNG",
+    "numeric_code": 496,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "MN-073",
+            "name": "Arhangay",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-071",
+            "name": "Bayan-Ölgiy",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-069",
+            "name": "Bayanhongor",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-067",
+            "name": "Bulgan",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-037",
+            "name": "Darhan uul",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-061",
+            "name": "Dornod",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-063",
+            "name": "Dornogovĭ",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-059",
+            "name": "Dundgovĭ",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-057",
+            "name": "Dzavhan",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-065",
+            "name": "Govĭ-Altay",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-064",
+            "name": "Govĭ-Sümber",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-039",
+            "name": "Hentiy",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-043",
+            "name": "Hovd",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-041",
+            "name": "Hövsgöl",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-035",
+            "name": "Orhon",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-049",
+            "name": "Selenge",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-051",
+            "name": "Sühbaatar",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-047",
+            "name": "Töv",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "capital city",
+            "3166-2_code": "MN-1",
+            "name": "Ulaanbaatar",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-046",
+            "name": "Uvs",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-053",
+            "name": "Ömnögovĭ",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "MN-055",
+            "name": "Övörhangay",
+            "local_variant": null,
+            "language_code": "mn",
+            "romanization_system": "BGN/PCGN 1964",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "mn",
+            "administrative_language_alpha3": "mon",
+            "local_short_name": "Mongol"
+        }
+    ]
+}

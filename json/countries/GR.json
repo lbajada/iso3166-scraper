@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "GR",
+    "short_name": "GREECE",
+    "short_name_lower_case": "Greece",
+    "full_name": "the Hellenic Republic",
+    "alpha3_code": "GRC",
+    "numeric_code": 300,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Mount Athos autonomous area",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-A",
+            "name": "Anatolikí Makedonía kai Thráki",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-I",
+            "name": "Attikí",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-G",
+            "name": "Dytikí Elláda",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-C",
+            "name": "Dytikí Makedonía",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-F",
+            "name": "Ionía Nísia",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-B",
+            "name": "Kentrikí Makedonía",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-M",
+            "name": "Kríti",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-L",
+            "name": "Nótio Aigaío",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-J",
+            "name": "Pelopónnisos",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-H",
+            "name": "Stereá Elláda",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-E",
+            "name": "Thessalía",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-K",
+            "name": "Vóreio Aigaío",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "self-governed part",
+            "3166-2_code": "GR-69",
+            "name": "Ágion Óros",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "GR-D",
+            "name": "Ípeiros",
+            "local_variant": null,
+            "language_code": "el",
+            "romanization_system": "ELOT 743:1982 = ISO 843:1997 = UN V/19 1987",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "el",
+            "administrative_language_alpha3": "ell",
+            "local_short_name": "Elláda"
+        }
+    ]
+}

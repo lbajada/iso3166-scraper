@@ -1,0 +1,584 @@
+{
+    "alpha2_code": "MW",
+    "short_name": "MALAWI",
+    "short_name_lower_case": "Malawi",
+    "full_name": "the Republic of Malawi",
+    "alpha3_code": "MWI",
+    "numeric_code": 454,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "MW-BA",
+            "name": "Balaka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-BA",
+            "name": "Balaka",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-BL",
+            "name": "Blantyre",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-BL",
+            "name": "Blantyre",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-C",
+            "name": "Central Region",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-N",
+            "name": "Chakumpoto",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-S",
+            "name": "Chakumwera",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-C",
+            "name": "Chapakati",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CK",
+            "name": "Chikwawa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CK",
+            "name": "Chikwawa",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CR",
+            "name": "Chiradzulu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CR",
+            "name": "Chiradzulu",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CT",
+            "name": "Chitipa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-CT",
+            "name": "Chitipa",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-DE",
+            "name": "Dedza",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-DE",
+            "name": "Dedza",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-DO",
+            "name": "Dowa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-DO",
+            "name": "Dowa",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-KR",
+            "name": "Karonga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-KR",
+            "name": "Karonga",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-KS",
+            "name": "Kasungu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-KS",
+            "name": "Kasungu",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-LK",
+            "name": "Likoma",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-LK",
+            "name": "Likoma",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-LI",
+            "name": "Lilongwe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-LI",
+            "name": "Lilongwe",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MH",
+            "name": "Machinga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MH",
+            "name": "Machinga",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MG",
+            "name": "Mangochi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MG",
+            "name": "Mangochi",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MC",
+            "name": "Mchinji",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MC",
+            "name": "Mchinji",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MU",
+            "name": "Mulanje",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MU",
+            "name": "Mulanje",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MW",
+            "name": "Mwanza",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MW",
+            "name": "Mwanza",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MZ",
+            "name": "Mzimba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-MZ",
+            "name": "Mzimba",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NE",
+            "name": "Neno",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NE",
+            "name": "Neno",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NB",
+            "name": "Nkhata Bay",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NB",
+            "name": "Nkhata Bay",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NK",
+            "name": "Nkhotakota",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NK",
+            "name": "Nkhotakota",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-N",
+            "name": "Northern Region",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NS",
+            "name": "Nsanje",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NS",
+            "name": "Nsanje",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NU",
+            "name": "Ntcheu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NU",
+            "name": "Ntcheu",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NI",
+            "name": "Ntchisi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-NI",
+            "name": "Ntchisi",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-PH",
+            "name": "Phalombe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-PH",
+            "name": "Phalombe",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-RU",
+            "name": "Rumphi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-RU",
+            "name": "Rumphi",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-N"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-SA",
+            "name": "Salima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-SA",
+            "name": "Salima",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-C"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MW-S",
+            "name": "Southern Region",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-TH",
+            "name": "Thyolo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-TH",
+            "name": "Thyolo",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-ZO",
+            "name": "Zomba",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "MW-ZO",
+            "name": "Zomba",
+            "local_variant": null,
+            "language_code": "ny",
+            "romanization_system": null,
+            "parent_subdivision": "MW-S"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Malawi"
+        },
+        {
+            "administrative_language_alpha2": "ny",
+            "administrative_language_alpha3": "nya",
+            "local_short_name": "Malaŵi"
+        }
+    ]
+}

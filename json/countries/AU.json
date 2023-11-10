@@ -1,0 +1,93 @@
+{
+    "alpha2_code": "AU",
+    "short_name": "AUSTRALIA",
+    "short_name_lower_case": "Australia",
+    "full_name": null,
+    "alpha3_code": "AUS",
+    "numeric_code": 36,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Ashmore and Cartier Islands , Coral Sea Islands , Lord Howe Island, Macquarie Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "territory",
+            "3166-2_code": "AU-ACT",
+            "name": "Australian Capital Territory",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-NSW",
+            "name": "New South Wales",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "territory",
+            "3166-2_code": "AU-NT",
+            "name": "Northern Territory",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-QLD",
+            "name": "Queensland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-SA",
+            "name": "South Australia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-TAS",
+            "name": "Tasmania",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-VIC",
+            "name": "Victoria",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "AU-WA",
+            "name": "Western Australia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Australia"
+        }
+    ]
+}

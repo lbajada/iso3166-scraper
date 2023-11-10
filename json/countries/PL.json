@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "PL",
+    "short_name": "POLAND",
+    "short_name_lower_case": "Poland",
+    "full_name": "the Republic of Poland",
+    "alpha3_code": "POL",
+    "numeric_code": 616,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-02",
+            "name": "Dolnośląskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-04",
+            "name": "Kujawsko-pomorskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-06",
+            "name": "Lubelskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-08",
+            "name": "Lubuskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-14",
+            "name": "Mazowieckie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-12",
+            "name": "Małopolskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-16",
+            "name": "Opolskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-18",
+            "name": "Podkarpackie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-20",
+            "name": "Podlaskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-22",
+            "name": "Pomorskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-28",
+            "name": "Warmińsko-mazurskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-30",
+            "name": "Wielkopolskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-32",
+            "name": "Zachodniopomorskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-10",
+            "name": "Łódzkie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-24",
+            "name": "Śląskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "voivodship",
+            "3166-2_code": "PL-26",
+            "name": "Świętokrzyskie",
+            "local_variant": null,
+            "language_code": "pl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pl",
+            "administrative_language_alpha3": "pol",
+            "local_short_name": "Polska"
+        }
+    ]
+}

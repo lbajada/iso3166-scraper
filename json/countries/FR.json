@@ -1,0 +1,1137 @@
+{
+    "alpha2_code": "FR",
+    "short_name": "FRANCE",
+    "short_name_lower_case": "France",
+    "full_name": "the French Republic",
+    "alpha3_code": "FRA",
+    "numeric_code": 250,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-01",
+            "name": "Ain",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-02",
+            "name": "Aisne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-HDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-03",
+            "name": "Allier",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-06",
+            "name": "Alpes-Maritimes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-04",
+            "name": "Alpes-de-Haute-Provence",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "European collectivity",
+            "3166-2_code": "FR-6AE",
+            "name": "Alsace",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-08",
+            "name": "Ardennes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-07",
+            "name": "Ardèche",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-09",
+            "name": "Ariège",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-10",
+            "name": "Aube",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-11",
+            "name": "Aude",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-ARA",
+            "name": "Auvergne-Rhône-Alpes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-12",
+            "name": "Aveyron",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-67",
+            "name": "Bas-Rhin",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-6AE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-13",
+            "name": "Bouches-du-Rhône",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-BFC",
+            "name": "Bourgogne-Franche-Comté",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-BRE",
+            "name": "Bretagne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-14",
+            "name": "Calvados",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NOR"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-15",
+            "name": "Cantal",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-CVL",
+            "name": "Centre-Val de Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-16",
+            "name": "Charente",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-17",
+            "name": "Charente-Maritime",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-18",
+            "name": "Cher",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "FR-CP",
+            "name": "Clipperton",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-19",
+            "name": "Corrèze",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan collectivity with special status",
+            "3166-2_code": "FR-20R",
+            "name": "Corse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-2A",
+            "name": "Corse-du-Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-20R"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-23",
+            "name": "Creuse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-21",
+            "name": "Côte-d'Or",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-22",
+            "name": "Côtes-d'Armor",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BRE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-79",
+            "name": "Deux-Sèvres",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-24",
+            "name": "Dordogne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-25",
+            "name": "Doubs",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-26",
+            "name": "Drôme",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-91",
+            "name": "Essonne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-27",
+            "name": "Eure",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NOR"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-28",
+            "name": "Eure-et-Loir",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-29",
+            "name": "Finistère",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BRE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-30",
+            "name": "Gard",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-32",
+            "name": "Gers",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-33",
+            "name": "Gironde",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-GES",
+            "name": "Grand-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas departmental collectivity",
+            "3166-2_code": "FR-971",
+            "name": "Guadeloupe (see also separate country code entry under GP)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas unique territorial collectivity",
+            "3166-2_code": "FR-973",
+            "name": "Guyane (française) (see also separate country code entry under GF)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-68",
+            "name": "Haut-Rhin",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-6AE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-2B",
+            "name": "Haute-Corse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-20R"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-31",
+            "name": "Haute-Garonne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-43",
+            "name": "Haute-Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-52",
+            "name": "Haute-Marne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-74",
+            "name": "Haute-Savoie",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-70",
+            "name": "Haute-Saône",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-87",
+            "name": "Haute-Vienne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-05",
+            "name": "Hautes-Alpes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-65",
+            "name": "Hautes-Pyrénées",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-HDF",
+            "name": "Hauts-de-France",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-92",
+            "name": "Hauts-de-Seine",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-34",
+            "name": "Hérault",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-35",
+            "name": "Ille-et-Vilaine",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BRE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-36",
+            "name": "Indre",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-37",
+            "name": "Indre-et-Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-38",
+            "name": "Isère",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-39",
+            "name": "Jura",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "overseas departmental collectivity",
+            "3166-2_code": "FR-974",
+            "name": "La Réunion (see also separate country code entry under RE)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-40",
+            "name": "Landes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-41",
+            "name": "Loir-et-Cher",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-42",
+            "name": "Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-44",
+            "name": "Loire-Atlantique",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PDL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-45",
+            "name": "Loiret",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-CVL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-46",
+            "name": "Lot",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-47",
+            "name": "Lot-et-Garonne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-48",
+            "name": "Lozère",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-49",
+            "name": "Maine-et-Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PDL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-50",
+            "name": "Manche",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NOR"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-51",
+            "name": "Marne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "overseas unique territorial collectivity",
+            "3166-2_code": "FR-972",
+            "name": "Martinique (see also separate country code entry under MQ)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-53",
+            "name": "Mayenne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PDL"
+        },
+        {
+            "category": "overseas departmental collectivity",
+            "3166-2_code": "FR-976",
+            "name": "Mayotte (see also separate country code entry under YT)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-54",
+            "name": "Meurthe-et-Moselle",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-55",
+            "name": "Meuse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-56",
+            "name": "Morbihan",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BRE"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-57",
+            "name": "Moselle",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "metropolitan collectivity with special status",
+            "3166-2_code": "FR-69M",
+            "name": "Métropole de Lyon",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-58",
+            "name": "Nièvre",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-59",
+            "name": "Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-HDF"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-NOR",
+            "name": "Normandie",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-NAQ",
+            "name": "Nouvelle-Aquitaine",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas collectivity with special status",
+            "3166-2_code": "FR-NC",
+            "name": "Nouvelle-Calédonie (see also separate country code entry under NC)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-OCC",
+            "name": "Occitanie",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-60",
+            "name": "Oise",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-HDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-61",
+            "name": "Orne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NOR"
+        },
+        {
+            "category": "metropolitan collectivity with special status",
+            "3166-2_code": "FR-75C",
+            "name": "Paris",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-62",
+            "name": "Pas-de-Calais",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-HDF"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-PDL",
+            "name": "Pays-de-la-Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas collectivity",
+            "3166-2_code": "FR-PF",
+            "name": "Polynésie française (see also separate country code entry under PF)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-PAC",
+            "name": "Provence-Alpes-Côte-d’Azur",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-63",
+            "name": "Puy-de-Dôme",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-64",
+            "name": "Pyrénées-Atlantiques",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-66",
+            "name": "Pyrénées-Orientales",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-69",
+            "name": "Rhône",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "overseas collectivity",
+            "3166-2_code": "FR-BL",
+            "name": "Saint-Barthélemy (see also separate country code entry under BL)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas collectivity",
+            "3166-2_code": "FR-MF",
+            "name": "Saint-Martin (see also separate country code entry under MF)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "overseas collectivity",
+            "3166-2_code": "FR-PM",
+            "name": "Saint-Pierre-et-Miquelon (see also separate country code entry under PM)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-72",
+            "name": "Sarthe",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PDL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-73",
+            "name": "Savoie",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-ARA"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-71",
+            "name": "Saône-et-Loire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-76",
+            "name": "Seine-Maritime",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NOR"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-93",
+            "name": "Seine-Saint-Denis",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-77",
+            "name": "Seine-et-Marne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-80",
+            "name": "Somme",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-HDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-81",
+            "name": "Tarn",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-82",
+            "name": "Tarn-et-Garonne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-OCC"
+        },
+        {
+            "category": "overseas territory",
+            "3166-2_code": "FR-TF",
+            "name": "Terres australes françaises (see also separate country code entry under TF)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-90",
+            "name": "Territoire de Belfort",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-95",
+            "name": "Val-d'Oise",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-94",
+            "name": "Val-de-Marne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-83",
+            "name": "Var",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-84",
+            "name": "Vaucluse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PAC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-85",
+            "name": "Vendée",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-PDL"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-86",
+            "name": "Vienne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-NAQ"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-88",
+            "name": "Vosges",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-GES"
+        },
+        {
+            "category": "overseas collectivity",
+            "3166-2_code": "FR-WF",
+            "name": "Wallis-et-Futuna (see also separate country code entry under WF)",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-89",
+            "name": "Yonne",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-BFC"
+        },
+        {
+            "category": "metropolitan department",
+            "3166-2_code": "FR-78",
+            "name": "Yvelines",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "FR-IDF"
+        },
+        {
+            "category": "metropolitan region",
+            "3166-2_code": "FR-IDF",
+            "name": "Île-de-France",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "France (la)"
+        }
+    ]
+}

@@ -1,0 +1,651 @@
+{
+    "alpha2_code": "LT",
+    "short_name": "LITHUANIA",
+    "short_name_lower_case": "Lithuania",
+    "full_name": "the Republic of Lithuania",
+    "alpha3_code": "LTU",
+    "numeric_code": 440,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-01",
+            "name": "Akmenė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-AL",
+            "name": "Alytaus apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-02",
+            "name": "Alytaus miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-AL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-03",
+            "name": "Alytus",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-AL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-04",
+            "name": "Anykščiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-05",
+            "name": "Birštonas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-06",
+            "name": "Biržai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-07",
+            "name": "Druskininkai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-AL"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-08",
+            "name": "Elektrėnai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-09",
+            "name": "Ignalina",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-10",
+            "name": "Jonava",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-11",
+            "name": "Joniškis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-12",
+            "name": "Jurbarkas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-13",
+            "name": "Kaišiadorys",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-14",
+            "name": "Kalvarija",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-MR"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-16",
+            "name": "Kaunas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-KU",
+            "name": "Kauno apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-15",
+            "name": "Kauno miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-17",
+            "name": "Kazlų Rūdos",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-MR"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-19",
+            "name": "Kelmė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-21",
+            "name": "Klaipėda",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-KL",
+            "name": "Klaipėdos apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-20",
+            "name": "Klaipėdos miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-22",
+            "name": "Kretinga",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-23",
+            "name": "Kupiškis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-18",
+            "name": "Kėdainiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-24",
+            "name": "Lazdijai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-AL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-25",
+            "name": "Marijampolė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-MR"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-MR",
+            "name": "Marijampolės apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-26",
+            "name": "Mažeikiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TE"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-27",
+            "name": "Molėtai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-28",
+            "name": "Neringa",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-29",
+            "name": "Pagėgiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-30",
+            "name": "Pakruojis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-31",
+            "name": "Palangos miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-PN",
+            "name": "Panevėžio apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-32",
+            "name": "Panevėžio miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-33",
+            "name": "Panevėžys",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-34",
+            "name": "Pasvalys",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-35",
+            "name": "Plungė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TE"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-36",
+            "name": "Prienai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-37",
+            "name": "Radviliškis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-38",
+            "name": "Raseiniai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KU"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-39",
+            "name": "Rietavas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TE"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-40",
+            "name": "Rokiškis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-PN"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-48",
+            "name": "Skuodas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-50",
+            "name": "Tauragė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TA"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-TA",
+            "name": "Tauragės apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-51",
+            "name": "Telšiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TE"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-TE",
+            "name": "Telšių apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-52",
+            "name": "Trakai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-53",
+            "name": "Ukmergė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-54",
+            "name": "Utena",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-UT",
+            "name": "Utenos apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-55",
+            "name": "Varėna",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-AL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-56",
+            "name": "Vilkaviškis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-MR"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-VL",
+            "name": "Vilniaus apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-57",
+            "name": "Vilniaus miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-58",
+            "name": "Vilnius",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "LT-59",
+            "name": "Visaginas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-60",
+            "name": "Zarasai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-UT"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-41",
+            "name": "Šakiai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-MR"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-42",
+            "name": "Šalčininkai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-44",
+            "name": "Šiauliai",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "county",
+            "3166-2_code": "LT-SA",
+            "name": "Šiaulių apskritis",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city municipality",
+            "3166-2_code": "LT-43",
+            "name": "Šiaulių miestas",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-SA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-45",
+            "name": "Šilalė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-TA"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-46",
+            "name": "Šilutė",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-KL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-47",
+            "name": "Širvintos",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        },
+        {
+            "category": "district municipality",
+            "3166-2_code": "LT-49",
+            "name": "Švenčionys",
+            "local_variant": null,
+            "language_code": "lt",
+            "romanization_system": null,
+            "parent_subdivision": "LT-VL"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "lt",
+            "administrative_language_alpha3": "lit",
+            "local_short_name": "Lietuva"
+        }
+    ]
+}

@@ -1,0 +1,471 @@
+{
+    "alpha2_code": "KH",
+    "short_name": "CAMBODIA",
+    "short_name_lower_case": "Cambodia",
+    "full_name": "the Kingdom of Cambodia",
+    "alpha3_code": "KHM",
+    "numeric_code": 116,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "KH-2",
+            "name": "Baat Dambang",
+            "local_variant": "Battambang",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-1",
+            "name": "Banteay Mean Choăy",
+            "local_variant": "Banteay Meanchey",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-1",
+            "name": "Bântéay Méan Choăy",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-2",
+            "name": "Bătdâmbâng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-23",
+            "name": "Kaeb",
+            "local_variant": "Kep",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-3",
+            "name": "Kampong Chaam",
+            "local_variant": "Kampong Cham",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-4",
+            "name": "Kampong Chhnang",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-5",
+            "name": "Kampong Spueu",
+            "local_variant": "Kampong Speu",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-6",
+            "name": "Kampong Thum",
+            "local_variant": "Kampong Thom",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-7",
+            "name": "Kampot",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-8",
+            "name": "Kandaal",
+            "local_variant": "Kandal",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-9",
+            "name": "Kaoh Kong",
+            "local_variant": "Koh Kong",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-9",
+            "name": "Kaôh Kŏng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-10",
+            "name": "Kracheh",
+            "local_variant": "Kratie",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-10",
+            "name": "Krâchéh",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-3",
+            "name": "Kâmpóng Cham",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-4",
+            "name": "Kâmpóng Chhnăng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-5",
+            "name": "Kâmpóng Spœ",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-6",
+            "name": "Kâmpóng Thum",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-7",
+            "name": "Kâmpôt",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-8",
+            "name": "Kândal",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-23",
+            "name": "Kêb",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-11",
+            "name": "Mondol Kiri",
+            "local_variant": "Mondolkiri",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-11",
+            "name": "Môndól Kiri",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-22",
+            "name": "Otdar Mean Chey",
+            "local_variant": "Oddar Meanchey",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-24",
+            "name": "Pailin",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-24",
+            "name": "Pailĭn",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous municipality",
+            "3166-2_code": "KH-12",
+            "name": "Phnom Penh",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous municipality",
+            "3166-2_code": "KH-12",
+            "name": "Phnum Pénh",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-15",
+            "name": "Pousaat",
+            "local_variant": "Pursat",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-15",
+            "name": "Poŭthĭsăt",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-18",
+            "name": "Preah Sihanouk",
+            "local_variant": "Sihanoukville",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-13",
+            "name": "Preah Vihear",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-14",
+            "name": "Prey Veaeng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-14",
+            "name": "Prey Vêng",
+            "local_variant": "Prey Veng",
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-18",
+            "name": "Preăh Seihânŭ",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-13",
+            "name": "Preăh Vihéar",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-16",
+            "name": "Rotanak Kiri",
+            "local_variant": "Ratanakiri",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-16",
+            "name": "Rôtânôkiri",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-17",
+            "name": "Siem Reab",
+            "local_variant": "Siem Reap",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-17",
+            "name": "Siĕmréab",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-19",
+            "name": "Stoĕng Trêng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-19",
+            "name": "Stueng Traeng",
+            "local_variant": "Stung Treng",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-20",
+            "name": "Svaay Rieng",
+            "local_variant": "Svay Rieng",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-20",
+            "name": "Svay Riĕng",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-21",
+            "name": "Taakaev",
+            "local_variant": "Takeo",
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-21",
+            "name": "Takêv",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-25",
+            "name": "Tbong Khmum",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "National draft 1997",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-25",
+            "name": "Tbong Khmŭm",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "KH-22",
+            "name": "Ŏtdâr Méan Choăy",
+            "local_variant": null,
+            "language_code": "km",
+            "romanization_system": "BGN/PCGN 1972",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "km",
+            "administrative_language_alpha3": "khm",
+            "local_short_name": "Kâmpŭchéa"
+        }
+    ]
+}

@@ -1,0 +1,949 @@
+{
+    "alpha2_code": "LK",
+    "short_name": "SRI LANKA",
+    "short_name_lower_case": "Sri Lanka",
+    "full_name": "the Democratic Socialist Republic of Sri Lanka",
+    "alpha3_code": "LKA",
+    "numeric_code": 144,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "LK-52",
+            "name": "Ampara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-33",
+            "name": "Ampāntōṭṭai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-52",
+            "name": "Ampāra",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-52",
+            "name": "Ampāṟai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-71",
+            "name": "Anuradhapura",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-71",
+            "name": "Anurādhapura",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-71",
+            "name": "Anurātapuram",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-81",
+            "name": "Badulla",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-81",
+            "name": "Badulla",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-1",
+            "name": "Basnāhira paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-51",
+            "name": "Batticaloa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-2",
+            "name": "Central Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-9",
+            "name": "Chappirakamuva mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-11",
+            "name": "Colombo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-3",
+            "name": "Dakuṇu paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-5",
+            "name": "Eastern Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-31",
+            "name": "Galle",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-12",
+            "name": "Gampaha",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-12",
+            "name": "Gampaha",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-31",
+            "name": "Gālla",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-33",
+            "name": "Hambantota",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-33",
+            "name": "Hambantŏṭa",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-91",
+            "name": "Irattiṉapuri",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-41",
+            "name": "Jaffna",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-13",
+            "name": "Kalutara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-12",
+            "name": "Kampahā",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-21",
+            "name": "Kandy",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-13",
+            "name": "Kaḷutara",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-13",
+            "name": "Kaḷuttuṟai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-21",
+            "name": "Kaṇṭi",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-92",
+            "name": "Kegalla",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-92",
+            "name": "Kekālai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-42",
+            "name": "Kilinochchi",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-42",
+            "name": "Kilinŏchchi",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-5",
+            "name": "Kil̮akku mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-42",
+            "name": "Kiḷinochchi",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-61",
+            "name": "Kurunegala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-61",
+            "name": "Kurunākal",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-61",
+            "name": "Kuruṇægala",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-92",
+            "name": "Kægalla",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-31",
+            "name": "Kāli",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-11",
+            "name": "Kŏl̮umpu",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-11",
+            "name": "Kŏḷamba",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-1"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-2",
+            "name": "Madhyama paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-21",
+            "name": "Mahanuvara",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-43",
+            "name": "Mannar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-43",
+            "name": "Mannārama",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-22",
+            "name": "Matale",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-32",
+            "name": "Matara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-2",
+            "name": "Mattiya mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-51",
+            "name": "Maḍakalapuva",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-43",
+            "name": "Maṉṉār",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-51",
+            "name": "Maṭṭakkaḷappu",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-1",
+            "name": "Mel mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-82",
+            "name": "Monaragala",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-45",
+            "name": "Mulativ",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-45",
+            "name": "Mullaittivu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-45",
+            "name": "Mullaittīvu",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-22",
+            "name": "Mātale",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-32",
+            "name": "Mātara",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-22",
+            "name": "Māttaḷai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-32",
+            "name": "Māttaṛai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-3"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-82",
+            "name": "Mŏṇarāgala",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-82",
+            "name": "Mŏṉarākalai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-7",
+            "name": "North Central Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-6",
+            "name": "North Western Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-4",
+            "name": "Northern Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-23",
+            "name": "Nuvara Ĕliya",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-23",
+            "name": "Nuvarĕliyā",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-23",
+            "name": "Nuwara Eliya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-2"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-5",
+            "name": "Næ̆gĕnahira paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-81",
+            "name": "Patuḷai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-8"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-72",
+            "name": "Polonnaruwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-62",
+            "name": "Puttalam",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-62",
+            "name": "Puttalama",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-62",
+            "name": "Puttaḷam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-6"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-72",
+            "name": "Pŏlaṉṉaṛuvai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-72",
+            "name": "Pŏḷŏnnaruva",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-7"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-91",
+            "name": "Ratnapura",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-91",
+            "name": "Ratnapura",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-9"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-9",
+            "name": "Sabaragamuva paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-9",
+            "name": "Sabaragamuwa Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-3",
+            "name": "Southern Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-53",
+            "name": "Tirukŏṇamalai",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-53",
+            "name": "Trikuṇāmalaya",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-53",
+            "name": "Trincomalee",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-5"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-3",
+            "name": "Tĕṉ mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-4",
+            "name": "Uturu paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-7",
+            "name": "Uturumæ̆da paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-8",
+            "name": "Uva Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-44",
+            "name": "Vavuniya",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-44",
+            "name": "Vavuniyāva",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-44",
+            "name": "Vavuṉiyā",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-6",
+            "name": "Vayamba paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-4",
+            "name": "Vaṭakku mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-7",
+            "name": "Vaṭamattiya mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-6",
+            "name": "Vaṭamel mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-1",
+            "name": "Western Province",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-41",
+            "name": "Yāl̮ppāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LK-41",
+            "name": "Yāpanaya",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": "LK-4"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-8",
+            "name": "Ūva paḷāta",
+            "local_variant": null,
+            "language_code": "si",
+            "romanization_system": "Provisional UN Draft 1972",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "LK-8",
+            "name": "Ūvā mākāṇam",
+            "local_variant": null,
+            "language_code": "ta",
+            "romanization_system": "UN II/11 1972",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Sri Lanka"
+        },
+        {
+            "administrative_language_alpha2": "si",
+            "administrative_language_alpha3": "sin",
+            "local_short_name": "Shrī Laṁkā"
+        },
+        {
+            "administrative_language_alpha2": "ta",
+            "administrative_language_alpha3": "tam",
+            "local_short_name": "Ilaṅkai"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "alpha2_code": "SB",
+    "short_name": "SOLOMON ISLANDS",
+    "short_name_lower_case": "Solomon Islands",
+    "full_name": null,
+    "alpha3_code": "SLB",
+    "numeric_code": 90,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Guadalcanal (principal island), Southern Solomon Islands, Santa Cruz Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "capital territory",
+            "3166-2_code": "SB-CT",
+            "name": "Capital Territory (Honiara)",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-CE",
+            "name": "Central",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-CH",
+            "name": "Choiseul",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-GU",
+            "name": "Guadalcanal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-IS",
+            "name": "Isabel",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-MK",
+            "name": "Makira-Ulawa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-ML",
+            "name": "Malaita",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-RB",
+            "name": "Rennell and Bellona",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-TE",
+            "name": "Temotu",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "SB-WE",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Solomon Islands"
+        }
+    ]
+}

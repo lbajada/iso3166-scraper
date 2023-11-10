@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "NP",
+    "short_name": "NEPAL",
+    "short_name_lower_case": "Nepal",
+    "full_name": null,
+    "alpha3_code": "NPL",
+    "numeric_code": 524,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "NP-P3",
+            "name": "Bagmati",
+            "local_variant": "Province 3",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P3",
+            "name": "Bāgmatī",
+            "local_variant": "Pradesh 3",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P4",
+            "name": "Gandaki",
+            "local_variant": "Province 4",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P4",
+            "name": "Gaṇḍakī",
+            "local_variant": "Pradesh 4",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P6",
+            "name": "Karnali",
+            "local_variant": "Province 6",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P6",
+            "name": "Karṇālī",
+            "local_variant": "Pradesh 6",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P5",
+            "name": "Lumbini",
+            "local_variant": "Province 5",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P5",
+            "name": "Lumbinī",
+            "local_variant": "Pradesh 5",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P2",
+            "name": "Madhesh",
+            "local_variant": "Province 2",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P2",
+            "name": "Madhesh",
+            "local_variant": "Pradesh 2",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P1",
+            "name": "Pradesh 1",
+            "local_variant": null,
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P1",
+            "name": "Province 1",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P7",
+            "name": "Sudurpashchim",
+            "local_variant": "Sudūr Pashchim; Province 7",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P7",
+            "name": "Sudūrpashchim",
+            "local_variant": "Sudūr Pashchim; Pradesh 7",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ne",
+            "administrative_language_alpha3": "nep",
+            "local_short_name": "Nepāl"
+        }
+    ]
+}

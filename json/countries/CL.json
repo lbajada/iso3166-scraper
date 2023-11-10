@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "CL",
+    "short_name": "CHILE",
+    "short_name_lower_case": "Chile",
+    "full_name": "the Republic of Chile",
+    "alpha3_code": "CHL",
+    "numeric_code": 152,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Easter Island, Juan Fernández Islands, Sala y Gómez Island, San Ambrosio Island, San Félix Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "CL-AI",
+            "name": "Aisén del General Carlos Ibañez del Campo",
+            "local_variant": "Aysén, Aisén",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-AN",
+            "name": "Antofagasta",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-AP",
+            "name": "Arica y Parinacota",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-AT",
+            "name": "Atacama",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-BI",
+            "name": "Biobío",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-CO",
+            "name": "Coquimbo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-AR",
+            "name": "La Araucanía",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-LI",
+            "name": "Libertador General Bernardo O'Higgins",
+            "local_variant": "O'Higgins",
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-LL",
+            "name": "Los Lagos",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-LR",
+            "name": "Los Ríos",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-MA",
+            "name": "Magallanes",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-ML",
+            "name": "Maule",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-RM",
+            "name": "Región Metropolitana de Santiago",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-TA",
+            "name": "Tarapacá",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-VS",
+            "name": "Valparaíso",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "CL-NB",
+            "name": "Ñuble",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Chile"
+        }
+    ]
+}

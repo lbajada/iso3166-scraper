@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "MF",
+    "short_name": "SAINT MARTIN (FRENCH PART)",
+    "short_name_lower_case": "Saint Martin (French part)",
+    "full_name": null,
+    "alpha3_code": "MAF",
+    "numeric_code": 663,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Saint-Martin (partie française)"
+        }
+    ]
+}

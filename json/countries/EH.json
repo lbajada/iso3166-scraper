@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "EH",
+    "short_name": "WESTERN SAHARA *",
+    "short_name_lower_case": "Western Sahara*",
+    "full_name": null,
+    "alpha3_code": "ESH",
+    "numeric_code": 732,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Aş Şaḩrā' al Gharbīyah"
+        }
+    ]
+}

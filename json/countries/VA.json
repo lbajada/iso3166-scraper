@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "VA",
+    "short_name": "HOLY SEE",
+    "short_name_lower_case": "Holy See (the)",
+    "full_name": null,
+    "alpha3_code": "VAT",
+    "numeric_code": 336,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "it",
+            "administrative_language_alpha3": "ita",
+            "local_short_name": "Santa Sede (la)"
+        },
+        {
+            "administrative_language_alpha2": "la",
+            "administrative_language_alpha3": "lat",
+            "local_short_name": "Sancta Sedes"
+        }
+    ]
+}

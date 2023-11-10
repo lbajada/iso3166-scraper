@@ -1,0 +1,543 @@
+{
+    "alpha2_code": "BF",
+    "short_name": "BURKINA FASO",
+    "short_name_lower_case": "Burkina Faso",
+    "full_name": null,
+    "alpha3_code": "BFA",
+    "numeric_code": 854,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "BF-BAL",
+            "name": "Balé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BAM",
+            "name": "Bam",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BAN",
+            "name": "Banwa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BAZ",
+            "name": "Bazèga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-07"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-01",
+            "name": "Boucle du Mouhoun",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BGR",
+            "name": "Bougouriba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BLG",
+            "name": "Boulgou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-BLK",
+            "name": "Boulkiemdé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-06"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-02",
+            "name": "Cascades",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-03",
+            "name": "Centre",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-04",
+            "name": "Centre-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-05",
+            "name": "Centre-Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-06",
+            "name": "Centre-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-07",
+            "name": "Centre-Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-COM",
+            "name": "Comoé",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-02"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-08",
+            "name": "Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-GAN",
+            "name": "Ganzourgou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-GNA",
+            "name": "Gnagna",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-GOU",
+            "name": "Gourma",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-08"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-09",
+            "name": "Hauts-Bassins",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-HOU",
+            "name": "Houet",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-IOB",
+            "name": "Ioba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KAD",
+            "name": "Kadiogo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-03"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KMD",
+            "name": "Komondjari",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KMP",
+            "name": "Kompienga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KOS",
+            "name": "Kossi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KOP",
+            "name": "Koulpélogo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KOT",
+            "name": "Kouritenga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-04"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KOW",
+            "name": "Kourwéogo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-KEN",
+            "name": "Kénédougou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-LOR",
+            "name": "Loroum",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-LER",
+            "name": "Léraba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-02"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-MOU",
+            "name": "Mouhoun",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-NAO",
+            "name": "Nahouri",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-07"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-NAM",
+            "name": "Namentenga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-NAY",
+            "name": "Nayala",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-10",
+            "name": "Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-NOU",
+            "name": "Noumbiel",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-13"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-OUB",
+            "name": "Oubritenga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-11"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-OUD",
+            "name": "Oudalan",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-PAS",
+            "name": "Passoré",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-10"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-11",
+            "name": "Plateau-Central",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-PON",
+            "name": "Poni",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-13"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-12",
+            "name": "Sahel",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SNG",
+            "name": "Sanguié",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SMT",
+            "name": "Sanmatenga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-05"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SIS",
+            "name": "Sissili",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SOM",
+            "name": "Soum",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SOR",
+            "name": "Sourou",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-01"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BF-13",
+            "name": "Sud-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-SEN",
+            "name": "Séno",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-TAP",
+            "name": "Tapoa",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-08"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-TUI",
+            "name": "Tuy",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-09"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-YAG",
+            "name": "Yagha",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-12"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-YAT",
+            "name": "Yatenga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-ZIR",
+            "name": "Ziro",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-06"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-ZON",
+            "name": "Zondoma",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-10"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BF-ZOU",
+            "name": "Zoundwéogo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BF-07"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Burkina Faso (le)"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "alpha2_code": "DM",
+    "short_name": "DOMINICA",
+    "short_name_lower_case": "Dominica",
+    "full_name": "the Commonwealth of Dominica",
+    "alpha3_code": "DMA",
+    "numeric_code": 212,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "parish",
+            "3166-2_code": "DM-02",
+            "name": "Saint Andrew",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-03",
+            "name": "Saint David",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-04",
+            "name": "Saint George",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-05",
+            "name": "Saint John",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-06",
+            "name": "Saint Joseph",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-07",
+            "name": "Saint Luke",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-08",
+            "name": "Saint Mark",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-09",
+            "name": "Saint Patrick",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-10",
+            "name": "Saint Paul",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "DM-11",
+            "name": "Saint Peter",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Dominica"
+        }
+    ]
+}

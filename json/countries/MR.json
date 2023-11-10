@@ -1,0 +1,183 @@
+{
+    "alpha2_code": "MR",
+    "short_name": "MAURITANIA",
+    "short_name_lower_case": "Mauritania",
+    "full_name": "the Islamic Republic of Mauritania",
+    "alpha3_code": "MRT",
+    "numeric_code": 478,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "MR-07",
+            "name": "Adrar",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-03",
+            "name": "Assaba",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-05",
+            "name": "Brakna",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-08",
+            "name": "Dakhlet Nouâdhibou",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-04",
+            "name": "Gorgol",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-10",
+            "name": "Guidimaka",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-01",
+            "name": "Hodh ech Chargui",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-02",
+            "name": "Hodh el Gharbi",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-12",
+            "name": "Inchiri",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-14",
+            "name": "Nouakchott Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-13",
+            "name": "Nouakchott Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-15",
+            "name": "Nouakchott Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-13",
+            "name": "Nuwākshūţ al Gharbīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-15",
+            "name": "Nuwākshūţ al Janūbīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-14",
+            "name": "Nuwākshūţ ash Shamālīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-09",
+            "name": "Tagant",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-11",
+            "name": "Tiris Zemmour",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "MR-06",
+            "name": "Trarza",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Mūrītāniyā"
+        }
+    ]
+}

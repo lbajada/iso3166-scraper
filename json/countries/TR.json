@@ -1,0 +1,750 @@
+{
+    "alpha2_code": "TR",
+    "short_name": "TÜRKİYE",
+    "short_name_lower_case": "Türkiye",
+    "full_name": "the Republic of Türkiye",
+    "alpha3_code": "TUR",
+    "numeric_code": 792,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "TR-01",
+            "name": "Adana",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-02",
+            "name": "Adıyaman",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-03",
+            "name": "Afyonkarahisar",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-68",
+            "name": "Aksaray",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-05",
+            "name": "Amasya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-06",
+            "name": "Ankara",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-07",
+            "name": "Antalya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-75",
+            "name": "Ardahan",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-08",
+            "name": "Artvin",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-09",
+            "name": "Aydın",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-04",
+            "name": "Ağrı",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-10",
+            "name": "Balıkesir",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-74",
+            "name": "Bartın",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-72",
+            "name": "Batman",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-69",
+            "name": "Bayburt",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-11",
+            "name": "Bilecik",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-12",
+            "name": "Bingöl",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-13",
+            "name": "Bitlis",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-14",
+            "name": "Bolu",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-15",
+            "name": "Burdur",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-16",
+            "name": "Bursa",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-20",
+            "name": "Denizli",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-21",
+            "name": "Diyarbakır",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-81",
+            "name": "Düzce",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-22",
+            "name": "Edirne",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-23",
+            "name": "Elazığ",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-24",
+            "name": "Erzincan",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-25",
+            "name": "Erzurum",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-26",
+            "name": "Eskişehir",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-27",
+            "name": "Gaziantep",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-28",
+            "name": "Giresun",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-29",
+            "name": "Gümüşhane",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-30",
+            "name": "Hakkâri",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-31",
+            "name": "Hatay",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-32",
+            "name": "Isparta",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-76",
+            "name": "Iğdır",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-46",
+            "name": "Kahramanmaraş",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-78",
+            "name": "Karabük",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-70",
+            "name": "Karaman",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-36",
+            "name": "Kars",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-37",
+            "name": "Kastamonu",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-38",
+            "name": "Kayseri",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-79",
+            "name": "Kilis",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-41",
+            "name": "Kocaeli",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-42",
+            "name": "Konya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-43",
+            "name": "Kütahya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-39",
+            "name": "Kırklareli",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-71",
+            "name": "Kırıkkale",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-40",
+            "name": "Kırşehir",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-44",
+            "name": "Malatya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-45",
+            "name": "Manisa",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-47",
+            "name": "Mardin",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-33",
+            "name": "Mersin",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-48",
+            "name": "Muğla",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-49",
+            "name": "Muş",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-50",
+            "name": "Nevşehir",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-51",
+            "name": "Niğde",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-52",
+            "name": "Ordu",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-80",
+            "name": "Osmaniye",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-53",
+            "name": "Rize",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-54",
+            "name": "Sakarya",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-55",
+            "name": "Samsun",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-56",
+            "name": "Siirt",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-57",
+            "name": "Sinop",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-58",
+            "name": "Sivas",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-59",
+            "name": "Tekirdağ",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-60",
+            "name": "Tokat",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-61",
+            "name": "Trabzon",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-62",
+            "name": "Tunceli",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-64",
+            "name": "Uşak",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-65",
+            "name": "Van",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-77",
+            "name": "Yalova",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-66",
+            "name": "Yozgat",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-67",
+            "name": "Zonguldak",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-17",
+            "name": "Çanakkale",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-18",
+            "name": "Çankırı",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-19",
+            "name": "Çorum",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-34",
+            "name": "İstanbul",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-35",
+            "name": "İzmir",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-63",
+            "name": "Şanlıurfa",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "TR-73",
+            "name": "Şırnak",
+            "local_variant": null,
+            "language_code": "tr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "tr",
+            "administrative_language_alpha3": "tur",
+            "local_short_name": "Türkiye"
+        }
+    ]
+}

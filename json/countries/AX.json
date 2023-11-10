@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "AX",
+    "short_name": "ÅLAND ISLANDS",
+    "short_name_lower_case": "Åland Islands",
+    "full_name": null,
+    "alpha3_code": "ALA",
+    "numeric_code": 248,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "sv",
+            "administrative_language_alpha3": "swe",
+            "local_short_name": "Åland"
+        }
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "alpha2_code": "WS",
+    "short_name": "SAMOA",
+    "short_name_lower_case": "Samoa",
+    "full_name": "the Independent State of Samoa",
+    "alpha3_code": "WSM",
+    "numeric_code": 882,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Savai'i, Upolu",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "WS-AA",
+            "name": "A'ana",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-AA",
+            "name": "A'ana",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-AL",
+            "name": "Aiga-i-le-Tai",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-AL",
+            "name": "Aiga-i-le-Tai",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-AT",
+            "name": "Atua",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-AT",
+            "name": "Atua",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-FA",
+            "name": "Fa'asaleleaga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-FA",
+            "name": "Fa'asaleleaga",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-GE",
+            "name": "Gaga'emauga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-GE",
+            "name": "Gaga'emauga",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-GI",
+            "name": "Gagaifomauga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-GI",
+            "name": "Gagaifomauga",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-PA",
+            "name": "Palauli",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-PA",
+            "name": "Palauli",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-SA",
+            "name": "Satupa'itea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-SA",
+            "name": "Satupa'itea",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-TU",
+            "name": "Tuamasaga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-TU",
+            "name": "Tuamasaga",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-VF",
+            "name": "Va'a-o-Fonoti",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-VF",
+            "name": "Va'a-o-Fonoti",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-VS",
+            "name": "Vaisigano",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "WS-VS",
+            "name": "Vaisigano",
+            "local_variant": null,
+            "language_code": "sm",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Samoa"
+        },
+        {
+            "administrative_language_alpha2": "sm",
+            "administrative_language_alpha3": "smo",
+            "local_short_name": "Samoa"
+        }
+    ]
+}

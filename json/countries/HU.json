@@ -1,0 +1,408 @@
+{
+    "alpha2_code": "HU",
+    "short_name": "HUNGARY",
+    "short_name_lower_case": "Hungary",
+    "full_name": null,
+    "alpha3_code": "HUN",
+    "numeric_code": 348,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "county",
+            "3166-2_code": "HU-BA",
+            "name": "Baranya",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-BZ",
+            "name": "Borsod-Abaúj-Zemplén",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "capital city",
+            "3166-2_code": "HU-BU",
+            "name": "Budapest",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-BK",
+            "name": "Bács-Kiskun",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-BE",
+            "name": "Békés",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-BC",
+            "name": "Békéscsaba",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-CS",
+            "name": "Csongrád-Csanád",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-DE",
+            "name": "Debrecen",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-DU",
+            "name": "Dunaújváros",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-EG",
+            "name": "Eger",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-FE",
+            "name": "Fejér",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-GY",
+            "name": "Győr",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-GS",
+            "name": "Győr-Moson-Sopron",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-HB",
+            "name": "Hajdú-Bihar",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-HE",
+            "name": "Heves",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-HV",
+            "name": "Hódmezővásárhely",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-JN",
+            "name": "Jász-Nagykun-Szolnok",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-KV",
+            "name": "Kaposvár",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-KM",
+            "name": "Kecskemét",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-KE",
+            "name": "Komárom-Esztergom",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-MI",
+            "name": "Miskolc",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-NK",
+            "name": "Nagykanizsa",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-NY",
+            "name": "Nyíregyháza",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-NO",
+            "name": "Nógrád",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-PE",
+            "name": "Pest",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-PS",
+            "name": "Pécs",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-ST",
+            "name": "Salgótarján",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-SO",
+            "name": "Somogy",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SN",
+            "name": "Sopron",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-SZ",
+            "name": "Szabolcs-Szatmár-Bereg",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SD",
+            "name": "Szeged",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SS",
+            "name": "Szekszárd",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SK",
+            "name": "Szolnok",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SH",
+            "name": "Szombathely",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-SF",
+            "name": "Székesfehérvár",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-TB",
+            "name": "Tatabánya",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-TO",
+            "name": "Tolna",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-VA",
+            "name": "Vas",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-VE",
+            "name": "Veszprém",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-VM",
+            "name": "Veszprém",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "county",
+            "3166-2_code": "HU-ZA",
+            "name": "Zala",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-ZE",
+            "name": "Zalaegerszeg",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city with county rights",
+            "3166-2_code": "HU-ER",
+            "name": "Érd",
+            "local_variant": null,
+            "language_code": "hu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "hu",
+            "administrative_language_alpha3": "hun",
+            "local_short_name": "Magyarország"
+        }
+    ]
+}

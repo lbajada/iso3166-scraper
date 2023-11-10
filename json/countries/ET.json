@@ -1,0 +1,255 @@
+{
+    "alpha2_code": "ET",
+    "short_name": "ETHIOPIA",
+    "short_name_lower_case": "Ethiopia",
+    "full_name": "the Federal Democratic Republic of Ethiopia",
+    "alpha3_code": "ETH",
+    "numeric_code": 231,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "administration",
+            "3166-2_code": "ET-AA",
+            "name": "Addis Ababa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-AF",
+            "name": "Afar",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-AM",
+            "name": "Amara",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-BE",
+            "name": "Benshangul-Gumaz",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-BE",
+            "name": "Bīnshangul Gumuz",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administration",
+            "3166-2_code": "ET-DD",
+            "name": "Dire Dawa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administration",
+            "3166-2_code": "ET-DD",
+            "name": "Dirē Dawa",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-GA",
+            "name": "Gambela Peoples",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-GA",
+            "name": "Gambēla Hizboch",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-HA",
+            "name": "Harari People",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-HA",
+            "name": "Hārerī Hizb",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-OR",
+            "name": "Oromia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-OR",
+            "name": "Oromīya",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SI",
+            "name": "Sidama",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SO",
+            "name": "Somali",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SN",
+            "name": "Southern Nations, Nationalities and Peoples",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SW",
+            "name": "Southwest Ethiopia Peoples",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SO",
+            "name": "Sumalē",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SI",
+            "name": "Sīdama",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-TI",
+            "name": "Tigrai",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-TI",
+            "name": "Tigray",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SN",
+            "name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-SW",
+            "name": "YeDebub M‘irab Ītyop’iya Hizboch",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administration",
+            "3166-2_code": "ET-AA",
+            "name": "Ādīs Ābeba",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-AF",
+            "name": "Āfar",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        },
+        {
+            "category": "regional state",
+            "3166-2_code": "ET-AM",
+            "name": "Āmara",
+            "local_variant": null,
+            "language_code": "am",
+            "romanization_system": "BGN/PCGN 1967",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "am",
+            "administrative_language_alpha3": "amh",
+            "local_short_name": "Ītyop'iya"
+        }
+    ]
+}

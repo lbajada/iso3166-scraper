@@ -1,0 +1,908 @@
+{
+    "alpha2_code": "ZA",
+    "short_name": "SOUTH AFRICA",
+    "short_name_lower_case": "South Africa",
+    "full_name": "the Republic of South Africa",
+    "alpha3_code": "ZAF",
+    "numeric_code": 710,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Marion Island, Prince Edward Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Bokone Bophirima",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Eastern Cape",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Foreisetata",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Free State",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Free State",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Freistata",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Freistata",
+            "local_variant": "Foreisetata",
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Freyistata",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Fuleyisitata",
+            "local_variant": "Freyisitata",
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Fureisitata",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "GaZulu-Natala",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Gauteng",
+            "local_variant": null,
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "HaZulu-Natal",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "Hazolo-Natala",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Kapa Bodikela",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Kapa Bohlabela",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Kapa Bokone",
+            "local_variant": "Kapa Leboa",
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Kapa Bophirima",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Kapa Bophirimela",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Kapa Botjhabela",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Kapa Botlhaba",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Kapa Devhula",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Kapa Leboya",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Kapa Leboya",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Kapa Vhubvaḓuvha",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Kapa Vhukovhela",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Kapa-N'walungu",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Kapa-Vupeladyambu",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Kapa-Vuxa",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Kgauteng",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "KwaZulu-Natal",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "KwaZulu-Natal",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "KwaZulu-Natala",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "KwaZulu-Natali",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "KwaZulu-Natali",
+            "local_variant": null,
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "Kwazulu-Natal",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "Kwazulu-Natal",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Lebowa Bodikela",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Leboya (le) Bophirima",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Limpopo",
+            "local_variant": null,
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Mntla-Koloni",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Mntla-Ntshona",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Mpuma-Koloni",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "ss",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "tn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "Mpumalanga",
+            "local_variant": null,
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Mpumalanga-Kapa",
+            "local_variant": "Mpumalanga-Koloni",
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "N'walungu-Vupeladyambu",
+            "local_variant": null,
+            "language_code": "ts",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Noord-Kaap",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Noordwes",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "North-West",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Northern Cape",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Ntshona-Koloni",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Ntshonalanga-Kapa",
+            "local_variant": "Ntshonalanga-Koloni",
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "Nyakatho-Kapa",
+            "local_variant": "Nyakatho-Koloni",
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "Nyakatho-Ntshonalanga",
+            "local_variant": null,
+            "language_code": "zu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "Oos-Kaap",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "Rhawuti",
+            "local_variant": null,
+            "language_code": "xh",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-LP",
+            "name": "Vhembe",
+            "local_variant": null,
+            "language_code": "ve",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "Vrystaat",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Wes-Kaap",
+            "local_variant": null,
+            "language_code": "af",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "Western Cape",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-FS",
+            "name": "iFreyistata",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-GP",
+            "name": "iGauteng",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-KZN",
+            "name": "iKwaZulu-Natal",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-MP",
+            "name": "iMpumalanga",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-EC",
+            "name": "iPumalanga-Kapa",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-WC",
+            "name": "iTjhingalanga-Kapa",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NC",
+            "name": "iTlhagwini-Kapa",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ZA-NW",
+            "name": "iTlhagwini-Tjhingalanga",
+            "local_variant": null,
+            "language_code": "nr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "af",
+            "administrative_language_alpha3": "afr",
+            "local_short_name": "Suid-Afrika"
+        },
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "South Africa"
+        },
+        {
+            "administrative_language_alpha2": "nr",
+            "administrative_language_alpha3": "nbl",
+            "local_short_name": "Sewula Afrika"
+        },
+        {
+            "administrative_language_alpha2": "-",
+            "administrative_language_alpha3": "nso",
+            "local_short_name": "Afrika-Borwa"
+        },
+        {
+            "administrative_language_alpha2": "st",
+            "administrative_language_alpha3": "sot",
+            "local_short_name": "Afrika-Borwa"
+        },
+        {
+            "administrative_language_alpha2": "ss",
+            "administrative_language_alpha3": "ssw",
+            "local_short_name": "Ningizimu Afrika"
+        },
+        {
+            "administrative_language_alpha2": "tn",
+            "administrative_language_alpha3": "tsn",
+            "local_short_name": "Afrika-Borwa"
+        },
+        {
+            "administrative_language_alpha2": "ts",
+            "administrative_language_alpha3": "tso",
+            "local_short_name": "Afrika-Dzonga"
+        },
+        {
+            "administrative_language_alpha2": "ve",
+            "administrative_language_alpha3": "ven",
+            "local_short_name": "Afrika Tshipembe"
+        },
+        {
+            "administrative_language_alpha2": "xh",
+            "administrative_language_alpha3": "xho",
+            "local_short_name": "Mzantsi Afrika"
+        },
+        {
+            "administrative_language_alpha2": "zu",
+            "administrative_language_alpha3": "zul",
+            "local_short_name": "Ningizimu Afrika"
+        }
+    ]
+}

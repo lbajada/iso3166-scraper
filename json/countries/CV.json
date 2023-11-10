@@ -1,0 +1,237 @@
+{
+    "alpha2_code": "CV",
+    "short_name": "CABO VERDE",
+    "short_name_lower_case": "Cabo Verde",
+    "full_name": "the Republic of Cabo Verde",
+    "alpha3_code": "CPV",
+    "numeric_code": 132,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "São Tiago, São Vicente",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-BV",
+            "name": "Boa Vista",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-BR",
+            "name": "Brava",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "CV-B",
+            "name": "Ilhas de Barlavento",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "geographical region",
+            "3166-2_code": "CV-S",
+            "name": "Ilhas de Sotavento",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-MA",
+            "name": "Maio",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-MO",
+            "name": "Mosteiros",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-PA",
+            "name": "Paul",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-PN",
+            "name": "Porto Novo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-PR",
+            "name": "Praia",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-RB",
+            "name": "Ribeira Brava",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-RG",
+            "name": "Ribeira Grande",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-RS",
+            "name": "Ribeira Grande de Santiago",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SL",
+            "name": "Sal",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-CA",
+            "name": "Santa Catarina",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-CF",
+            "name": "Santa Catarina do Fogo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-CR",
+            "name": "Santa Cruz",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SD",
+            "name": "São Domingos",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SF",
+            "name": "São Filipe",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SO",
+            "name": "São Lourenço dos Órgãos",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SM",
+            "name": "São Miguel",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SS",
+            "name": "São Salvador do Mundo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-SV",
+            "name": "São Vicente",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-TA",
+            "name": "Tarrafal",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-S"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "CV-TS",
+            "name": "Tarrafal de São Nicolau",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "CV-B"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Cabo Verde"
+        }
+    ]
+}

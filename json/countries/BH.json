@@ -1,0 +1,57 @@
+{
+    "alpha2_code": "BH",
+    "short_name": "BAHRAIN",
+    "short_name_lower_case": "Bahrain",
+    "full_name": "the Kingdom of Bahrain",
+    "alpha3_code": "BHR",
+    "numeric_code": 48,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "BH-14",
+            "name": "Al Janūbīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "BH-15",
+            "name": "Al Muḩarraq",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "BH-13",
+            "name": "Al ‘Āşimah",
+            "local_variant": "Al Manāmah",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "BH-17",
+            "name": "Ash Shamālīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Baḩrayn"
+        }
+    ]
+}

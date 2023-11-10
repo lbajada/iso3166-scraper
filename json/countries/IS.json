@@ -1,0 +1,669 @@
+{
+    "alpha2_code": "IS",
+    "short_name": "ICELAND",
+    "short_name_lower_case": "Iceland",
+    "full_name": null,
+    "alpha3_code": "ISL",
+    "numeric_code": 352,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-AKN",
+            "name": "Akraneskaupstaður",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-AKU",
+            "name": "Akureyrarbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-7",
+            "name": "Austurland",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-BLA",
+            "name": "Bláskógabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-BOL",
+            "name": "Bolungarvíkurkaupstaður",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-BOG",
+            "name": "Borgarbyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-DAB",
+            "name": "Dalabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-DAV",
+            "name": "Dalvíkurbyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-EOM",
+            "name": "Eyja- og Miklaholtshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-EYF",
+            "name": "Eyjafjarðarsveit",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-FJL",
+            "name": "Fjallabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-FJD",
+            "name": "Fjarðabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-7"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-FLR",
+            "name": "Fljótsdalshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-7"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-FLA",
+            "name": "Flóahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-GAR",
+            "name": "Garðabær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-GRN",
+            "name": "Grindavíkurbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-2"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-GRU",
+            "name": "Grundarfjarðarbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-GOG",
+            "name": "Grímsnes- og Grafningshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-GRY",
+            "name": "Grýtubakkahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HAF",
+            "name": "Hafnarfjarðarkaupstaður",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HRU",
+            "name": "Hrunamannahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HVA",
+            "name": "Hvalfjarðarsveit",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HVE",
+            "name": "Hveragerðisbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-1",
+            "name": "Höfuðborgarsvæði",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HRG",
+            "name": "Hörgársveit",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HUG",
+            "name": "Húnabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-5"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-HUV",
+            "name": "Húnaþing vestra",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-5"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-KAL",
+            "name": "Kaldrananeshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-KJO",
+            "name": "Kjósarhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-KOP",
+            "name": "Kópavogsbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-LAN",
+            "name": "Langanesbyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-MOS",
+            "name": "Mosfellsbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-MUL",
+            "name": "Múlaþing",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-7"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-MYR",
+            "name": "Mýrdalshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-6",
+            "name": "Norðurland eystra",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-5",
+            "name": "Norðurland vestra",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-NOR",
+            "name": "Norðurþing",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-RGE",
+            "name": "Rangárþing eystra",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-RGY",
+            "name": "Rangárþing ytra",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-RHH",
+            "name": "Reykhólahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-RKN",
+            "name": "Reykjanesbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-2"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-RKV",
+            "name": "Reykjavíkurborg",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SEL",
+            "name": "Seltjarnarnesbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-1"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SKF",
+            "name": "Skaftárhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SKG",
+            "name": "Skagabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-5"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SKR",
+            "name": "Skagafjörður",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-5"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SOG",
+            "name": "Skeiða- og Gnúpverjahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SKO",
+            "name": "Skorradalshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SNF",
+            "name": "Snæfellsbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-STR",
+            "name": "Strandabyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-STY",
+            "name": "Stykkishólmsbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-3"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-8",
+            "name": "Suðurland",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-2",
+            "name": "Suðurnes",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SDN",
+            "name": "Suðurnesjabær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-2"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SBT",
+            "name": "Svalbarðsstrandarhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SHF",
+            "name": "Sveitarfélagið Hornafjörður",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-7"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SSS",
+            "name": "Sveitarfélagið Skagaströnd",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-5"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SVG",
+            "name": "Sveitarfélagið Vogar",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-2"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SFA",
+            "name": "Sveitarfélagið Árborg",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SOL",
+            "name": "Sveitarfélagið Ölfus",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-SDV",
+            "name": "Súðavíkurhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-TJO",
+            "name": "Tjörneshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-TAL",
+            "name": "Tálknafjarðarhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-4",
+            "name": "Vestfirðir",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-VEM",
+            "name": "Vestmannaeyjabær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-VER",
+            "name": "Vesturbyggð",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IS-3",
+            "name": "Vesturland",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-VOP",
+            "name": "Vopnafjarðarhreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-7"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-ARN",
+            "name": "Árneshreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-ASA",
+            "name": "Ásahreppur",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-8"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-ISA",
+            "name": "Ísafjarðarbær",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-4"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "IS-THG",
+            "name": "Þingeyjarsveit",
+            "local_variant": null,
+            "language_code": "is",
+            "romanization_system": null,
+            "parent_subdivision": "IS-6"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "is",
+            "administrative_language_alpha3": "isl",
+            "local_short_name": "Ísland"
+        }
+    ]
+}

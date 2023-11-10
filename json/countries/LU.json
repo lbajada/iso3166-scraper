@@ -1,0 +1,355 @@
+{
+    "alpha2_code": "LU",
+    "short_name": "LUXEMBOURG",
+    "short_name_lower_case": "Luxembourg",
+    "full_name": "the Grand Duchy of Luxembourg",
+    "alpha3_code": "LUX",
+    "numeric_code": 442,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CA",
+            "name": "Capellen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CA",
+            "name": "Capellen",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CL",
+            "name": "Clerf",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CL",
+            "name": "Clervaux",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-DI",
+            "name": "Diekirch",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-DI",
+            "name": "Diekirch",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-DI",
+            "name": "Diekrech",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-EC",
+            "name": "Echternach",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-EC",
+            "name": "Echternach",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ES",
+            "name": "Esch an der Alzette",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ES",
+            "name": "Esch-Uelzecht",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ES",
+            "name": "Esch-sur-Alzette",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-GR",
+            "name": "Grevenmacher",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-GR",
+            "name": "Grevenmacher",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-GR",
+            "name": "Gréivemaacher",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-EC",
+            "name": "Iechternach",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CA",
+            "name": "Kapellen",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-CL",
+            "name": "Klierf",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-LU",
+            "name": "Luxembourg",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-LU",
+            "name": "Luxemburg",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-LU",
+            "name": "Lëtzebuerg",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ME",
+            "name": "Mersch",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ME",
+            "name": "Mersch",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-ME",
+            "name": "Miersch",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RD",
+            "name": "Redange",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RD",
+            "name": "Redingen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RM",
+            "name": "Remich",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RM",
+            "name": "Remich",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RD",
+            "name": "Réiden-Atert",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-RM",
+            "name": "Réimech",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-VD",
+            "name": "Veianen",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-VD",
+            "name": "Vianden",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-VD",
+            "name": "Vianden",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-WI",
+            "name": "Wiltz",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-WI",
+            "name": "Wiltz",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "canton",
+            "3166-2_code": "LU-WI",
+            "name": "Wolz",
+            "local_variant": null,
+            "language_code": "lb",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Luxemburg"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Luxembourg (le)"
+        },
+        {
+            "administrative_language_alpha2": "lb",
+            "administrative_language_alpha3": "ltz",
+            "local_short_name": "Lëtzebuerg"
+        }
+    ]
+}

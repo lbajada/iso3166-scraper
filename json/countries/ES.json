@@ -1,0 +1,714 @@
+{
+    "alpha2_code": "ES",
+    "short_name": "SPAIN",
+    "short_name_lower_case": "Spain",
+    "full_name": "the Kingdom of Spain",
+    "alpha3_code": "ESP",
+    "numeric_code": 724,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "ES-C",
+            "name": "A Coruña [La Coruña]",
+            "local_variant": null,
+            "language_code": "gl",
+            "romanization_system": null,
+            "parent_subdivision": "ES-GA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-A",
+            "name": "Alacant*",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-AB",
+            "name": "Albacete",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-A",
+            "name": "Alicante",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-AL",
+            "name": "Almería",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-AN",
+            "name": "Andalucía",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-VI",
+            "name": "Araba*",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": "ES-PV"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-AR",
+            "name": "Aragón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-O",
+            "name": "Asturias",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AS"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-AS",
+            "name": "Asturias, Principado de",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-BA",
+            "name": "Badajoz",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-EX"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-B",
+            "name": "Barcelona [Barcelona]",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CT"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-BI",
+            "name": "Bizkaia",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": "ES-PV"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-BU",
+            "name": "Burgos",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-CN",
+            "name": "Canarias",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-CB",
+            "name": "Cantabria",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-S",
+            "name": "Cantabria",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CB"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CS",
+            "name": "Castelló*",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CS",
+            "name": "Castellón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-CL",
+            "name": "Castilla y León",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-CM",
+            "name": "Castilla-La Mancha",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-CT",
+            "name": "Catalunya [Cataluña]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city in North Africa",
+            "3166-2_code": "ES-CE",
+            "name": "Ceuta",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CR",
+            "name": "Ciudad Real",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CU",
+            "name": "Cuenca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CC",
+            "name": "Cáceres",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-EX"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CA",
+            "name": "Cádiz",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-CO",
+            "name": "Córdoba",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-PV",
+            "name": "Euskal Herria",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-EX",
+            "name": "Extremadura",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-GA",
+            "name": "Galicia [Galicia]",
+            "local_variant": null,
+            "language_code": "gl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-SS",
+            "name": "Gipuzkoa",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": "ES-PV"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-GI",
+            "name": "Girona [Gerona]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CT"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-GR",
+            "name": "Granada",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-GU",
+            "name": "Guadalajara",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-H",
+            "name": "Huelva",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-HU",
+            "name": "Huesca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AR"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-IB",
+            "name": "Illes Balears [Islas Baleares]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-PM",
+            "name": "Illes Balears [Islas Baleares]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-IB"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-J",
+            "name": "Jaén",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-RI",
+            "name": "La Rioja",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-LO",
+            "name": "La Rioja",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-RI"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-GC",
+            "name": "Las Palmas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-LE",
+            "name": "León",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-L",
+            "name": "Lleida [Lérida]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CT"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-LU",
+            "name": "Lugo [Lugo]",
+            "local_variant": null,
+            "language_code": "gl",
+            "romanization_system": null,
+            "parent_subdivision": "ES-GA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-M",
+            "name": "Madrid",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-MD"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-MD",
+            "name": "Madrid, Comunidad de",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city in North Africa",
+            "3166-2_code": "ES-ML",
+            "name": "Melilla",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-MU",
+            "name": "Murcia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-MC"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-MC",
+            "name": "Murcia, Región de",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-MA",
+            "name": "Málaga",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-NA",
+            "name": "Nafarroa*",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": "ES-NC"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-NC",
+            "name": "Nafarroako Foru Komunitatea*",
+            "local_variant": null,
+            "language_code": "eu",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-NA",
+            "name": "Navarra",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-NC"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-NC",
+            "name": "Navarra, Comunidad Foral de",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-OR",
+            "name": "Ourense [Orense]",
+            "local_variant": null,
+            "language_code": "gl",
+            "romanization_system": null,
+            "parent_subdivision": "ES-GA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-P",
+            "name": "Palencia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-PV",
+            "name": "País Vasco",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-PO",
+            "name": "Pontevedra [Pontevedra]",
+            "local_variant": null,
+            "language_code": "gl",
+            "romanization_system": null,
+            "parent_subdivision": "ES-GA"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-SA",
+            "name": "Salamanca",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-TF",
+            "name": "Santa Cruz de Tenerife",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-SG",
+            "name": "Segovia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-SE",
+            "name": "Sevilla",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AN"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-SO",
+            "name": "Soria",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-T",
+            "name": "Tarragona [Tarragona]",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CT"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-TE",
+            "name": "Teruel",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AR"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-TO",
+            "name": "Toledo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CM"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-V",
+            "name": "Valencia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-VC",
+            "name": "Valenciana, Comunidad",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous community",
+            "3166-2_code": "ES-VC",
+            "name": "Valenciana, Comunitat*",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-VA",
+            "name": "Valladolid",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-V",
+            "name": "València*",
+            "local_variant": null,
+            "language_code": "ca",
+            "romanization_system": null,
+            "parent_subdivision": "ES-VC"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-ZA",
+            "name": "Zamora",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-Z",
+            "name": "Zaragoza",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-AR"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-VI",
+            "name": "Álava",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-PV"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "ES-AV",
+            "name": "Ávila",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "ES-CL"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "España"
+        }
+    ]
+}

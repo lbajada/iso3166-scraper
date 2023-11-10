@@ -1,0 +1,233 @@
+{
+    "alpha2_code": "IQ",
+    "short_name": "IRAQ",
+    "short_name_lower_case": "Iraq",
+    "full_name": "the Republic of Iraq",
+    "alpha3_code": "IRQ",
+    "numeric_code": 368,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-AN",
+            "name": "Al Anbār",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-BA",
+            "name": "Al Başrah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-MU",
+            "name": "Al Muthanná",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-QA",
+            "name": "Al Qādisīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-NA",
+            "name": "An Najaf",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-AR",
+            "name": "Arbīl",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-SU",
+            "name": "As Sulaymānīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-BG",
+            "name": "Baghdād",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-BB",
+            "name": "Bābil",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-DA",
+            "name": "Dahūk",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-DQ",
+            "name": "Dhī Qār",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-DA",
+            "name": "Dihok",
+            "local_variant": null,
+            "language_code": "ku",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-DI",
+            "name": "Diyālá",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IQ-KR",
+            "name": "Herêm-î Kurdistan",
+            "local_variant": null,
+            "language_code": "ku",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-AR",
+            "name": "Hewlêr",
+            "local_variant": null,
+            "language_code": "ku",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IQ-KR",
+            "name": "Iqlīm Kūrdistān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-KA",
+            "name": "Karbalā’",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-KI",
+            "name": "Kirkūk",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-MA",
+            "name": "Maysān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-NI",
+            "name": "Nīnawá",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-SU",
+            "name": "Slêmanî",
+            "local_variant": null,
+            "language_code": "ku",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": "IQ-KR"
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-WA",
+            "name": "Wāsiţ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "governorate",
+            "3166-2_code": "IQ-SD",
+            "name": "Şalāḩ ad Dīn",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al ‘Irāq"
+        },
+        {
+            "administrative_language_alpha2": "ku",
+            "administrative_language_alpha3": "kur",
+            "local_short_name": "‘Êraq"
+        }
+    ]
+}

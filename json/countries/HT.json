@@ -1,0 +1,206 @@
+{
+    "alpha2_code": "HT",
+    "short_name": "HAITI",
+    "short_name_lower_case": "Haiti",
+    "full_name": "the Republic of Haiti",
+    "alpha3_code": "HTI",
+    "numeric_code": 332,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "department",
+            "3166-2_code": "HT-AR",
+            "name": "Artibonite",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-CE",
+            "name": "Centre",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-GA",
+            "name": "Grandans",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-GA",
+            "name": "Grande’Anse",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-AR",
+            "name": "Latibonit",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-OU",
+            "name": "Lwès",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NI",
+            "name": "Nip",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NI",
+            "name": "Nippes",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-ND",
+            "name": "Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NE",
+            "name": "Nord-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NO",
+            "name": "Nord-Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-ND",
+            "name": "Nò",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NO",
+            "name": "Nòdwès",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-NE",
+            "name": "Nòdès",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-OU",
+            "name": "Ouest",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-CE",
+            "name": "Sant",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-SD",
+            "name": "Sid",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-SE",
+            "name": "Sidès",
+            "local_variant": null,
+            "language_code": "ht",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-SD",
+            "name": "Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "department",
+            "3166-2_code": "HT-SE",
+            "name": "Sud-Est",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Haïti"
+        },
+        {
+            "administrative_language_alpha2": "ht",
+            "administrative_language_alpha3": "hat",
+            "local_short_name": "Ayiti"
+        }
+    ]
+}

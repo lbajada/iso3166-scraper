@@ -1,0 +1,188 @@
+{
+    "alpha2_code": "SO",
+    "short_name": "SOMALIA",
+    "short_name_lower_case": "Somalia",
+    "full_name": "the Federal Republic of Somalia",
+    "alpha3_code": "SOM",
+    "numeric_code": 706,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "SO-AW",
+            "name": "Awdal",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-BK",
+            "name": "Bakool",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-BN",
+            "name": "Banaadir",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-BR",
+            "name": "Bari",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-BY",
+            "name": "Bay",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-GA",
+            "name": "Galguduud",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-GE",
+            "name": "Gedo",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-HI",
+            "name": "Hiiraan",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-JD",
+            "name": "Jubbada Dhexe",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-JH",
+            "name": "Jubbada Hoose",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-MU",
+            "name": "Mudug",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-NU",
+            "name": "Nugaal",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-SA",
+            "name": "Sanaag",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-SD",
+            "name": "Shabeellaha Dhexe",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-SH",
+            "name": "Shabeellaha Hoose",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-SO",
+            "name": "Sool",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-TO",
+            "name": "Togdheer",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SO-WO",
+            "name": "Woqooyi Galbeed",
+            "local_variant": null,
+            "language_code": "so",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Aş Şūmāl"
+        },
+        {
+            "administrative_language_alpha2": "so",
+            "administrative_language_alpha3": "som",
+            "local_short_name": "Soomaaliya"
+        }
+    ]
+}

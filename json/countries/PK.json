@@ -1,0 +1,152 @@
+{
+    "alpha2_code": "PK",
+    "short_name": "PAKISTAN",
+    "short_name_lower_case": "Pakistan",
+    "full_name": "the Islamic Republic of Pakistan",
+    "alpha3_code": "PAK",
+    "numeric_code": 586,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "Pakistan administered area",
+            "3166-2_code": "PK-JK",
+            "name": "Azad Jammu and Kashmir",
+            "local_variant": "AJ&K",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-BA",
+            "name": "Balochistan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-BA",
+            "name": "Balōchistān",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Pakistan administered area",
+            "3166-2_code": "PK-GB",
+            "name": "Gilgit-Baltistan",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "Pakistan administered area",
+            "3166-2_code": "PK-GB",
+            "name": "Gilgit-Baltistān",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "federal capital territory",
+            "3166-2_code": "PK-IS",
+            "name": "Islamabad",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "federal capital territory",
+            "3166-2_code": "PK-IS",
+            "name": "Islāmābād",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-KP",
+            "name": "Khaībar Pakhtūnkhwā",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-KP",
+            "name": "Khyber Pakhtunkhwa",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-PB",
+            "name": "Panjāb",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-PB",
+            "name": "Punjab",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-SD",
+            "name": "Sindh",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "PK-SD",
+            "name": "Sindh",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        },
+        {
+            "category": "Pakistan administered area",
+            "3166-2_code": "PK-JK",
+            "name": "Āzād Jammūñ o Kashmīr",
+            "local_variant": null,
+            "language_code": "ur",
+            "romanization_system": "BGN/PCGN 2007",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Pakistan"
+        },
+        {
+            "administrative_language_alpha2": "ur",
+            "administrative_language_alpha3": "urd",
+            "local_short_name": "Pākistān"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "alpha2_code": "AG",
+    "short_name": "ANTIGUA AND BARBUDA",
+    "short_name_lower_case": "Antigua and Barbuda",
+    "full_name": null,
+    "alpha3_code": "ATG",
+    "numeric_code": 28,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Redonda Island",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "dependency",
+            "3166-2_code": "AG-10",
+            "name": "Barbuda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "AG-11",
+            "name": "Redonda",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-03",
+            "name": "Saint George",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-04",
+            "name": "Saint John",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-05",
+            "name": "Saint Mary",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-06",
+            "name": "Saint Paul",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-07",
+            "name": "Saint Peter",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "AG-08",
+            "name": "Saint Philip",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Antigua and Barbuda"
+        }
+    ]
+}

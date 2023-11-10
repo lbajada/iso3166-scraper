@@ -1,0 +1,588 @@
+{
+    "alpha2_code": "VN",
+    "short_name": "VIET NAM",
+    "short_name_lower_case": "Viet Nam",
+    "full_name": "the Socialist Republic of Viet Nam",
+    "alpha3_code": "VNM",
+    "numeric_code": 704,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "VN-44",
+            "name": "An Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-43",
+            "name": "Bà Rịa - Vũng Tàu",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-57",
+            "name": "Bình Dương",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-58",
+            "name": "Bình Phước",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-40",
+            "name": "Bình Thuận",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-31",
+            "name": "Bình Định",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-55",
+            "name": "Bạc Liêu",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-54",
+            "name": "Bắc Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-53",
+            "name": "Bắc Kạn",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-56",
+            "name": "Bắc Ninh",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-50",
+            "name": "Bến Tre",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-04",
+            "name": "Cao Bằng",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-59",
+            "name": "Cà Mau",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "VN-CT",
+            "name": "Cần Thơ",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-30",
+            "name": "Gia Lai",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-03",
+            "name": "Hà Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-63",
+            "name": "Hà Nam",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "VN-HN",
+            "name": "Hà Nội",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-23",
+            "name": "Hà Tĩnh",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-14",
+            "name": "Hòa Bình",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-66",
+            "name": "Hưng Yên",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-61",
+            "name": "Hải Dương",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "VN-HP",
+            "name": "Hải Phòng",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-73",
+            "name": "Hậu Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "VN-SG",
+            "name": "Hồ Chí Minh",
+            "local_variant": "Sai Gon",
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-34",
+            "name": "Khánh Hòa",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-47",
+            "name": "Kiến Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-28",
+            "name": "Kon Tum",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-01",
+            "name": "Lai Châu",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-41",
+            "name": "Long An",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-02",
+            "name": "Lào Cai",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-35",
+            "name": "Lâm Đồng",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-09",
+            "name": "Lạng Sơn",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-67",
+            "name": "Nam Định",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-22",
+            "name": "Nghệ An",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-18",
+            "name": "Ninh Bình",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-36",
+            "name": "Ninh Thuận",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-68",
+            "name": "Phú Thọ",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-32",
+            "name": "Phú Yên",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-24",
+            "name": "Quảng Bình",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-27",
+            "name": "Quảng Nam",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-29",
+            "name": "Quảng Ngãi",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-13",
+            "name": "Quảng Ninh",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-25",
+            "name": "Quảng Trị",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-52",
+            "name": "Sóc Trăng",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-05",
+            "name": "Sơn La",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-21",
+            "name": "Thanh Hóa",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-20",
+            "name": "Thái Bình",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-69",
+            "name": "Thái Nguyên",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-26",
+            "name": "Thừa Thiên-Huế",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-46",
+            "name": "Tiền Giang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-51",
+            "name": "Trà Vinh",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-07",
+            "name": "Tuyên Quang",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-37",
+            "name": "Tây Ninh",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-49",
+            "name": "Vĩnh Long",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-70",
+            "name": "Vĩnh Phúc",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-06",
+            "name": "Yên Bái",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-71",
+            "name": "Điện Biên",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "VN-DN",
+            "name": "Đà Nẵng",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-33",
+            "name": "Đắk Lắk",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-72",
+            "name": "Đắk Nông",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-39",
+            "name": "Đồng Nai",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "VN-45",
+            "name": "Đồng Tháp",
+            "local_variant": null,
+            "language_code": "vi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "vi",
+            "administrative_language_alpha3": "vie",
+            "local_short_name": "Việt Nam"
+        }
+    ]
+}

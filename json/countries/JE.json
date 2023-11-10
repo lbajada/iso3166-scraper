@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "JE",
+    "short_name": "JERSEY",
+    "short_name_lower_case": "Jersey",
+    "full_name": null,
+    "alpha3_code": "JEY",
+    "numeric_code": 832,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Jersey"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Jersey"
+        }
+    ]
+}

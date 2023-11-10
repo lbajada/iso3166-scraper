@@ -1,0 +1,84 @@
+{
+    "alpha2_code": "ST",
+    "short_name": "SAO TOME AND PRINCIPE",
+    "short_name_lower_case": "Sao Tome and Principe",
+    "full_name": "the Democratic Republic of Sao Tome and Principe",
+    "alpha3_code": "STP",
+    "numeric_code": 678,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Principe *",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "ST-02",
+            "name": "Cantagalo",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "ST-03",
+            "name": "Caué",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "ST-04",
+            "name": "Lembá",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "ST-05",
+            "name": "Lobata",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "ST-06",
+            "name": "Mé-Zóchi",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "ST-P",
+            "name": "Príncipe",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "ST-01",
+            "name": "Água Grande",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "São Tomé e Príncipe"
+        }
+    ]
+}

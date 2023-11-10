@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "FO",
+    "short_name": "FAROE ISLANDS",
+    "short_name_lower_case": "Faroe Islands (the)",
+    "full_name": null,
+    "alpha3_code": "FRO",
+    "numeric_code": 234,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "da",
+            "administrative_language_alpha3": "dan",
+            "local_short_name": "Færøerne"
+        },
+        {
+            "administrative_language_alpha2": "fo",
+            "administrative_language_alpha3": "fao",
+            "local_short_name": "Føroyar"
+        }
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "alpha2_code": "GM",
+    "short_name": "GAMBIA",
+    "short_name_lower_case": "Gambia (the)",
+    "full_name": "the Republic of the Gambia",
+    "alpha3_code": "GMB",
+    "numeric_code": 270,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "city",
+            "3166-2_code": "GM-B",
+            "name": "Banjul",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "GM-M",
+            "name": "Central River",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "GM-L",
+            "name": "Lower River",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "GM-N",
+            "name": "North Bank",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "GM-U",
+            "name": "Upper River",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "division",
+            "3166-2_code": "GM-W",
+            "name": "Western",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Gambia (the)"
+        }
+    ]
+}

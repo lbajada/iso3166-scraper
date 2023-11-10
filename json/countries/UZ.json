@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "UZ",
+    "short_name": "UZBEKISTAN",
+    "short_name_lower_case": "Uzbekistan",
+    "full_name": "the Republic of Uzbekistan",
+    "alpha3_code": "UZB",
+    "numeric_code": 860,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "UZ-AN",
+            "name": "Andijon",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-BU",
+            "name": "Buxoro",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-FA",
+            "name": "Farg‘ona",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-JI",
+            "name": "Jizzax",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-NG",
+            "name": "Namangan",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-NW",
+            "name": "Navoiy",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-QA",
+            "name": "Qashqadaryo",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "UZ-QR",
+            "name": "Qoraqalpog‘iston Respublikasi",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-SA",
+            "name": "Samarqand",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-SI",
+            "name": "Sirdaryo",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-SU",
+            "name": "Surxondaryo",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-TO",
+            "name": "Toshkent",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "UZ-TK",
+            "name": "Toshkent",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "UZ-XO",
+            "name": "Xorazm",
+            "local_variant": null,
+            "language_code": "uz",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "uz",
+            "administrative_language_alpha3": "uzb",
+            "local_short_name": "O‘zbekiston"
+        }
+    ]
+}

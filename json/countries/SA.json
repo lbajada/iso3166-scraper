@@ -1,0 +1,138 @@
+{
+    "alpha2_code": "SA",
+    "short_name": "SAUDI ARABIA",
+    "short_name_lower_case": "Saudi Arabia",
+    "full_name": "the Kingdom of Saudi Arabia",
+    "alpha3_code": "SAU",
+    "numeric_code": 682,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "SA-14",
+            "name": "'Asīr",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-11",
+            "name": "Al Bāḩah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-12",
+            "name": "Al Jawf",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-03",
+            "name": "Al Madīnah al Munawwarah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-05",
+            "name": "Al Qaşīm",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-08",
+            "name": "Al Ḩudūd ash Shamālīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-01",
+            "name": "Ar Riyāḑ",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-04",
+            "name": "Ash Sharqīyah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-09",
+            "name": "Jāzān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-02",
+            "name": "Makkah al Mukarramah",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-10",
+            "name": "Najrān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-07",
+            "name": "Tabūk",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SA-06",
+            "name": "Ḩā'il",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "As Su‘ūdīyah"
+        }
+    ]
+}

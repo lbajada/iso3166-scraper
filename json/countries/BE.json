@@ -1,0 +1,157 @@
+{
+    "alpha2_code": "BE",
+    "short_name": "BELGIUM",
+    "short_name_lower_case": "Belgium",
+    "full_name": "the Kingdom of Belgium",
+    "alpha3_code": "BEL",
+    "numeric_code": 56,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "BE-VAN",
+            "name": "Antwerpen",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": "BE-VLG"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-WBR",
+            "name": "Brabant wallon",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BE-WAL"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BE-BRU",
+            "name": "Brussels Hoofdstedelijk Gewest",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BE-BRU",
+            "name": "Bruxelles-Capitale, Région de",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-WHT",
+            "name": "Hainaut",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BE-WAL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-VLI",
+            "name": "Limburg",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": "BE-VLG"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-WLG",
+            "name": "Liège",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BE-WAL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-WLX",
+            "name": "Luxembourg",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BE-WAL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-WNA",
+            "name": "Namur",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "BE-WAL"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-VOV",
+            "name": "Oost-Vlaanderen",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": "BE-VLG"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BE-VLG",
+            "name": "Vlaams Gewest",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-VBR",
+            "name": "Vlaams-Brabant",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": "BE-VLG"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BE-VWV",
+            "name": "West-Vlaanderen",
+            "local_variant": null,
+            "language_code": "nl",
+            "romanization_system": null,
+            "parent_subdivision": "BE-VLG"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "BE-WAL",
+            "name": "wallonne, Région",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "de",
+            "administrative_language_alpha3": "deu",
+            "local_short_name": "Belgien"
+        },
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Belgique (la)"
+        },
+        {
+            "administrative_language_alpha2": "nl",
+            "administrative_language_alpha3": "nld",
+            "local_short_name": "België"
+        }
+    ]
+}

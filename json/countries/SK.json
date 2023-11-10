@@ -1,0 +1,93 @@
+{
+    "alpha2_code": "SK",
+    "short_name": "SLOVAKIA",
+    "short_name_lower_case": "Slovakia",
+    "full_name": "the Slovak Republic",
+    "alpha3_code": "SVK",
+    "numeric_code": 703,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "SK-BC",
+            "name": "Banskobystrický kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-BL",
+            "name": "Bratislavský kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-KI",
+            "name": "Košický kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-NI",
+            "name": "Nitriansky kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-PV",
+            "name": "Prešovský kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-TC",
+            "name": "Trenčiansky kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-TA",
+            "name": "Trnavský kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "SK-ZI",
+            "name": "Žilinský kraj",
+            "local_variant": null,
+            "language_code": "sk",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "sk",
+            "administrative_language_alpha3": "slk",
+            "local_short_name": "Slovensko"
+        }
+    ]
+}

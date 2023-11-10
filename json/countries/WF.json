@@ -1,0 +1,48 @@
+{
+    "alpha2_code": "WF",
+    "short_name": "WALLIS AND FUTUNA",
+    "short_name_lower_case": "Wallis and Futuna",
+    "full_name": "Wallis and Futuna Islands",
+    "alpha3_code": "WLF",
+    "numeric_code": 876,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Futuna, Hoorn Islands, Uvea, Wallis Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "administrative precinct",
+            "3166-2_code": "WF-AL",
+            "name": "Alo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative precinct",
+            "3166-2_code": "WF-SG",
+            "name": "Sigave",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative precinct",
+            "3166-2_code": "WF-UV",
+            "name": "Uvea",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Wallis-et-Futuna"
+        }
+    ]
+}

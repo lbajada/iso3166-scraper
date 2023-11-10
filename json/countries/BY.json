@@ -1,0 +1,278 @@
+{
+    "alpha2_code": "BY",
+    "short_name": "BELARUS",
+    "short_name_lower_case": "Belarus",
+    "full_name": "the Republic of Belarus",
+    "alpha3_code": "BLR",
+    "numeric_code": 112,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-BR",
+            "name": "Bresckaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-BR",
+            "name": "Brestskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-BR",
+            "name": "Brestskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-BR",
+            "name": "Brestskaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HO",
+            "name": "Gomel'skaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HO",
+            "name": "Gomel'skaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "BY-HM",
+            "name": "Gorod Minsk",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "BY-HM",
+            "name": "Gorod Minsk",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HR",
+            "name": "Grodnenskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HR",
+            "name": "Grodnenskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HO",
+            "name": "Homieĺskaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HO",
+            "name": "Homyel'skaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "BY-HM",
+            "name": "Horad Minsk",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "BY-HM",
+            "name": "Horad Minsk",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HR",
+            "name": "Hrodzienskaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-HR",
+            "name": "Hrodzyenskaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MA",
+            "name": "Mahilioŭskaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MA",
+            "name": "Mahilyowskaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MI",
+            "name": "Minskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MI",
+            "name": "Minskaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MI",
+            "name": "Minskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MI",
+            "name": "Minskaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MA",
+            "name": "Mogilevskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-MA",
+            "name": "Mogilevskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-VI",
+            "name": "Viciebskaja voblasć",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "UN X/6 2012",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-VI",
+            "name": "Vitebskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-VI",
+            "name": "Vitebskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "oblast",
+            "3166-2_code": "BY-VI",
+            "name": "Vitsyebskaya voblasts'",
+            "local_variant": null,
+            "language_code": "be",
+            "romanization_system": "BGN/PCGN 1979",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "be",
+            "administrative_language_alpha3": "bel",
+            "local_short_name": "Bielaruś"
+        },
+        {
+            "administrative_language_alpha2": "ru",
+            "administrative_language_alpha3": "rus",
+            "local_short_name": "Belarus'"
+        }
+    ]
+}

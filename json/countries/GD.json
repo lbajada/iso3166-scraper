@@ -1,0 +1,84 @@
+{
+    "alpha2_code": "GD",
+    "short_name": "GRENADA",
+    "short_name_lower_case": "Grenada",
+    "full_name": null,
+    "alpha3_code": "GRD",
+    "numeric_code": 308,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Carriacou, Southern Grenadine Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "parish",
+            "3166-2_code": "GD-01",
+            "name": "Saint Andrew",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "GD-02",
+            "name": "Saint David",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "GD-03",
+            "name": "Saint George",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "GD-04",
+            "name": "Saint John",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "GD-05",
+            "name": "Saint Mark",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "GD-06",
+            "name": "Saint Patrick",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "dependency",
+            "3166-2_code": "GD-10",
+            "name": "Southern Grenadine Islands",
+            "local_variant": "Carriacou",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Grenada"
+        }
+    ]
+}

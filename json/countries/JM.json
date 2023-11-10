@@ -1,0 +1,147 @@
+{
+    "alpha2_code": "JM",
+    "short_name": "JAMAICA",
+    "short_name_lower_case": "Jamaica",
+    "full_name": null,
+    "alpha3_code": "JAM",
+    "numeric_code": 388,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "parish",
+            "3166-2_code": "JM-13",
+            "name": "Clarendon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-09",
+            "name": "Hanover",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-01",
+            "name": "Kingston",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-12",
+            "name": "Manchester",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-04",
+            "name": "Portland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-02",
+            "name": "Saint Andrew",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-06",
+            "name": "Saint Ann",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-14",
+            "name": "Saint Catherine",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-11",
+            "name": "Saint Elizabeth",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-08",
+            "name": "Saint James",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-05",
+            "name": "Saint Mary",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-03",
+            "name": "Saint Thomas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-07",
+            "name": "Trelawny",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "JM-10",
+            "name": "Westmoreland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Jamaica"
+        }
+    ]
+}

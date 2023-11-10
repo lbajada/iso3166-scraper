@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "MP",
+    "short_name": "NORTHERN MARIANA ISLANDS",
+    "short_name_lower_case": "Northern Mariana Islands (the)",
+    "full_name": "the Commonwealth of the Northern Mariana Islands",
+    "alpha3_code": "MNP",
+    "numeric_code": 580,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "Mariana Islands (except GUAM), Saipan (principal island)",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Northern Mariana Islands (the)"
+        }
+    ]
+}

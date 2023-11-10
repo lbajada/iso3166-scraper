@@ -1,0 +1,206 @@
+{
+    "alpha2_code": "LS",
+    "short_name": "LESOTHO",
+    "short_name_lower_case": "Lesotho",
+    "full_name": "the Kingdom of Lesotho",
+    "alpha3_code": "LSO",
+    "numeric_code": 426,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "LS-D",
+            "name": "Berea",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-D",
+            "name": "Berea",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-B",
+            "name": "Botha-Bothe",
+            "local_variant": "Butha-Buthe",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-B",
+            "name": "Botha-Bothe",
+            "local_variant": "Butha-Buthe",
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-C",
+            "name": "Leribe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-C",
+            "name": "Leribe",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-E",
+            "name": "Mafeteng",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-E",
+            "name": "Mafeteng",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-A",
+            "name": "Maseru",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-A",
+            "name": "Maseru",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-F",
+            "name": "Mohale's Hoek",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-F",
+            "name": "Mohale's Hoek",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-J",
+            "name": "Mokhotlong",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-J",
+            "name": "Mokhotlong",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-H",
+            "name": "Qacha's Nek",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-H",
+            "name": "Qacha's Nek",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-G",
+            "name": "Quthing",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-G",
+            "name": "Quthing",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-K",
+            "name": "Thaba-Tseka",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "LS-K",
+            "name": "Thaba-Tseka",
+            "local_variant": null,
+            "language_code": "st",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Lesotho"
+        },
+        {
+            "administrative_language_alpha2": "st",
+            "administrative_language_alpha3": "sot",
+            "local_short_name": "Lesotho"
+        }
+    ]
+}

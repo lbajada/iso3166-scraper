@@ -1,0 +1,399 @@
+{
+    "alpha2_code": "DO",
+    "short_name": "DOMINICAN REPUBLIC",
+    "short_name_lower_case": "Dominican Republic (the)",
+    "full_name": "the Dominican Republic",
+    "alpha3_code": "DOM",
+    "numeric_code": 214,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "DO-02",
+            "name": "Azua",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-03",
+            "name": "Baoruco",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-38"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-04",
+            "name": "Barahona",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-38"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-33",
+            "name": "Cibao Nordeste",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-34",
+            "name": "Cibao Noroeste",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-35",
+            "name": "Cibao Norte",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-36",
+            "name": "Cibao Sur",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-05",
+            "name": "Dajabón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-34"
+        },
+        {
+            "category": "district",
+            "3166-2_code": "DO-01",
+            "name": "Distrito Nacional (Santo Domingo)",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-06",
+            "name": "Duarte",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-33"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-08",
+            "name": "El Seibo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-42"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-37",
+            "name": "El Valle",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-07",
+            "name": "Elías Piña",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-37"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-38",
+            "name": "Enriquillo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-09",
+            "name": "Espaillat",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-35"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-30",
+            "name": "Hato Mayor",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-39"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-19",
+            "name": "Hermanas Mirabal",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-33"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-39",
+            "name": "Higuamo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-10",
+            "name": "Independencia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-38"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-11",
+            "name": "La Altagracia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-42"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-12",
+            "name": "La Romana",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-42"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-13",
+            "name": "La Vega",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-36"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-14",
+            "name": "María Trinidad Sánchez",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-33"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-28",
+            "name": "Monseñor Nouel",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-36"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-15",
+            "name": "Monte Cristi",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-29",
+            "name": "Monte Plata",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-39"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-40",
+            "name": "Ozama",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-16",
+            "name": "Pedernales",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-38"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-17",
+            "name": "Peravia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-18",
+            "name": "Puerto Plata",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-35"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-20",
+            "name": "Samaná",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-33"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-21",
+            "name": "San Cristóbal",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-31",
+            "name": "San José de Ocoa",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-41"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-22",
+            "name": "San Juan",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-37"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-23",
+            "name": "San Pedro de Macorís",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-39"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-25",
+            "name": "Santiago",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-35"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-26",
+            "name": "Santiago Rodríguez",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-32",
+            "name": "Santo Domingo",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-40"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-24",
+            "name": "Sánchez Ramírez",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-36"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-41",
+            "name": "Valdesia",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "DO-27",
+            "name": "Valverde",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "DO-34"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "DO-42",
+            "name": "Yuma",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "República Dominicana (la)"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "PR",
+    "short_name": "PUERTO RICO",
+    "short_name_lower_case": "Puerto Rico",
+    "full_name": null,
+    "alpha3_code": "PRI",
+    "numeric_code": 630,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Puerto Rico"
+        },
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Puerto Rico"
+        }
+    ]
+}

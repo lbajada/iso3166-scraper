@@ -1,0 +1,156 @@
+{
+    "alpha2_code": "TT",
+    "short_name": "TRINIDAD AND TOBAGO",
+    "short_name_lower_case": "Trinidad and Tobago",
+    "full_name": "the Republic of Trinidad and Tobago",
+    "alpha3_code": "TTO",
+    "numeric_code": 780,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Tobago *",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "borough",
+            "3166-2_code": "TT-ARI",
+            "name": "Arima",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "borough",
+            "3166-2_code": "TT-CHA",
+            "name": "Chaguanas",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-CTT",
+            "name": "Couva-Tabaquite-Talparo",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-DMN",
+            "name": "Diego Martin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-MRC",
+            "name": "Mayaro-Rio Claro",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-PED",
+            "name": "Penal-Debe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "borough",
+            "3166-2_code": "TT-PTF",
+            "name": "Point Fortin",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TT-POS",
+            "name": "Port of Spain",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-PRT",
+            "name": "Princes Town",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "city",
+            "3166-2_code": "TT-SFO",
+            "name": "San Fernando",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-SJL",
+            "name": "San Juan-Laventille",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-SGE",
+            "name": "Sangre Grande",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-SIP",
+            "name": "Siparia",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "ward",
+            "3166-2_code": "TT-TOB",
+            "name": "Tobago",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TT-TUP",
+            "name": "Tunapuna-Piarco",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Trinidad and Tobago"
+        }
+    ]
+}

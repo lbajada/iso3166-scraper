@@ -1,0 +1,350 @@
+{
+    "alpha2_code": "BI",
+    "short_name": "BURUNDI",
+    "short_name_lower_case": "Burundi",
+    "full_name": "the Republic of Burundi",
+    "alpha3_code": "BDI",
+    "numeric_code": 108,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "BI-BB",
+            "name": "Bubanza",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BB",
+            "name": "Bubanza",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BM",
+            "name": "Bujumbura Mairie",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BM",
+            "name": "Bujumbura Mairie",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BL",
+            "name": "Bujumbura Rural",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BL",
+            "name": "Bujumbura Rural",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BR",
+            "name": "Bururi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-BR",
+            "name": "Bururi",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-CA",
+            "name": "Cankuzo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-CA",
+            "name": "Cankuzo",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-CI",
+            "name": "Cibitoke",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-CI",
+            "name": "Cibitoke",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-GI",
+            "name": "Gitega",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-GI",
+            "name": "Gitega",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KR",
+            "name": "Karuzi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KR",
+            "name": "Karuzi",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KY",
+            "name": "Kayanza",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KY",
+            "name": "Kayanza",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KI",
+            "name": "Kirundo",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-KI",
+            "name": "Kirundo",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MA",
+            "name": "Makamba",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MA",
+            "name": "Makamba",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MU",
+            "name": "Muramvya",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MU",
+            "name": "Muramvya",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MY",
+            "name": "Muyinga",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MY",
+            "name": "Muyinga",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MW",
+            "name": "Mwaro",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-MW",
+            "name": "Mwaro",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-NG",
+            "name": "Ngozi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-NG",
+            "name": "Ngozi",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RM",
+            "name": "Rumonge",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RM",
+            "name": "Rumonge",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RT",
+            "name": "Rutana",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RT",
+            "name": "Rutana",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RY",
+            "name": "Ruyigi",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "BI-RY",
+            "name": "Ruyigi",
+            "local_variant": null,
+            "language_code": "rn",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Burundi (le)"
+        },
+        {
+            "administrative_language_alpha2": "rn",
+            "administrative_language_alpha3": "run",
+            "local_short_name": "Burundi"
+        }
+    ]
+}

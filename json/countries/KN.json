@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "KN",
+    "short_name": "SAINT KITTS AND NEVIS",
+    "short_name_lower_case": "Saint Kitts and Nevis",
+    "full_name": null,
+    "alpha3_code": "KNA",
+    "numeric_code": 659,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Nevis *",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "parish",
+            "3166-2_code": "KN-01",
+            "name": "Christ Church Nichola Town",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "state",
+            "3166-2_code": "KN-N",
+            "name": "Nevis",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-02",
+            "name": "Saint Anne Sandy Point",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-03",
+            "name": "Saint George Basseterre",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-04",
+            "name": "Saint George Gingerland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-N"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-05",
+            "name": "Saint James Windward",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-N"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-06",
+            "name": "Saint John Capisterre",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-07",
+            "name": "Saint John Figtree",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-N"
+        },
+        {
+            "category": "state",
+            "3166-2_code": "KN-K",
+            "name": "Saint Kitts",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-08",
+            "name": "Saint Mary Cayon",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-09",
+            "name": "Saint Paul Capisterre",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-10",
+            "name": "Saint Paul Charlestown",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-N"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-11",
+            "name": "Saint Peter Basseterre",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-12",
+            "name": "Saint Thomas Lowland",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-N"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-13",
+            "name": "Saint Thomas Middle Island",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        },
+        {
+            "category": "parish",
+            "3166-2_code": "KN-15",
+            "name": "Trinity Palmetto Point",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": "KN-K"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Saint Kitts and Nevis"
+        }
+    ]
+}

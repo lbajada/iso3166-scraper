@@ -1,0 +1,25 @@
+{
+    "alpha2_code": "MO",
+    "short_name": "MACAO",
+    "short_name_lower_case": "Macao",
+    "full_name": "Macao Special Administrative Region of China",
+    "alpha3_code": "MAC",
+    "numeric_code": 446,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Macau"
+        },
+        {
+            "administrative_language_alpha2": "zh",
+            "administrative_language_alpha3": "zho",
+            "local_short_name": "Aomen"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "alpha2_code": "GQ",
+    "short_name": "EQUATORIAL GUINEA",
+    "short_name_lower_case": "Equatorial Guinea",
+    "full_name": "the Republic of Equatorial Guinea",
+    "alpha3_code": "GNQ",
+    "numeric_code": 226,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Annobón Island, Bioko Island, Continental Region (Rio Muni) , Rio Muni",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "province",
+            "3166-2_code": "GQ-AN",
+            "name": "Annobon",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-AN",
+            "name": "Annobón",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-AN",
+            "name": "Ano Bom",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BN",
+            "name": "Bioko Nord",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BN",
+            "name": "Bioko Norte",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BN",
+            "name": "Bioko Norte",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BS",
+            "name": "Bioko Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BS",
+            "name": "Bioko Sul",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-BS",
+            "name": "Bioko Sur",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-I"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-CS",
+            "name": "Centro Sud",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-CS",
+            "name": "Centro Sul",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-CS",
+            "name": "Centro Sur",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-DJ",
+            "name": "Djibloho",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-DJ",
+            "name": "Djibloho",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-DJ",
+            "name": "Djibloho",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-KN",
+            "name": "Kié-Ntem",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-KN",
+            "name": "Kié-Ntem",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-KN",
+            "name": "Kié-Ntem",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-LI",
+            "name": "Litoral",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-LI",
+            "name": "Litoral",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-LI",
+            "name": "Littoral",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-C",
+            "name": "Região Continental",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-I",
+            "name": "Região Insular",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-C",
+            "name": "Región Continental",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-I",
+            "name": "Región Insular",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-C",
+            "name": "Région Continentale",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "GQ-I",
+            "name": "Région Insulaire",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-WN",
+            "name": "Wele-Nzas",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-WN",
+            "name": "Wele-Nzas",
+            "local_variant": null,
+            "language_code": "pt",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "GQ-WN",
+            "name": "Wele-Nzas",
+            "local_variant": null,
+            "language_code": "es",
+            "romanization_system": null,
+            "parent_subdivision": "GQ-C"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Guinée équatoriale (la)"
+        },
+        {
+            "administrative_language_alpha2": "pt",
+            "administrative_language_alpha3": "por",
+            "local_short_name": "Guiné Equatorial (a)"
+        },
+        {
+            "administrative_language_alpha2": "es",
+            "administrative_language_alpha3": "spa",
+            "local_short_name": "Guinea Ecuatorial"
+        }
+    ]
+}

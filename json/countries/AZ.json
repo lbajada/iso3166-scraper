@@ -1,0 +1,723 @@
+{
+    "alpha2_code": "AZ",
+    "short_name": "AZERBAIJAN",
+    "short_name_lower_case": "Azerbaijan",
+    "full_name": "the Republic of Azerbaijan",
+    "alpha3_code": "AZE",
+    "numeric_code": 31,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ABS",
+            "name": "Abşeron",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AST",
+            "name": "Astara",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AGC",
+            "name": "Ağcabədi",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AGM",
+            "name": "Ağdam",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AGS",
+            "name": "Ağdaş",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AGA",
+            "name": "Ağstafa",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-AGU",
+            "name": "Ağsu",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-BAB",
+            "name": "Babək",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-BA",
+            "name": "Bakı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-BAL",
+            "name": "Balakən",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-BEY",
+            "name": "Beyləqan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-BIL",
+            "name": "Biləsuvar",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-BAR",
+            "name": "Bərdə",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-CUL",
+            "name": "Culfa",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-CAB",
+            "name": "Cəbrayıl",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-CAL",
+            "name": "Cəlilabad",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-DAS",
+            "name": "Daşkəsən",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-FUZ",
+            "name": "Füzuli",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-GOR",
+            "name": "Goranboy",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-GYG",
+            "name": "Göygöl",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-GOY",
+            "name": "Göyçay",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-GAD",
+            "name": "Gədəbəy",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-GA",
+            "name": "Gəncə",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-HAC",
+            "name": "Hacıqabul",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-KUR",
+            "name": "Kürdəmir",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-KAN",
+            "name": "Kǝngǝrli",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-KAL",
+            "name": "Kəlbəcər",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-LAC",
+            "name": "Laçın",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-LER",
+            "name": "Lerik",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-LA",
+            "name": "Lənkəran",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-LAN",
+            "name": "Lənkəran",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-MAS",
+            "name": "Masallı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-MI",
+            "name": "Mingəçevir",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-NA",
+            "name": "Naftalan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous republic",
+            "3166-2_code": "AZ-NX",
+            "name": "Naxçıvan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-NV",
+            "name": "Naxçıvan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-NEF",
+            "name": "Neftçala",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ORD",
+            "name": "Ordubad",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-OGU",
+            "name": "Oğuz",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QAX",
+            "name": "Qax",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QAZ",
+            "name": "Qazax",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QOB",
+            "name": "Qobustan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QBA",
+            "name": "Quba",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QBI",
+            "name": "Qubadlı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QUS",
+            "name": "Qusar",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-QAB",
+            "name": "Qəbələ",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAT",
+            "name": "Saatlı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAB",
+            "name": "Sabirabad",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAL",
+            "name": "Salyan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SMX",
+            "name": "Samux",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SIY",
+            "name": "Siyəzən",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-SM",
+            "name": "Sumqayıt",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAD",
+            "name": "Sədərək",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-TOV",
+            "name": "Tovuz",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-TAR",
+            "name": "Tərtər",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-UCA",
+            "name": "Ucar",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-XA",
+            "name": "Xankəndi",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-XAC",
+            "name": "Xaçmaz",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-XCI",
+            "name": "Xocalı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-XVD",
+            "name": "Xocavənd",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-XIZ",
+            "name": "Xızı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-YAR",
+            "name": "Yardımlı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-YE",
+            "name": "Yevlax",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-YEV",
+            "name": "Yevlax",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ZAQ",
+            "name": "Zaqatala",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ZAN",
+            "name": "Zəngilan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ZAR",
+            "name": "Zərdab",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-IMI",
+            "name": "İmişli",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-ISM",
+            "name": "İsmayıllı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SBN",
+            "name": "Şabran",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAH",
+            "name": "Şahbuz",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SMI",
+            "name": "Şamaxı",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-SR",
+            "name": "Şirvan",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SUS",
+            "name": "Şuşa",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
+            "3166-2_code": "AZ-SA",
+            "name": "Şəki",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAK",
+            "name": "Şəki",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SKR",
+            "name": "Şəmkir",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "rayon",
+            "3166-2_code": "AZ-SAR",
+            "name": "Şərur",
+            "local_variant": null,
+            "language_code": "az",
+            "romanization_system": null,
+            "parent_subdivision": "AZ-NX"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "az",
+            "administrative_language_alpha3": "aze",
+            "local_short_name": "Azərbaycan"
+        }
+    ]
+}

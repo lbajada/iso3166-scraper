@@ -1,0 +1,1515 @@
+{
+    "alpha2_code": "RU",
+    "short_name": "RUSSIAN FEDERATION",
+    "short_name_lower_case": "Russian Federation (the)",
+    "full_name": "the Russian Federation",
+    "alpha3_code": "RUS",
+    "numeric_code": 643,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Kaliningrad Region",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "republic",
+            "3166-2_code": "RU-AD",
+            "name": "Adygeja, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-AD",
+            "name": "Adygeya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-AL",
+            "name": "Altaj, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-ALT",
+            "name": "Altajskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-AL",
+            "name": "Altay, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-ALT",
+            "name": "Altayskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-AMU",
+            "name": "Amurskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-AMU",
+            "name": "Amurskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ARK",
+            "name": "Arhangel'skaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ARK",
+            "name": "Arkhangel'skaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-AST",
+            "name": "Astrahanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-AST",
+            "name": "Astrakhanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-BA",
+            "name": "Bashkortostan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-BA",
+            "name": "Baškortostan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-BEL",
+            "name": "Belgorodskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-BEL",
+            "name": "Belgorodskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-BRY",
+            "name": "Brjanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-BRY",
+            "name": "Bryanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-BU",
+            "name": "Burjatija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-BU",
+            "name": "Buryatiya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-CE",
+            "name": "Chechenskaya Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-CHE",
+            "name": "Chelyabinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-CHU",
+            "name": "Chukotskiy avtonomnyy okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-CU",
+            "name": "Chuvashskaya Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-DA",
+            "name": "Dagestan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-DA",
+            "name": "Dagestan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "RU-YEV",
+            "name": "Evrejskaja avtonomnaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KHA",
+            "name": "Habarovskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KK",
+            "name": "Hakasija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-KHM",
+            "name": "Hanty-Mansijskij avtonomnyj okrug",
+            "local_variant": "Jugra",
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-IN",
+            "name": "Ingushetiya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-IN",
+            "name": "Ingušetija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-IRK",
+            "name": "Irkutskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-IRK",
+            "name": "Irkutskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-IVA",
+            "name": "Ivanovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-IVA",
+            "name": "Ivanovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-YAN",
+            "name": "Jamalo-Neneckij avtonomnyj okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-YAR",
+            "name": "Jaroslavskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KB",
+            "name": "Kabardino-Balkarskaja Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KB",
+            "name": "Kabardino-Balkarskaya Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KGD",
+            "name": "Kaliningradskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KGD",
+            "name": "Kaliningradskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KL",
+            "name": "Kalmykija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KL",
+            "name": "Kalmykiya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KLU",
+            "name": "Kaluzhskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KLU",
+            "name": "Kalužskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KAM",
+            "name": "Kamchatskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KAM",
+            "name": "Kamčatskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KC",
+            "name": "Karachayevo-Cherkesskaya Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KC",
+            "name": "Karačaevo-Čerkesskaja Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KR",
+            "name": "Karelija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KR",
+            "name": "Kareliya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KEM",
+            "name": "Kemerovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KEM",
+            "name": "Kemerovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KHA",
+            "name": "Khabarovskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KK",
+            "name": "Khakasiya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-KHM",
+            "name": "Khanty-Mansiyskiy avtonomnyy okrug",
+            "local_variant": "Yugra",
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KIR",
+            "name": "Kirovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KIR",
+            "name": "Kirovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KO",
+            "name": "Komi, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-KO",
+            "name": "Komi, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KOS",
+            "name": "Kostromskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KOS",
+            "name": "Kostromskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KDA",
+            "name": "Krasnodarskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KDA",
+            "name": "Krasnodarskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KYA",
+            "name": "Krasnojarskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-KYA",
+            "name": "Krasnoyarskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KGN",
+            "name": "Kurganskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KGN",
+            "name": "Kurganskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KRS",
+            "name": "Kurskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-KRS",
+            "name": "Kurskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-LEN",
+            "name": "Leningradskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-LEN",
+            "name": "Leningradskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-LIP",
+            "name": "Lipeckaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-LIP",
+            "name": "Lipetskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MAG",
+            "name": "Magadanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MAG",
+            "name": "Magadanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-ME",
+            "name": "Marij Èl, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-ME",
+            "name": "Mariy El, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-MO",
+            "name": "Mordovija, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-MO",
+            "name": "Mordoviya, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MOS",
+            "name": "Moskovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MOS",
+            "name": "Moskovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city",
+            "3166-2_code": "RU-MOW",
+            "name": "Moskva",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city",
+            "3166-2_code": "RU-MOW",
+            "name": "Moskva",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MUR",
+            "name": "Murmanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-MUR",
+            "name": "Murmanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-NEN",
+            "name": "Neneckij avtonomnyj okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-NEN",
+            "name": "Nenetskiy avtonomnyy okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NIZ",
+            "name": "Nizhegorodskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NIZ",
+            "name": "Nižegorodskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NGR",
+            "name": "Novgorodskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NGR",
+            "name": "Novgorodskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NVS",
+            "name": "Novosibirskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-NVS",
+            "name": "Novosibirskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-OMS",
+            "name": "Omskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-OMS",
+            "name": "Omskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ORE",
+            "name": "Orenburgskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ORE",
+            "name": "Orenburgskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ORL",
+            "name": "Orlovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ORL",
+            "name": "Orlovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-PNZ",
+            "name": "Penzenskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-PNZ",
+            "name": "Penzenskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-PER",
+            "name": "Permskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-PER",
+            "name": "Permskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-PRI",
+            "name": "Primorskij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-PRI",
+            "name": "Primorskiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-PSK",
+            "name": "Pskovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-PSK",
+            "name": "Pskovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-RYA",
+            "name": "Rjazanskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ROS",
+            "name": "Rostovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ROS",
+            "name": "Rostovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-RYA",
+            "name": "Ryazanskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-SA",
+            "name": "Saha, Respublika",
+            "local_variant": "Jakutija",
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAK",
+            "name": "Sahalinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-SA",
+            "name": "Sakha, Respublika",
+            "local_variant": "Yakutiya",
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAK",
+            "name": "Sakhalinskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAM",
+            "name": "Samarskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAM",
+            "name": "Samarskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city",
+            "3166-2_code": "RU-SPE",
+            "name": "Sankt-Peterburg",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous city",
+            "3166-2_code": "RU-SPE",
+            "name": "Sankt-Peterburg",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAR",
+            "name": "Saratovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SAR",
+            "name": "Saratovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-SE",
+            "name": "Severnaja Osetija, Respublika",
+            "local_variant": "Alanija [Respublika Severnaja Osetija-Alanija]",
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-SE",
+            "name": "Severnaya Osetiya, Respublika",
+            "local_variant": "Alaniya [Respublika Severnaya Osetiya Alaniya]",
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SMO",
+            "name": "Smolenskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SMO",
+            "name": "Smolenskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-STA",
+            "name": "Stavropol'skij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-STA",
+            "name": "Stavropol'skiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SVE",
+            "name": "Sverdlovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-SVE",
+            "name": "Sverdlovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TAM",
+            "name": "Tambovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TAM",
+            "name": "Tambovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-TA",
+            "name": "Tatarstan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-TA",
+            "name": "Tatarstan, Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TYU",
+            "name": "Tjumenskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TOM",
+            "name": "Tomskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TOM",
+            "name": "Tomskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TUL",
+            "name": "Tul'skaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TUL",
+            "name": "Tul'skaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TVE",
+            "name": "Tverskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TVE",
+            "name": "Tverskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-TYU",
+            "name": "Tyumenskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-TY",
+            "name": "Tyva, Respublika",
+            "local_variant": "Tuva",
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-TY",
+            "name": "Tyva, Respublika",
+            "local_variant": "Tuva",
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-UD",
+            "name": "Udmurtskaja Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-UD",
+            "name": "Udmurtskaya Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ULY",
+            "name": "Ul'janovskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-ULY",
+            "name": "Ul'yanovskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VLA",
+            "name": "Vladimirskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VLA",
+            "name": "Vladimirskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VGG",
+            "name": "Volgogradskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VGG",
+            "name": "Volgogradskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VLG",
+            "name": "Vologodskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VLG",
+            "name": "Vologodskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VOR",
+            "name": "Voronezhskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-VOR",
+            "name": "Voronežskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-YAN",
+            "name": "Yamalo-Nenetskiy avtonomnyy okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-YAR",
+            "name": "Yaroslavskaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "RU-YEV",
+            "name": "Yevreyskaya avtonomnaya oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-ZAB",
+            "name": "Zabajkal'skij kraj",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative territory",
+            "3166-2_code": "RU-ZAB",
+            "name": "Zabaykal'skiy kray",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "BGN/PCGN 1947",
+            "parent_subdivision": null
+        },
+        {
+            "category": "administrative region",
+            "3166-2_code": "RU-CHE",
+            "name": "Čeljabinskaja oblast'",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-CE",
+            "name": "Čečenskaja Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous district",
+            "3166-2_code": "RU-CHU",
+            "name": "Čukotskij avtonomnyj okrug",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        },
+        {
+            "category": "republic",
+            "3166-2_code": "RU-CU",
+            "name": "Čuvašskaja Respublika",
+            "local_variant": null,
+            "language_code": "ru",
+            "romanization_system": "GOST 1983 = UN V/18 1987",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ru",
+            "administrative_language_alpha3": "rus",
+            "local_short_name": "Rossijskaja Federacija"
+        }
+    ]
+}

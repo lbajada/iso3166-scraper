@@ -1,0 +1,368 @@
+{
+    "alpha2_code": "FI",
+    "short_name": "FINLAND",
+    "short_name_lower_case": "Finland",
+    "full_name": "the Republic of Finland",
+    "alpha3_code": "FIN",
+    "numeric_code": 246,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Åland Islands",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "FI-01",
+            "name": "Ahvenanmaan maakunta",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-11",
+            "name": "Birkaland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-19",
+            "name": "Egentliga Finland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-06",
+            "name": "Egentliga Tavastland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-02",
+            "name": "Etelä-Karjala",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-03",
+            "name": "Etelä-Pohjanmaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-04",
+            "name": "Etelä-Savo",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-05",
+            "name": "Kainuu",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-05",
+            "name": "Kajanaland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-06",
+            "name": "Kanta-Häme",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-07",
+            "name": "Keski-Pohjanmaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-08",
+            "name": "Keski-Suomi",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-09",
+            "name": "Kymenlaakso",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-09",
+            "name": "Kymmenedalen",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-01",
+            "name": "Landskapet Åland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-10",
+            "name": "Lappi",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-10",
+            "name": "Lappland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-08",
+            "name": "Mellersta Finland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-07",
+            "name": "Mellersta Österbotten",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-13",
+            "name": "Norra Karelen",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-15",
+            "name": "Norra Savolax",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-14",
+            "name": "Norra Österbotten",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-18",
+            "name": "Nyland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-11",
+            "name": "Pirkanmaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-12",
+            "name": "Pohjanmaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-13",
+            "name": "Pohjois-Karjala",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-14",
+            "name": "Pohjois-Pohjanmaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-15",
+            "name": "Pohjois-Savo",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-16",
+            "name": "Päijänne-Tavastland",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-16",
+            "name": "Päijät-Häme",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-17",
+            "name": "Satakunta",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-17",
+            "name": "Satakunta",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-02",
+            "name": "Södra Karelen",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-04",
+            "name": "Södra Savolax",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-03",
+            "name": "Södra Österbotten",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-18",
+            "name": "Uusimaa",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-19",
+            "name": "Varsinais-Suomi",
+            "local_variant": null,
+            "language_code": "fi",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "FI-12",
+            "name": "Österbotten",
+            "local_variant": null,
+            "language_code": "sv",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fi",
+            "administrative_language_alpha3": "fin",
+            "local_short_name": "Suomi"
+        },
+        {
+            "administrative_language_alpha2": "sv",
+            "administrative_language_alpha3": "swe",
+            "local_short_name": "Finland"
+        }
+    ]
+}

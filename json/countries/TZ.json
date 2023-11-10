@@ -1,0 +1,368 @@
+{
+    "alpha2_code": "TZ",
+    "short_name": "TANZANIA, UNITED REPUBLIC OF",
+    "short_name_lower_case": "Tanzania, the United Republic of",
+    "full_name": "the United Republic of Tanzania",
+    "alpha3_code": "TZA",
+    "numeric_code": 834,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "TZ-01",
+            "name": "Arusha",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-19",
+            "name": "Coast",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-02",
+            "name": "Dar es Salaam",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-03",
+            "name": "Dodoma",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-27",
+            "name": "Geita",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-04",
+            "name": "Iringa",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-05",
+            "name": "Kagera",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-06",
+            "name": "Kaskazini Pemba",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-07",
+            "name": "Kaskazini Unguja",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-28",
+            "name": "Katavi",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-08",
+            "name": "Kigoma",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-09",
+            "name": "Kilimanjaro",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-10",
+            "name": "Kusini Pemba",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-11",
+            "name": "Kusini Unguja",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-12",
+            "name": "Lindi",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-26",
+            "name": "Manyara",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-13",
+            "name": "Mara",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-14",
+            "name": "Mbeya",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-15",
+            "name": "Mjini Magharibi",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-16",
+            "name": "Morogoro",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-17",
+            "name": "Mtwara",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-18",
+            "name": "Mwanza",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-29",
+            "name": "Njombe",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-06",
+            "name": "Pemba North",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-10",
+            "name": "Pemba South",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-19",
+            "name": "Pwani",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-20",
+            "name": "Rukwa",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-21",
+            "name": "Ruvuma",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-22",
+            "name": "Shinyanga",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-30",
+            "name": "Simiyu",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-23",
+            "name": "Singida",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-31",
+            "name": "Songwe",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-31",
+            "name": "Songwe",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-24",
+            "name": "Tabora",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-25",
+            "name": "Tanga",
+            "local_variant": null,
+            "language_code": "sw",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-07",
+            "name": "Zanzibar North",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-11",
+            "name": "Zanzibar South",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "region",
+            "3166-2_code": "TZ-15",
+            "name": "Zanzibar West",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Tanzania, the United Republic of"
+        },
+        {
+            "administrative_language_alpha2": "sw",
+            "administrative_language_alpha3": "swa",
+            "local_short_name": "Jamhuri ya Muungano wa Tanzania"
+        }
+    ]
+}

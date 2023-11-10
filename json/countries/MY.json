@@ -1,0 +1,165 @@
+{
+    "alpha2_code": "MY",
+    "short_name": "MALAYSIA",
+    "short_name_lower_case": "Malaysia",
+    "full_name": null,
+    "alpha3_code": "MYS",
+    "numeric_code": 458,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": "Peninsular Malaysia, Sabah, Sarawak",
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "state",
+            "3166-2_code": "MY-01",
+            "name": "Johor",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-02",
+            "name": "Kedah",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-03",
+            "name": "Kelantan",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-04",
+            "name": "Melaka",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-05",
+            "name": "Negeri Sembilan",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-06",
+            "name": "Pahang",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-08",
+            "name": "Perak",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-09",
+            "name": "Perlis",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-07",
+            "name": "Pulau Pinang",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-12",
+            "name": "Sabah",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-13",
+            "name": "Sarawak",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-10",
+            "name": "Selangor",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "state",
+            "3166-2_code": "MY-11",
+            "name": "Terengganu",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "federal territory",
+            "3166-2_code": "MY-14",
+            "name": "Wilayah Persekutuan Kuala Lumpur",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "federal territory",
+            "3166-2_code": "MY-15",
+            "name": "Wilayah Persekutuan Labuan",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "federal territory",
+            "3166-2_code": "MY-16",
+            "name": "Wilayah Persekutuan Putrajaya",
+            "local_variant": null,
+            "language_code": "ms",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ms",
+            "administrative_language_alpha3": "msa",
+            "local_short_name": "Malaysia"
+        }
+    ]
+}

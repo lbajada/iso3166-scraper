@@ -1,0 +1,20 @@
+{
+    "alpha2_code": "GP",
+    "short_name": "GUADELOUPE",
+    "short_name_lower_case": "Guadeloupe",
+    "full_name": null,
+    "alpha3_code": "GLP",
+    "numeric_code": 312,
+    "remarks": null,
+    "independent": "No",
+    "territory_name": "la Désirade, Marie-Galante, les Saintes",
+    "status": "Officially assigned",
+    "subdivisions": [],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "fr",
+            "administrative_language_alpha3": "fra",
+            "local_short_name": "Guadeloupe (la)"
+        }
+    ]
+}

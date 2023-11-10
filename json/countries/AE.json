@@ -1,0 +1,84 @@
+{
+    "alpha2_code": "AE",
+    "short_name": "UNITED ARAB EMIRATES",
+    "short_name_lower_case": "United Arab Emirates (the)",
+    "full_name": "the United Arab Emirates",
+    "alpha3_code": "ARE",
+    "numeric_code": 784,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-AZ",
+            "name": "Abū Z̧aby",
+            "local_variant": "Abu Dhabi",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-FU",
+            "name": "Al Fujayrah",
+            "local_variant": "Fujairah",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-SH",
+            "name": "Ash Shāriqah",
+            "local_variant": "Sharjah",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-DU",
+            "name": "Dubayy",
+            "local_variant": "Dubai",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-RK",
+            "name": "Ra’s al Khaymah",
+            "local_variant": "Ras Al Khaimah",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-UQ",
+            "name": "Umm al Qaywayn",
+            "local_variant": "Umm Al Quwain",
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        },
+        {
+            "category": "emirate",
+            "3166-2_code": "AE-AJ",
+            "name": "‘Ajmān",
+            "local_variant": null,
+            "language_code": "ar",
+            "romanization_system": "BGN/PCGN 1956",
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "ar",
+            "administrative_language_alpha3": "ara",
+            "local_short_name": "Al Imārāt"
+        }
+    ]
+}

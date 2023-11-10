@@ -1,0 +1,1182 @@
+{
+    "alpha2_code": "IT",
+    "short_name": "ITALY",
+    "short_name_lower_case": "Italy",
+    "full_name": "the Republic of Italy",
+    "alpha3_code": "ITA",
+    "numeric_code": 380,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "region",
+            "3166-2_code": "IT-65",
+            "name": "Abruzzo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-AG",
+            "name": "Agrigento",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AL",
+            "name": "Alessandria",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AN",
+            "name": "Ancona",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-57"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AR",
+            "name": "Arezzo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AP",
+            "name": "Ascoli Piceno",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-57"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AT",
+            "name": "Asti",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AV",
+            "name": "Avellino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-72"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-BA",
+            "name": "Bari",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BT",
+            "name": "Barletta-Andria-Trani",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-77",
+            "name": "Basilicata",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BL",
+            "name": "Belluno",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BN",
+            "name": "Benevento",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-72"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BG",
+            "name": "Bergamo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BI",
+            "name": "Biella",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-BO",
+            "name": "Bologna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "autonomous province",
+            "3166-2_code": "IT-BZ",
+            "name": "Bolzano",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-32"
+        },
+        {
+            "category": "autonomous province",
+            "3166-2_code": "IT-BZ",
+            "name": "Bozen",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": "IT-32"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BS",
+            "name": "Brescia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-BR",
+            "name": "Brindisi",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-CA",
+            "name": "Cagliari",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-88"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-78",
+            "name": "Calabria",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-CL",
+            "name": "Caltanissetta",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-72",
+            "name": "Campania",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CB",
+            "name": "Campobasso",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-67"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CE",
+            "name": "Caserta",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-72"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-CT",
+            "name": "Catania",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CZ",
+            "name": "Catanzaro",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-78"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CH",
+            "name": "Chieti",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-65"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CO",
+            "name": "Como",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CS",
+            "name": "Cosenza",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-78"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CR",
+            "name": "Cremona",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-KR",
+            "name": "Crotone",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-78"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-CN",
+            "name": "Cuneo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-45",
+            "name": "Emilia-Romagna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-EN",
+            "name": "Enna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-FM",
+            "name": "Fermo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-57"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-FE",
+            "name": "Ferrara",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-FI",
+            "name": "Firenze",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-FG",
+            "name": "Foggia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-FC",
+            "name": "Forlì-Cesena",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-36",
+            "name": "Friuli Venezia Giulia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-FR",
+            "name": "Frosinone",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-62"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-GE",
+            "name": "Genova",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-42"
+        },
+        {
+            "category": "decentralized regional entity",
+            "3166-2_code": "IT-GO",
+            "name": "Gorizia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-36"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-GR",
+            "name": "Grosseto",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-IM",
+            "name": "Imperia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-42"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-IS",
+            "name": "Isernia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-67"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-AQ",
+            "name": "L'Aquila",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-65"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SP",
+            "name": "La Spezia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-42"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LT",
+            "name": "Latina",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-62"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-62",
+            "name": "Lazio",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LE",
+            "name": "Lecce",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LC",
+            "name": "Lecco",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-42",
+            "name": "Liguria",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LI",
+            "name": "Livorno",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LO",
+            "name": "Lodi",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-25",
+            "name": "Lombardia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-LU",
+            "name": "Lucca",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MC",
+            "name": "Macerata",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-57"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MN",
+            "name": "Mantova",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-57",
+            "name": "Marche",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MS",
+            "name": "Massa-Carrara",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MT",
+            "name": "Matera",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-77"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-ME",
+            "name": "Messina",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-MI",
+            "name": "Milano",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MO",
+            "name": "Modena",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-67",
+            "name": "Molise",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-MB",
+            "name": "Monza e Brianza",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-NA",
+            "name": "Napoli",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-72"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-NO",
+            "name": "Novara",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-NU",
+            "name": "Nuoro",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-88"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-OR",
+            "name": "Oristano",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-88"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PD",
+            "name": "Padova",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-PA",
+            "name": "Palermo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PR",
+            "name": "Parma",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PV",
+            "name": "Pavia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PG",
+            "name": "Perugia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-55"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PU",
+            "name": "Pesaro e Urbino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-57"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PE",
+            "name": "Pescara",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-65"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PC",
+            "name": "Piacenza",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-21",
+            "name": "Piemonte",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PI",
+            "name": "Pisa",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PT",
+            "name": "Pistoia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "decentralized regional entity",
+            "3166-2_code": "IT-PN",
+            "name": "Pordenone",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-36"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PZ",
+            "name": "Potenza",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-77"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-PO",
+            "name": "Prato",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-75",
+            "name": "Puglia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-RG",
+            "name": "Ragusa",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-RA",
+            "name": "Ravenna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-RC",
+            "name": "Reggio Calabria",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-78"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-RE",
+            "name": "Reggio Emilia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-RI",
+            "name": "Rieti",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-62"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-RN",
+            "name": "Rimini",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-45"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-RM",
+            "name": "Roma",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-62"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-RO",
+            "name": "Rovigo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SA",
+            "name": "Salerno",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-72"
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-88",
+            "name": "Sardegna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SS",
+            "name": "Sassari",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-88"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SV",
+            "name": "Savona",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-42"
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-82",
+            "name": "Sicilia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SI",
+            "name": "Siena",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-52"
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-SR",
+            "name": "Siracusa",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SO",
+            "name": "Sondrio",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-SU",
+            "name": "Sud Sardegna",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-88"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-TA",
+            "name": "Taranto",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-75"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-TE",
+            "name": "Teramo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-65"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-TR",
+            "name": "Terni",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-55"
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-TO",
+            "name": "Torino",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-52",
+            "name": "Toscana",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "free municipal consortium",
+            "3166-2_code": "IT-TP",
+            "name": "Trapani",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-82"
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-32",
+            "name": "Trentino-Alto Adige",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-32",
+            "name": "Trentino-Südtirol",
+            "local_variant": null,
+            "language_code": "de",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous province",
+            "3166-2_code": "IT-TN",
+            "name": "Trento",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-32"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-TV",
+            "name": "Treviso",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "decentralized regional entity",
+            "3166-2_code": "IT-TS",
+            "name": "Trieste",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-36"
+        },
+        {
+            "category": "decentralized regional entity",
+            "3166-2_code": "IT-UD",
+            "name": "Udine",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-36"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-55",
+            "name": "Umbria",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-23",
+            "name": "Val d'Aoste",
+            "local_variant": null,
+            "language_code": "fr",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "autonomous region",
+            "3166-2_code": "IT-23",
+            "name": "Valle d'Aosta",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VA",
+            "name": "Varese",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-25"
+        },
+        {
+            "category": "region",
+            "3166-2_code": "IT-34",
+            "name": "Veneto",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "metropolitan city",
+            "3166-2_code": "IT-VE",
+            "name": "Venezia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VB",
+            "name": "Verbano-Cusio-Ossola",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VC",
+            "name": "Vercelli",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-21"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VR",
+            "name": "Verona",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VV",
+            "name": "Vibo Valentia",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-78"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VI",
+            "name": "Vicenza",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-34"
+        },
+        {
+            "category": "province",
+            "3166-2_code": "IT-VT",
+            "name": "Viterbo",
+            "local_variant": null,
+            "language_code": "it",
+            "romanization_system": null,
+            "parent_subdivision": "IT-62"
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "it",
+            "administrative_language_alpha3": "ita",
+            "local_short_name": "Italia (l')"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "alpha2_code": "SG",
+    "short_name": "SINGAPORE",
+    "short_name_lower_case": "Singapore",
+    "full_name": "the Republic of Singapore",
+    "alpha3_code": "SGP",
+    "numeric_code": 702,
+    "remarks": null,
+    "independent": "Yes",
+    "territory_name": null,
+    "status": "Officially assigned",
+    "subdivisions": [
+        {
+            "category": "district",
+            "3166-2_code": "SG-01",
+            "name": "Central Singapore",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SG-02",
+            "name": "North East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SG-03",
+            "name": "North West",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SG-04",
+            "name": "South East",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "district",
+            "3166-2_code": "SG-05",
+            "name": "South West",
+            "local_variant": null,
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        }
+    ],
+    "additional_information": [
+        {
+            "administrative_language_alpha2": "en",
+            "administrative_language_alpha3": "eng",
+            "local_short_name": "Singapore"
+        },
+        {
+            "administrative_language_alpha2": "ms",
+            "administrative_language_alpha3": "msa",
+            "local_short_name": "Singapura"
+        },
+        {
+            "administrative_language_alpha2": "ta",
+            "administrative_language_alpha3": "tam",
+            "local_short_name": "Chiṅkappūr"
+        },
+        {
+            "administrative_language_alpha2": "zh",
+            "administrative_language_alpha3": "zho",
+            "local_short_name": "Xinjiapo"
+        }
+    ]
+}
