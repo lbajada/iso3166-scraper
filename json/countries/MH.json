@@ -9,6 +9,23 @@
     "independent": "Yes",
     "territory_name": "Jaluit, Kwajalein, Majuro",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "chain (of islands) (en)",
+                "chaîne d’îles (fr)"
+            ]
+        },
+        {
+            "category_count": 24,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "jukjuk (mh)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -489,6 +506,28 @@
             "administrative_language_alpha2": "mh",
             "administrative_language_alpha3": "mah",
             "local_short_name": "Aelōn̄ in M̧ajeļ"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the French short name lower case",
+            "short_description_fr": "Modification de la forme courte française en minuscules"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of subdivision name in mah of MH‐ALK, MH‐ALL, MH‐ARN, MH‐EBO, MH‐JAB, MH‐JAL, MH‐KWA, MH‐LIB, MH‐MAJ, MH‐MAL, MH‐MEJ, MH‐MIL, MH‐NMK, MH‐NMU, MH‐RON, MH‐UTI, MH‐WTH, WTJ; in mah/eng of MH-ENI, MH-KIL; update List Source",
+            "short_description_fr": "Modification de l'orthographe du nom mah de la subdivision de MH‐ALK, MH‐ALL, MH‐ARN, MH‐EBO, MH‐JAB, MH‐JAL, MH‐KWA, MH‐LIB, MH‐MAJ, MH‐MAL, MH‐MEJ, MH‐MIL, MH‐NMK, MH‐NMU, MH‐RON, MH‐UTI, MH‐WTH, WTJ; en mah/eng, MH-JAB, MH-JAL, MH-KIL en mah/eng of MH-ENI, MH-KIL; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Spelling changes to MH-ENI, MH-KIL, MH-NMK and MH-UTI; update the List Source",
+            "short_description_fr": "Modification de l'orthographe de MH-ENI, MH-KIL, MH-NMK et MH-UTI; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, addition of names in administrative languages",
+            "short_description_fr": "Ajout du préfixe au premier niveau et d’un nom générique en marshall (mh)"
         }
     ]
 }

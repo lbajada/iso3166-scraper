@@ -9,6 +9,23 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous municipality (en)",
+                "municipalité autonome (fr)"
+            ]
+        },
+        {
+            "category_count": 24,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "khet (km)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -466,6 +483,38 @@
             "administrative_language_alpha2": "km",
             "administrative_language_alpha3": "khm",
             "local_short_name": "Kâmpŭchéa"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Change of spelling of KH-1",
+            "short_description_fr": "Modification de l'orthographe de KH-1"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of spelling of KH-22, KH-1, KH-18",
+            "short_description_fr": "Correction de l'orthographe de KH-22, KH-1, KH-18"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of subdivision name of KH-18, KH-23, KH24; Correction of the romanization system label; Addition of local variation of KH-01, KH-02, KH-03, KH-05, KH-06, KH-08, KH-09, KH-10, KH-11, KH-14, KH-15, KH-16, KH-17, KH-18, KH-19, KH-20, KH-21, KH-22, KH-23",
+            "short_description_fr": "Modification du nom des subdivisions KH-18, KH-23, KH-24; Correction de l'étiquette du système de romanization; Ajout d’une variation locale pour KH-01, KH-02, KH-03, KH-05, KH-06, KH-08, KH-09, KH-10, KH-11, KH-14, KH-15, KH-16, KH-17, KH-18, KH-19, KH-20, KH-21, KH-22, KH-23"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of KH-25",
+            "short_description_fr": "Modification de l'orthographe de KH-25"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision category from autonomous municipalities to provinces for KH-18, KH-23, KH-24; addition of province KH-25, update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer municipalités autonomes par provinces pour KH-18, KH-23, KH-24 ; ajout de la province KH-25; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

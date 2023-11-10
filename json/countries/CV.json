@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "São Tiago, São Vicente",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 22,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "concelho (pt)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "geographical region (en)",
+                "région géographique (fr)",
+                "região geográfica (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -232,6 +250,33 @@
             "administrative_language_alpha2": "pt",
             "administrative_language_alpha3": "por",
             "local_short_name": "Cabo Verde"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2014-03-03",
+            "short_description_en": "Modification of the French remark",
+            "short_description_fr": "Modification de la remarque en français"
+        },
+        {
+            "date": "2013-11-26",
+            "short_description_en": "UN notification of name change for both short and full names",
+            "short_description_fr": "Notification de l'ONU changement de la forme courte et longue du nom"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Correction of NL II-2 for toponyms and typographical errors and source list update.",
+            "short_description_fr": "Reprise de la NL II-2 concernant le codage d’un toponyme et mise à jour de la liste source."
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Addition of the country code prefix as the first code element, update of the administrative structure and of the list source",
+            "short_description_fr": "Ajout du préfixe au premier niveau et mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

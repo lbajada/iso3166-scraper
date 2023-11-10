@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "mkhare (ka)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous republic (en)",
+                "république autonome (fr)",
+                "avt'onomiuri resp'ublik'a (ka)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "kalaki (ka)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "autonomous republic",
@@ -124,6 +150,18 @@
             "administrative_language_alpha2": "ka",
             "administrative_language_alpha3": "kat",
             "local_short_name": "Sakartvelo"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
         }
     ]
 }

@@ -9,6 +9,29 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)"
+            ]
+        },
+        {
+            "category_count": 7,
+            "category_locales": [
+                "administrative region (en)",
+                "région administrative (fr)"
+            ]
+        },
+        {
+            "category_count": 33,
+            "category_locales": [
+                "prefecture (en)",
+                "préfecture (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "prefecture",
@@ -385,6 +408,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Guinée (la)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Change Subdivision category special zone to governorate (GN-C); change governorates to administrative regions; update List Source",
+            "short_description_fr": "Modification de catégorie de subdivision: de zone spéciale à gouvernorat et de gouvernorats à régions administratives; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, deletion of the generic term in subdivision names",
+            "short_description_fr": "Ajout du préfixe au premier niveau et suppression du terme générique dans les noms des divisions"
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 19,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -187,6 +197,18 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Uruguay (el)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

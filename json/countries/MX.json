@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 31,
+            "category_locales": [
+                "state (en)",
+                "État (fr)",
+                "estado (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "federal entity (en)",
+                "entité fédérale (fr)",
+                "entidad federativa (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -304,6 +322,33 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "México"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Change of subdivision category from federal district to federal entity; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer district fédéral par entité fédérale; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Typographical correction of MX-CMX; update List source",
+            "short_description_fr": "Correction typographique de MX-CMX; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of subdivision code from MX-DIF to MX-CMX; change of name of MX-CMX, MX-COA, MX-MIC, MX-VER; addition of local variation of MX-COA, MX-MIC, MX-VER; update list source",
+            "short_description_fr": "Modification du code de subdivision remplacer MX-DIF par MX-CMX; modification de l'orthographe de MX-CMX; MX-COA, MX-MIC, MX-VER; ajout d’une variation locale pour MX-COA, MX-MIC, MX-VER; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-04",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

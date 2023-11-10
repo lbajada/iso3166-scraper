@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 47,
+            "category_locales": [
+                "prefecture (en)",
+                "département (fr)",
+                "to, dô, hu, ken (ja)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "prefecture",
@@ -646,6 +656,18 @@
             "administrative_language_alpha2": "ja",
             "administrative_language_alpha3": "jpn",
             "local_short_name": "Nihon/Nippon"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Delation of the romanization system for subdivisions in eng",
+            "short_description_fr": "Suppression du système de romanisation des subdivisions en eng"
         }
     ]
 }

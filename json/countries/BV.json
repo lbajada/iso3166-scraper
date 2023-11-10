@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,23 @@
             "administrative_language_alpha2": "nb",
             "administrative_language_alpha3": "nob",
             "local_short_name": "Bouvetøya"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2014-04-03",
+            "short_description_en": "Correct administrative language code from nbo to nob",
+            "short_description_fr": "Corriger le codet de la langue administrative, nbo par nob"
+        },
+        {
+            "date": "2013-02-06",
+            "short_description_en": "Add local short names",
+            "short_description_fr": "Rajouter les formes courtes locales du nom"
         }
     ]
 }

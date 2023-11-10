@@ -9,6 +9,23 @@
     "independent": "Yes",
     "territory_name": "Socotra Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)"
+            ]
+        },
+        {
+            "category_count": 21,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -214,6 +231,33 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Al Yaman"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of YE-AB; update list source",
+            "short_description_fr": "Modification de l'orthographe de YE-AB; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision name of YE-DA, YE-AD, YE-BA, YE-AM, YE-MA; addition of governorate YE-SU; addition of romanisation system of YE-RA; update List Source",
+            "short_description_fr": "Modification du nom des subdivisions de YE-DA, YE-AD, YE-BA, YE-AM, YE-MA; ajout d’un gouvernorat YE-SU; ajout du système de romanisation de YE-RA; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-17",
+            "short_description_en": "Change spelling for YE-SA; update List Source",
+            "short_description_fr": "Modification de l'orthographe de YE-SA; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and its alphabetical order and update of the list source ",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et de son ordre alphabétique. Mise à jour de la liste source."
         }
     ]
 }

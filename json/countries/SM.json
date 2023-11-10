@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "castello (it)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -97,6 +107,23 @@
             "administrative_language_alpha2": "it",
             "administrative_language_alpha3": "ita",
             "local_short_name": "San Marino"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of spelling of SM-07; Addition of local variation for SM-07; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de SM-07; Ajout d’une variation locale pour SM-07; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

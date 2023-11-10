@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 6,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "faritany (mg)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -80,6 +90,23 @@
             "administrative_language_alpha2": "mg",
             "administrative_language_alpha3": "mlg",
             "local_short_name": "Madagasikara"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2008-04-08",
+            "short_description_en": "Inclusion of English as official language in Article 4 of the Constitution of Madagascar, April 2007",
+            "short_description_fr": "Inclusion de l’anglais comme langue officielle dans l’Article 4 de la Constitution de Madagascar, avril 2007"
         }
     ]
 }

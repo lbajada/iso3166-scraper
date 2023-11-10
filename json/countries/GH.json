@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -160,6 +169,28 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Ghana"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Deletion of region GH-BA; Addition of regions GH-AF, GH-BE, GH-BO, GH-NE, GH-OT, GH-SV, GH-WN; Update List Source",
+            "short_description_fr": "Suppression d'une région GH-BA ; Ajout des régions GH-AF, GH-BE, GH-BO, GH-NE, GH-OT, GH-SV, GH-WN; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 24,
+            "category_locales": [
+                "opština ()",
+                "municipality (en)",
+                "municipalité (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -232,6 +242,53 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "cnr",
             "local_short_name": "Crna Gora"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Update List Source; Correction of the Code Source",
+            "short_description_fr": "Mise à jour de la Liste Source; Correction du Code Source"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Addition of municipality ME-24; Update List Source",
+            "short_description_fr": "Ajout d'une municipalité ME-24; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2018-03-26",
+            "short_description_en": "Addition of the alpha 3 administrative language code cnr. Modification of remark part 1.",
+            "short_description_fr": "Ajout du codet alpha 3 de la langue administrative cnr. Modification de la remarque, partie 1."
+        },
+        {
+            "date": "2018-03-26",
+            "short_description_en": "Deletion of remark part 2.",
+            "short_description_fr": "Suppression de la remarque, partie 2."
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Correction of quotation marks in the remark",
+            "short_description_fr": "Correction des guillemets dans la remarque"
+        },
+        {
+            "date": "2015-02-26",
+            "short_description_en": "Correction of the Remarks to Parts 1 and 2 concerning the language code “001” to read “The language code \"001\" refers to the administrative language “Montenegrin” that has not been assigned an ISO 639 language code.”",
+            "short_description_fr": "Correction des remarques des parties 1 et 2 concernant le code langue “001” comme suit : “Le code langue “001” se réfère à la langue administrative “Monténégrin” pour laquelle aucun code langue ISO 639 n’a été attribué.”"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add two municipalities ME-22 and ME-23",
+            "short_description_fr": "Ajout de 2 municipalités ME-22 et ME-23"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Local generic administrative term addition and suppression of the comment.",
+            "short_description_fr": "Ajout du terme générique administratif local et suppression del la remarque."
+        },
+        {
+            "date": "2008-04-08",
+            "short_description_en": "Change of full name",
+            "short_description_fr": "Changement de nom, forme longue"
         }
     ]
 }

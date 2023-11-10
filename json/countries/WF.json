@@ -9,6 +9,15 @@
     "independent": "No",
     "territory_name": "Futuna, Hoorn Islands, Uvea, Wallis Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "administrative precinct (en)",
+                "circonscription (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "administrative precinct",
@@ -43,6 +52,18 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Wallis-et-Futuna"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of administrative precinct WF-AL, WF-SG, WF-UV; update List Source code source and categories",
+            "short_description_fr": "Ajout des circonscriptions WF-AL, WF-SG, WF-UV; mise à jour de la Liste Source, du code source et catégories"
         }
     ]
 }

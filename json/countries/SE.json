@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 21,
+            "category_locales": [
+                "county (en)",
+                "département (fr)",
+                "län (sv)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -205,6 +215,13 @@
             "administrative_language_alpha2": "sv",
             "administrative_language_alpha3": "swe",
             "local_short_name": "Sverige"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Name precision of the administrative division, Alphabetical re-ordering and source list update.",
+            "short_description_fr": "Précision du nom de la division administrative, mise à jour de la liste source et remise en ordre alphabétique."
         }
     ]
 }

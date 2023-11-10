@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 200,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "občina (sl)"
+            ]
+        },
+        {
+            "category_count": 12,
+            "category_locales": [
+                "urban municipality (en)",
+                "municipalité urbaine (fr)",
+                "mestna občina (sl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -1924,6 +1942,38 @@
             "administrative_language_alpha2": "sl",
             "administrative_language_alpha3": "slv",
             "local_short_name": "Slovenija"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Change of spelling of SI-044, SI-197; Addition of category urban municipality; Change of category name from municipality to urban municipality for SI-011, SI-050, SI-052, SI-054, SI-061, SI-070, SI-080, SI-084, SI-085, SI-096, SI-112, SI-133; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de SI-044, SI-197; Ajout de la catégorie municipalité urbaine; modification du nom de catégorie remplacer municipalité par municipalité urbaine pour SI-011, SI-050, SI-052, SI-054, SI-061, SI-070, SI-080, SI-084, SI-085, SI-096, SI-112, SI-133; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Addition of remark part 2",
+            "short_description_fr": "Ajout de la remarque, partie 2"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of spelling for SI-065, SI-116, SI-169, SI-182, SI-204, SI-210; Deletion of asterisk from SI-212; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de SI-065, SI-116, SI-169, SI-182, SI-204, SI-210; Suppression d’un astérisque de SI-212; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of subdivision category from commune to municipality; addition of municipality SI-213",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer commune par municipalité; ajout d'une municipalité SI-213"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add 1 commune SI-212; update List Source",
+            "short_description_fr": "Ajout d'une commune SI-212; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and languages and update of the list source ",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif. Mise à jour de la liste source."
         }
     ]
 }

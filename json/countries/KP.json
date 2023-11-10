@@ -9,6 +9,40 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special city (en)",
+                "ville spéciale (fr)",
+                "si (ko)"
+            ]
+        },
+        {
+            "category_count": 9,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "do (ko)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital city (en)",
+                "ville capitale (fr)",
+                "chikhalsi (ko)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "metropolitan city (en)",
+                "ville métropolitaine (fr)",
+                "t’ŭkpyŏlsi (ko)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -250,6 +284,33 @@
             "administrative_language_alpha2": "ko",
             "administrative_language_alpha3": "kor",
             "local_short_name": "Chosŏn"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Addition of metropolitan city KP-15; Update List Source",
+            "short_description_fr": "Ajout d'une ville métropolitaine KP-15; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of KP-10, KP-13 (McCune-Reischauer, 1939); addition of metropolitan city KP-14; update List Source",
+            "short_description_fr": "Modification de l'orthographe de KP-10, KP-13 (McCune-Reischauer, 1939); ajout de la ville métropolitaine KP-14; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Deletion of the space between \"de\" and the parenthesis in the short French name lower case.",
+            "short_description_fr": "Suppression de l'espace entre \"de\" et la parenthèse dans la forme courte française en minuscules."
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Administrative update, replacement of alphabetical characters with numeric characters in second code element",
+            "short_description_fr": "Mise à jour administrative, remplacement des codets alphabetiques par des codets numèriques"
         }
     ]
 }

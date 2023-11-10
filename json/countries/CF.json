@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "economic prefecture (en)",
+                "préfecture économique (fr)",
+                "sêse tî kömändâ-kötä (sg)"
+            ]
+        },
+        {
+            "category_count": 14,
+            "category_locales": [
+                "prefecture (en)",
+                "préfecture (fr)",
+                "sêse tî kömändâ-kötä (sg)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "commune (en)",
+                "commune (fr)",
+                "kötä gbätä (sg)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "prefecture",
@@ -327,6 +353,23 @@
             "administrative_language_alpha2": "sg",
             "administrative_language_alpha3": "sag",
             "local_short_name": "Ködörösêse tî Bêafrîka"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Correct French full name and local short name to align with ISO 3166-2",
+            "short_description_fr": "Corriger la forme longue du nom français et la forme courte locale pour les aligner avec l'ISO 3166-2"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Consistency between ISO 3166-1 and ISO 3166-2, addition of names in administrative languages, and update of the administrative structure and of the list source",
+            "short_description_fr": "Cohérence de l'ISO 3166-1 and l'ISO 3166-2, mise à jour résultant de la réalité du découpage administratif et ajustement linguistique. Mise à jour de la liste source."
+        },
+        {
+            "date": "2009-01-07",
+            "short_description_en": "Addition of administrative language Sango (sg, sag)",
+            "short_description_fr": "Adjonction de la langue administrative sango (sg, sag)"
         }
     ]
 }

@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "department (en)",
+                "département (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -124,6 +133,28 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Congo (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-02-26",
+            "short_description_en": "Correction of the OBP entry error as follows: change of the font character from a dash to a hyphen in the name for Pointe-Noire",
+            "short_description_fr": "Correction de l’erreur de saisie dans l’OBP comme suit : changement du caractère de police du tiret de Pointe-Noire par un trait d’union"
+        },
+        {
+            "date": "2015-02-12",
+            "short_description_en": "Add 1 department CG-16",
+            "short_description_fr": "Ajout d’un département CG-16"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en majuscules et minuscules avec UNTERM"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Change Subdivision category ‘region’ to ‘department’; change ‘capital’ to ‘department’; update List Source",
+            "short_description_fr": "Changement de la catégorie de subdivision \"région\" par \"département et \"capitale\" par \"département\"; mise à jour de la Liste Source"
         }
     ]
 }

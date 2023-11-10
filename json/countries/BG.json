@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 28,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "oblast (bg)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -268,6 +278,43 @@
             "administrative_language_alpha2": "bg",
             "administrative_language_alpha3": "bul",
             "local_short_name": "Bulgaria"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2018-04-20",
+            "short_description_en": "Change of subdivision category from region to district in eng and fra; update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer region par district en eng et en fra; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of romanization system",
+            "short_description_fr": "Ajout du système de romanisation"
+        },
+        {
+            "date": "2013-02-06",
+            "short_description_en": "Alignment with ISO 3166-2 of the local short name Alignment with ISO 3166-2 of the local short name",
+            "short_description_fr": "Alignement avec l'ISO 3166-2 avec la forme courte locale du nom"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Local country name romanization system adjustment and source list update.",
+            "short_description_fr": "Ajustement de la romanisation du nom local du pays et mise à jour de la liste source."
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Add the second romanized local name for Bulgaria",
+            "short_description_fr": "Rajouter le deuxième nom romanisé de Bulgarie"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Add the second romanized local name for Bulgaria",
+            "short_description_fr": "Rajouter le deuxième nom romanisé de Bulgarie"
         }
     ]
 }

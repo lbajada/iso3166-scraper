@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 14,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -142,6 +151,13 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Sénégal (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and languages and update of the list source ",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif. Mise à jour de la liste source."
         }
     ]
 }

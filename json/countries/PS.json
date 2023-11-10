@@ -9,6 +9,16 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -304,6 +314,28 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Dawlat Filasţīn"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of romanization system for ara; change of spelling of category name in ara; change of spelling of PS-QQA, PS-JRH, PS-RBH; update List Source",
+            "short_description_fr": "Ajout du système de romanisation en ara; modification de l'orthographe du nom de catégorie en ara; modification de l'orthographe de PS-QQA, PS-JRH, RBH; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2013-02-06",
+            "short_description_en": "UN notification of full name",
+            "short_description_fr": "Notification de l'ONU changement de la forme longue du nom"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative division taken into account.",
+            "short_description_fr": "Prise en compte du découpage administratif."
+        },
+        {
+            "date": "2008-04-08",
+            "short_description_en": "Correction of local name",
+            "short_description_fr": "Correction du nom local"
         }
     ]
 }

@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 47,
+            "category_locales": [
+                "county (en)",
+                "comté (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -444,6 +453,23 @@
             "administrative_language_alpha2": "sw",
             "administrative_language_alpha3": "swa",
             "local_short_name": "Kenya"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Update Code Source",
+            "short_description_fr": "Mise à jour du Code Source"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Delete provinces; add 47 counties; update List Source",
+            "short_description_fr": "Suppression des provinces; ajout des 47 comtés; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the list source",
+            "short_description_fr": "Mise à jour de la liste source."
         }
     ]
 }

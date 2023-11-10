@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 15,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "región autónoma (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -169,6 +187,18 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Nicaragua"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-04-20",
+            "short_description_en": "Change of subdivision name of NI-AN, NI-AS; update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de NI-AN, NI-AS; mise à jour de la Liste Source"
         }
     ]
 }

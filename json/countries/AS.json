@@ -9,12 +9,20 @@
     "independent": "No",
     "territory_name": "Swain's Island, Tutuila",
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "American Samoa"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
         }
     ]
 }

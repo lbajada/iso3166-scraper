@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "setereke (st)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -201,6 +211,18 @@
             "administrative_language_alpha2": "st",
             "administrative_language_alpha3": "sot",
             "local_short_name": "Lesotho"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of spelling of LS-B; Addition of local variation of LS-B; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de LS-B; Ajout d’une variation locale pour LS-B; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of loca l generic administrative term, update of the official languages according to ISO 3166-2 and source list update.",
+            "short_description_fr": "Ajout du terme générique administratif local, mise en conformité de l'ISO 3166-2 avec les langues officielles et mise à jour de la liste source."
         }
     ]
 }

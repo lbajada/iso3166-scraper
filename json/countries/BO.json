@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -97,6 +107,28 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Bolivia, Estado Plurinacional de"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise et française en majuscules et minuscules avec UNTERM"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Change of short form country name in accordance with ISO 3166-1, NL VI-6 (2009-05-08)",
+            "short_description_fr": "Mise en conformité de la forme courte du nom du pays avec celle de l’ISO 3166-1, NL VI-6 (2009-05-08)"
+        },
+        {
+            "date": "2009-05-08",
+            "short_description_en": "Change of short and full names",
+            "short_description_fr": "Changement de nom, forme courte et forme longue"
         }
     ]
 }

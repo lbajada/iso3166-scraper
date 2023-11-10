@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 68,
+            "category_locales": [
+                "local council (en)",
+                "conseil local (fr)",
+                "kunsill lokali (mt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "local council",
@@ -1245,6 +1255,18 @@
             "administrative_language_alpha2": "mt",
             "administrative_language_alpha3": "mlt",
             "local_short_name": "Malta"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of subdivision category in mlt",
+            "short_description_fr": "Correction de la catégorie de subdivision mlt"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Correction of quotation marks in the List Source",
+            "short_description_fr": "Correction des guillemets dans la Liste Source"
         }
     ]
 }

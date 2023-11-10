@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 8,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "mouhâfazah, muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -160,6 +170,13 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Lubnān"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
         }
     ]
 }

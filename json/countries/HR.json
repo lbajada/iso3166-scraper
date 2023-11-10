@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 20,
+            "category_locales": [
+                "county (en)",
+                "comté (fr)",
+                "županija (hr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "grad (hr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -205,6 +223,18 @@
             "administrative_language_alpha2": "hr",
             "administrative_language_alpha3": "hrv",
             "local_short_name": "Hrvatska"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering.",
+            "short_description_fr": "Remise en ordre alphabétique."
+        },
+        {
+            "date": "2010-12-15",
+            "short_description_en": "Correct typographic error for the language code for Croatian",
+            "short_description_fr": "Corriger l'erreur typographique dans le code langue pour le croate"
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distrikt (nl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -106,6 +116,18 @@
             "administrative_language_alpha2": "nl",
             "administrative_language_alpha3": "nld",
             "local_short_name": "Suriname"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

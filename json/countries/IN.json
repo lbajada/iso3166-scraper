@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": "Andaman Islands, Laccadive Islands , Minicoy Island, Nicobar Islands, Amindivi Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 8,
+            "category_locales": [
+                "Union territory (en)",
+                "territoire de l’Union (fr)"
+            ]
+        },
+        {
+            "category_count": 28,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "Union territory",
@@ -345,6 +361,28 @@
             "administrative_language_alpha2": "hi",
             "administrative_language_alpha3": "hin",
             "local_short_name": "Bhārat"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Deletion of Union territory IN-DD, IN-DN; Addition of Union territory IN-DH; Correction of spelling for IN-AR, IN-BR, IN-CH, IN-CT, IN-DH, IN-GJ, IN-HP, IN-HR, IN-JH, IN-JK, IN-KA, IN-LA, IN-MH, IN-ML, IN-NL, IN-RJ, IN-TG, IN-TN, IN-UT; Addition of romanization system \"Indian System of Transliteration\"; Update List Source; Correction of the Code Source",
+            "short_description_fr": "Suppression du territoire de l’Union IN-DD, IN-DN; Ajout du territoire de l’Union IN-DH; Correction de l'orthographe de IN-AR, IN-BR, IN-CH, IN-CT, IN-DH, IN-GJ, IN-HP, IN-HR, IN-JH, IN-JK, IN-KA, IN-LA, IN-MH, IN-ML, IN-NL, IN-RJ, IN-TG, IN-TN, IN-UT; Ajout du système de romanisation \" Indian System of Transliteration\"; Mise à jour de la Liste Source; Correction du Code Source"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Change of subdivision category from state to Union territory for IN-JK; Addition of Union territory IN-LA; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer État par territoire de l’Union; Ajout d'un territoire de l’Union IN-LA; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Add 1 state IN-TG; change spelling of IN-OR; update List Source and Code Source",
+            "short_description_fr": "Ajout d'un état IN-TG; Modification de l'orthographe d'IN-OR; mise à jour de la Liste Source et Code Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of local generic administrative terms, update of the official languages according to ISO 3166-2, addition of a comment and source list update.",
+            "short_description_fr": "Ajout des termes génériques administratifs locaux, mise en conformité de l'ISO 3166-2 avec les langues officielles, ajout d’une remarque et mise à jour de la liste source."
         }
     ]
 }

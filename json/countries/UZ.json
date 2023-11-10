@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "viloyat (uz)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "republic (en)",
+                "république (fr)",
+                "respublikasi (uz)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "shahar (uz)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -142,6 +168,13 @@
             "administrative_language_alpha2": "uz",
             "administrative_language_alpha3": "uzb",
             "local_short_name": "O‘zbekiston"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Addition of an asterisk to region UZ-XO; Correction of the Code Source",
+            "short_description_fr": "Ajout d’un astérisque aux région UZ-XO; Correction du Code Source"
         }
     ]
 }

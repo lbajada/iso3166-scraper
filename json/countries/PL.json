@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "voivodship (en)",
+                "voïvodie (fr)",
+                "województwo (pl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "voivodship",
@@ -160,6 +170,18 @@
             "administrative_language_alpha2": "pl",
             "administrative_language_alpha3": "pol",
             "local_short_name": "Polska"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of category name from province to voivodship in eng and from région to voïvodie in fra; Change of subdivision code from PL-DS to PL-02, PL-KP to PL-04, PL-LB to PL-08, PL-LD to PL-10, PL-LU to PL-06, PL-MA to PL-12, PL-MZ to PL-14, PL-OP to PL-16, PL-PD to PL-20, PL-PK to PL-18, PL-PM to PL-22, PL-SK to PL-26, PL-SL to PL-24, PL-WN to PL-28, PL-WP to PL-30 and PL-ZP to PL-32; Update List Source; Update Code Source",
+            "short_description_fr": "Modification du nom de catégorie remplacer province par voivodship en eng et région par voïvodie en fra; Modification du code de subdivision remplacer PL-DS par PL-02, PL-KP par PL-04, PL-LB par PL-08, PL-LD par PL-10, PL-LU par PL-06, PL-MA par PL-12, PL-MZ par PL-14, PL-OP par PL-16, PL-PD par PL-20, PL-PK par PL-18, PL-PM par PL-22, PL-SK par PL-26, PL-SL par PL-24, PL-WN par PL-28, PL-WP par PL-30 et PL-ZP par PL-32; Mise à jour de la Liste Source, Mise à jour du Code Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering and source list update.",
+            "short_description_fr": "Remise en ordre alphabétique et mise à jour de la liste source."
         }
     ]
 }

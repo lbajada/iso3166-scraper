@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 13,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "kraj (cs)"
+            ]
+        },
+        {
+            "category_count": 76,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "okres (cs)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital city (en)",
+                "ville capitale (fr)",
+                "hlavní město (cs)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -826,6 +852,38 @@
             "administrative_language_alpha2": "cs",
             "administrative_language_alpha3": "ces",
             "local_short_name": "Česko"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2020-03-02",
+            "short_description_en": "Typographical correction of subdivision name of CZ-10, CZ-802; Typographical correction of subdivision category name in ces",
+            "short_description_fr": "Correction typographique du nom de la subdivision de CZ-10, CZ-802; Correction typographique du nom de catégorie en ces"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Deletion of districts CZ-101, CZ-102, CZ-103, CZ-104, CZ-105, CZ-106, CZ-107, CZ-108, CZ-109, CZ-110, CZ-111, CZ-112, CZ-113, CZ-114, CZ-115, CZ-116, CZ-117, CZ-118, CZ-119, CZ-120, CZ-121, CZ-122 ; Update List Source",
+            "short_description_fr": "Suppression des districts CZ-101, CZ-102, CZ-103, CZ-104, CZ-105, CZ-106, CZ-107, CZ-108, CZ-109, CZ-110, CZ-111, CZ-112, CZ-113, CZ-114, CZ-115, CZ-116, CZ-117, CZ-118, CZ-119, CZ-120, CZ-121, CZ-122 ; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of category name of “capital city” in eng, fra, ces; change of subdivision category of CZ-10 from region to capital city; change of spelling of CZ-802, CZ-806, CZ-63; typographical correction of CZ-615; addition of districts CZ-116 to CZ-122; change of parent subdivision from CZ-JC to CZ-31, CZ-JM to CZ-64, CZ-KA to CZ-41, CZ-KR to CZ-52, CZ-LI to CZ-51, Z-O to CZ-80, CZ-OL to CZ-71, CZ-PA to CZ-53, CZ-PL to CZ-32, CZ-ST to CZ-20, CZ-US to CZ-42, CZ-VY to CZ-63, CZ-ZL to CZ-72; change of subdivision code from CZ-621 to CZ 641, CZ-624 to CZ 644; CZ-622 to CZ 642, CZ-623 to CZ 643, CZ‐625 to 645, CZ-611 to CZ 631, CZ-612 to CZ 632, CZ-613 to CZ 633, CZ-10A to CZ 110, CZ-10B to CZ 111, CZ-10C to CZ 112, CZ-10D to CZ 113, CZ-10E to CZ 114, CZ-10F to CZ 115, CZ-614 to CZ 634, CZ-626 to CZ 646, CZ-615 to CZ 635, CZ-627 to CZ 647, CZ-PR to CZ-10; update List Source",
+            "short_description_fr": "Ajout du nom de catégorie “ville capitale “ en eng, fra, ces; modification de la catégorie de subdivision de CZ-10; modification de l'orthographe de CZ-802, CZ-806, CZ-63; correction typographique de CZ-615; ajout des districts CZ-116 à CZ-122; modification de la subdivision-mère remplacer CZ-JC par CZ-31, CZ-JM par CZ-64, CZ-KA par CZ-41, CZ-KR par CZ-52, CZ-I ar CZ-51, CZ-MO par CZ-80, CZ-OL par CZ-71, CZ-PA par CZ-53, CZ-PL par CZ-32, CZ-ST par CZ-20, CZ-US par CZ-42, CZ-VY par CZ-63, CZ-ZL par CZ-72; modification du code de subdivision remplacer CZ-621 par CZ 641, CZ-624 par CZ 644; CZ-622 par CZ 642, CZ-623 par CZ 643, CZ‐625 par 645, CZ-611 par CZ 631, CZ-612 par CZ 632, CZ-613 par CZ 633, CZ-10A par CZ 110, CZ-10B par Z 11, CZ-10C par CZ 112, CZ-10D par CZ 113, CZ-10E par CZ 114, CZ-10F par CZ 115, CZ-614 par CZ 634, CZ-626 par CZ 646, CZ-615 par CZ 635, CZ-627 par CZ 647, CZ-PR par CZ-10; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-09-28",
+            "short_description_en": "Change of the short name",
+            "short_description_fr": "Modification de la forme courte"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, alphabetical re-ordering",
+            "short_description_fr": "Ajout du préfixe au premier niveau, reprise de l’ordre alphabétique et suppression des dagues du second niveau"
         }
     ]
 }

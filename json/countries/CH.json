@@ -9,6 +9,18 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 26,
+            "category_locales": [
+                "canton (en)",
+                "canton (fr)",
+                "Kanton (de)",
+                "cantone (it)",
+                "chantun (rm)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "canton",
@@ -310,6 +322,13 @@
             "administrative_language_alpha2": "rm",
             "administrative_language_alpha3": "roh",
             "local_short_name": "Svizra (la)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Deletion of canton CH-GR in fra; Update List Source",
+            "short_description_fr": "Suppression du canton CH-GR en fra; Mise à jour de la Liste Source"
         }
     ]
 }

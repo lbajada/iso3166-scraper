@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 19,
+            "category_locales": [
+                "county (en)",
+                "comitat (fr)",
+                "megye (hu)"
+            ]
+        },
+        {
+            "category_count": 23,
+            "category_locales": [
+                "city with county rights (en)",
+                "ville ayant un rang de comitat (fr)",
+                "megyei jogú város (hu)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital city (en)",
+                "ville capitale (fr)",
+                "főváros (hu)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -403,6 +429,28 @@
             "administrative_language_alpha2": "hu",
             "administrative_language_alpha3": "hun",
             "local_short_name": "Magyarország"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Change of name of HU-CS; Update List Source",
+            "short_description_fr": "Modification du nom de HU-CS; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of category name in eng; update List Source",
+            "short_description_fr": "Modification de l'orthographe du nom de catégorie en eng, mise à jour de la Liste Source"
+        },
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Change the full name",
+            "short_description_fr": "Changer la forme longue du nom"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

@@ -9,12 +9,30 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
             "administrative_language_alpha2": "sv",
             "administrative_language_alpha3": "swe",
             "local_short_name": "Åland"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Correct administrative languages",
+            "short_description_fr": "Corriger les langues administratives"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Correct administrative languages",
+            "short_description_fr": "Corriger les langues administratives"
         }
     ]
 }

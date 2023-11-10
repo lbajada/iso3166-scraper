@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": "Bird Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 23,
+            "category_locales": [
+                "state (en)",
+                "État (fr)",
+                "estado (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "federal dependency (en)",
+                "dépendance fédérale (fr)",
+                "dependencia federal (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital district (en)",
+                "district de la capitale (fr)",
+                "distrito capital (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -241,6 +267,33 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Venezuela, República Bolivariana de"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of subdivision name of VE-X; Update List Source; Correction of the Code Source",
+            "short_description_fr": "Modification du nom de la subdivision de VE-X; Mise à jour de la Liste Source; Correction du Code Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling of category name in fra and spa",
+            "short_description_fr": "Modification de l'orthographe du nom de catégorie en fra et en spa"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte anglaise et française en majuscules et minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Change of short form country name in accordance with ISO 3166-1 NL VI-5 (2009-03-03)",
+            "short_description_fr": "Mise en conformité de la forme courte du nom du pays avec celle de l’ISO 3166-1 NL VI-5 (2009-03-03)"
+        },
+        {
+            "date": "2009-03-03",
+            "short_description_en": "Change of short name",
+            "short_description_fr": "Changement de nom abrégé"
         }
     ]
 }

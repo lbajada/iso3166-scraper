@@ -9,6 +9,7 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,18 @@
             "administrative_language_alpha2": "la",
             "administrative_language_alpha3": "lat",
             "local_short_name": "Sancta Sedes"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise et française en majuscules et minuscules avec UNTERM"
         }
     ]
 }

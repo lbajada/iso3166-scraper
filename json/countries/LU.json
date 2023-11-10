@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "canton (en)",
+                "canton (fr)",
+                "Kanton (de)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "canton",
@@ -350,6 +360,18 @@
             "administrative_language_alpha2": "lb",
             "administrative_language_alpha3": "ltz",
             "local_short_name": "Lëtzebuerg"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of cantons LU-CA, LU-CL, LU-DI, LU-EC, LU-ES, LU-GR, LU-LU, LU-ME, LU-RD, LU-RM, LU-VD, LU-WI; update List Source",
+            "short_description_fr": "Ajout des cantons LU-CA, LU-CL, LU-DI, LU-EC, LU-ES, LU-GR, LU-LU, LU-ME, LU-RD, LU-RM, LU-VD, LU-WI; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

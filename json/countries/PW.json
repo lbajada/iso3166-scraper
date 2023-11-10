@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": "Babelthuap (principal island), the west part of the Caroline Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -309,6 +318,13 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "pau",
             "local_short_name": "Belau"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of PW-050 in eng, pau; update list source",
+            "short_description_fr": "Modification de l'orthographe de PW-050 en eng, pau; mise à jour de la Liste Source"
         }
     ]
 }

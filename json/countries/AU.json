@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": "Ashmore and Cartier Islands , Coral Sea Islands , Lord Howe Island, Macquarie Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "territory (en)",
+                "territoire (fr)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "territory",
@@ -88,6 +104,18 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Australia"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Update List Source; update Code Source",
+            "short_description_fr": "Mise à jour de la Liste Source ; mise à jour du Code Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

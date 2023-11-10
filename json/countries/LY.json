@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 22,
+            "category_locales": [
+                "popularate (en)",
+                "municipalité (fr)",
+                "sha‘bīyah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "popularate",
@@ -214,6 +224,38 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Lībiyā"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Modification of remark part 2; Correction of the Code Source",
+            "short_description_fr": "Modification de la remarque, partie 2; Correction du Code Source"
+        },
+        {
+            "date": "2018-02-05",
+            "short_description_en": "Change of the full name",
+            "short_description_fr": "Modification de la forme longue"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling of LY-JI",
+            "short_description_fr": "Modification de l'orthographe de LY-JI"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM"
+        },
+        {
+            "date": "2011-11-08",
+            "short_description_en": "Name change",
+            "short_description_fr": "Changement de nom"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif."
         }
     ]
 }

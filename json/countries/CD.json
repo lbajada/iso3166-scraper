@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 25,
+            "category_locales": [
+                "province (en)",
+                "province (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -250,6 +266,18 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Congo (la République démocratique du)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of subdivision name of CD-BC, CD-KE; deletion of provinces CD-BN, CD-KA, CD-KW, CD-OR; addition of provinces CD-BU, CD-HK, CD-HL,CD-HU, CD-IT, CD-KC, CD-KG, CD-KL, CD-KS, CD-LO, CD-LU, CD-MN, CD-MO, CD-NU, CD-SA, CD-SU, CD-TA, CD-TO, CD-TU; update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de CD-BC, CD-KE; suppression des provinces CD-BN, CD-KA, CD-KW, CD-OR; ajout des provinces CD-BU, CD-HK, CD-HL,CD-HU, CD-IT, CD-KC, CD-KG, CD-KL, CD-KS, CD-LO, CD-LU, CD-MN, CD-MO, CD-NU, CD-SA, CD-SU, CD-TA, CD-TO, CD-TU; mise à jour de la Liste Source"
         }
     ]
 }

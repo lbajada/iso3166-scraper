@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 31,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "ostān (fa)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -295,6 +305,33 @@
             "administrative_language_alpha2": "fa",
             "administrative_language_alpha3": "fas",
             "local_short_name": "Jomhūrī-ye Eslāmī-ye Īrān"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of subdivision code from IR-01 to IR-03, IR-02 to IR-04, IR-03 to IR-24, IR-04 to IR-10, IR-05 to IR-16, IR-06 to IR-18, IR-07 to IR-23, IR-08 to IR-14, IR-10 to IR-06, IR-11 to IR-19, IR-12 to IR-20, IR-13 to IR-11, IR-14 to IR-07, IR-15 to IR-08, IR-16 to IR-12, IR-17 to IR-05, IR-18 to IR-17, IR-19 to IR-01, IR-20 to IR-15, IR-21 to IR-02, IR-22 to IR-00, IR-23 to IR-22, IR-24 to IR-13, IR-25 to IR-21, IR-26 to IR-25, IR-28 to IR-26, IR-30 to IR-09, IR-31 to IR-28, IR-32 to IR-30 ; Update Code Source",
+            "short_description_fr": "Modification du code de subdivision remplacer IR-01 par IR-03, IR-02 par IR-04, IR-03 par IR-24, IR-04 par IR-10, IR-05 par IR-16, IR-06 par IR-18, IR-07 par IR-23, IR-08 par IR-14, IR-10 par IR-06, IR-11 par IR-19, IR-12 par IR-20, IR-13 par IR-11, IR-14 par IR-07, IR-15 par IR-08, IR-16 par IR-12, IR-17 par IR-05, IR-18 par IR-17, IR-19 par IR-01, IR-20 par IR-15, IR-21 par IR-02, IR-22 par IR-00, IR-23 par IR-22, IR-24 par IR-13, IR-25 par IR-21, IR-26 par IR-25, IR-28 par IR-26, IR-30 par IR-09, IR-31 par IR-28, IR-32 par IR-30; Mise à jour du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision name for IR-08, IR-18, IR-29, IR-30, IR-31; update List Source",
+            "short_description_fr": "Modification du nom des subdivisions IR-08, IR-18, IR-29, IR-30, IR-31; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name upper and lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en majuscules et minuscules avec UNTERM"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Add 1 province IR-32; update List Source",
+            "short_description_fr": "Ajout d'une province IR-32; mise à jour de la Liste Source"
         }
     ]
 }

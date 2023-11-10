@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,23 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "pap",
             "local_short_name": "Aruba"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of the alpha 3 administrative language code pap",
+            "short_description_fr": "Ajout du codet alpha 3 de la langue administrative pap"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of code to align ISO 3166-1 and ISO 3166-2.",
+            "short_description_fr": "Ajout, par cohérence de l'ISO 3166-1 et de l'ISO 3166-2."
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Galápagos Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 24,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "provincia (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -232,6 +242,18 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Ecuador (el)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of EC-S, EC-Z; update List Source",
+            "short_description_fr": "Modification de l'orthographe de EC-S, EC-Z; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

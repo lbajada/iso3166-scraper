@@ -9,6 +9,40 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "viloyat (tg)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "viloyati mukhtor (tg)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital territory (en)",
+                "territoire de la capitale (fr)",
+                "viloyati poytakht (tg)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "districts under republic administration (en)",
+                "Districts sous l'administration de la République (fr)",
+                "nohiyahoi tobei jumhurí (tg)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "capital territory",
@@ -61,6 +95,38 @@
             "administrative_language_alpha2": "tg",
             "administrative_language_alpha3": "tgk",
             "local_short_name": "Tojikiston"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of subdivision name of TJ-RA; change of spelling of category name in eng, tgk; update List Source; modification of the English remark part 2",
+            "short_description_fr": "Modification du nom de la subdivision de TJ-RA; modification de l'orthographe du nom de catégorie en eng, tgk; mise à jour de la Liste Source; modification de la remarque, partie 2 en anglais"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Modification of the remark part 2; addition of category name Districts Under Republic Administration in eng, fra, tgk; addition of Districts Under Republic Administration TJ-RA; update list source",
+            "short_description_fr": "Modification de la remarque, partie 2; ajout du nom de catégorie Districts sous l'administration de la République en eng, fra, tgk; ajout de Districts sous l'administration de la République TJ-RA; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-02-12",
+            "short_description_en": "Removed the reference to Dushanbe in remark part 2; correct spelling of DU",
+            "short_description_fr": "Suppression de la référence de Dushanbe dans la remarque, partie 2; correction de l'orthographe de DU"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add 1 capital territory TJ-DU",
+            "short_description_fr": "Ajout d'un territoire de la capitale TJ-DU"
         }
     ]
 }

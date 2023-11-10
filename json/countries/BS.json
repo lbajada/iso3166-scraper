@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 31,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "island (en)",
+                "île (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -304,6 +320,23 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Bahamas (the)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Addition of island BS-NP; Addition of Remark; Update List Source",
+            "short_description_fr": "Ajout de l’île BS-NP; Ajout de remarque; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Correction of NL II-2 for toponyms and typographical errors, one deletion and source list update.",
+            "short_description_fr": "Reprise de la NL II-2 concernant le libellé de toponymes, une suppression, une correction typo et mise à jour de la liste source."
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

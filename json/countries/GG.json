@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": "Alderney Island  , Brecqhou Island , Burhou Island, Sark Island , Herm Island, Jethou Island, Lihou Island, Little Sark Island",
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Guernesey"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2009-03-03",
+            "short_description_en": "Typographical correction",
+            "short_description_fr": "Correction typographique"
+        },
+        {
+            "date": "2008-09-09",
+            "short_description_en": "Addition of remark and administrative language French (fr, fra); Addition of the islands mentioned in the Remarks column (Column 7)",
+            "short_description_fr": "Adjonction sous remarque et langue administrative français (fr, fra); Adjonction des îles indiquées dans la colonne Remarques (Colonne 7)"
         }
     ]
 }

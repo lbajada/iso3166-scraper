@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "depatman (ht)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -201,6 +211,18 @@
             "administrative_language_alpha2": "ht",
             "administrative_language_alpha3": "hat",
             "local_short_name": "Ayiti"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling of HT-GA; update List Source",
+            "short_description_fr": "Modification de l'orthographe de HT-GA; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Language adjustment.",
+            "short_description_fr": "Ajustement linguistique."
         }
     ]
 }

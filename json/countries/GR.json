@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "Mount Athos autonomous area",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "self-governed part (en)",
+                "partie auto-gouvernée (fr)",
+                "aftonomi monastiki politeia (el)"
+            ]
+        },
+        {
+            "category_count": 13,
+            "category_locales": [
+                "administrative region (en)",
+                "région administrative (fr)",
+                "periféreia (el)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "administrative region",
@@ -142,6 +160,48 @@
             "administrative_language_alpha2": "el",
             "administrative_language_alpha3": "ell",
             "local_short_name": "Elláda"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2020-03-02",
+            "short_description_en": "Typographical correction of subdivision name of GR-J",
+            "short_description_fr": "Correction typographique du nom de la subdivision de GR-J"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Grammar corrrection of GR-J, GR-K, GR-L",
+            "short_description_fr": "Correction grammaticale de GR-J, GR-K, GR-L"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of GR-M; deletion of subdivision category department; deletion of departments GR-01, GR-11, GR-12, GR-31, GR-A1, GR-64, GR-94, GR-85, GR-81, GR-52,GR-71, GR-05, GR-04, GR-63, GR-07, GR-06, GR-51, GR-14, GR-53, GR-33, GR-91, GR-41, GR-56, GR-55, GR-23, GR-22, GR-57, GR-15, GR-58, GR-82, GR-16, GR-42, GR-92, GR-24, GR-83, GR-43, R-7, GR-59, GR-61, GR-34, GR-93, GR-73, GR-84, GR-62, GR-32, GR-54, GR-44, GR-03, GR-72, GR-21; update list source",
+            "short_description_fr": "Modification de l'orthographe de GR-M; suppression de la catégorie de subdivision département; suppression des départements GR-01, GR-11, GR-12, GR-31, GR-A1, GR-64, GR-94, GR-85, GR-81, GR-52,GR-71, GR-05, GR-04, GR-63, GR-07, GR-06, GR-51, GR-14, GR-53, GR-33, GR-91, GR-41, GR-56, GR-55, GR-23, GR-22, GR-57, GR-15, GR-58, GR-82, GR-16, GR-42, R-92, GR-24, GR-83, GR-43, GR-17, GR-59, GR-61, GR-34, GR-93, GR-73, GR-84, GR-62, GR-32, GR-54, GR-44, GR-03, GR-72, GR-21; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of the local short name",
+            "short_description_fr": "Modification de la forme courte locale"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Correct spelling of GR-01, GR-81, GR-23, GR-93, GR-69; correct diacritic marks; update List Source",
+            "short_description_fr": "Correction de l'orthographe de GR-01, GR-81, GR-23, GR-93, GR-69; correction des signes diacritiques; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, reallocation of 3166-2 alpha-2 codes to avoid duplication, addition of names in administrative languages",
+            "short_description_fr": "Ajout du préfixe et ajustement du codage au premier niveau, ajout de noms génériques en grec (el)."
         }
     ]
 }

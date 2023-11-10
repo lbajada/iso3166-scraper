@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 64,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "zila (bn)"
+            ]
+        },
+        {
+            "category_count": 8,
+            "category_locales": [
+                "division (en)",
+                "division (fr)",
+                "bibhag (bn)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -664,6 +682,33 @@
             "administrative_language_alpha2": "bn",
             "administrative_language_alpha3": "ben",
             "local_short_name": "Bāṁlādesh"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of spelling of BD-03, BD-06, BD-08, BD-10, BD-22, BD-A, BD-B; Addition of local variation for BD-10, BD-B; Correction of the Code Source",
+            "short_description_fr": "Modification de l'orthographe de BD-03, BD-06, BD-08, BD-10, BD-22, BD-A, BD-B; Ajout d’une variation locale pour BD-10, BD-B; Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of BD-24, BD-25, BD-29, BD-45; change of parent subdivision of BD-21, BD-34, BD-41, BD-55, BD-57; addition of parent subdivision BD-H; addition of an asterisk to divisions; update list source",
+            "short_description_fr": "Modification de l'orthographe de BD-24, BD-25, BD-29, BD-45; modification de la subdivision-mère de BD-21, BD-34, BD-41, BD-55, BD-57; ajout de la subdivision-mère BD-H; ajout d’un astérisque aux divisions; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Correct local short name and align with ISO 3166-2",
+            "short_description_fr": "Corriger la forme courte du nom local et aligner avec l'ISO 3166-2"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Country name romanization adjustment, first level prefix addition, deletion of generic terms, addition of administrative division and source list update.",
+            "short_description_fr": "Ajustement de la romanisation du nom du pays, ajout du préfixe au premier niveau, suppression de termes génériques, ajout d’une division administrative et mise à jour de la liste source."
         }
     ]
 }

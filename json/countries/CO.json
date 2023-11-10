@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "Malpelo Island, San Andrés y Providencia Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 32,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital district (en)",
+                "district de la capitale (fr)",
+                "distrito capital (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -313,6 +331,13 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Colombia"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of local variation of CO-DC, CO-SAP, CO-VAC; update list source",
+            "short_description_fr": "Ajout d’une variation locale pour CO-DC, CO-SAP, CO-VAC; mise à jour de la Liste Source"
         }
     ]
 }

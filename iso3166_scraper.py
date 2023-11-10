@@ -1,5 +1,8 @@
 import os
+from typing import List, Type
+
 from selenium.webdriver.chrome.webdriver import WebDriver
+from selenium.webdriver.remote.webelement import WebElement
 
 import json
 from selenium import webdriver
@@ -11,12 +14,13 @@ from selenium.webdriver.common.by import By
 
 class Country(dict):
     def __init__(self, alpha2_code, short_name, short_name_lower_case, full_name, alpha3_code, numeric_code, remarks,
-                 independent, territory_name, status, subdivision_count, subdivisions, additional_information):
+                 independent, territory_name, status, subdivision_categories, subdivisions, additional_information,
+                 change_history):
         dict.__init__(self, alpha2_code=alpha2_code, short_name=short_name, short_name_lower_case=short_name_lower_case,
                       full_name=full_name, alpha3_code=alpha3_code, numeric_code=numeric_code, remarks=remarks,
                       independent=independent, territory_name=territory_name, status=status,
-                      subdivision_count=subdivision_count, subdivisions=subdivisions,
-                      additional_information=additional_information)
+                      subdivision_categories=subdivision_categories, subdivisions=subdivisions,
+                      additional_information=additional_information, change_history=change_history)
         self.alpha2_code = alpha2_code
         self.short_name = short_name
         self.short_name_lower_case = short_name_lower_case
@@ -27,9 +31,10 @@ class Country(dict):
         self.independent = independent
         self.territory_name = territory_name
         self.status = status
-        self.subdivision_count = subdivision_count
+        self.subdivision_categories = subdivision_categories
         self.subdivisions = subdivisions
         self.additional_information = additional_information
+        self.change_history = change_history
 
 
 class AdditionalInformation(dict):
@@ -55,6 +60,22 @@ class Subdivision(dict):
         self.language_code = language_code
         self.romanization_system = romanization_system
         self.parent_subdivision = parent_subdivision
+
+
+class SubdivisionCategory(dict):
+    def __init__(self, category_count: int, category_locales: list[str]):
+        dict.__init__(self, category_count=category_count, category_locales=category_locales)
+        self.category_count = category_count
+        self.category_locales = category_locales
+
+
+class ChangeHistory(dict):
+    def __init__(self, date: str, short_description_en, short_description_fr):
+        dict.__init__(self, date=date, short_description_en=short_description_en,
+                      short_description_fr=short_description_fr)
+        self.date = date
+        self.short_description_en = short_description_en
+        self.short_description_fr = short_description_fr
 
 
 def get_chrome_driver() -> WebDriver:
@@ -117,6 +138,65 @@ def get_additional_information() -> list[AdditionalInformation]:
     return additional_information
 
 
+def get_subdivision_categories() -> list[SubdivisionCategory]:
+    subdivision_categories: list[SubdivisionCategory] = []
+
+    subdivision_categories_html = driver.find_elements(By.CSS_SELECTOR, "p")
+    for category_html in subdivision_categories_html:
+        if category_html.find_elements(By.CLASS_NAME, "category-count"):
+            category_count = int(category_html.find_element(By.CLASS_NAME, "category-count").text)
+
+            category_locales: list[str] = []
+            for category_locale_html in category_html.find_elements(By.CLASS_NAME, "category-locales"):
+                category_locales.append(category_locale_html.text)
+
+            subdivision_categories.append(SubdivisionCategory(category_count=category_count,
+                                                              category_locales=category_locales))
+
+    return subdivision_categories
+
+
+def get_change_history() -> list[ChangeHistory]:
+    change_history: list[ChangeHistory] = []
+
+    date_position = short_description_en_position = short_description_fr_position = None
+
+    change_history_div = None
+
+    for element in (driver.find_element(By.CLASS_NAME, "code-view-container").find_elements(By.CSS_SELECTOR, "div")):
+        if element.find_elements(By.CSS_SELECTOR, "h3"):
+            if element.find_element(By.CSS_SELECTOR, "h3").text == "Change history of country code":
+                change_history_div = element
+                break
+
+    if change_history_div is not None:
+        change_history_table_headers = (change_history_div.find_element(By.CSS_SELECTOR, "thead")
+                                        .find_elements(By.CSS_SELECTOR, "th"))
+
+        i = 0
+        for header in change_history_table_headers:
+            match header.text:
+                case "Effective date of change":
+                    date_position = i
+                case "Short description of change (en)":
+                    short_description_en_position = i
+                case "Short description of change (fr)":
+                    short_description_fr_position = i
+            i += 1
+
+        change_history_table = (change_history_div.find_element(By.CSS_SELECTOR, "tbody")
+                                .find_elements(By.CSS_SELECTOR, "tr"))
+
+        for row in change_history_table:
+            data = row.find_elements(By.CSS_SELECTOR, "td")
+            change_history.append(
+                ChangeHistory(date=data[date_position].text,
+                              short_description_en=data[short_description_en_position].text,
+                              short_description_fr=data[short_description_fr_position].text))
+
+    return change_history
+
+
 def get_subdivisions() -> list[Subdivision]:
     category_position = code_position = name_position = local_variant_position = language_code_position = \
         romanization_system_position = parent_subdivision_position = None
@@ -170,11 +250,7 @@ def get_countries() -> list[Country]:
         driver.get(country_url)
         driver.refresh()
 
-        (WebDriverWait(driver, 10).until(presence_of_element_located((By.ID, "subdivision"))))
-
-        subdivision_count = 0
-        if driver.find_elements(By.CLASS_NAME, "category-count"):
-            subdivision_count = int(driver.find_element(By.CLASS_NAME, "category-count").text)
+        (WebDriverWait(driver, 20).until(presence_of_element_located((By.ID, "subdivision"))))
 
         core_view_lines = (driver.find_element(By.CLASS_NAME, "core-view-summary")
                            .find_elements(By.CLASS_NAME, "core-view-line"))
@@ -215,8 +291,8 @@ def get_countries() -> list[Country]:
         country = Country(alpha2_code=alpha2_code, short_name=short_name, short_name_lower_case=short_name_lower_case,
                           full_name=full_name, alpha3_code=alpha3_code, numeric_code=numeric_code, remarks=remarks,
                           independent=independent, territory_name=territory_name, status=status,
-                          subdivision_count=subdivision_count, subdivisions=get_subdivisions(),
-                          additional_information=get_additional_information())
+                          subdivision_categories=get_subdivision_categories(), subdivisions=get_subdivisions(),
+                          additional_information=get_additional_information(), change_history=get_change_history())
         countries.append(country)
 
         country_file = open("./json/countries/" + alpha2_code + ".json", "+w", encoding="utf-8")

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Cosmoledo Islands, Farquhar Islands, Mahé (principal island), Aldabra Islands, Amirante Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 27,
+            "category_locales": [
+                "distrik ()",
+                "district (en)",
+                "district (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -737,6 +747,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Seychelles (les)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Addition of district SC-26, SC-27; Update List Source",
+            "short_description_fr": "Ajout d'un district SC-26, SC-27; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2013-02-06",
+            "short_description_en": "Correct the local language code for the local short name",
+            "short_description_fr": "Corriger le code de langue pour la forme courte locale du nom"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and languages and update of the list source ",
+            "short_description_fr": "Mise à jour résultant des réalités administrative et linguistique. Mise à jour de la liste source."
         }
     ]
 }

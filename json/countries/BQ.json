@@ -9,6 +9,17 @@
     "independent": "No",
     "territory_name": "Bonaire, Saba, Sint Eustatius",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "munisipio spesial ()",
+                "special municipality (en)",
+                "commune speciale (fr)",
+                "bijzondere gemeente (nl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "special municipality",
@@ -107,6 +118,43 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "pap",
             "local_short_name": "Boneiru, Sint Eustatius y Saba"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Typographical correction of subdivision name of BQ-BO in pap (deleted leading space)",
+            "short_description_fr": "Correction typographique du nom de la subdivision de BQ-BO en pap (suppression de l’espace devant le nom)"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change in lower case the local short name",
+            "short_description_fr": "Modification en minuscules de la forme courte locale"
+        },
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Correct local short name and align with ISO 3166-2",
+            "short_description_fr": "Corriger la forme courte du nom local et aligner avec l'ISO 3166-2"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of code to align ISO 3166-1 and ISO 3166-2, addition of two divisions and update of the number of divisions.",
+            "short_description_fr": "Ajout, par cohérence de l'ISO 3166-1 et de l'ISO 3166-2; addition de deux divisions et mise à jour du nombre de divisions."
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Correct the English name to Sint Eustatius in alignment with United Nations Terminology and Reference Section (UNTERM)",
+            "short_description_fr": "Corriger le nom en anglais Sint Eustatius pour l'aligner avec UNTERM"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Correct the English name to Sint Eustatius in alignment with United Nations Terminology and Reference Section (UNTERM)",
+            "short_description_fr": "Corriger le nom en anglais Sint Eustatius pour l'aligner avec UNTERM"
+        },
+        {
+            "date": "2010-12-15",
+            "short_description_en": "Add new entry",
+            "short_description_fr": "Ajouter une nouvelle entrée"
         }
     ]
 }

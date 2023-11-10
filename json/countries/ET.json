@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 11,
+            "category_locales": [
+                "regional state (en)",
+                "État régional (fr)",
+                "kilil (am)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "administration (en)",
+                "administration (fr)",
+                "āstedader (am)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "administration",
@@ -250,6 +268,38 @@
             "administrative_language_alpha2": "am",
             "administrative_language_alpha3": "amh",
             "local_short_name": "Ītyop'iya"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Addition of regional state ET-SW; Update List Source",
+            "short_description_fr": "Ajout d'un État régional ET-SW; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Addition of regional state ET-SI; Update List Source",
+            "short_description_fr": "Ajout d'un État régional ET-SI; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2019-04-09",
+            "short_description_en": "Change of eng subdivision category from state to regional state; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision en anglais remplacer state par regional state; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of the romanization system for subdivisions in eng; update List Source",
+            "short_description_fr": "Suppression du système de romanisation des subdivisions en eng; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

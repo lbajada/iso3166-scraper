@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous province (en)",
+                "province autonome (fr)",
+                "autonomna pokrajina (sr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "grad (sr)"
+            ]
+        },
+        {
+            "category_count": 29,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "okrug (sr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "city",
@@ -304,6 +330,28 @@
             "administrative_language_alpha2": "sr",
             "administrative_language_alpha3": "srp",
             "local_short_name": "Srbija"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Addition of an asterisk to RS-KM, RS-VO; Correction of the Code Source",
+            "short_description_fr": "Ajout d’un astérisque à RS-KM, RS-VO; Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, administrative update",
+            "short_description_fr": "Ajout du préfixe au premier niveau et mise à jour résultant des réalités administratives et linguistiques"
         }
     ]
 }

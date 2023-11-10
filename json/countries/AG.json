@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": "Redonda Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "dependency (en)",
+                "dépendance (fr)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "parish (en)",
+                "paroisse (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "dependency",
@@ -88,6 +104,18 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Antigua and Barbuda"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Change spelling of AG-04",
+            "short_description_fr": "Modification de l'orthographe d'AG-04"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et de la mise à jour de la liste source."
         }
     ]
 }

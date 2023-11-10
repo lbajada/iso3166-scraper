@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 31,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "mkoa (sw)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -363,6 +373,23 @@
             "administrative_language_alpha2": "sw",
             "administrative_language_alpha3": "swa",
             "local_short_name": "Jamhuri ya Muungano wa Tanzania"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the English and French short name lower case",
+            "short_description_fr": "Modification de la forme courte anglaise et française en minuscules"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Addition of region TZ-31; Update List Source",
+            "short_description_fr": "Ajout de la région TZ-31; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add 4 regions TZ-27 to TZ-30; update List Source",
+            "short_description_fr": "Ajout de 4 régions TZ-27 à TZ-30; mise à jour de la Liste Source"
         }
     ]
 }

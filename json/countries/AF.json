@@ -9,6 +9,17 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 34,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "wilāyat (fa)",
+                "wilāyat (ps)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -633,6 +644,28 @@
             "administrative_language_alpha2": "ps",
             "administrative_language_alpha3": "pus",
             "local_short_name": "Afghānistān"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Correction of the local short name; change romanization system; change of spelling of categories of pus and fas; change of spelling of AF-KNR; update List Source",
+            "short_description_fr": "Correction de la forme courte locale; modification du système de romanisation; modification de l'orthographe des catégories de pus and fas; modification de l'orthographe de AF-KNR; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Language corrections; administrative name corrections, alphabetical re-ordering and source list update.",
+            "short_description_fr": "Corrections linguistiques; reprise du nom administratif, mise en ordre alphabétique et mise à jour de la liste source."
         }
     ]
 }

@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": "Savai'i, Upolu",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 11,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -219,6 +228,23 @@
             "administrative_language_alpha2": "sm",
             "administrative_language_alpha3": "smo",
             "local_short_name": "Samoa"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

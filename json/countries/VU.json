@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": "Efate, Santo",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 6,
+            "category_locales": [
+                "province (en)",
+                "province (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -135,5 +144,6 @@
             "administrative_language_alpha3": "fra",
             "local_short_name": "Vanuatu (le)"
         }
-    ]
+    ],
+    "change_history": []
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 14,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distric (na)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -273,6 +283,23 @@
             "administrative_language_alpha2": "na",
             "administrative_language_alpha3": "nau",
             "local_short_name": "Naoero"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of subdivision name of NR-05; addition of local variation of NR-05, update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de NR-05; ajout d’une variation locale pour NR-05, mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Local generic administrative term addition.",
+            "short_description_fr": "Ajout du terme générique administratif local."
         }
     ]
 }

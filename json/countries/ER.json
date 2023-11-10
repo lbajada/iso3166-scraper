@@ -9,6 +9,17 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 6,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "minţaqah (ar)",
+                "zoba (ti)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -134,6 +145,38 @@
             "administrative_language_alpha2": "ti",
             "administrative_language_alpha3": "tir",
             "local_short_name": "Iertra"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Add romanization system for Arabic; change of subdivision category name in Arabic from iqlīm to minţaqah; update List Source",
+            "short_description_fr": "Ajout du système de romanisation de l’arabe; changement du nom de la catégorie de subdivision en arabe, remplacer iqlīm par minţaqah; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2012-08-02",
+            "short_description_en": "Change the full name",
+            "short_description_fr": "Changer la forme longue du nom"
+        },
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Correct local short name and align with ISO 3166-2",
+            "short_description_fr": "Corriger la forme courte du nom local et aligner avec l'ISO 3166-2"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Country name romanization adjustment, language adjustment, alphabetical re-ordering and source list update.",
+            "short_description_fr": "Ajustement de la romanisation du nom du pays, ajustement linguistique, remise en ordre alphabétique et mise à jour de la liste source."
         }
     ]
 }

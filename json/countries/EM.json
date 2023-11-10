@@ -9,6 +9,8 @@
     "independent": null,
     "territory_name": null,
     "status": "Indeterminately reserved",
+    "subdivision_categories": [],
     "subdivisions": [],
-    "additional_information": []
+    "additional_information": [],
+    "change_history": []
 }

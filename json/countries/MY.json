@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "Peninsular Malaysia, Sabah, Sarawak",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "federal territory (en)",
+                "territoire fédéral (fr)",
+                "wilayah persekutuan (ms)"
+            ]
+        },
+        {
+            "category_count": 13,
+            "category_locales": [
+                "state (en)",
+                "État (fr)",
+                "negeri (ms)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -161,5 +179,6 @@
             "administrative_language_alpha3": "msa",
             "local_short_name": "Malaysia"
         }
-    ]
+    ],
+    "change_history": []
 }

@@ -9,6 +9,31 @@
     "independent": "Yes",
     "territory_name": "Bismarck Archipelago, Bougainville (principal island), Solomon Islands, Northern",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "distrik ()",
+                "district (en)",
+                "district (fr)"
+            ]
+        },
+        {
+            "category_count": 20,
+            "category_locales": [
+                "provins ()",
+                "province (en)",
+                "province (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "autonomous region",
@@ -224,6 +249,28 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "tpi",
             "local_short_name": "Papuaniugini"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add two provinces PG-HLA and PG-JWK; change subdivision name of PG-SAN; update List Source",
+            "short_description_fr": "Ajout de 2 provinces PG-HLA et PG-JWK; modification du nom de la subdivision PG-SAN; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-03-03",
+            "short_description_en": "Add \"the\" before the English full name",
+            "short_description_fr": "Ajouter \"the\" devant la forme longue anglaise"
+        },
+        {
+            "date": "2013-05-10",
+            "short_description_en": "UN notification of full name",
+            "short_description_fr": "Notification de l'ONU changement de la forme longue du nom"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative readjustment, local generic administrative term addition and source list and source code update.",
+            "short_description_fr": "Réajustement administratif, ajout des termes génériques administratifs locaux et mise à jour de la liste source et du code source."
         }
     ]
 }

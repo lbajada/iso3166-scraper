@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "misto (uk)"
+            ]
+        },
+        {
+            "category_count": 24,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "oblast' (uk)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "republic (en)",
+                "république (fr)",
+                "respublika (uk)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "republic",
@@ -259,6 +285,18 @@
             "administrative_language_alpha2": "uk",
             "administrative_language_alpha3": "ukr",
             "local_short_name": "Ukraina"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update subdivision name of UA-43; update List Source",
+            "short_description_fr": "mise à jour du nom de la subdivision UA-43; mise à jour de la Liste Source"
         }
     ]
 }

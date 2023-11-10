@@ -9,6 +9,40 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "county (en)",
+                "région (fr)",
+                "apskritis (lt)"
+            ]
+        },
+        {
+            "category_count": 7,
+            "category_locales": [
+                "city municipality (en)",
+                "municipalité de la ville (fr)",
+                "miesto savivaldybė (lt)"
+            ]
+        },
+        {
+            "category_count": 44,
+            "category_locales": [
+                "district municipality (en)",
+                "municipalité du district (fr)",
+                "rajono savivaldybė (lt)"
+            ]
+        },
+        {
+            "category_count": 9,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "savivaldybė (lt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district municipality",
@@ -646,6 +680,18 @@
             "administrative_language_alpha2": "lt",
             "administrative_language_alpha3": "lit",
             "local_short_name": "Lietuva"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Change of spelling of LT-05, LT-14, LT-39; Assign parent subdivision to LT-01 through LT-60; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de LT-05, LT-14, LT-39; Attribution de la subdivision-mère de LT-01 à LT-60; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-31",
+            "short_description_en": "Add of 7 city municipality, 44 district municipality and 9 municipality",
+            "short_description_fr": "Ajout de 7 municipalité de la ville, 44 municipalité du district et 9 municipalité"
         }
     ]
 }

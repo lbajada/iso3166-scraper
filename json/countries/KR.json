@@ -9,6 +9,48 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special city (en)",
+                "ville spéciale (fr)",
+                "teukbyeolsi (ko)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "metropolitan city (en)",
+                "ville métropolitaine (fr)",
+                "gwangyeoksi (ko)"
+            ]
+        },
+        {
+            "category_count": 8,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "do (ko)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special self-governing province (en)",
+                "province autonome spéciale (fr)",
+                "teukbyeoljachido (ko)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special self-governing city (en)",
+                "ville autonome spéciale (fr)",
+                "teukbyeoljachisi (ko)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "metropolitan city",
@@ -169,6 +211,23 @@
             "administrative_language_alpha2": "ko",
             "administrative_language_alpha3": "kor",
             "local_short_name": "Hanguk"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Deletion of the romanization systems \"ISO/TR 11941\" and \"Ministry of Home Affairs, Republic of Korea 1984\"; move the short or contracted forms of subdivision names to local variation; deletion of the remark part 2",
+            "short_description_fr": "Suppression des systèmes de romanisation \"ISO/TR 11941\" et \"Ministry of Home Affairs, Republic of Korea 1984\"; déplacement des formes courtes ou contractées des noms de subdivisions comme variation locale; suppression de la remarque, partie 2"
+        },
+        {
+            "date": "2014-10-31",
+            "short_description_en": "Change to national romanization system and add short forms in brackets; add one special self-governing city; update List Source",
+            "short_description_fr": "Modification du système de romanisation et ajout de la forme courte entre parenthèses; ajout d'une spéciale ville autonome; mise à jour de la Liste Source"
         }
     ]
 }

@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 4,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -93,6 +102,18 @@
             "administrative_language_alpha2": "ss",
             "administrative_language_alpha3": "ssw",
             "local_short_name": "eSwatini"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of subdivision category from district to region; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer district par région; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2018-07-16",
+            "short_description_en": "Change of the short name, full name and local short name in eng",
+            "short_description_fr": "Modification de la forme courte et longue ainsi que de de la forme courte locale en eng"
         }
     ]
 }

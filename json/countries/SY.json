@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 14,
+            "category_locales": [
+                "province (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -142,6 +152,28 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Al Jumhūrīyah al ‘Arabīyah as Sūrīyah"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the English short name lower case",
+            "short_description_fr": "Modification de la forme courte anglaise en minuscules"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en minuscules avec UNTERM"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

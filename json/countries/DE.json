@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "Land (en)",
+                "land (fr)",
+                "Land (de)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "Land",
@@ -160,6 +170,28 @@
             "administrative_language_alpha2": "de",
             "administrative_language_alpha3": "deu",
             "local_short_name": "Deutschland"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of category name in eng",
+            "short_description_fr": "Modification de l'orthographe du nom de catégorie en eng"
+        },
+        {
+            "date": "2013-07-02",
+            "short_description_en": "Reinstate the remarks in Column 7 concerning the use of the code 280 which is transitionally reserved until 2040-10.",
+            "short_description_fr": "Rajouter les remarques dans la colonne 7 concernant l'utilisation du 280 est reservé provisiorement jusqu'au 2040-10."
+        },
+        {
+            "date": "2012-08-02",
+            "short_description_en": "Reinstate the remarks in Column 7 concerning the use of the code 280 provisionally until 2013-11-03",
+            "short_description_fr": "Rajouter les remarques dans la colonne 7 concernant l'utilisation du codet 280 provisoirement jusqu'à 2013-11-03."
+        },
+        {
+            "date": "2012-02-15",
+            "short_description_en": "Delete the remarks in Column 7 concerning the use of the code 280",
+            "short_description_fr": "Supprimer les remarques dans la colonne 7 concernant l'utilisation du codet 280."
         }
     ]
 }

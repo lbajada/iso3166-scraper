@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 17,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital (en)",
+                "capitale (fr)",
+                "capital (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -184,5 +202,6 @@
             "administrative_language_alpha3": "spa",
             "local_short_name": "Paraguay (el)"
         }
-    ]
+    ],
+    "change_history": []
 }

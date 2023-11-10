@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 23,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "wilāyah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -435,6 +445,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Tchad (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of subdivision category region to province; Modification of spelling for TD-BA, TD-LO, TD-LR, TD-TA, TD-WF in ara; Addition of local variation for TD-BG in fra; Addition of subdivision name of TD-EE, TD-EO in ara; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer région par province; Modification de l'orthographe de TD-BA, TD-LO, TD-LR, TD-TA, TD-WF en ara; Ajout d’une variation locale pour TD-BG en fra; Ajout du nom de la subdivision de TD-EE, TD-EO en ara; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add two regions TD-EE and TD-EO; correct spelling of TD-BA; delete TD-EN; update List Source",
+            "short_description_fr": "Ajout de 2 régions TD-EE et TD-EO; modification de l'orthographe de TD-BA; suppression de TD-EN; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and languages and update of the list source ",
+            "short_description_fr": "Mise à jour résultant des réalités administrative et linguistique. Mise à jour de la liste source."
         }
     ]
 }

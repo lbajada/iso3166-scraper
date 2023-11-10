@@ -9,6 +9,23 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 19,
+            "category_locales": [
+                "administrative atoll (en)",
+                "atoll administratif (fr)",
+                "atholhu (dv)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "city",
@@ -394,6 +411,28 @@
             "administrative_language_alpha2": "dv",
             "administrative_language_alpha3": "div",
             "local_short_name": "Dhivehi Raajje"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of spelling in div of MV-00, MV-02, MV-04, MV-14, MV-17, MV-26, MV-27, MV-28; Change of spelling in eng of MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Addition of local variation of MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Change of category name from capital to city for MV-MLE; Change of category name from administrative atoll to city for MV-01; Removal of parent subdivision of MV-MLE, MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Deletion of provinces MV-CE, MV-NC, MV-NO, MV-SC, MV-SU, MV-UN and. MV-US; Update List Source",
+            "short_description_fr": "Modification de l'orthographe en div de MV-00, MV-02, MV-04, MV-14, MV-17, MV-26, MV-27, MV-28; Modification de l'orthographe en eng de MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Ajout d’une variation locale pour MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Modification du nom de catégorie remplacer capitale par ville pour MV-MLE; Modification du nom de catégorie remplacer atoll administrative par ville pour MV-01; Suppression de la subdivision-mère de MV-MLE, MV-00, MV-01, MV-02, MV-03, MV-04, MV-05, MV-07, MV-08, MV-12, MV-13, MV-14, MV-17, MV-20, MV-23, MV-24, MV-25, MV-26, MV-27, MV-28, MV-29; Suppression des provinces MV-CE, MV-NC, MV-NO, MV-SC, MV-SU, MV-UN and. MV-US; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of MV-05",
+            "short_description_fr": "Modification de l'orthographe de MV-05"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative re-organization, addition of local generic administrative terms, language adjustment and source list update.",
+            "short_description_fr": "Réorganisation administrative, ajout des termes génériques administratifs locaux, ajustement linguistique et mise à jour de la liste source et du code source."
         }
     ]
 }

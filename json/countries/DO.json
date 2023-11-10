@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 31,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "provincia (es)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distrito (es)"
+            ]
+        },
+        {
+            "category_count": 10,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "región (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -394,6 +420,28 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "República Dominicana (la)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of subdivision name of DO-07; update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de DO-07; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Assign parent subdivision to DO-01",
+            "short_description_fr": "Attribution de la subdivision-mère DO-01"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Add región (region) as top-level of subdivisions; add 10 regions DO-33 to DO-42; change subdivision name of DO-03, DO-08 and DO-19; update List Source",
+            "short_description_fr": "Ajout de región (région) comme top-level des subdivisions; ajout de 10 régions DO-33 à DO-42; modification des noms des subdivisions DO-03, DO-08 et DO-19; mise à jour de la Liste Source"
         }
     ]
 }

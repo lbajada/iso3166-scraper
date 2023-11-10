@@ -9,6 +9,40 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 32,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "raion (ro)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous territorial unit (en)",
+                "unité territoriale autonome (fr)",
+                "unitatea teritorială autonomă (ro)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "territorial unit (en)",
+                "unité territoriale (fr)",
+                "unitatea teritorială (ro)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "municipiu (ro)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -349,6 +383,48 @@
             "administrative_language_alpha2": "ro",
             "administrative_language_alpha3": "ron",
             "local_short_name": "Republica Moldova"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the French short name lower case",
+            "short_description_fr": "Modification de la forme courte française en minuscules"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-08-04",
+            "short_description_en": "Correction of the administrative language codes from mo, mol to ro, ron",
+            "short_description_fr": "Correction des codets de la langue administrative remplacer mo, mol par ro, ron"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change subdivision name of MD-BD",
+            "short_description_fr": "Modification du nom de la subdivision MD-BD"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Consistency between ISO 3166-1 and ISO 3166-2, addition of names in administrative languages, and update of the administrative structure and of the list source",
+            "short_description_fr": "Cohérence de la partie 1 et de la partie 2, mise à jour résultant de la réalité du découpage administratif et modification du codet ISO de la langue. Mise à jour de la liste source."
+        },
+        {
+            "date": "2009-01-07",
+            "short_description_en": "Change of short name",
+            "short_description_fr": "Modification de la forme courte"
+        },
+        {
+            "date": "2008-09-09",
+            "short_description_en": "Correction of administrative language from Romanian (ro, ron) to Moldavian (mo, mol)",
+            "short_description_fr": "Correction de la langue administrative remplacer roumain (ro, ron) par moldave (mo, mol)"
+        },
+        {
+            "date": "2008-04-08",
+            "short_description_en": "Change of short name",
+            "short_description_fr": "Changement de nom, forme courte"
         }
     ]
 }

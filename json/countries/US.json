@@ -9,6 +9,29 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "district (en)",
+                "district fédéral (fr)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "outlying area (en)",
+                "zone éloignée (fr)"
+            ]
+        },
+        {
+            "category_count": 50,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -529,6 +552,23 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "United States of America (the)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte anglaise et française en majuscules et minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

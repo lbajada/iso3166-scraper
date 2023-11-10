@@ -9,6 +9,78 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 95,
+            "category_locales": [
+                "metropolitan department (en)",
+                "département métropolitain (fr)"
+            ]
+        },
+        {
+            "category_count": 12,
+            "category_locales": [
+                "metropolitan region (en)",
+                "région métropolitaine (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "dependency (en)",
+                "dépendance (fr)"
+            ]
+        },
+        {
+            "category_count": 5,
+            "category_locales": [
+                "overseas collectivity (en)",
+                "collectivité d'outre-mer (fr)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "metropolitan collectivity with special status (en)",
+                "collectivité métropolitaine à statut particulier (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "overseas collectivity with special status (en)",
+                "collectivité d’outre-mer à statut particulier (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "overseas territory (en)",
+                "territoire d'outre-mer (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "European collectivity (en)",
+                "collectivité européenne (fr)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "overseas unique territorial collectivity (en)",
+                "collectivité territoriale unique d'outre-mer (fr)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "overseas departmental collectivity (en)",
+                "collectivité départementale d'outre-mer (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "metropolitan department",
@@ -1132,6 +1204,53 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "France (la)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Addition of category European collectivity in eng & fra; Addition of European collectivity FR-6AE; Addition of metropolitan collectivity with special status FR-69M; Change of category name from metropolitan department to metropolitan collectivity with special status for FR-75; Change of subdivision code from FR-75 to FR-75C; Addition of category overseas departemental collectivity in eng & fra; Change of category name from overseas department to overseas departemental collectivity for FR-971, FR-974, FR-976; Addition of category overseas unique territorial collectivity in eng & fra; Change of category name from overseas department to overseas unique territorial collectivity for FR-972, FR-973; Deletion of category name overseas department; Deletion of overseas region FR-GF, FR-GP, FR-MQ, FR-RE, FR-YT; Deletion of category name overseas region; Change of parent subdivision of FR-67, FR-68; Deletion of parent subdivion of FR-971, FR-972, FR-973, FR-974, FR-976; Modification of Remark part 2; Update List Source and Code Source",
+            "short_description_fr": "Ajout de la catégorie Collectivité européenne en eng & fra; Ajout d'une Collectivité européenne FR-6AE; Ajout de la collectivité métropolitaine à statut particulier FR-69M; Modification du nom de catégorie remplacer département métropolitain par collectivité métropolitaine à statut particulier pour FR-75; Modification du code de subdivision remplacer FR-75 par FR-75C; Ajout de la catégorie collectivité départementale d'outre-mer en eng & fra; Modification du nom de catégorie remplacer département d'outre-mer par collectivité départementale d'outre-mer pour FR-971, FR-974, FR-976; Ajout de la catégorie collectivité territoriale unique d'outre-mer en eng & fra; Modification du nom de catégorie remplacer département d'outre-mer par collectivité territoriale unique d'outre-mer pour FR-972, FR-973; Suppression du nom de catégorie département d'outre-mer; Suppression d'une région d'outre-mer FR-GF, FR-GP, FR-MQ, FR-RE, FR-YT; Suppression du nom de catégorie région d'outre-mer; Modification de la subdivision-mère de FR-67, FR-68; Suppression de la subdivision-mère de FR-971, FR-972, FR-973, FR-974, FR-976; Modification de la remarque, partie 2; Mise à jour de la Liste Source et du Code Source"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of category name from collectivity to metropolitan collectivity with special status for FR-COR; Change of category name from overseas department to overseas region for FR-GP, FR-RE, FR-YT; Deletion of parent subdivision of FR-GP, FR-RE, FR-YT; Change of category name from overseas region to overseas department for FR-GUA, FR-LRE, FR-MAY; Change of subdivision code from FR-COR to FR-20R, FR-GUA to FR-971, FR-LRE to FR-974, FR-MAY to FR-976; Assign parent subdivision to FR-971, FR-974, FR-976; Change of parent subdivision of FR-972, FR-973; Change of category name from overseas territorial collectivity to overseas collectivity for FR-BL, FR-MF, FR-PF, FR-PM, FR-WF; Addition of category overseas territory with specific status, overseas territory; Change of category name from overseas territorial collectivity to overseas collectivity with special status for FR-NC; Change of category name from overseas territorial collectivity to overseas territory for FR-TF; Update List Source and Code Source",
+            "short_description_fr": "Modification du nom de catégorie remplacer collectivité par collectivité métropolitaine à statut particulier pour FR-COR; Modification du nom de catégorie remplacer département d'outre-mer par région d'outre-mer pour FR-GP, FR-RE, FR-YT; Modification du nom de catégorie remplacer région d'outre-mer par département d'outre-mer pour FR-GUA, FR-LRE, FR-MAY; Modification du code de subdivision remplacer FR-COR par FR-20R, FR-GUA par FR-971, FR-LRE par FR-974, FR-MAY par FR-976; Attribution de la subdivision-mère à FR-971, FR-974, FR-976; Modification de la subdivision-mère de FR-972, FR-973; Suppression de la subdivision-mère de FR-GP, FR-RE, FR-YT; Modification du nom de catégorie remplacer collectivité territoriale d'outre-mer par collectivité d'outre-mer pour FR-BL, FR-MF, FR-PF, FR-PM, FR-WF; Ajout de la catégorie territoire d'outre-mer à statut spécifique, territoire d'outre-mer; Modification du nom de catégorie remplacer collectivité territoriale d'outre-mer par collectivité d’outre-mer à statut particulier pour FR-NC; Modification du nom de catégorie remplacer collectivité territoriale d'outre-mer par territoire d'outre-mer pour FR-TF; Mise à jour de la Liste Source et du Code Source."
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Addition of category name \"collectivity\" in eng/fra; Change of category name from metropolitan region to collectivity for FR-COR; Update List Source",
+            "short_description_fr": "Ajout du nom de catégorie \"collectivité\" en eng/fra; Modification du nom de catégorie remplacer région métropolitaine par collectivité pour FR-COR ; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-12-07",
+            "short_description_en": "Correction of parent subdivision of FR-02, FR-60, FR-80 from FR-PDL to FR-HDF",
+            "short_description_fr": "Correction de la subdivision-mère de FR-02, FR-60, FR-80 remplacer FR-PDL par FR-HDF"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Correction of the OBP entry error as follows: deletion of Clipperton Island, France, Metropolitan in the name field for Territory",
+            "short_description_fr": "Correction de l’erreur de saisie dans l’OBP comme suit : suppression de l'Île Clipperton, France métropolitaine dans le champ du Nom du territoire l'Île Clipperton, France métropolitaine dans le champ du Nom du territoire"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of the delimitation of the regions, reducing their number from 22 to 13 in metropolitan France, change of parent subdivision of metropolitan departments; addition of overseas regions FR-GUA, FR-LRE, FR-MAY; change of subdivision category from overseas department to overseas territorial collectivity for FR-GR, FR-MQ; update List Source",
+            "short_description_fr": "Modification de la délimitation des régions, diminution de leur nombre de 22 à 13 en France métropolitaine; modification de la subdivision-mère des départements métropolitains; ajout des régions d'outre-mer FR-GUA, FR-LRE, FR-MAY; modification de la catégorie de subdivision remplacer département d'outre-mer par collectivité territoriale d'outre-mer pour R-R, FR-MQ; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "NL II-2 correction for ultramarine administrative organisation change and alphabetical re-ordering.",
+            "short_description_fr": "Reprise de la NL II-2 à propos de l’organisation administrative ultramarine et remise en ordre alphabétique."
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, alphabetical re-ordering",
+            "short_description_fr": "Ajout du préfixe au premier niveau et reprise de l’ordre alphabétique des huit collectivités territoriales d’outre-mer"
+        },
+        {
+            "date": "2007-09-21",
+            "short_description_en": "Add Saint Barthélemy, Saint Martin and the Clipperton Island.",
+            "short_description_fr": "Ajouter Saint-Barthélemy, Saint-Martin et l’Île Clipperton."
         }
     ]
 }

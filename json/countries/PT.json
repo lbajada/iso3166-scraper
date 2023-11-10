@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "região autónoma (pt)"
+            ]
+        },
+        {
+            "category_count": 18,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distrito (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -196,6 +214,18 @@
             "administrative_language_alpha2": "pt",
             "administrative_language_alpha3": "por",
             "local_short_name": "Portugal"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

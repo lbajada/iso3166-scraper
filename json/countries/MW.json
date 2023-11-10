@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "mchigawo (ny)"
+            ]
+        },
+        {
+            "category_count": 28,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "boma (ny)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -579,6 +597,18 @@
             "administrative_language_alpha2": "ny",
             "administrative_language_alpha3": "nya",
             "local_short_name": "Malaŵi"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Addition of the country code prefix as the first code element, addition of names in administrative languages, typographical error correction, update of the administrative structure and of the list source",
+            "short_description_fr": "Ajout des préfixes de premier niveau, rectification d’une erreur typographique et mise à jour résultant des réalités administrative et linguistique. Mise à jour de la liste source."
         }
     ]
 }

@@ -9,6 +9,36 @@
     "independent": "Yes",
     "territory_name": "Tobago *",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "borough (en)",
+                "arrondissement (fr)"
+            ]
+        },
+        {
+            "category_count": 9,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "ward (en)",
+                "circonscription (fr)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "borough",
@@ -151,6 +181,18 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Trinidad and Tobago"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of category name from municipality to borough for TT-ARI, TT-CHA, TT-PTF; Change of subdivision category name from municipality to city for TT-POS, TT-SFO; Update List Source",
+            "short_description_fr": "Modification du nom de catégorie remplacer municipalité par arrondissement pour TT-ARI, TT-CHA, TT-PTF; Modification du nom de catégorie remplacer municipalité par ville pour TT-POS, TT-SFO; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of regions TT-ETO, TT-RCM, TT-WTO; addition of region TT-MRC; addition of one ward TT-TOB; update List Source",
+            "short_description_fr": "Suppression des régions TT-ETO, TT-RCM, TT-WTO; ajout d’une région TT-MRC; ajout d’une circonscription TT-TOB; mise à jour de la Liste Source"
         }
     ]
 }

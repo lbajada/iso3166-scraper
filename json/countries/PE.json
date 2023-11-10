@@ -9,6 +9,28 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 25,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "jach'a suyu (ay)",
+                "región (es)",
+                "suyu (qu)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "hatun llaqta (ay)",
+                "municipalidad (es)",
+                "llaqta suyu (qu)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -728,6 +750,23 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Perú (el)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change Subdivision categories from department and constitutional province to region; update List Source",
+            "short_description_fr": "Modification des catégories de subdivision de département et de province constitutionnelle en région; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant des réalités administrative et linguistique. Mise à jour de la liste source."
         }
     ]
 }

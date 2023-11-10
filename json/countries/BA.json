@@ -9,6 +9,28 @@
     "independent": "Yes",
     "territory_name": "Herzegovina *",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "entity (en)",
+                "entité (fr)",
+                "entitet (bs)",
+                "entitet (hr)",
+                "entitet (sr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "district with special status (en)",
+                "district (fr)",
+                "distrikt (bs)",
+                "distrikt (hr)",
+                "distrikt (sr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district with special status",
@@ -107,6 +129,28 @@
             "administrative_language_alpha2": "sr",
             "administrative_language_alpha3": "srp",
             "local_short_name": "Bosna i Hercegovina"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of all cantons BA-01 to BA-10",
+            "short_description_fr": "Suppression de tous les cantons BA-01 à BA-10"
+        },
+        {
+            "date": "2010-12-15",
+            "short_description_en": "Correct typographic error for the language code for Croatian",
+            "short_description_fr": "Corriger l'erreur typographique dans le code langue pour le croate"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Addition of the country code prefix as the first code element, addition of names in administrative languages, update of the administrative structure and of the list source",
+            "short_description_fr": "Ajout du préfixe au premier niveau, ajustement linguistique, mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

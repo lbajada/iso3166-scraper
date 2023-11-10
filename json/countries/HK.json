@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,18 @@
             "administrative_language_alpha2": "zh",
             "administrative_language_alpha3": "zho",
             "local_short_name": "Xianggang"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
         }
     ]
 }

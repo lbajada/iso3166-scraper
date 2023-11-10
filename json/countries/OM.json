@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "part of the Musandam Peninsula",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 11,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -115,6 +125,18 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "‘Umān"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision category from region to governate for OM-BA, OM-DA, OM-SH, OM-WU, OM-ZA; change of subdivision code from OM-BA to OM-BJ, from OM-SH to OM-SJ; change of spelling of OM-BJ, OM-SJ; addition of governorates OM-BS, OM-SS; addition of local variations of OM-MA, OM-ZU; update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer région par governate pour OM-BA, OM-DA, OM-SH, OM-WU, OM-ZA; modification du code de subdivision remplacer OM-BA par OM-BJ, remplacer OM-SH par OM-SJ; modification de l'orthographe de OM-BJ, OM-SJ; ajout des gouvernorats OM-BS, OM-SS; ajout d’une variation locale pour OM-MA, OM-ZU; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "municipality (en)",
+                "commune (fr)",
+                "kommunia (kl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -66,6 +76,23 @@
             "administrative_language_alpha2": "kl",
             "administrative_language_alpha3": "kal",
             "local_short_name": "Kalaallit Nunaat"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Deletion of municipality GL-QA; Addition of municipality GL-AV, GL-QT; Update List Source",
+            "short_description_fr": "Suppression de la commune GL-QA; Ajout des communes GL-AV, GL-QT; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Addition and update of the administrative structure and of the list and code sources",
+            "short_description_fr": "Ajout de la réalité du découpage administratif."
+        },
+        {
+            "date": "2008-09-09",
+            "short_description_en": "Correction of administrative language from Inuktitut (iu, iku) to Greenlandic or Kalaallit (kl, kal)",
+            "short_description_fr": "Correction de la langue administrative remplacer inuktitut (iu, iku) par groenlandais ou kalaallit (kl, kal)"
         }
     ]
 }

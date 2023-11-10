@@ -9,6 +9,31 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "taing (my)"
+            ]
+        },
+        {
+            "category_count": 7,
+            "category_locales": [
+                "state (en)",
+                "État (fr)",
+                "pyinè (my)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "union territory (en)",
+                "territoire de l'Union (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -151,6 +176,38 @@
             "administrative_language_alpha2": "my",
             "administrative_language_alpha3": "mya",
             "local_short_name": "Myanma"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of MM-07, MM-05; update list source",
+            "short_description_fr": "Modification de l'orthographe de MM-07, MM-05; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change subdivision category divisions to regions; change spellings of MM-05 and MM-07; add one union territory MM-18",
+            "short_description_fr": "Modification de la catégorie de subdivision de divisions en régions; modification de l'orthographe de MM-05 et MM-07; ajout d'un territoire de l'Union MM-18"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of local generic administrative terms, source list update and addition of a comment.",
+            "short_description_fr": "Ajout des termes génériques administratifs locaux, mise à jour de la liste source, ajout de la remarque."
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Official name change of long name",
+            "short_description_fr": "Changement du nom officiel long"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Official name change of long name",
+            "short_description_fr": "Changement du nom officiel long"
         }
     ]
 }

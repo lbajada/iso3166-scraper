@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 41,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "judeţ (ro)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "municipiu (ro)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -394,6 +412,18 @@
             "administrative_language_alpha2": "ro",
             "administrative_language_alpha3": "ron",
             "local_short_name": "România"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

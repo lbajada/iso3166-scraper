@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "parish (en)",
+                "paroisse (fr)",
+                "parròquia (ca)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "parish",
@@ -79,6 +89,18 @@
             "administrative_language_alpha2": "ca",
             "administrative_language_alpha3": "cat",
             "local_short_name": "Andorra"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

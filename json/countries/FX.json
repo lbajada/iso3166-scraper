@@ -9,6 +9,14 @@
     "independent": null,
     "territory_name": null,
     "status": "Exceptionally reserved",
+    "subdivision_categories": [],
     "subdivisions": [],
-    "additional_information": []
+    "additional_information": [],
+    "change_history": [
+        {
+            "date": "2002-11-22",
+            "short_description_en": "Deleted; see France (FR, FRA, 250) in ISO 3166-1",
+            "short_description_fr": "Supprimé; voir France (FR, FRA, 250) dans l'ISO 3166-1"
+        }
+    ]
 }

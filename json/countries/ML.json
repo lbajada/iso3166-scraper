@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -115,6 +131,13 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Mali (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Addition of regions ML-9, ML-10; update List Source",
+            "short_description_fr": "Ajout des régions ML-9, ML-10; mise à jour de la Liste Source"
         }
     ]
 }

@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": "Guadalcanal (principal island), Southern Solomon Islands, Santa Cruz Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "province (en)",
+                "province (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital territory (en)",
+                "territoire de la capitale (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "capital territory",
@@ -106,6 +122,28 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Solomon Islands"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the French short name lower case",
+            "short_description_fr": "Modification de la forme courte française en minuscules"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en minuscules avec UNTERM"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

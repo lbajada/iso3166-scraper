@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 18,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "gobol (so)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -183,6 +193,18 @@
             "administrative_language_alpha2": "so",
             "administrative_language_alpha3": "som",
             "local_short_name": "Soomaaliya"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-03-03",
+            "short_description_en": "Add \"the\" before the English full name",
+            "short_description_fr": "Ajouter \"the\" devant la forme longue anglaise"
+        },
+        {
+            "date": "2013-07-11",
+            "short_description_en": "UN notification of full name",
+            "short_description_fr": "Notification de l'ONU changement de la forme longue du nom"
         }
     ]
 }

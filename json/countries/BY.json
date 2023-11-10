@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "horad (be)",
+                "gorod (ru)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "oblast (en)",
+                "région (fr)",
+                "voblasts' / voblasc' (be)",
+                "oblast' (ru)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "oblast",
@@ -273,6 +293,28 @@
             "administrative_language_alpha2": "ru",
             "administrative_language_alpha3": "rus",
             "local_short_name": "Belarus'"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of spelling for BY-HR of BGN/PCGN 1979",
+            "short_description_fr": "Correction de l’orthographe de BY-HR de BGN/PCGN 1979"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change romanization system from \"GOST 1983\" to \"Belarusian Lacinka\" of bel; change romanization system of BY-HM* of bel and rus",
+            "short_description_fr": "Modification du système de romanisation de \"GOST 1983\" à \"Belarusian Lacinka\" pour bel; modification du système de romanisation de BY-HM* pour bel et pour rus"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

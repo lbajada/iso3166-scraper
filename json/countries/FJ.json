@@ -9,6 +9,29 @@
     "independent": "Yes",
     "territory_name": "Rotuma Island, Vanua Levu, Viti Levu",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "dependency (en)",
+                "dépendance (fr)"
+            ]
+        },
+        {
+            "category_count": 4,
+            "category_locales": [
+                "division (en)",
+                "division (fr)"
+            ]
+        },
+        {
+            "category_count": 14,
+            "category_locales": [
+                "province (en)",
+                "province (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -192,6 +215,38 @@
             "administrative_language_alpha2": "fj",
             "administrative_language_alpha3": "fij",
             "local_short_name": "Viti"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-22",
+            "short_description_en": "Reinstatement of provinces deleted due to a technical glitch",
+            "short_description_fr": "Rétablissement des provinces supprimées en raison d’un problème technique"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Assign parent subdivision to FJ-01, FJ-02, FJ-03, FJ-04, FJ-05, FJ-06, FJ-07, FJ-08, FJ-09, FJ-10, FJ-11, FJ-12, FJ-13, FJ-14",
+            "short_description_fr": "Attribution de la subdivision-mère FJ-01, FJ-02, FJ-03, FJ-04, FJ-05, FJ-06, FJ-07, FJ-08, FJ-09, FJ-10, FJ-11, FJ-12, FJ-13, FJ-14"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Add provinces FJ-01 to FJ 14; update List Source",
+            "short_description_fr": "Ajout des provinces FJ-01 à FJ 14; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Official name change of long name",
+            "short_description_fr": "Changement du nom officiel long"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Official name change of long name",
+            "short_description_fr": "Changement du nom officiel long"
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 81,
+            "category_locales": [
+                "province (en)",
+                "département (fr)",
+                "il (tr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -745,6 +755,23 @@
             "administrative_language_alpha2": "tr",
             "administrative_language_alpha3": "tur",
             "local_short_name": "Türkiye"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-07-11",
+            "short_description_en": "Change of the short and full name",
+            "short_description_fr": "Modification de la forme courte et longue"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Toponym evolution and source list update.",
+            "short_description_fr": "Évolution d’un toponyme et remise en ordre alphabétique."
         }
     ]
 }

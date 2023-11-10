@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -106,6 +115,28 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "South Sudan"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Typographical correction of SS-BW (deletion of the extra space between el and Ghazal)",
+            "short_description_fr": "Correction typographique de SS-BW (suppression de l'espace supplémentaire entre el et Ghazal)"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Deletion of the space after the short English name lower case",
+            "short_description_fr": "Suppression de l'espace après la forme courte anglaise en minuscules"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of code and its administrative subdivisions to align ISO 3166-1 and ISO 3166-2.",
+            "short_description_fr": "Ajout du codet et ses subdivisions administratives, par cohérence de l'ISO 3166-1 et de l'ISO 3166-2."
+        },
+        {
+            "date": "2011-08-09",
+            "short_description_en": "Assign code elements",
+            "short_description_fr": "Attribuer codet"
         }
     ]
 }

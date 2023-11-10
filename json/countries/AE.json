@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "emirate (en)",
+                "émirat (fr)",
+                "imārah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "emirate",
@@ -79,6 +89,13 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Al Imārāt"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling of AE-AJ, AE-RK; addition of local variation of AE-FU, AE-RK, AE-UQ; update List Source",
+            "short_description_fr": "Modification de l'orthographe de AE-AJ, AE-RK; ajout d’une variation locale pour AE-FU, AE-RK, AE-UQ; mise à jour de la Liste Source"
         }
     ]
 }

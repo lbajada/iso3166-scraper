@@ -9,6 +9,15 @@
     "independent": "No",
     "territory_name": "Ascension Island, Gough Island, Inaccessible Island, Nightingale Island, Saint Helena Island , Stoltenhoff Island, Tristan da Cunha Archipelago",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "geographical entity (en)",
+                "entité géographique (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "geographical entity",
@@ -43,6 +52,23 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Saint Helena, Ascension and Tristan da Cunha"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative subdivisions addition.",
+            "short_description_fr": "Ajout des subdivisions administratives."
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Consistency between ISO 3166-1 and ISO 3166-2 for change of name ",
+            "short_description_fr": "Changement de nom."
+        },
+        {
+            "date": "2010-02-22",
+            "short_description_en": "Change of name; Addition of islands given in Clauses 9 and 10",
+            "short_description_fr": "Changement de nom, forme courte et forme longue; Addition des îles dans les Articles 9 and 10"
         }
     ]
 }

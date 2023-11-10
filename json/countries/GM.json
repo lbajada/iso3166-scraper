@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "division (en)",
+                "division (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "city",
@@ -70,6 +86,33 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Gambia (the)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-03-17",
+            "short_description_en": "Change of the full name",
+            "short_description_fr": "Modification de la forme longue"
+        },
+        {
+            "date": "2016-03-31",
+            "short_description_en": "Change of the full name",
+            "short_description_fr": "Modification de la forme longue"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name lower case and the English full name with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en minuscules et de la forme longue anglaise avec UNTERM"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

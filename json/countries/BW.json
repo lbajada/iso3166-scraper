@@ -9,6 +9,29 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        },
+        {
+            "category_count": 4,
+            "category_locales": [
+                "town (en)",
+                "chef-lieu (fr)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -160,6 +183,18 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Botswana"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Add 1 district BW-CH, 2 cities BW-FR and BW-GA, 4 towns BW-JW, BW-LO, BW-SP, BW-ST; remove hyphens from BW-NE, BW-NW, and BW-SE; update List Source",
+            "short_description_fr": "Ajout d'un district BW-CH, 2 villes BW-FR and BW-GA, 4 chefs-lieux BW-JW, BW-LO, BW-SP, BW-ST; supprimé le tiret BW-NE, BW-NW, and BW-SE; mise à jour de la Liste Source"
         }
     ]
 }

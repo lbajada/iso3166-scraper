@@ -9,6 +9,32 @@
     "independent": "No",
     "territory_name": "Penghu (Pescadores) Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "shih (zh)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "special municipality (en)",
+                "municipalité spéciale (fr)",
+                "chih-hsia-shih (zh)"
+            ]
+        },
+        {
+            "category_count": 13,
+            "category_locales": [
+                "county (en)",
+                "comté (fr)",
+                "hsien (zh)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -214,6 +240,28 @@
             "administrative_language_alpha2": "zh",
             "administrative_language_alpha3": "zho",
             "local_short_name": "Taiwan"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of subdivision category from municipality to city and district to county; update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer municipalité par ville et district par comté; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of category name for special municipality in zho; change of spelling of TW-ILA; deletion of districts TW-KHQ, TW-TNQ, TW-TPQ, TW-TXQ; addition of districts TW-KIN,TW-LIE and special municipality TW-NWT; change of subdivision category from municipalities to special municipalities for TW-TXG, TW-TNN; change of subdivision category from district to special municipality for TW-TAO; update List Source",
+            "short_description_fr": "Ajout du nom de catégorie municipalité spéciale en zho; modification de l'orthographe de TW-ILA; suppression des districts TW-KHQ, TW-TNQ, TW-TPQ, TW-TXQ; ajout des districts TW-KIN,TW-LIE et de la municipalité spéciale TW-NWT; modification de la catégorie de subdivision remplacer municipalité par municipalité spéciale pour TW-TXG, TW-TNN; modification de la catégorie de subdivision remplacer district par municipalité spéciale pour TW-TAO; mise à jour de la Liste Source"
         }
     ]
 }

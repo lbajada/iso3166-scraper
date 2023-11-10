@@ -9,6 +9,40 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 23,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "sheng (zh)"
+            ]
+        },
+        {
+            "category_count": 5,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "zizhiqu (zh)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "special administrative region (en)",
+                "région administrative spéciale (fr)",
+                "tebie xingzhengqu (zh)"
+            ]
+        },
+        {
+            "category_count": 4,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "shi (zh)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -349,6 +383,28 @@
             "administrative_language_alpha2": "zh",
             "administrative_language_alpha3": "zho",
             "local_short_name": "Zhongguo"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Change of spelling of CN-NX; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de CN-NX; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Change language from mon to zho for CN-NM",
+            "short_description_fr": "Modification de la langue remplacer mon par zho pour CN-NM"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of subdivision code from CN-15 to CN-NM, CN-45 to CN-GX, CN-54 to CN-XZ, CN-64 to CN-NX, CN-65 to CN-XJ, CN-11 to CN-BJ, CN-12 to CN-TJ, CN-31 to CN-SH, CN-50 to CN-CQ, CN-13 to CN-HE, CN-14 to CN-SX, CN-21 to CN-LN, CN-22 to CN-JL, CN-23 to CN-HL, CN-32 to CN-JS, CN-33 to CN-ZJ, CN-34 to CN-AH, CN-35 to CN-FJ, CN-36 to CN-JX, CN-37 to CN-SD, CN-41 to CN-HA, CN-42 to CN-HB, CN-43 to CN-HN, CN-44 to CN-GD, CN-46 to CN-HI, CN-51 to CN-SC, CN-52 to CN-GZ, CN-53 to CN-YN, CN-61 to CN-SN, CN-62 to CN-GS, CN-63 to CN-QH, CN-71 to CN-TW, CN-91 to CN-HK, CN-92 to CN-MO; change of subdivision name of CN-NM, CN-GX, CN-XZ, CN-NX, CN-XJ, CN-BJ, CN-TJ, CN-SH, CN-CQ, CN-HE, CN-SX, CN-LN, CN-JL, CN-HL CN-JS, CN-ZJ, CN-AH, CN-FJ, CN-JX, CN-SD, CN-HA, CN-HB, CN-HN, CN-GD, CN-HI, CN-SC, CN-GZ, CN-YN, CN-SN, CN-GS, CN-QH, CN-TW, CN-HK, CN-MO; addition of remark in parentheses to subdivision name for CN-HK, CN-MO in eng; addition of region CN-MO in por; update Code Source; update List Source",
+            "short_description_fr": "Modification du code de subdivision remplacer CN-15 par CN-NM, CN-45 par CN-GX, CN-54 par CN-XZ, CN-64 par CN-NX, CN-65 par CN-XJ, CN-11 par CN-BJ, CN-12 par CN-TJ, CN-31 par CN-SH, CN-50 par CN-CQ, CN-13 par CN-HE, CN-14 par CN-SX, CN-21 par CN-LN, CN-22 par CN-JL, CN-23 par CN-HL, CN-32 par CN-JS, CN-33 par CN-ZJ, CN-34 par CN-AH, CN-35 par CN-FJ, CN-36 par CN-JX, CN-37 par CN-SD, CN-41 par CN-HA, CN-42 par CN-HB, CN-43 par CN-HN, CN-44 par CN-GD, CN-46 par CN-HI, CN-51 par CN-SC, CN-52 par CN-GZ, CN-53 par CN-YN, CN-61 par CN-SN, CN-62 par CN-GS, CN-63 par CN-QH, CN-71 par CN-TW, CN-91 par CN-HK, CN-92 par CN-MO; modification du nom de la subdivision de CN-NM, CN-GX, CN-XZ, CN-NX, CN-XJ, CN-BJ, CN-TJ, CN-SH, CN-CQ, CN-HE, CN-SX, CN-LN, CN-JL, CN-HL CN-JS, CN-ZJ, CN-AH, CN-FJ, CN-JX, CN-SD, CN-HA, CN-HB, CN-HN, CN-GD, CN-HI, CN-SC, CN-GZ, CN-YN, CN-SN, CN-GS, CN-QH, CN-TW, CN-HK, CN-MO; ajout de la remarque entre parenthèses pour les subdivisions CN-HK, CN-MO en eng; ajout d'une région CN-MO en por; mise à jour du Code Source; mise à jour de la Liste Source"
         }
     ]
 }

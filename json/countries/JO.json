@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -124,6 +134,18 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Al Urdun"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision name for JO-AM, JO-AJ, JO-AQ, JO-BA, JO-AZ, JO-MN; addition of local variations JO-AM, JO-AQ; update List Source",
+            "short_description_fr": "Modification du nom des subdivisions JO-AM, JO-AJ, JO-AQ, JO-BA, JO-AZ, JO-MN; ajout des variations locales JO-AM, JO-AQ; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering, administrative names precision and evolution and source list update.",
+            "short_description_fr": "Remise en ordre alphabétique, précision et évolution de noms administratifs et mise à jour de la liste source."
         }
     ]
 }

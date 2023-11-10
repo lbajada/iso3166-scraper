@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "Fernando de Noronha Island, Martim Vaz Islands, Trindade Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 26,
+            "category_locales": [
+                "state (en)",
+                "État (fr)",
+                "estado (pt)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "federal district (en)",
+                "district fédéral (fr)",
+                "distrito federal (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -259,6 +277,18 @@
             "administrative_language_alpha2": "pt",
             "administrative_language_alpha3": "por",
             "local_short_name": "Brasil (o)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Deletion of asterisk from state BR-TO; update list source",
+            "short_description_fr": "Suppression de l’astérisque de État BR-TO; mise à jour de la Liste Source"
         }
     ]
 }

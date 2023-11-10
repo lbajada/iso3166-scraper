@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "paḷāta (si)",
+                "mākāṇam (ta)"
+            ]
+        },
+        {
+            "category_count": 25,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distrikkaya (si)",
+                "mavaṭṭam (ta)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -944,6 +964,33 @@
             "administrative_language_alpha2": "ta",
             "administrative_language_alpha3": "tam",
             "local_short_name": "Ilaṅkai"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Correction of parent subdivision of LK-11, LK-12, LK-13, LK-21, LK-22, LK-23, LK-31, LK-32, LK-41, LK-43, LK-44, LK-45, LK-51, LK-52, LK-53, LK-61, LK-62, LK-71, LK-81, LK-82, LK-91, LK-92; Update List Source",
+            "short_description_fr": "Correction de la subdivision-mère de LK-11, LK-12, LK-13, LK-21, LK-22, LK-23, LK-31, LK-32, LK-41, LK-43, LK-44, LK-45, LK-51, LK-52, LK-53, LK-61, LK-62, LK-71, LK-81, LK-82, LK-91, LK-92; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2012-08-02",
+            "short_description_en": "Add administrative language",
+            "short_description_fr": "Rajouter une langue administrative"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, addition of names in administrative languages",
+            "short_description_fr": "Ajout du préfixe au premier niveau, ajout de noms dans les langues administratives"
         }
     ]
 }

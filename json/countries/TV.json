@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": "Funafuti (principal atoll)",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "island council (en)",
+                "conseil insulaire (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "town council (en)",
+                "conseil urbain (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "town council",
@@ -93,6 +109,18 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "tvl",
             "local_short_name": "Tuvalu"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of TV-NMG; update List Source",
+            "short_description_fr": "Modification de l'orthographe deTV-NMG; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2009-03-03",
+            "short_description_en": "Addition of administrative language Tuvaluan (-, tvl)",
+            "short_description_fr": "Adjonction de la langue administrative tuvalu (-, tvl)"
         }
     ]
 }

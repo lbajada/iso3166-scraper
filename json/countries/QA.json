@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 8,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "baladīyah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -88,6 +98,18 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Qaţar"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Addition of municipality QA-SH",
+            "short_description_fr": "Ajout d'une municipalité QA-SH"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Update resulting from the addition of names in administrative languages, and update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

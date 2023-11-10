@@ -9,12 +9,35 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Saint-Martin (partie française)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2015-02-26",
+            "short_description_en": "Correction of the OBP entry error as follows: deletion of “Saint-Martin, partie nord de” in the French name field for Territory",
+            "short_description_fr": "Correction de l’erreur de saisie dans l’OBP comme suit : suppression de “Saint-Martin, partie nord de” dans le champ français du Nom du territoire"
+        },
+        {
+            "date": "2013-02-06",
+            "short_description_en": "Correct spelling error in the French remarks",
+            "short_description_fr": "Corriger une faute d'orthographe dans les remarques françaises"
+        },
+        {
+            "date": "2007-09-21",
+            "short_description_en": "Add new entry",
+            "short_description_fr": "Ajouter une nouvelle entrée"
         }
     ]
 }

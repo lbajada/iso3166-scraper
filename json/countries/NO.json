@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 11,
+            "category_locales": [
+                "county (en)",
+                "département (fr)",
+                "fylke (nb)",
+                "fylke (nn)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "arctic region (en)",
+                "région arctique (fr)",
+                "arktisk område (nb)",
+                "arktisk område (nn)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -282,6 +302,28 @@
             "administrative_language_alpha2": "nb",
             "administrative_language_alpha3": "nob",
             "local_short_name": "Norge"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Deletion of county NO-01, NO-02, NO-04, NO-05, NO-06, NO-07, NO-08, NO-09, NO-10, NO-12, NO-14, NO-19, NO-20; Addition of county NO-30, NO-34, NO-38, NO-42, NO-46, NO-54; Addition of county NO-50 in sma; Update List Source",
+            "short_description_fr": "Suppression d'une département NO-01, NO-02, NO-04, NO-05, NO-06, NO-07, NO-08, NO-09, NO-10, NO-12, NO-14, NO-19, NO-20; Ajout d'un département NO-30, NO-34, NO-38, NO-42, NO-46, NO-54; Ajout d'un département NO-50 in sma; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2019-04-09",
+            "short_description_en": "Change of subdivision code from NO-23 to NO-50",
+            "short_description_fr": "Modification du code de subdivision remplacer NO-23 par NO-50"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Deletion of counties NO-16 and NO-17; Addition of county NO-23; Update List Source",
+            "short_description_fr": "Suppression des départements NO-16 et NO-17; Ajout du département NO-23; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering.",
+            "short_description_fr": "Remise en ordre alphabétique."
         }
     ]
 }

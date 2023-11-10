@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 17,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "oblys (kk)",
+                "oblast' (ru)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "qala (kk)",
+                "gorod (ru)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -561,6 +581,28 @@
             "administrative_language_alpha2": "ru",
             "administrative_language_alpha3": "rus",
             "local_short_name": "Kazahstan"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Change of subdivision code from KZ-ALA to KZ-75, KZ-AST to KZ-71, KZ-SHY to KZ-79, KZ-ALM to KZ-19, KZ-AKM to KZ-11, KZ-AKT to KZ-15, KZ-ATY to KZ-23, KZ-VOS to KZ-63, KZ-MAN to KZ-47, KZ-SEV to KZ-59, KZ-YUZ to KZ-61, KZ-PAV to KZ-55, KZ-KAR to KZ-35, KZ-KUS to KZ-39, KZ-KZY to KZ-43, KZ-ZAP to KZ-27, KZ-ZHA to KZ-31; Addition of region KZ-10, KZ-33, KZ-62; Change of subdivision name for KZ-71 in kaz and rus; Update List Source; Update Code Source",
+            "short_description_fr": "Modification du code de subdivision remplacer KZ-ALA par KZ-75, KZ-AST par KZ-71, KZ-SHY par KZ-79, KZ-ALM par KZ-19, KZ-AKM par KZ-11, KZ-AKT par KZ-15, KZ-ATY par KZ-23, KZ-VOS par KZ-63, KZ-MAN par KZ-47, KZ-SEV par KZ-59, KZ-YUZ par KZ-61, KZ-PAV par KZ-55, KZ-KAR par KZ-35, KZ-KUS par KZ-39, KZ-KZY par KZ-43, KZ-ZAP par KZ-27, KZ-ZHA par KZ-31; Ajout d'une région KZ-10, KZ-33, KZ-62; Modification du nom de subdivision de KZ-71 en kaz, rus; Mise à jour de la Liste Source; Mise à jour du Code Source"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Deletion of city KZ-BAY; Change of subdivision name of KZ‐AST; Correction of the Code Source; Update List Source",
+            "short_description_fr": "Suppression d'une ville KZ-BAY; Modification du nom de la subdivision de KZ‐AST; Correction du Code Source; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label; Addition of city KZ-SHY; Change of subdivision name of KZ-YUZ; Update List Source",
+            "short_description_fr": "Correction de l'étiquette du système de romanization; Ajout de la ville KZ-SHY; Modification du nom de la subdivision de KZ-YUZ; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of city KZ-BAY; update List Source",
+            "short_description_fr": "Ajout d'une ville KZ-BAY; mise à jour de la Liste Source"
         }
     ]
 }

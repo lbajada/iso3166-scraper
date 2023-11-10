@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": "Principe *",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "região autónoma (pt)"
+            ]
+        },
+        {
+            "category_count": 6,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "distrito (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -79,6 +97,13 @@
             "administrative_language_alpha2": "pt",
             "administrative_language_alpha3": "por",
             "local_short_name": "São Tomé e Príncipe"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Deletion of province ST-S; Change of subdivision category from province to autonomous region for ST-P; Addition of district ST-01, ST-02, ST-03, ST-04, ST-05, ST-06; Update List Source",
+            "short_description_fr": "Suppression d'une province ST-S; Modification de la catégorie de subdivision remplacer province par région autonome pour ST-P; Ajout d'un district ST-01, ST-02, ST-03, ST-04, ST-05, ST-06; Mise à jour de la Liste Source"
         }
     ]
 }

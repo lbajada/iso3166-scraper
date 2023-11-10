@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "pradesh (ne)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -142,6 +152,53 @@
             "administrative_language_alpha2": "ne",
             "administrative_language_alpha3": "nep",
             "local_short_name": "Nepāl"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Deletion of development regions NP-1, NP-2, NP-3, NP-4, NP-5; Change of subdivision name of NP-P4, NP-P6 in nep; Change of subdivision name of NP-P2, NP-P7 in eng and nep; Change of subdivision name of NP-P3 in eng; Addition of location variation for NP-2 in eng and nep; Modification of local variation for NP-P7 in eng and nep; Deletion of zones NP-BA, NP-BH, NP-DH, NP-GA, NP-JA, NP-KA, NP-KO, NP-LU, NP-MA, NP-ME, NP-NA, NP-RA, NP-SA, NP-SE: Update List Source; Modification of remark part 2",
+            "short_description_fr": "Suppression des régions de développement NP-1, NP-2, NP-3, NP-4, NP-5; Modification du nom de la subdivision de NP-P4, NP-P6 en nep; Modification du nom de la subdivision de NP-P2, NP-P7 en eng et nep; Modification du nom de la subdivision de NP-P3 en eng; Ajout de la variation locale pour NP-2 en eng et nep; Modification de la variation locale pour NP-P7 en eng et nep; Suppression des zones NP-BA, NP-BH, NP-DH, NP-GA, NP-JA, NP-KA, NP-KO, NP-LU, NP-MA, NP-ME, NP-NA, NP-RA, NP-SA, NP-SE; Mise à jour de la Liste Source; Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Change of spelling of NP-P5; Modification of remark part 2; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de NP-P5; Modification de la remarque, partie 2; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2021-01-20",
+            "short_description_en": "Change of the full name",
+            "short_description_fr": "Modification de la forme longue"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of subdivision name of NP-P3, NP-P7; Addition of local variation of NP-P3, NP-P7; Update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de NP-P3, NP-P7; Ajout d’une variation locale pour NP-P3, NP-P7; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Update Code Source",
+            "short_description_fr": "Mise à jour du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label; Addition of provinces NP-P1, NP-P2, NP-P3, NP-P4, NP-P5, NP-P6, NP-P7; Addition of local variation for NP-P4 and NP-P6; Update List Source; Addition of remark",
+            "short_description_fr": "Correction de l'étiquette du système de romanization; Ajout des provinces NP-P1, NP-P2, NP-P3, NP-P4, NP-P5, NP-P6, NP-P7; Ajout d’une variation locale pour NP-P4 and NP-P6; Mise à jour de la Liste Source; Ajout de remarque"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "First level prefix addition, language adjustment, comment addition, deletion of the romanization system and source list update.",
+            "short_description_fr": "Ajout du préfixe au premier niveau, ajustement linguistique, ajout de la remarque, suppression du système de romanisation et mise à jour de la liste source."
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element",
+            "short_description_fr": "Ajout du préfixe au premier niveau"
+        },
+        {
+            "date": "2008-09-09",
+            "short_description_en": "Modification of the formal name",
+            "short_description_fr": "Modification du nom officiel"
         }
     ]
 }

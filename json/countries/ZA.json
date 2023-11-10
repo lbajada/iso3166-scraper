@@ -9,6 +9,25 @@
     "independent": "Yes",
     "territory_name": "Marion Island, Prince Edward Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 9,
+            "category_locales": [
+                "profense ()",
+                "province (en)",
+                "province (fr)",
+                "provinsie (af)",
+                "iProvinsi (nr)",
+                "fundzeni (ss)",
+                "provense (st)",
+                "porofense (tn)",
+                "fundzankulu (ts)",
+                "vundu (ve)",
+                "phondo (xh)",
+                "fundazwe (zu)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -903,6 +922,13 @@
             "administrative_language_alpha2": "zu",
             "administrative_language_alpha3": "zul",
             "local_short_name": "Ningizimu Afrika"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-03-02",
+            "short_description_en": "Change of subdivision code from ZA-GT to ZA-GP, ZA-NL to ZA-KZN; Update Code Source",
+            "short_description_fr": "Modification du code de subdivision remplacer ZA-GT par ZA-GP, ZA-NL par ZA-KZN; Mise à jour du Code Source"
         }
     ]
 }

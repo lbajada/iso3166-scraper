@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "prefecture (en)",
+                "préfecture (fr)",
+                "kampèng nakhon (lo)"
+            ]
+        },
+        {
+            "category_count": 17,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "khouèng (lo)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -178,6 +196,43 @@
             "administrative_language_alpha2": "lo",
             "administrative_language_alpha3": "lao",
             "local_short_name": "Sathalanalat Paxathipatai Paxaxôn Lao"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2019-02-15",
+            "short_description_en": "Modification of the French short name lower case",
+            "short_description_fr": "Modification de la forme courte française en minuscules"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Addition of local variation of LA-AT, LA-BL, LA-CH, LA-HO, LA-KH, LA-LM, LA-LP, LA-OU, LA-PH, LA-SL, LA-SV, LA-XA, LA-XE, LA-XI, LA-XS; update List Source",
+            "short_description_fr": "Ajout d’une variation locale pour LA-AT, LA-BL, LA-CH, LA-HO, LA-KH, LA-LM, LA-LP, LA-OU, LA-PH, LA-SL, LA-SV, LA-XA, LA-XE, LA-XI, LA-XS; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Deletion of the romanization system \"Taken from old French maps still in use in the Lao People's Democratic Republic\"; addition of romanization system “Lao Commission Nationale de Toponymie (CNT)”; change of spelling of LA-VT, LA-VI; addition of local variation of LA-VT, LA-VI; change of the romanization system of LA-VT, LA-AT, LA-BK, LA-BL, LA-CH, LA-O, A-KH, LA-LM, LA-LP, LA-OU, LA-PH, LA-SL, LA-SV, LA-VI, LA-XA, LA-XS, LA-XE, LA-XI, LA-XI",
+            "short_description_fr": "Suppression du système de romanisation \"Taken from old French maps still in use in the Lao People's Democratic Republic\"; ajout du système de romanisation “Lao Commission Nationale de Toponymie (CNT)”; modification de l'orthographe de LA-VT, LA-VI; ajout d’une variation locale pour LA-VT, LA-VI; modification du système de romanisation de LA-VT, LA-AT, A-BK, LA-BL, LA-CH, LA-HO, LA-KH, LA-LM, LA-LP, LA-OU, LA-PH, LA-SL, LA-SV, LA-VI, LA-XA, LA-XS, LA-XE, LA-XI, LA-XI"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of special zone LA-XN; addition of province LA-XS; update List Source",
+            "short_description_fr": "Suppression de la zone spéciale LA-XN; ajout d'une province LA-XS; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-31",
+            "short_description_en": "Change spelling of LA-XI; update List Source",
+            "short_description_fr": "Modification de l'orthographe de LA-XI; mise à jour de la Liste Source"
         }
     ]
 }

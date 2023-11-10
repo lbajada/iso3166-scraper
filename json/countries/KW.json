@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 6,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -70,6 +80,18 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Al Kuwayt"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Swap subdivision name with local variation of KW-KU",
+            "short_description_fr": "Echange du nom de la subdivision avec la variation locale de KW-KU"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative name update and liste source update.",
+            "short_description_fr": "Mise à jour et évolution de noms administratifs et mise à jour de la liste source."
         }
     ]
 }

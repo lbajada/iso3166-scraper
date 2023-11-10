@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": "the exclave of Oecussi",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "munisípiu ()",
+                "municipality (en)",
+                "commune (fr)",
+                "município (pt)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "rejiaun administrativa espesiál ()",
+                "special administrative region (en)",
+                "région administrative spéciale (fr)",
+                "região administrativa especial (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -255,6 +275,18 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "tet",
             "local_short_name": "Timor Lorosa'e"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of subdivision category name from district to municipality; Addition of category name in tet; Change of category name from district to special administrative region for TL-OE ; Change of spelling in por of TL-OE ; Change of spelling of TL-LA; Addition of local variation of TL-OE; Update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer district par commune; Ajout du nom de catégorie en tet; Modification du nom de catégorie remplacer district par région administrative spéciale pour TL-OE; Modification de l’orthographe en por de TL-OE; Modification de l’orthographe de TL-LA; Ajout d’une variation locale pour TL-OE; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Update of the language adjustment and source list update.",
+            "short_description_fr": "Mise à jour résultant de l’ajustement linguistique et mise à jour de la liste source."
         }
     ]
 }

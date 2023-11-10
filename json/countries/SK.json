@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 8,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "kraj (sk)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -89,5 +99,6 @@
             "administrative_language_alpha3": "slk",
             "local_short_name": "Slovensko"
         }
-    ]
+    ],
+    "change_history": []
 }

@@ -9,6 +9,30 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "metropolitan administration (en)",
+                "administration métropolitaine (fr)"
+            ]
+        },
+        {
+            "category_count": 76,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "changwat (th)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special administrative city (en)",
+                "ville administrative spéciale (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -718,6 +742,13 @@
             "administrative_language_alpha2": "th",
             "administrative_language_alpha3": "tha",
             "local_short_name": "Prathet Thai"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
         }
     ]
 }

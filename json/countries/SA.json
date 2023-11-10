@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 13,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "minţaqah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -133,6 +143,23 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "As Su‘ūdīyah"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Change of subdivision category from province to region",
+            "short_description_fr": "Modification de la catégorie de subdivision remplacer province par région"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change subdivision names of SA-02, SA-03 and SA-09; update List Source",
+            "short_description_fr": "Modification des noms des subdivisions de SA-02, SA-03 et SA-09; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering.",
+            "short_description_fr": "Remise en ordre alphabétique."
         }
     ]
 }

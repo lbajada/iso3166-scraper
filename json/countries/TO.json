@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": "Tongatapu (principal island)",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "division (en)",
+                "division (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "division",
@@ -112,5 +121,6 @@
             "administrative_language_alpha3": "ton",
             "local_short_name": "Tonga"
         }
-    ]
+    ],
+    "change_history": []
 }

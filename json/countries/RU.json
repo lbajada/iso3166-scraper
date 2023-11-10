@@ -9,6 +9,56 @@
     "independent": "Yes",
     "territory_name": "Kaliningrad Region",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 46,
+            "category_locales": [
+                "administrative region (en)",
+                "région administrative (fr)",
+                "oblast' (ru)"
+            ]
+        },
+        {
+            "category_count": 4,
+            "category_locales": [
+                "autonomous district (en)",
+                "district autonome (fr)",
+                "avtonomnyy okrug (ru)"
+            ]
+        },
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous city (en)",
+                "ville autonome (fr)",
+                "avtonomnyy gorod (ru)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous region (en)",
+                "région autonome (fr)",
+                "avtonomnaya oblast' (ru)"
+            ]
+        },
+        {
+            "category_count": 9,
+            "category_locales": [
+                "administrative territory (en)",
+                "territoire administratif (fr)",
+                "kray (ru)"
+            ]
+        },
+        {
+            "category_count": 21,
+            "category_locales": [
+                "republic (en)",
+                "république (fr)",
+                "respublika (ru)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "republic",
@@ -1510,6 +1560,23 @@
             "administrative_language_alpha2": "ru",
             "administrative_language_alpha3": "rus",
             "local_short_name": "Rossijskaja Federacija"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Correction of language from ‘urd’ to ‘rus’ for RU-PSK, RU-ROS, RU-PRI",
+            "short_description_fr": "Correction de la langue remplacer ‘urd’ par ‘rus’ pour RU-PSK, RU-ROS, RU-PRI"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif. Mise à jour de la liste source."
         }
     ]
 }

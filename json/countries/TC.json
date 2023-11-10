@@ -9,12 +9,25 @@
     "independent": "No",
     "territory_name": "Caicos Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Turks and Caicos Islands (the)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2015-02-26",
+            "short_description_en": "Correction of the OBP entry error as follows: addition of “Caicos Islands” to the English name field for Territory and “Îles Caicos” to the French name fields for Territory",
+            "short_description_fr": "Correction de l’erreur de saisie dans l’OBP comme suit : ajout de “Caicos Islands” dans le champ anglais du Nom du territoire et “Îles Caicos” dans le champ français du Nom de territoire"
         }
     ]
 }

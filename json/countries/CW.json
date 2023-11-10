@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -25,6 +26,23 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "pap",
             "local_short_name": "Kòrsou"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Addition of code to align ISO 3166-1 and ISO 3166-2.",
+            "short_description_fr": "Ajout, par cohérence de l'ISO 3166-1 et de l'ISO 3166-2."
+        },
+        {
+            "date": "2010-12-15",
+            "short_description_en": "Add new entry",
+            "short_description_fr": "Ajouter une nouvelle entrée"
         }
     ]
 }

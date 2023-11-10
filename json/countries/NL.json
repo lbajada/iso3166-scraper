@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "provincie (nl)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "pais ()",
+                "country (en)",
+                "land (nl)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "municipio special ()",
+                "special municipality (en)",
+                "bijzondere gemeente (nl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "country",
@@ -178,6 +204,33 @@
             "administrative_language_alpha2": "nl",
             "administrative_language_alpha3": "nld",
             "local_short_name": "Nederland"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2023-04-04",
+            "short_description_en": "Change of the short name",
+            "short_description_fr": "Modification de la forme courte"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Update resulting from the addition of the administrative readjustment and source list update.",
+            "short_description_fr": "Mise à jour résultant de l’ajout de réajustements administratifs et mise à jour de la liste source."
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Correct the English name to Sint Eustatius in alignment with UNTERM",
+            "short_description_fr": "Corriger le nom en anglais Sint Eustatius pour l'aligner avec UNTERM"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Correct the English name to Sint Eustatius in alignment with UNTERM",
+            "short_description_fr": "Corriger le nom en anglais Sint Eustatius pour l'aligner avec UNTERM"
+        },
+        {
+            "date": "2010-12-15",
+            "short_description_en": "Add Bonaire, Saint Eustatius and Saba Islands",
+            "short_description_fr": "Ajouter Iles Bonaire, Saint-Eustache et Saba"
         }
     ]
 }

@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "minţaqah (ar)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "madīnah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -129,6 +147,33 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Djibouti"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of DJ-OB in ara",
+            "short_description_fr": "Modification de l'orthographe de DJ-OB en ara"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Add romanization system for Arabic; typographical correction of DJ-AS; update List Source",
+            "short_description_fr": "Ajout du système de romanisation de l’arabe; correction typographique de DJ-AS; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Language adjustment and source list update.",
+            "short_description_fr": "Ajustement linguistique et mise à jour de la liste source."
         }
     ]
 }

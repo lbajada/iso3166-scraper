@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 13,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        },
+        {
+            "category_count": 45,
+            "category_locales": [
+                "province (en)",
+                "province (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -538,6 +554,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Burkina Faso (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of BF-TUI; update list source",
+            "short_description_fr": "Modification de l'orthographe de BF-TUI; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-04-15",
+            "short_description_en": "Correction of the short name lowercase in French",
+            "short_description_fr": "Correction de la forme courte française en minuscules"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

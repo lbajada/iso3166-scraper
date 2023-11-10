@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 24,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "wilaya (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -232,6 +242,28 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Tūnis"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Correction of the local short name; change of spelling of TN-12, TN-73, TN-82; update List Source",
+            "short_description_fr": "Correction de la forme courte locale; modification de l'orthographe de TN-12, TN-73, TN-82; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Toponym evolution, alphabetical re-ordering and source list update.",
+            "short_description_fr": "Évolution d’un toponyme, remise en ordre alphabétique et mise à jour de la liste source."
         }
     ]
 }

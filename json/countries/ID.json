@@ -9,6 +9,39 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 7,
+            "category_locales": [
+                "geographical unit (en)",
+                "unité géographique (fr)"
+            ]
+        },
+        {
+            "category_count": 35,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "provinsi (id)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "special region (en)",
+                "région spéciale (fr)",
+                "daerah istimewa (id)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital district (en)",
+                "district de la capitale (fr)",
+                "daerah khusus ibukota (id)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -412,6 +445,48 @@
             "administrative_language_alpha2": "id",
             "administrative_language_alpha3": "ind",
             "local_short_name": "Indonesia"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Addition of provinces ID-PE, ID-PS and ID-PT; Update List Source",
+            "short_description_fr": "Ajout des provinces ID-PE, ID-PS et ID-PT; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of category name in eng/fra from special district to capital district (ID-JK); change of category name from autonomous province to province for ID-AC; deletion of category autonomous province (eng) / province autonome (fra) / nanggroe (ind); update List Source",
+            "short_description_fr": "Modification de l'orthographe du nom de catégorie en eng/fra remplacer district spécial par district de la capitale (ID-JK); modification du nom de catégorie remplacer province autonome par province pour ID-AC; suppression de la catégorie autonomous province (eng) / province autonome (fra) / nanggroe (ind); mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of local variation of ID-JK, ID-YO; change of spelling of ID-BB, update list source",
+            "short_description_fr": "Ajout d’une variation locale pour ID-JK, ID-YO; modification de l'orthographe de ID-BB; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Add province ID-KU; change code for Papua formely ID-IJ; update List Source",
+            "short_description_fr": "Ajout de la province ID-KU; changement de code pour Papua anciennement ID-IJ; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Removal of duplicate code",
+            "short_description_fr": "Suppression de codet doublon"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, alphabetical re-ordering, administrative update",
+            "short_description_fr": "Ajout du préfixe au premier niveau, reprise de l’ordre alphabétique au premier niveau et mise à jour administrative du second niveau"
         }
     ]
 }

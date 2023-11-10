@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Cabinda",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 18,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "província (pt)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -178,6 +188,33 @@
             "administrative_language_alpha2": "pt",
             "administrative_language_alpha3": "por",
             "local_short_name": "Angola"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Change of spelling of AO-CCU, AO-CNO, AO-CUS, AO-LNO, AO-LSU; Addition of local variation for AO-CCU, AO-CNO, AO-CUS; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de AO-CCU, AO-CNO, AO-CUS, AO-LNO, AO-LSU; Ajout d’une variation locale pour AO-CCU, AO-CNO, AO-CUS; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-02-12",
+            "short_description_en": "Correct spelling of AO-CCU",
+            "short_description_fr": "Correction de l'orthographe d'AO-CCU"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Correct spelling of AO-CNO and AO-CUS",
+            "short_description_fr": "Correction de l'orthographe d'AO-CNO et d'AO-CUS"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Change spelling of AO-CNO, AO-CUS, and AO-CCU; update List Source",
+            "short_description_fr": "Modification de l'orthographe d'AO-CNO, d'AO-CUS, et d'AO-CCU; mise à jour de la Liste Source"
         }
     ]
 }

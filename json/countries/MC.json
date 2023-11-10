@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 17,
+            "category_locales": [
+                "quarter (en)",
+                "quartier (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "quarter",
@@ -169,6 +178,18 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Monaco"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative subdivisions addition.",
+            "short_description_fr": "Ajout des subdivisions administratives."
         }
     ]
 }

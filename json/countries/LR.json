@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 15,
+            "category_locales": [
+                "county (en)",
+                "comté (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -151,6 +160,13 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Liberia"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling and addition of local variation of LR-RI; update List Source",
+            "short_description_fr": "Modification de l'orthographe et ajout d’une variation locale de LR-RI; mise à jour de la Liste Source"
         }
     ]
 }

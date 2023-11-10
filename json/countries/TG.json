@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -61,6 +70,18 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Togo (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of TG-S; update List Source",
+            "short_description_fr": "Modification de l'orthographe de TG-S; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of TG-C; update list source",
+            "short_description_fr": "Modification de l'orthographe de TG-C; mise à jour de la Liste Source"
         }
     ]
 }

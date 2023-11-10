@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 14,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -142,6 +152,18 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "El Salvador"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM, mise à jour des remarques en français"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": null,
+            "short_description_fr": null
         }
     ]
 }

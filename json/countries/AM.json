@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "marz (hy)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)",
+                "k'aġak' (hy)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -115,6 +133,13 @@
             "administrative_language_alpha2": "hy",
             "administrative_language_alpha3": "hye",
             "local_short_name": "Hayastan"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
         }
     ]
 }

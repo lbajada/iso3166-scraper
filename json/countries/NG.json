@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 36,
+            "category_locales": [
+                "state (en)",
+                "État (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "capital territory (en)",
+                "territoire de la capitale (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "state",
@@ -349,6 +365,23 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Nigeria"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change spelling of NG-NA; update List Source",
+            "short_description_fr": "Modification de l'orthographe de NG-NA; modification des noms des subdivisions; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Consistency between ISO 3166-1 and ISO 3166-2, addition of names in administrative languages",
+            "short_description_fr": "Cohérence de la partie 1 et de la partie 2 résultant de la réalité linguistique."
+        },
+        {
+            "date": "2008-09-09",
+            "short_description_en": "Deletion of French (fr, fra) as an administrative language",
+            "short_description_fr": "Suppression du français (fr, fra) en tant que langue administrative"
         }
     ]
 }

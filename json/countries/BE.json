@@ -9,6 +9,26 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 10,
+            "category_locales": [
+                "province (en)",
+                "province (fr)",
+                "Provinz (de)",
+                "provincie (nl)"
+            ]
+        },
+        {
+            "category_count": 3,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "Region (de)",
+                "gewest (nl)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "province",
@@ -152,6 +172,18 @@
             "administrative_language_alpha2": "nl",
             "administrative_language_alpha3": "nld",
             "local_short_name": "België"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of the parent subdivisions",
+            "short_description_fr": "Ajout des subdivisions mères"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "First level prefix addition, change of administrative languages and list source update.",
+            "short_description_fr": "Ajout du préfixe au premier niveau, mise en conformité des langues administratives et mise à jour de la liste source."
         }
     ]
 }

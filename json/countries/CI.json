@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 2,
+            "category_locales": [
+                "autonomous district (en)",
+                "district autonome (fr)"
+            ]
+        },
+        {
+            "category_count": 12,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "autonomous district",
@@ -142,6 +158,23 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Côte d'Ivoire (la)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-09-02",
+            "short_description_en": "Correction of the French full name",
+            "short_description_fr": "Correction de la forme longue en français"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Update Code Source",
+            "short_description_fr": "Mise à jour du Code Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of all regions CI-01 to CI-19; addition of districts CI-BS, CI-CM, CI-DN, CI-GD, CI-LC, CI-LG, CI-MG, CI-SM, CI-SV, CI-VB, CI-WR, CI-ZZ; addition of autonomous districts CI-AB, CI-YM; update List Source",
+            "short_description_fr": "Suppression de toutes les régions CI-01 to CI-19; ajout des districts CI-BS, CI-CM, CI-DN, CI-GD, CI-LC, CI-LG, CI-MG, CI-SM, CI-SV, CI-VB, CI-WR, CI-ZZ; ajout des disctricts autonomes CI-AB, CI-YM; mise à jour de la Liste Source"
         }
     ]
 }

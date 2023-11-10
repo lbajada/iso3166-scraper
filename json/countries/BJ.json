@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "department (en)",
+                "département (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -124,6 +133,18 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Bénin (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of spelling of BJ-AK, BJ-KO; update List Source",
+            "short_description_fr": "Modification de l'orthographe de BJ-AK, BJ-KO; mise à jour de la Liste Source"
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Anjouan, Grande Comore, Mohéli",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "island (en)",
+                "île (fr)",
+                "jazīrah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "island",
@@ -134,6 +144,43 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Comores (les)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of subdivision category in ara replacing jazā’ir (plural) with jazīrah (singular)",
+            "short_description_fr": "Correction de la catégorie de subdivision en ara remplacer jazā’ir par jazīrah"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Correction of the romanization system label",
+            "short_description_fr": "Correction de l'étiquette du système de romanization"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Correction of quotation marks in the remark",
+            "short_description_fr": "Correction des guillemets dans la remarque"
+        },
+        {
+            "date": "2015-02-26",
+            "short_description_en": "Correction of the Remarks to Parts 1 and 2 concerning the language code “002” to read “The language code \"002\" refers to the administrative language “Shikomor” that has not been assigned an ISO 639 language code.",
+            "short_description_fr": "Correction des remarques des parties 1 et 2 concernant le code langue “002” comme suit : “Le code langue “002” se réfère à la langue administrative “Shikomor” pour laquelle aucun code langue ISO 639 n’a été attribué.”"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the English short name lower case with UNTERM",
+            "short_description_fr": "Alignement de la forme courte anglaise en minuscules avec UNTERM"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Consistency between ISO 3166-1 and ISO 3166-2, addition of names in administrative languages, and update of the administrative structure and of the list source",
+            "short_description_fr": "Cohérence de la partie 1 et de la partie 2, mise à jour résultant de la réalité du découpage administratif et essai d’ajustement linguistique."
+        },
+        {
+            "date": "2009-01-07",
+            "short_description_en": "Addition of administrative language Shikomor (-,-)",
+            "short_description_fr": "Adjonction de la langue administrative shikomor (-,-)"
         }
     ]
 }

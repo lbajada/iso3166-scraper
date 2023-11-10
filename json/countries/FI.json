@@ -9,6 +9,17 @@
     "independent": "Yes",
     "territory_name": "Åland Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 19,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "maakunta (fi)",
+                "landskap (sv)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -363,6 +374,23 @@
             "administrative_language_alpha2": "sv",
             "administrative_language_alpha3": "swe",
             "local_short_name": "Finland"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Change of spelling of FI-17; Update List Source",
+            "short_description_fr": "Modification de l'orthographe de FI-17; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Update Code Source",
+            "short_description_fr": "Mise à jour du Code Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Administrative re-organization, deletion of useless information and the region names in English and French, source list and source code update.",
+            "short_description_fr": "Réorganisation administrative, suppression d’information inutile et du nom des régions en anglais et français, mise à jour de la liste source et du code source."
         }
     ]
 }

@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "region (da)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -61,6 +71,13 @@
             "administrative_language_alpha2": "da",
             "administrative_language_alpha3": "dan",
             "local_short_name": "Danmark"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Local generic term is changed to singular, alphabetical re-ordering by generic term suppression and source list update.",
+            "short_description_fr": "Mise au singulier du terme générique local, remise en ordre alphabétique par suppression du terme générique et mise à jour de la liste source."
         }
     ]
 }

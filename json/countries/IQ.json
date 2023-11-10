@@ -9,6 +9,25 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 18,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "iqlīm (ar)",
+                "herêm (ku)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -228,6 +247,33 @@
             "administrative_language_alpha2": "ku",
             "administrative_language_alpha3": "kur",
             "local_short_name": "‘Êraq"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-03-03",
+            "short_description_en": "Addition of category region in eng, fra, ara, kur; Addition of region IQ-KR; Assign parent subdivision to IQ-AR, IQ-DA, IQ-SU; Update List and Code Source",
+            "short_description_fr": "Ajout de la catégorie région en eng, fra, ara, kur; Ajout d'une région IQ-KR; Attribution de la subdivision-mère IQ-AR, IQ-DA, IQ-SU; Mise à jour de la Liste Source et du Code Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of the alpha 2 and alpha 3 administrative language codes ku, kur",
+            "short_description_fr": "Ajout des codets alpha 2 et alpha 3 de la langue administrative ku, kur"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Addition of romanization system BGN/PCGN 2007 (kur); addition of the remark; addition of governorate IQ-SU, IQ-DA, IQ-AR in kur, update list source",
+            "short_description_fr": "Ajout du système de romanisation BGN/PCGN 2007 (kur); ajout de la remarque; ajout de gouvernorat IQ-SU, IQ-DA, IQ-AR en kur mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Typographical correction of IQ-KA; update List Source",
+            "short_description_fr": "Correction typographique de IQ-KA; mise à jour"
+        },
+        {
+            "date": "2014-10-30",
+            "short_description_en": "Change subdivision code from IQ-TS to IQ-KI; update List Source",
+            "short_description_fr": "Changement du code de subdivision remplacer IQ-TS par IQ-KI; mise à jour de la Liste Source"
         }
     ]
 }

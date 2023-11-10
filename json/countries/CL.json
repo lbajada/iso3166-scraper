@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Easter Island, Juan Fernández Islands, Sala y Gómez Island, San Ambrosio Island, San Félix Island",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 16,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "región (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -160,6 +170,28 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Chile"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Addition of region CL-NB; Update List Source",
+            "short_description_fr": "Ajout de la région CL-NB; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Change of spelling of CL-AR, CL-AI; addition of local variation of CL-AI, CL-LI; update list source",
+            "short_description_fr": "Modification de l'orthographe de CL-AR, CL-AI; ajout d’une variation locale pour CL-AI, CL-LI; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Change spelling of CL-AI and CL-BI; update List Source",
+            "short_description_fr": "Modification de l'orthographe de CL-AI et CL-BI; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,23 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "niu",
             "local_short_name": "Niue"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2011-07-14",
+            "short_description_en": "Correct the long name which was incorrect",
+            "short_description_fr": "Corriger le nom long qui était incorrect"
+        },
+        {
+            "date": "2011-06-12",
+            "short_description_en": "Correct the long name which was incorrect",
+            "short_description_fr": "Corriger le nom long qui était incorrect"
         }
     ]
 }

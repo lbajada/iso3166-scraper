@@ -9,6 +9,32 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 11,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "şәhәr (az)"
+            ]
+        },
+        {
+            "category_count": 66,
+            "category_locales": [
+                "rayon (en)",
+                "district (fr)",
+                "rayon (az)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "autonomous republic (en)",
+                "république autonome (fr)",
+                "muxtar respublika (az)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "rayon",
@@ -718,6 +744,18 @@
             "administrative_language_alpha2": "az",
             "administrative_language_alpha3": "aze",
             "local_short_name": "Azərbaycan"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of the romanization system; update List Source",
+            "short_description_fr": "Suppression du système de romanisation; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Alphabetical re-ordering, name change of administrative places, first level prefix addition and source list update.",
+            "short_description_fr": "Mise en ordre alphabétique, changements de noms de lieux administratifs, ajout du préfixe au premier niveau et mise à jour de la liste source."
         }
     ]
 }

@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 5,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -77,5 +86,6 @@
             "administrative_language_alpha3": "zho",
             "local_short_name": "Xinjiapo"
         }
-    ]
+    ],
+    "change_history": []
 }

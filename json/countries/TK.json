@@ -9,6 +9,7 @@
     "independent": "No",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [],
     "subdivisions": [],
     "additional_information": [
         {
@@ -20,6 +21,18 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "tkl",
             "local_short_name": "Tokelau"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Modification of remark part 2",
+            "short_description_fr": "Modification de la remarque, partie 2"
+        },
+        {
+            "date": "2016-07-25",
+            "short_description_en": "Addition of the alpha 3 administrative language code tkl",
+            "short_description_fr": "Ajout du codet alpha 3 de la langue administrative tkl"
         }
     ]
 }

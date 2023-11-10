@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": "Swan Islands",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 18,
+            "category_locales": [
+                "department (en)",
+                "département (fr)",
+                "departamento (es)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "department",
@@ -178,6 +188,13 @@
             "administrative_language_alpha2": "es",
             "administrative_language_alpha3": "spa",
             "local_short_name": "Honduras"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2011-12-13",
+            "short_description_en": "Comment taken into account and source list update.",
+            "short_description_fr": "Reprise de la remarque et mise à jour de la liste source."
         }
     ]
 }

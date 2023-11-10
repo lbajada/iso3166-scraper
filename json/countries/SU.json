@@ -9,6 +9,14 @@
     "independent": null,
     "territory_name": null,
     "status": "Exceptionally reserved",
+    "subdivision_categories": [],
     "subdivisions": [],
-    "additional_information": []
+    "additional_information": [],
+    "change_history": [
+        {
+            "date": "2017-03-17",
+            "short_description_en": "Deletion of \"Republic of\" in front of (MD, MDA, 498) in the Remark Part 3 in English",
+            "short_description_fr": "Suppression de \"Republic of\" devant (MD, MDA, 498) de la remarque, partie 3 en anglais"
+        }
+    ]
 }

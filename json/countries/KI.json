@@ -9,6 +9,15 @@
     "independent": "Yes",
     "territory_name": "Abariringa, Banaba, Enderbury Island, Gilbert Islands, Kiritimati, part of Line Islands, Phoenix Islands, Tarawa",
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 3,
+            "category_locales": [
+                "group of islands (20 inhabited islands) (en)",
+                "groupe d’îles (20 îles habitées) (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "group of islands (20 inhabited islands)",
@@ -48,6 +57,28 @@
             "administrative_language_alpha2": "-",
             "administrative_language_alpha3": "gil",
             "local_short_name": "Kiribati"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2009-03-03",
+            "short_description_en": "Addition of administrative language Gilbertese (-, gil)",
+            "short_description_fr": "Adjonction de la langue administrative gilbertin (-, gil)"
         }
     ]
 }

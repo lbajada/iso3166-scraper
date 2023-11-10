@@ -9,6 +9,29 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 4,
+            "category_locales": [
+                "geographical region (en)",
+                "région géographique (fr)"
+            ]
+        },
+        {
+            "category_count": 134,
+            "category_locales": [
+                "district (en)",
+                "district (fr)"
+            ]
+        },
+        {
+            "category_count": 1,
+            "category_locales": [
+                "city (en)",
+                "ville (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -1267,6 +1290,38 @@
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
             "local_short_name": "Uganda"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Addition of district UG-237, UG-335, UG-336, UG-337, UG-433, UG-434, UG-435; Change of spelling of UG-220; Removal of an asterisk from UG-125, UG-126, UG-233, UG-234, UG-235, UG-236, UG-331, UG-332, UG-333, UG-334, UG-427, UG-428, UG-429, UG-430, UG-431, UG-432",
+            "short_description_fr": "Ajout d'un district UG-237, UG-335, UG-336, UG-337, UG-433, UG-434, UG-435; Modification de l'orthographe de UG-220; Suppression de la astérisque aux UG-125, UG-126, UG-233, UG-234, UG-235, UG-236, UG-331, UG-332, UG-333, UG-334, UG-427, UG-428, UG-429, UG-429, UG-430, UG-431, UG-432"
+        },
+        {
+            "date": "2018-11-26",
+            "short_description_en": "Addition of districts UG-126, UG-235, UG-236, UG-333, UG-334, UG-432; Update List Source",
+            "short_description_fr": "Ajout des districts UG-126, UG-235, UG-236, UG-333, UG-334, UG-432; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Addition of districts UG-125, UG-233, UG-234, UG-331, UG-332, UG-427, UG-428, UG-429, UG-430, UG-431; update List Source",
+            "short_description_fr": "Ajout des districts UG-125, UG-233, UG-234, UG-331, UG-332, UG-427, UG-428, UG-429, UG-430, UG-431; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2016-11-15",
+            "short_description_en": "Update Code Source; update List Source; change of parent subdivision of UG-325; deletion of asterisks from districts; change of subdivision code from UG-114 to UG-115, UG-115 to UG-116, UG-116 to UG-114, UG-218 to UG-220, UG-219 to UG-221, UG-220 to UG-222, UG-221 to UG-223, UG-222 to UG-224, UG-223 to UG-218, UG-224 to UG-219, UG-314 to G-315, UG-315 to UG-318, UG-316 to UG-319, UG-317 to UG-314, UG-318 to UG-317, UG-319 to UG-316, UG-325 to UG-420, UG-326 to UG-325, UG-327 to UG-326, UG-328 to UG-327, UG-329 to UG-328, UG-330 to UG-329, UG-331 to UG-330, UG-416 to UG-417, UG-417 to UG-418, UG-418 to UG-419, UG-419 to UG-416, UG-420 to UG-421, UG-421 to UG-22, G-422 to UG-423, UG-423 to UG-424, UG-424 to UG-425, UG-425 to UG-426",
+            "short_description_fr": "Mise à jour du Code Source; mise à jour de la Liste Source; modification de de la subdivision-mère de UG-325; suppression des astérisques des districts; modification du code de subdivision remplacer UG-114 par UG-115, UG-115 par UG-116, UG-116 par UG-114, UG-218 par UG-220, UG-219 par UG-221, UG-220 par UG-222, UG-221 par UG-223, UG-222 par UG-24, UG-223 par UG-218, UG-224 par UG-219, UG-314 par UG-315, UG-315 par UG-318, UG-316 par UG-319, UG-317 par UG-314, UG-318 par UG-317, UG-319 par UG-316, UG-325 par UG-420, UG-326 par UG-325, UG-327 par UG-326, UG-328 par UG-327, UG-329 par UG-328, UG-330 par UG-329, UG-331 par UG-330, UG-416 par UG-417, UG-417 par UG-418, UG-18 par UG-419, UG-419 par UG-416, UG-420 par UG-421, UG-421 par UG-422, UG-422 par UG-423, UG-423 par UG-424, UG-424 par UG-425, UG-425 par UG-426"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Add 32 districts UG-117 to UG- 124, UG-225 to UG-232 , UG-322 to UG-331 and UG-420 to UG-425; change subdivision category from district to city for UG-102",
+            "short_description_fr": "Ajout de 32 districts UG-117 à UG- 124, UG-225 à UG-232 , UG-322 à UG-331 et UG-420 à UG-425; modification de la catégorie de subdivision de district à ville pour UG-102"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element, administrative update, alphabetical re-ordering",
+            "short_description_fr": "Ajout du préfixe au premier niveau, suppression des noms des divisions disparues au second niveau et reprise de l’ordre alphabétique."
         }
     ]
 }

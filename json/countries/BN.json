@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 4,
+            "category_locales": [
+                "district (en)",
+                "district (fr)",
+                "daerah (ms)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "district",
@@ -93,6 +103,28 @@
             "administrative_language_alpha2": "ms",
             "administrative_language_alpha3": "msa",
             "local_short_name": "Negara Brunei Darussalam"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2019-11-22",
+            "short_description_en": "Change of subdivision name of BN-BM; Update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de BN-BM; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of subdivision category name in Malay; update List Source",
+            "short_description_fr": "Ajout du nom de la catégorie de subdivision en malais; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-12-18",
+            "short_description_en": "Alignment of the French short name lower case with UNTERM; update of the remarks in French",
+            "short_description_fr": "Alignement de la forme courte française en minuscules avec UNTERM; mise à jour des remarques en français"
+        },
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Update List Source",
+            "short_description_fr": "Mise à jour de la Liste Source"
         }
     ]
 }

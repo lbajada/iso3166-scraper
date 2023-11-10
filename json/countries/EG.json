@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 27,
+            "category_locales": [
+                "governorate (en)",
+                "gouvernorat (fr)",
+                "muḩāfaz̧ah (ar)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "governorate",
@@ -259,6 +269,23 @@
             "administrative_language_alpha2": "ar",
             "administrative_language_alpha3": "ara",
             "local_short_name": "Mişr"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Addition of conventional/anglicised names as local variation to EG-BA, EG-ALX, EG-GZ, EG-C, EG-LX, EG-WAD, EG-SUZ, EG-PTS, EG-DT, EG-JS, EG-SIN, EG-SHG",
+            "short_description_fr": "Ajout des noms conventionels/anglicisés comme variation locale de EG-BA, EG-ALX, EG-GZ, EG-C, EG-LX, EG-WAD, EG-SUZ, EG-PTS, EG-DT, EG-JS, EG-SIN, EG-SHG"
+        },
+        {
+            "date": "2014-10-29",
+            "short_description_en": "Delete EG-HU and EG-SU; update List Source",
+            "short_description_fr": "Suppression d'EG-HU et d'EG-SU; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2010-06-30",
+            "short_description_en": "Update of the administrative structure and of the list source",
+            "short_description_fr": "Mise à jour résultant de la réalité du découpage administratif et mise à jour de la liste source."
         }
     ]
 }

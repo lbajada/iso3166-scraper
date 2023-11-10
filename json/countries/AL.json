@@ -9,6 +9,16 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 12,
+            "category_locales": [
+                "county (en)",
+                "comté (fr)",
+                "qark (sq)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "county",
@@ -124,6 +134,28 @@
             "administrative_language_alpha2": "sq",
             "administrative_language_alpha3": "sqi",
             "local_short_name": "Shqipëria; Shqipëri"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Correction of the Code Source",
+            "short_description_fr": "Correction du Code Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Change of subdivision category from préfecture to comté in French ; deletion of all districts ; update List Source",
+            "short_description_fr": "Changement de la catégorie de subdivision remplacer préfecture par comté en français ; suppression de tous les districts; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2014-04-03",
+            "short_description_en": "Separation of the variant local short names by semi-colon",
+            "short_description_fr": "Séparation des variantes des noms locaux par un point virgule"
+        },
+        {
+            "date": "2010-02-19",
+            "short_description_en": "Addition of the country code prefix as the first code element",
+            "short_description_fr": "Ajout du préfixe au premier niveau"
         }
     ]
 }

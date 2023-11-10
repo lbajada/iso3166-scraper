@@ -9,6 +9,22 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 1,
+            "category_locales": [
+                "urban community (en)",
+                "communauté urbaine (fr)"
+            ]
+        },
+        {
+            "category_count": 7,
+            "category_locales": [
+                "region (en)",
+                "région (fr)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "region",
@@ -88,6 +104,13 @@
             "administrative_language_alpha2": "fr",
             "administrative_language_alpha3": "fra",
             "local_short_name": "Niger (le)"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2014-11-03",
+            "short_description_en": "Change subdivision category from department to region; update List Source",
+            "short_description_fr": "Modification de la catégorie de subdivision de départements en régions; mise à jour de la Liste Source"
         }
     ]
 }

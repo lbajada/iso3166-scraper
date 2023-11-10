@@ -9,6 +9,24 @@
     "independent": "Yes",
     "territory_name": null,
     "status": "Officially assigned",
+    "subdivision_categories": [
+        {
+            "category_count": 8,
+            "category_locales": [
+                "region (en)",
+                "région (fr)",
+                "landsvæði (is)"
+            ]
+        },
+        {
+            "category_count": 64,
+            "category_locales": [
+                "municipality (en)",
+                "municipalité (fr)",
+                "sveitarfélagið (is)"
+            ]
+        }
+    ],
     "subdivisions": [
         {
             "category": "municipality",
@@ -664,6 +682,38 @@
             "administrative_language_alpha2": "is",
             "administrative_language_alpha3": "isl",
             "local_short_name": "Ísland"
+        }
+    ],
+    "change_history": [
+        {
+            "date": "2022-11-29",
+            "short_description_en": "Deletion of municipality IS-AKH, IS-BLO, IS-HEL, IS-HUT, IS-SBH, IS-SKU, IS-SSF; Addition of municipality IS-HUG, IS-SKR",
+            "short_description_fr": "Suppression d'une municipalité IS-AKH, IS-BLO, IS-HEL, IS-HUT, IS-SBH, IS-SKU, IS-SSF; Ajout d'une municipalité IS-HUG, IS-SKR"
+        },
+        {
+            "date": "2022-11-21",
+            "short_description_en": "Change of the full name",
+            "short_description_fr": "Modification de la forme longue"
+        },
+        {
+            "date": "2021-11-25",
+            "short_description_en": "Deletion of municipality IS-BFJ, IS-DJU, IS-FLD, IS-SEY; Addition of municipality IS-MUL; Update List Source",
+            "short_description_fr": "Suppression d'une municipalité IS-BFJ, IS-DJU, IS-FLD, IS-SEY; Ajout d'une municipalité IS-MUL; Mise à jour de la Liste Source"
+        },
+        {
+            "date": "2020-11-24",
+            "short_description_en": "Addition of category municipality; Addition of municipality IS-AKH, IS-AKN, IS-AKU, IS-ARN, IS-ASA, IS-BFJ, IS-BLA, IS-BLO, IS-BOG, IS-BOL, IS-DAB, IS-DAV, IS-DJU, IS-EOM, IS-EYF, IS-FJD, IS-FJL, IS-FLA, IS-FLD, IS-FLR, IS-GAR, IS-GOG, IS-GRN, IS-GRU, IS-GRY, IS-HAF, IS-HEL, IS-HRG, IS-HRU, IS-HUT, IS-HUV, IS-HVA, IS-HVE, IS-ISA, IS-KAL, IS-KJO, IS-KOP, IS-LAN, IS-MOS, IS-MYR, IS-NOR, IS-RGE, IS-RGY, IS-RHH, IS-RHN, IS-RKV, IS-SBH, IS-SBT, IS-SDN, IS-SDV, IS-SEL, IS-SEY, IS-SFA, IS-SHF, IS-SKF, IS-SKG, IS-SKO, IS-SKU, IS-SNF, IS-SOG, IS-SOL, IS-SSF, IS-SSS, IS-STR, IS-STY, IS-SVG, IS-TAL, IS-THG, IS-TJO, IS-VEM, IS-VER, IS-VOP; Update List Source; Update Code Source",
+            "short_description_fr": "Ajout de la catégorie municipalité; Ajout d'une municipalité IS-AKH, IS-AKN, IS-AKU, IS-ARN, IS-ASA, IS-BFJ, IS-BLA, IS-BLO, IS-BOG, IS-BOL, IS-DAB, IS-DAV, IS-DJU, IS-EOM, IS-EYF, IS-FJD, IS-FJL, IS-FLA, IS-FLD, IS-FLR, IS-GAR, IS-GOG, IS-GRN, IS-GRU, IS-GRY, IS-HAF, IS-HEL, IS-HRG, IS-HRU, IS-HUT, IS-HUV, IS-HVA, IS-HVE, IS-ISA, IS-KAL, IS-KJO, IS-KOP, IS-LAN, IS-MOS, IS-MYR, IS-NOR, IS-RGE, IS-RGY, IS-RHH, IS-RHN, IS-RKV, IS-SBH, IS-SBT, IS-SDN, IS-SDV, IS-SEL, IS-SEY, IS-SFA, IS-SHF, IS-SKF, IS-SKG, IS-SKO, IS-SKU, IS-SNF, IS-SOG, IS-SOL, IS-SSF, IS-SSS, IS-STR, IS-STY, IS-SVG, IS-TAL, IS-THG, IS-TJO, IS-VEM, IS-VER, IS-VOP; Mise à jour de la Liste Source; Mise à jour du Code Source"
+        },
+        {
+            "date": "2017-11-23",
+            "short_description_en": "Change of spelling of IS-1; update List Source",
+            "short_description_fr": "Modification de l'orthographe de IS-1; mise à jour de la Liste Source"
+        },
+        {
+            "date": "2015-11-27",
+            "short_description_en": "Deletion of region IS-0",
+            "short_description_fr": "Suppression d'une région IS-0"
         }
     ]
 }
