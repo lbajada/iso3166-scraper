@@ -1,6 +1,6 @@
 {
     "alpha2_code": "KP",
-    "short_name": "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+    "short_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
     "short_name_lower_case": "Korea (the Democratic People's Republic of)",
     "full_name": "the Democratic People's Republic of Korea",
     "alpha3_code": "PRK",
@@ -287,6 +287,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2024-02-29",
+            "short_description_en": "Change of short name upper case in eng: replace the parentheses with a coma",
+            "short_description_fr": "Modification du nom court en majuscules en eng: remplacer les parenthèses par une virgule"
+        },
         {
             "date": "2022-11-29",
             "short_description_en": "Addition of metropolitan city KP-15; Update List Source",

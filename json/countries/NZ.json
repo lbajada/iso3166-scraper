@@ -255,7 +255,7 @@
         {
             "category": "region",
             "3166-2_code": "NZ-AUK",
-            "name": "Tāmaki -Makaurau",
+            "name": "Tāmaki-Makaurau",
             "local_variant": null,
             "language_code": "mi",
             "romanization_system": null,
@@ -338,6 +338,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Deletion of the space before the dash of NZ-AUK in mri",
+            "short_description_fr": "Suppression de l’espace avant le tiret de NZ-AUK en mri"
+        },
         {
             "date": "2022-11-29",
             "short_description_en": "Change of subdivision name of NZ-AUK, NZ-BOP, NZ-STL, NZ-GIS, NZ-HKB, NZ-NTL, NZ-WTC in mri; Change of subdivision name of NZ-WGN, NZ-MWT in eng and mri; Addition of subdivision name for NZ-WKO in eng; Addition of subdivision name for NZ-TAS in mri; Update List Source",

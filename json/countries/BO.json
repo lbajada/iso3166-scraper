@@ -1,6 +1,6 @@
 {
     "alpha2_code": "BO",
-    "short_name": "BOLIVIA (PLURINATIONAL STATE OF)",
+    "short_name": "BOLIVIA, PLURINATIONAL STATE OF",
     "short_name_lower_case": "Bolivia (Plurinational State of)",
     "full_name": "the Plurinational State of Bolivia",
     "alpha3_code": "BOL",
@@ -110,6 +110,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2024-02-29",
+            "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+            "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+        },
         {
             "date": "2014-12-18",
             "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM",

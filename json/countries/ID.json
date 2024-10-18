@@ -18,7 +18,7 @@
             ]
         },
         {
-            "category_count": 35,
+            "category_count": 36,
             "category_locales": [
                 "province (en)",
                 "province (fr)",
@@ -306,6 +306,15 @@
         },
         {
             "category": "province",
+            "3166-2_code": "ID-PD",
+            "name": "Papua Barat Daya",
+            "local_variant": null,
+            "language_code": "id",
+            "romanization_system": null,
+            "parent_subdivision": "ID-PP"
+        },
+        {
+            "category": "province",
             "3166-2_code": "ID-PE",
             "name": "Papua Pengunungan",
             "local_variant": null,
@@ -448,6 +457,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Addition of province ID-PD; Update List Source",
+            "short_description_fr": "Ajout d'une province ID-PD; Mise à jour de la Liste Source"
+        },
         {
             "date": "2022-11-29",
             "short_description_en": "Addition of provinces ID-PE, ID-PS and ID-PT; Update List Source",

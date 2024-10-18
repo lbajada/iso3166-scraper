@@ -1,6 +1,6 @@
 {
     "alpha2_code": "FM",
-    "short_name": "MICRONESIA (FEDERATED STATES OF)",
+    "short_name": "MICRONESIA, FEDERATED STATES OF",
     "short_name_lower_case": "Micronesia (Federated States of)",
     "full_name": "the Federated States of Micronesia",
     "alpha3_code": "FSM",
@@ -64,6 +64,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2024-02-29",
+            "short_description_en": "Change of short name upper case: replace the parentheses with a coma and correct the remark in English of the entry of Micronesia Federate states (removing duplicated text)",
+            "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule et correction de la remarque anglaise pour les états Fédérés de Micronésie (suppression du texte en double)"
+        },
         {
             "date": "2015-11-27",
             "short_description_en": "Update List Source",

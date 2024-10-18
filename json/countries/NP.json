@@ -76,6 +76,24 @@
         },
         {
             "category": "province",
+            "3166-2_code": "NP-P1",
+            "name": "Koshi",
+            "local_variant": "Province 1",
+            "language_code": "en",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
+            "3166-2_code": "NP-P1",
+            "name": "Koshī",
+            "local_variant": "Pradesh 1",
+            "language_code": "ne",
+            "romanization_system": "conventional names",
+            "parent_subdivision": null
+        },
+        {
+            "category": "province",
             "3166-2_code": "NP-P5",
             "name": "Lumbini",
             "local_variant": "Province 5",
@@ -112,24 +130,6 @@
         },
         {
             "category": "province",
-            "3166-2_code": "NP-P1",
-            "name": "Pradesh 1",
-            "local_variant": null,
-            "language_code": "ne",
-            "romanization_system": "conventional names",
-            "parent_subdivision": null
-        },
-        {
-            "category": "province",
-            "3166-2_code": "NP-P1",
-            "name": "Province 1",
-            "local_variant": null,
-            "language_code": "en",
-            "romanization_system": null,
-            "parent_subdivision": null
-        },
-        {
-            "category": "province",
             "3166-2_code": "NP-P7",
             "name": "Sudurpashchim",
             "local_variant": "Sudūr Pashchim; Province 7",
@@ -155,6 +155,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Change of subdivision name of NP-P1; Update List Source",
+            "short_description_fr": "Modification du nom de la subdivision de NP-P1 ; Mise à jour de la Liste Source"
+        },
         {
             "date": "2022-11-29",
             "short_description_en": "Deletion of development regions NP-1, NP-2, NP-3, NP-4, NP-5; Change of subdivision name of NP-P4, NP-P6 in nep; Change of subdivision name of NP-P2, NP-P7 in eng and nep; Change of subdivision name of NP-P3 in eng; Addition of location variation for NP-2 in eng and nep; Modification of local variation for NP-P7 in eng and nep; Deletion of zones NP-BA, NP-BH, NP-DH, NP-GA, NP-JA, NP-KA, NP-KO, NP-LU, NP-MA, NP-ME, NP-NA, NP-RA, NP-SA, NP-SE: Update List Source; Modification of remark part 2",

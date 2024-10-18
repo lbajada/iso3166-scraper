@@ -11,7 +11,7 @@
     "status": "Officially assigned",
     "subdivision_categories": [
         {
-            "category_count": 24,
+            "category_count": 25,
             "category_locales": [
                 "opština ()",
                 "municipality (en)",
@@ -220,6 +220,15 @@
         },
         {
             "category": "municipality",
+            "3166-2_code": "ME-25",
+            "name": "Zeta",
+            "local_variant": null,
+            "language_code": "-",
+            "romanization_system": null,
+            "parent_subdivision": null
+        },
+        {
+            "category": "municipality",
             "3166-2_code": "ME-18",
             "name": "Šavnik",
             "local_variant": null,
@@ -245,6 +254,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Addition of municipality ME-25; Update List Source",
+            "short_description_fr": "Ajout d'une municipalité ME-25; Mise à jour de la Liste Source"
+        },
         {
             "date": "2020-11-24",
             "short_description_en": "Update List Source; Correction of the Code Source",

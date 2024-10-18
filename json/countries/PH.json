@@ -19,7 +19,7 @@
             ]
         },
         {
-            "category_count": 81,
+            "category_count": 82,
             "category_locales": [
                 "province (en)",
                 "province (fr)",
@@ -615,6 +615,15 @@
         },
         {
             "category": "province",
+            "3166-2_code": "PH-MGN",
+            "name": "Hilagang Magindanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
             "3166-2_code": "PH-NSA",
             "name": "Hilagang Samar",
             "local_variant": null,
@@ -939,17 +948,17 @@
         },
         {
             "category": "province",
-            "3166-2_code": "PH-MAG",
-            "name": "Magindanaw",
+            "3166-2_code": "PH-MGN",
+            "name": "Maguindanao del Norte",
             "local_variant": null,
-            "language_code": "tl",
+            "language_code": "en",
             "romanization_system": null,
             "parent_subdivision": "PH-14"
         },
         {
             "category": "province",
-            "3166-2_code": "PH-MAG",
-            "name": "Maguindanao",
+            "3166-2_code": "PH-MGS",
+            "name": "Maguindanao del Sur",
             "local_variant": null,
             "language_code": "en",
             "romanization_system": null,
@@ -1713,6 +1722,15 @@
         },
         {
             "category": "province",
+            "3166-2_code": "PH-MGS",
+            "name": "Timog Magindanaw",
+            "local_variant": null,
+            "language_code": "tl",
+            "romanization_system": null,
+            "parent_subdivision": "PH-14"
+        },
+        {
+            "category": "province",
             "3166-2_code": "PH-ZAS",
             "name": "Timog Sambuwangga",
             "local_variant": null,
@@ -1797,6 +1815,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Deletion of province PH-MAG; Addition of province PH-MGN, PH-MGS",
+            "short_description_fr": "Suppression d'une province PH-MAG; Ajout d'une province PH-MGN, PH-MGS"
+        },
         {
             "date": "2020-11-24",
             "short_description_en": "Change of subdivision name of PH-COM in eng; Deletion of subdivision name of PH-COM in tgl; Update List Source ; Correction of the Code Source",

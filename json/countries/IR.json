@@ -1,6 +1,6 @@
 {
     "alpha2_code": "IR",
-    "short_name": "IRAN (ISLAMIC REPUBLIC OF)",
+    "short_name": "IRAN, ISLAMIC REPUBLIC OF",
     "short_name_lower_case": "Iran (Islamic Republic of)",
     "full_name": "the Islamic Republic of Iran",
     "alpha3_code": "IRN",
@@ -308,6 +308,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2024-02-29",
+            "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+            "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+        },
         {
             "date": "2020-11-24",
             "short_description_en": "Change of subdivision code from IR-01 to IR-03, IR-02 to IR-04, IR-03 to IR-24, IR-04 to IR-10, IR-05 to IR-16, IR-06 to IR-18, IR-07 to IR-23, IR-08 to IR-14, IR-10 to IR-06, IR-11 to IR-19, IR-12 to IR-20, IR-13 to IR-11, IR-14 to IR-07, IR-15 to IR-08, IR-16 to IR-12, IR-17 to IR-05, IR-18 to IR-17, IR-19 to IR-01, IR-20 to IR-15, IR-21 to IR-02, IR-22 to IR-00, IR-23 to IR-22, IR-24 to IR-13, IR-25 to IR-21, IR-26 to IR-25, IR-28 to IR-26, IR-30 to IR-09, IR-31 to IR-28, IR-32 to IR-30 ; Update Code Source",

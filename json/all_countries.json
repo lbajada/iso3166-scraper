@@ -5920,7 +5920,7 @@
     },
     {
         "alpha2_code": "BO",
-        "short_name": "BOLIVIA (PLURINATIONAL STATE OF)",
+        "short_name": "BOLIVIA, PLURINATIONAL STATE OF",
         "short_name_lower_case": "Bolivia (Plurinational State of)",
         "full_name": "the Plurinational State of Bolivia",
         "alpha3_code": "BOL",
@@ -6030,6 +6030,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2024-02-29",
+                "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+                "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+            },
             {
                 "date": "2014-12-18",
                 "short_description_en": "Alignment of the English and French short names upper and lower case with UNTERM",
@@ -17650,7 +17655,7 @@
     },
     {
         "alpha2_code": "FM",
-        "short_name": "MICRONESIA (FEDERATED STATES OF)",
+        "short_name": "MICRONESIA, FEDERATED STATES OF",
         "short_name_lower_case": "Micronesia (Federated States of)",
         "full_name": "the Federated States of Micronesia",
         "alpha3_code": "FSM",
@@ -17714,6 +17719,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2024-02-29",
+                "short_description_en": "Change of short name upper case: replace the parentheses with a coma and correct the remark in English of the entry of Micronesia Federate states (removing duplicated text)",
+                "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule et correction de la remarque anglaise pour les états Fédérés de Micronésie (suppression du texte en double)"
+            },
             {
                 "date": "2015-11-27",
                 "short_description_en": "Update List Source",
@@ -25001,7 +25011,7 @@
                 ]
             },
             {
-                "category_count": 35,
+                "category_count": 36,
                 "category_locales": [
                     "province (en)",
                     "province (fr)",
@@ -25289,6 +25299,15 @@
             },
             {
                 "category": "province",
+                "3166-2_code": "ID-PD",
+                "name": "Papua Barat Daya",
+                "local_variant": null,
+                "language_code": "id",
+                "romanization_system": null,
+                "parent_subdivision": "ID-PP"
+            },
+            {
+                "category": "province",
                 "3166-2_code": "ID-PE",
                 "name": "Papua Pengunungan",
                 "local_variant": null,
@@ -25431,6 +25450,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Addition of province ID-PD; Update List Source",
+                "short_description_fr": "Ajout d'une province ID-PD; Mise à jour de la Liste Source"
+            },
             {
                 "date": "2022-11-29",
                 "short_description_en": "Addition of provinces ID-PE, ID-PS and ID-PT; Update List Source",
@@ -26362,7 +26386,7 @@
             },
             {
                 "category": "state",
-                "3166-2_code": "IN-CT",
+                "3166-2_code": "IN-CG",
                 "name": "Chhattīsgarh",
                 "local_variant": null,
                 "language_code": "en",
@@ -26533,7 +26557,7 @@
             },
             {
                 "category": "state",
-                "3166-2_code": "IN-OR",
+                "3166-2_code": "IN-OD",
                 "name": "Odisha",
                 "local_variant": null,
                 "language_code": "en",
@@ -26587,7 +26611,7 @@
             },
             {
                 "category": "state",
-                "3166-2_code": "IN-TG",
+                "3166-2_code": "IN-TS",
                 "name": "Telangāna",
                 "local_variant": null,
                 "language_code": "en",
@@ -26614,7 +26638,7 @@
             },
             {
                 "category": "state",
-                "3166-2_code": "IN-UT",
+                "3166-2_code": "IN-UK",
                 "name": "Uttarākhand",
                 "local_variant": null,
                 "language_code": "en",
@@ -26644,6 +26668,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Change of subdivision code from IN-OR to IN-OD, from IN-CT to IN-CG, from IN-TG to IN-TS, from IN-UT to IN-UK; Deletion of the asterisk from IN-JH; Update Code Source",
+                "short_description_fr": "Modification du code de subdivision remplacer IN-OR par IN-OD, IN-CT par IN-CG, IN-TG par IN-TS, IN-UT par IN-UK; Suppression de l’astérisque de IN-JH; Mise à jour du Code Source"
+            },
             {
                 "date": "2020-11-24",
                 "short_description_en": "Deletion of Union territory IN-DD, IN-DN; Addition of Union territory IN-DH; Correction of spelling for IN-AR, IN-BR, IN-CH, IN-CT, IN-DH, IN-GJ, IN-HP, IN-HR, IN-JH, IN-JK, IN-KA, IN-LA, IN-MH, IN-ML, IN-NL, IN-RJ, IN-TG, IN-TN, IN-UT; Addition of romanization system \"Indian System of Transliteration\"; Update List Source; Correction of the Code Source",
@@ -26975,7 +27004,7 @@
     },
     {
         "alpha2_code": "IR",
-        "short_name": "IRAN (ISLAMIC REPUBLIC OF)",
+        "short_name": "IRAN, ISLAMIC REPUBLIC OF",
         "short_name_lower_case": "Iran (Islamic Republic of)",
         "full_name": "the Islamic Republic of Iran",
         "alpha3_code": "IRN",
@@ -27283,6 +27312,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2024-02-29",
+                "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+                "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+            },
             {
                 "date": "2020-11-24",
                 "short_description_en": "Change of subdivision code from IR-01 to IR-03, IR-02 to IR-04, IR-03 to IR-24, IR-04 to IR-10, IR-05 to IR-16, IR-06 to IR-18, IR-07 to IR-23, IR-08 to IR-14, IR-10 to IR-06, IR-11 to IR-19, IR-12 to IR-20, IR-13 to IR-11, IR-14 to IR-07, IR-15 to IR-08, IR-16 to IR-12, IR-17 to IR-05, IR-18 to IR-17, IR-19 to IR-01, IR-20 to IR-15, IR-21 to IR-02, IR-22 to IR-00, IR-23 to IR-22, IR-24 to IR-13, IR-25 to IR-21, IR-26 to IR-25, IR-28 to IR-26, IR-30 to IR-09, IR-31 to IR-28, IR-32 to IR-30 ; Update Code Source",
@@ -32139,7 +32173,7 @@
     },
     {
         "alpha2_code": "KP",
-        "short_name": "KOREA (DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+        "short_name": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
         "short_name_lower_case": "Korea (the Democratic People's Republic of)",
         "full_name": "the Democratic People's Republic of Korea",
         "alpha3_code": "PRK",
@@ -32427,6 +32461,11 @@
         ],
         "change_history": [
             {
+                "date": "2024-02-29",
+                "short_description_en": "Change of short name upper case in eng: replace the parentheses with a coma",
+                "short_description_fr": "Modification du nom court en majuscules en eng: remplacer les parenthèses par une virgule"
+            },
+            {
                 "date": "2022-11-29",
                 "short_description_en": "Addition of metropolitan city KP-15; Update List Source",
                 "short_description_fr": "Ajout d'une ville métropolitaine KP-15; Mise à jour de la Liste Source"
@@ -32482,7 +32521,7 @@
                 ]
             },
             {
-                "category_count": 8,
+                "category_count": 7,
                 "category_locales": [
                     "province (en)",
                     "province (fr)",
@@ -32490,7 +32529,7 @@
                 ]
             },
             {
-                "category_count": 1,
+                "category_count": 2,
                 "category_locales": [
                     "special self-governing province (en)",
                     "province autonome spéciale (fr)",
@@ -32553,9 +32592,9 @@
                 "parent_subdivision": null
             },
             {
-                "category": "province",
+                "category": "special self-governing province",
                 "3166-2_code": "KR-42",
-                "name": "Gangwon-do",
+                "name": "Gangwon-teukbyeoljachido",
                 "local_variant": "Gangwon",
                 "language_code": "ko",
                 "romanization_system": "National 2000",
@@ -32669,6 +32708,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Change of category name from province to special self-governing province for KR-42; Update List Source",
+                "short_description_fr": "Modification du nom de catégorie remplacer province par province autonome spéciale pour KR-42 ; Mise à jour de la Liste Source"
+            },
             {
                 "date": "2018-11-26",
                 "short_description_en": "Correction of the romanization system label",
@@ -38798,7 +38842,7 @@
         "status": "Officially assigned",
         "subdivision_categories": [
             {
-                "category_count": 24,
+                "category_count": 25,
                 "category_locales": [
                     "opština ()",
                     "municipality (en)",
@@ -39007,6 +39051,15 @@
             },
             {
                 "category": "municipality",
+                "3166-2_code": "ME-25",
+                "name": "Zeta",
+                "local_variant": null,
+                "language_code": "-",
+                "romanization_system": null,
+                "parent_subdivision": null
+            },
+            {
+                "category": "municipality",
                 "3166-2_code": "ME-18",
                 "name": "Šavnik",
                 "local_variant": null,
@@ -39032,6 +39085,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Addition of municipality ME-25; Update List Source",
+                "short_description_fr": "Ajout d'une municipalité ME-25; Mise à jour de la Liste Source"
+            },
             {
                 "date": "2020-11-24",
                 "short_description_en": "Update List Source; Correction of the Code Source",
@@ -46246,6 +46304,24 @@
             },
             {
                 "category": "province",
+                "3166-2_code": "NP-P1",
+                "name": "Koshi",
+                "local_variant": "Province 1",
+                "language_code": "en",
+                "romanization_system": null,
+                "parent_subdivision": null
+            },
+            {
+                "category": "province",
+                "3166-2_code": "NP-P1",
+                "name": "Koshī",
+                "local_variant": "Pradesh 1",
+                "language_code": "ne",
+                "romanization_system": "conventional names",
+                "parent_subdivision": null
+            },
+            {
+                "category": "province",
                 "3166-2_code": "NP-P5",
                 "name": "Lumbini",
                 "local_variant": "Province 5",
@@ -46282,24 +46358,6 @@
             },
             {
                 "category": "province",
-                "3166-2_code": "NP-P1",
-                "name": "Pradesh 1",
-                "local_variant": null,
-                "language_code": "ne",
-                "romanization_system": "conventional names",
-                "parent_subdivision": null
-            },
-            {
-                "category": "province",
-                "3166-2_code": "NP-P1",
-                "name": "Province 1",
-                "local_variant": null,
-                "language_code": "en",
-                "romanization_system": null,
-                "parent_subdivision": null
-            },
-            {
-                "category": "province",
                 "3166-2_code": "NP-P7",
                 "name": "Sudurpashchim",
                 "local_variant": "Sudūr Pashchim; Province 7",
@@ -46325,6 +46383,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Change of subdivision name of NP-P1; Update List Source",
+                "short_description_fr": "Modification du nom de la subdivision de NP-P1 ; Mise à jour de la Liste Source"
+            },
             {
                 "date": "2022-11-29",
                 "short_description_en": "Deletion of development regions NP-1, NP-2, NP-3, NP-4, NP-5; Change of subdivision name of NP-P4, NP-P6 in nep; Change of subdivision name of NP-P2, NP-P7 in eng and nep; Change of subdivision name of NP-P3 in eng; Addition of location variation for NP-2 in eng and nep; Modification of local variation for NP-P7 in eng and nep; Deletion of zones NP-BA, NP-BH, NP-DH, NP-GA, NP-JA, NP-KA, NP-KO, NP-LU, NP-MA, NP-ME, NP-NA, NP-RA, NP-SA, NP-SE: Update List Source; Modification of remark part 2",
@@ -47009,7 +47072,7 @@
             {
                 "category": "region",
                 "3166-2_code": "NZ-AUK",
-                "name": "Tāmaki -Makaurau",
+                "name": "Tāmaki-Makaurau",
                 "local_variant": null,
                 "language_code": "mi",
                 "romanization_system": null,
@@ -47092,6 +47155,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Deletion of the space before the dash of NZ-AUK in mri",
+                "short_description_fr": "Suppression de l’espace avant le tiret de NZ-AUK en mri"
+            },
             {
                 "date": "2022-11-29",
                 "short_description_en": "Change of subdivision name of NZ-AUK, NZ-BOP, NZ-STL, NZ-GIS, NZ-HKB, NZ-NTL, NZ-WTC in mri; Change of subdivision name of NZ-WGN, NZ-MWT in eng and mri; Addition of subdivision name for NZ-WKO in eng; Addition of subdivision name for NZ-TAS in mri; Update List Source",
@@ -48587,7 +48655,7 @@
                 ]
             },
             {
-                "category_count": 81,
+                "category_count": 82,
                 "category_locales": [
                     "province (en)",
                     "province (fr)",
@@ -49183,6 +49251,15 @@
             },
             {
                 "category": "province",
+                "3166-2_code": "PH-MGN",
+                "name": "Hilagang Magindanaw",
+                "local_variant": null,
+                "language_code": "tl",
+                "romanization_system": null,
+                "parent_subdivision": "PH-14"
+            },
+            {
+                "category": "province",
                 "3166-2_code": "PH-NSA",
                 "name": "Hilagang Samar",
                 "local_variant": null,
@@ -49507,17 +49584,17 @@
             },
             {
                 "category": "province",
-                "3166-2_code": "PH-MAG",
-                "name": "Magindanaw",
+                "3166-2_code": "PH-MGN",
+                "name": "Maguindanao del Norte",
                 "local_variant": null,
-                "language_code": "tl",
+                "language_code": "en",
                 "romanization_system": null,
                 "parent_subdivision": "PH-14"
             },
             {
                 "category": "province",
-                "3166-2_code": "PH-MAG",
-                "name": "Maguindanao",
+                "3166-2_code": "PH-MGS",
+                "name": "Maguindanao del Sur",
                 "local_variant": null,
                 "language_code": "en",
                 "romanization_system": null,
@@ -50281,6 +50358,15 @@
             },
             {
                 "category": "province",
+                "3166-2_code": "PH-MGS",
+                "name": "Timog Magindanaw",
+                "local_variant": null,
+                "language_code": "tl",
+                "romanization_system": null,
+                "parent_subdivision": "PH-14"
+            },
+            {
+                "category": "province",
                 "3166-2_code": "PH-ZAS",
                 "name": "Timog Sambuwangga",
                 "local_variant": null,
@@ -50365,6 +50451,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Deletion of province PH-MAG; Addition of province PH-MGN, PH-MGS",
+                "short_description_fr": "Suppression d'une province PH-MAG; Ajout d'une province PH-MGN, PH-MGS"
+            },
             {
                 "date": "2020-11-24",
                 "short_description_en": "Change of subdivision name of PH-COM in eng; Deletion of subdivision name of PH-COM in tgl; Update List Source ; Correction of the Code Source",
@@ -50637,7 +50728,7 @@
             {
                 "category": "voivodship",
                 "3166-2_code": "PL-04",
-                "name": "Kujawsko-pomorskie",
+                "name": "Kujawsko-Pomorskie",
                 "local_variant": null,
                 "language_code": "pl",
                 "romanization_system": null,
@@ -50718,7 +50809,7 @@
             {
                 "category": "voivodship",
                 "3166-2_code": "PL-28",
-                "name": "Warmińsko-mazurskie",
+                "name": "Warmińsko-Mazurskie",
                 "local_variant": null,
                 "language_code": "pl",
                 "romanization_system": null,
@@ -50778,6 +50869,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2023-11-23",
+                "short_description_en": "Change of spelling of PL-04, PL-28; Update Code Source and List Source",
+                "short_description_fr": "Modification de l'orthographe de PL-04, PL-28; Mise à jour du Code Source et de la Liste Source"
+            },
             {
                 "date": "2018-11-26",
                 "short_description_en": "Change of category name from province to voivodship in eng and from région to voïvodie in fra; Change of subdivision code from PL-DS to PL-02, PL-KP to PL-04, PL-LB to PL-08, PL-LD to PL-10, PL-LU to PL-06, PL-MA to PL-12, PL-MZ to PL-14, PL-OP to PL-16, PL-PD to PL-20, PL-PK to PL-18, PL-PM to PL-22, PL-SK to PL-26, PL-SL to PL-24, PL-WN to PL-28, PL-WP to PL-30 and PL-ZP to PL-32; Update List Source; Update Code Source",
@@ -67443,7 +67539,7 @@
     },
     {
         "alpha2_code": "VE",
-        "short_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+        "short_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
         "short_name_lower_case": "Venezuela (Bolivarian Republic of)",
         "full_name": "the Bolivarian Republic of Venezuela",
         "alpha3_code": "VEN",
@@ -67713,6 +67809,11 @@
             }
         ],
         "change_history": [
+            {
+                "date": "2024-02-29",
+                "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+                "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+            },
             {
                 "date": "2020-11-24",
                 "short_description_en": "Change of subdivision name of VE-X; Update List Source; Correction of the Code Source",

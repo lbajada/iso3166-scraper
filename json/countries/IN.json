@@ -82,7 +82,7 @@
         },
         {
             "category": "state",
-            "3166-2_code": "IN-CT",
+            "3166-2_code": "IN-CG",
             "name": "Chhattīsgarh",
             "local_variant": null,
             "language_code": "en",
@@ -253,7 +253,7 @@
         },
         {
             "category": "state",
-            "3166-2_code": "IN-OR",
+            "3166-2_code": "IN-OD",
             "name": "Odisha",
             "local_variant": null,
             "language_code": "en",
@@ -307,7 +307,7 @@
         },
         {
             "category": "state",
-            "3166-2_code": "IN-TG",
+            "3166-2_code": "IN-TS",
             "name": "Telangāna",
             "local_variant": null,
             "language_code": "en",
@@ -334,7 +334,7 @@
         },
         {
             "category": "state",
-            "3166-2_code": "IN-UT",
+            "3166-2_code": "IN-UK",
             "name": "Uttarākhand",
             "local_variant": null,
             "language_code": "en",
@@ -364,6 +364,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2023-11-23",
+            "short_description_en": "Change of subdivision code from IN-OR to IN-OD, from IN-CT to IN-CG, from IN-TG to IN-TS, from IN-UT to IN-UK; Deletion of the asterisk from IN-JH; Update Code Source",
+            "short_description_fr": "Modification du code de subdivision remplacer IN-OR par IN-OD, IN-CT par IN-CG, IN-TG par IN-TS, IN-UT par IN-UK; Suppression de l’astérisque de IN-JH; Mise à jour du Code Source"
+        },
         {
             "date": "2020-11-24",
             "short_description_en": "Deletion of Union territory IN-DD, IN-DN; Addition of Union territory IN-DH; Correction of spelling for IN-AR, IN-BR, IN-CH, IN-CT, IN-DH, IN-GJ, IN-HP, IN-HR, IN-JH, IN-JK, IN-KA, IN-LA, IN-MH, IN-ML, IN-NL, IN-RJ, IN-TG, IN-TN, IN-UT; Addition of romanization system \"Indian System of Transliteration\"; Update List Source; Correction of the Code Source",

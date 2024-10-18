@@ -1,6 +1,6 @@
 {
     "alpha2_code": "VE",
-    "short_name": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+    "short_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
     "short_name_lower_case": "Venezuela (Bolivarian Republic of)",
     "full_name": "the Bolivarian Republic of Venezuela",
     "alpha3_code": "VEN",
@@ -270,6 +270,11 @@
         }
     ],
     "change_history": [
+        {
+            "date": "2024-02-29",
+            "short_description_en": "Change of short name upper case: replace the parentheses with a coma",
+            "short_description_fr": "Modification du nom court en majuscules: remplacer les parenthèses par une virgule"
+        },
         {
             "date": "2020-11-24",
             "short_description_en": "Change of subdivision name of VE-X; Update List Source; Correction of the Code Source",
