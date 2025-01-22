@@ -3,4 +3,4 @@ services:
     image: lbajada/iso3166-scraper:latest
     container_name: iso3166-scraper
     volumes:
-      - ./json:/json:rw
+      - ./countries:/countries:rw

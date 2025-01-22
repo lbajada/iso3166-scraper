@@ -306,7 +306,7 @@ def get_countries() -> list[Country]:
 
 driver = get_chrome_driver()
 
-JSON_FOLDER = "./countries"
+JSON_FOLDER = "/countries"
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
 with open(JSON_FOLDER + "/all_countries.json", "w+", encoding="utf-8") as all_countries_file:
