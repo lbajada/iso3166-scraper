@@ -86,6 +86,9 @@ def get_chrome_driver() -> WebDriver:
     # this parameter tells Chrome that
     # it should be run without UI (Headless)
     options.add_argument("--headless")
+    options.add_argument('--disable-gpu')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
 
     return webdriver.Chrome(options=options)
 
@@ -295,7 +298,7 @@ def get_countries() -> list[Country]:
                           additional_information=get_additional_information(), change_history=get_change_history())
         countries.append(country)
 
-        country_file = open("./json/countries/" + alpha2_code + ".json", "+w", encoding="utf-8")
+        country_file = open("/json/countries/" + alpha2_code + ".json", "w+", encoding="utf-8")
         country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
                            .replace("code3166_2", "3166-2_code"))
         country_file.close()
@@ -305,12 +308,11 @@ def get_countries() -> list[Country]:
 
 driver = get_chrome_driver()
 
-jsonFolder = "./json"
-if not os.path.exists(jsonFolder):
-    os.makedirs(jsonFolder)
-    os.makedirs(jsonFolder + "/countries")
+jsonFolder = "/json"
+os.makedirs(jsonFolder, exist_ok=True)
+os.makedirs(jsonFolder + "/countries", exist_ok=True)
 
-all_countries_file = open("./json/all_countries.json", "+w", encoding="utf-8")
+all_countries_file = open(jsonFolder + "/all_countries.json", "w+", encoding="utf-8")
 all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
                          .replace("code3166_2", "3166-2_code"))
 all_countries_file.close()
