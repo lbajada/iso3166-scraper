@@ -296,7 +296,7 @@ def get_countries() -> list[Country]:
                           additional_information=get_additional_information(), change_history=get_change_history())
         countries.append(country)
 
-        with open("/json/countries/" + alpha2_code + ".json", "w+", encoding="utf-8") as country_file:
+        with open(JSON_FOLDER + "/" + alpha2_code + ".json", "w+", encoding="utf-8") as country_file:
             country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
                             .replace("code3166_2", "3166-2_code"))
             country_file.close()
@@ -306,9 +306,8 @@ def get_countries() -> list[Country]:
 
 driver = get_chrome_driver()
 
-JSON_FOLDER = "/json"
+JSON_FOLDER = "./countries"
 os.makedirs(JSON_FOLDER, exist_ok=True)
-os.makedirs(JSON_FOLDER + "/countries", exist_ok=True)
 
 with open(JSON_FOLDER + "/all_countries.json", "w+", encoding="utf-8") as all_countries_file:
     all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
