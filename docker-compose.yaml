@@ -1,6 +1,6 @@
 services:
   iso3166-scraper:
-    image: iso3166-scraper:latest
+    image: lbajada/iso3166-scraper:latest
     container_name: iso3166-scraper
     volumes:
       - ./json:/json:rw
