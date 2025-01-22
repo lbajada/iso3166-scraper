@@ -1,10 +1,8 @@
 import os
-from typing import List, Type
+import json
 
 from selenium.webdriver.chrome.webdriver import WebDriver
-from selenium.webdriver.remote.webelement import WebElement
 
-import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
@@ -298,21 +296,21 @@ def get_countries() -> list[Country]:
                           additional_information=get_additional_information(), change_history=get_change_history())
         countries.append(country)
 
-        country_file = open("/json/countries/" + alpha2_code + ".json", "w+", encoding="utf-8")
-        country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
-                           .replace("code3166_2", "3166-2_code"))
-        country_file.close()
+        with open("/json/countries/" + alpha2_code + ".json", "w+", encoding="utf-8") as country_file:
+            country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
+                            .replace("code3166_2", "3166-2_code"))
+            country_file.close()
 
     return countries
 
 
 driver = get_chrome_driver()
 
-jsonFolder = "/json"
-os.makedirs(jsonFolder, exist_ok=True)
-os.makedirs(jsonFolder + "/countries", exist_ok=True)
+JSON_FOLDER = "/json"
+os.makedirs(JSON_FOLDER, exist_ok=True)
+os.makedirs(JSON_FOLDER + "/countries", exist_ok=True)
 
-all_countries_file = open(jsonFolder + "/all_countries.json", "w+", encoding="utf-8")
-all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
+with open(JSON_FOLDER + "/all_countries.json", "w+", encoding="utf-8") as all_countries_file:
+    all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
                          .replace("code3166_2", "3166-2_code"))
-all_countries_file.close()
+    all_countries_file.close()
