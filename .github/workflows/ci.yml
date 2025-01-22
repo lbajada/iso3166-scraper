@@ -31,7 +31,7 @@ jobs:
           pylint iso3166_scraper.py
 
   # Build and push Docker image job
-  build and push:
+  build-and-push:
     needs: lint  # This ensures the lint job must succeed before build starts
     runs-on: ubuntu-latest
     steps:
