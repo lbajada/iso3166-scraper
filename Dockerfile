@@ -1,5 +1,8 @@
 FROM python:3-alpine
 
+# Set working directory
+WORKDIR /app
+
 # Install chromium and its matching chromedriver
 RUN apk update && \
     apk add --no-cache \
