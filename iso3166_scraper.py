@@ -1,13 +1,12 @@
-import os
 import json
-
-from selenium.webdriver.chrome.webdriver import WebDriver
+import os
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support.expected_conditions import presence_of_element_located
+from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.expected_conditions import presence_of_element_located
+from selenium.webdriver.support.ui import WebDriverWait
 
 
 class Country(dict):
@@ -243,9 +242,9 @@ def get_subdivisions() -> list[Subdivision]:
     return subdivisions
 
 
-def get_countries() -> list[Country]:
+def get_country_list() -> list[Country]:
     country_urls = get_country_urls()
-    countries = []
+    country_list = []
 
     for country_url in country_urls:
         driver.get(country_url)
@@ -294,22 +293,33 @@ def get_countries() -> list[Country]:
                           independent=independent, territory_name=territory_name, status=status,
                           subdivision_categories=get_subdivision_categories(), subdivisions=get_subdivisions(),
                           additional_information=get_additional_information(), change_history=get_change_history())
-        countries.append(country)
+        country_list.append(country)
 
-        with open(JSON_FOLDER + "/" + alpha2_code + ".json", "w+", encoding="utf-8") as country_file:
-            country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
-                            .replace("code3166_2", "3166-2_code"))
-            country_file.close()
+    return country_list
 
-    return countries
+
+def save_country(country: Country):
+    with open(JSON_FOLDER + "/" + country.alpha2_code + ".json", "w+", encoding="utf-8") as country_file:
+        country_file.write(json.dumps(country, ensure_ascii=False, indent=4).replace('""', "null")
+                           .replace("code3166_2", "3166-2_code"))
+        country_file.close()
+
+
+def save_all_countries(country_list: list[Country]):
+    for country in country_list:
+        save_country(country)
+
+    payload = {"countries": country_list}
+
+    with open(JSON_FOLDER + "/all_countries.json", "w+", encoding="utf-8") as all_countries_file:
+        all_countries_file.write(json.dumps(payload, ensure_ascii=False, indent=4).replace('""', "null")
+                                 .replace("code3166_2", "3166-2_code"))
+        all_countries_file.close()
 
 
 driver = get_chrome_driver()
 
-JSON_FOLDER = "/countries"
+JSON_FOLDER = "./countries"
 os.makedirs(JSON_FOLDER, exist_ok=True)
 
-with open(JSON_FOLDER + "/all_countries.json", "w+", encoding="utf-8") as all_countries_file:
-    all_countries_file.write(json.dumps(get_countries(), ensure_ascii=False, indent=4).replace('""', "null")
-                         .replace("code3166_2", "3166-2_code"))
-    all_countries_file.close()
+save_all_countries(get_country_list())
