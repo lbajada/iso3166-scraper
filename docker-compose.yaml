@@ -1,7 +1,7 @@
 services:
   iso3166-scraper:
     build: .
-    image: lbajada/iso3166-scraper:latest
+    image: ghcr.io/lbajada/iso3166-scraper:latest
     container_name: iso3166-scraper
     shm_size: '2g'
     volumes:

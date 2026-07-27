@@ -111,7 +111,7 @@ If you prefer to run directly on your machine:
 4. **Run the scraper:**
 
     ```bash
-    python -m iso3166_scraper
+    PYTHONPATH=src python -m iso3166_scraper
     ```
 
 > **Why Google Chrome and not Chromium?** SeleniumBase UC mode patches the ChromeDriver binary to evade bot detection. These patches are built and tested against official Google Chrome releases. Chromium builds may use different versioning or be missing features that UC mode depends on, leading to detection or crashes.
@@ -151,13 +151,14 @@ If the scraper is consistently blocked:
 ## Project Structure
 
 ```
-iso3166_scraper/                # Python package
-├── __init__.py                 # Public API exports
-├── __main__.py                 # Entry point (python -m iso3166_scraper)
-├── models.py                   # Dataclass models (Country, Subdivision, etc.)
-├── serialization.py            # JSON normalization and serialization
-├── scraper.py                  # ISO3166Scraper class (browser + parsing)
-└── output.py                   # File I/O (save_all_countries)
+src/                            # Source code directory
+└── iso3166_scraper/            # Python package
+    ├── __init__.py             # Public API exports
+    ├── __main__.py             # Entry point (python -m iso3166_scraper)
+    ├── models.py               # Dataclass models (Country, Subdivision, etc.)
+    ├── serialization.py        # JSON normalization and serialization
+    ├── scraper.py              # ISO3166Scraper class (browser + parsing)
+    └── output.py               # File I/O (save_all_countries)
 tests/                          # Test suite
 ├── __init__.py
 ├── test_models.py              # Unit tests for data models
@@ -165,6 +166,8 @@ tests/                          # Test suite
 ├── test_serialization.py       # Unit tests for JSON serialization
 └── test_turnstile.py           # Smoke test for Cloudflare Turnstile bypass
 requirements.txt                # Python dependencies (seleniumbase)
+requirements-dev.txt            # Development dependencies (pytest, pylint)
+Makefile                        # Make targets (run, dev, test, lint, etc.)
 Dockerfile                      # Container image (Ubuntu 22.04 + Chrome + Xvfb)
 docker-compose.yaml             # One-command Docker setup
 countries/                      # Output directory (created at runtime)
@@ -182,9 +185,9 @@ LICENSE                         # MIT License
 
 The GitHub Actions [CI pipeline](.github/workflows/ci.yml) runs on every push and pull request to `main`:
 
-1. **Lint** — Runs Pylint against the `iso3166_scraper/` package.
+1. **Lint** — Runs Pylint against the `src/iso3166_scraper/` package.
 2. **Validate OpenAPI** — Validates `openapi.yaml` against the OpenAPI specification.
-3. **Build & Push** — Builds the Docker image and pushes it to Docker Hub (only on push to `main`, after lint and validation pass).
+3. **Build & Push** — Builds the Docker image and pushes it to both GitHub Container Registry and Docker Hub (only on push to `main`, after lint and validation pass).
 
 ## License
 

@@ -57,7 +57,8 @@ ENV PATH="/home/scraper/.local/bin:${PATH}"
 COPY --chown=scraper:scraper requirements.txt ./
 RUN pip3 install --user --no-cache-dir -r requirements.txt
 
-COPY --chown=scraper:scraper iso3166_scraper/ ./iso3166_scraper/
+COPY --chown=scraper:scraper src/ ./src/
 COPY --chown=scraper:scraper tests/ ./tests/
 
+ENV PYTHONPATH=/app/src
 CMD ["python3", "-m", "iso3166_scraper"]
