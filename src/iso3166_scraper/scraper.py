@@ -9,7 +9,7 @@ from __future__ import annotations
 
 import logging
 import time
-from typing import Any, Callable
+from typing import Any, Callable, Iterator
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
@@ -354,12 +354,18 @@ class ISO3166Scraper:
 
     # -- High-level orchestration -------------------------------------------
 
-    def scrape_all_countries(self) -> list[Country]:
-        """Scrape every country from the ISO OBP and return the full list."""
+    def scrape_all_countries(self, country_codes: list[str] | None = None) -> Iterator[Country]:
+        """Scrape countries from the ISO OBP and yield them as they are scraped."""
         country_urls = self._get_country_urls()
-        logger.info("Found %d country URLs to scrape.", len(country_urls))
 
-        countries: list[Country] = []
+        if country_codes is not None:
+            country_codes_set = {code.upper() for code in country_codes}
+            country_urls = [
+                url for url in country_urls
+                if url.split(":")[-1].upper() in country_codes_set
+            ]
+
+        logger.info("Found %d country URLs to scrape.", len(country_urls))
 
         for index, url in enumerate(country_urls, start=1):
             self.sb.uc_open_with_reconnect(url, reconnect_time=8)
@@ -368,7 +374,7 @@ class ISO3166Scraper:
             self.sb.wait_for_element("#subdivision", timeout=PAGE_LOAD_WAIT_SECONDS)
 
             country = self._parse_country_page()
-            countries.append(country)
+            yield country
 
             logger.info(
                 "[%d/%d] Scraped %s (%s)",
@@ -380,5 +386,3 @@ class ISO3166Scraper:
 
             # Small delay between requests to be respectful
             time.sleep(1)
-
-        return countries

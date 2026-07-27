@@ -30,7 +30,7 @@ For each ISO 3166 entry the scraper collects:
 The scraper writes to a `countries/` directory:
 
 - **`{alpha2_code}.json`** — One file per country/entry (e.g. `DE.json`, `MT.json`).
-- **`all_countries.json`** — A single combined file with all entries under a top-level `"countries"` array.
+- **`countries.json`** — A single combined file with all entries under a top-level `"countries"` array.
 
 All fields that have no value are represented as `null` in the JSON output. See the [OpenAPI specification](openapi.yaml) for the full schema definition.
 
@@ -51,6 +51,11 @@ docker compose up
 
 This builds the image (if needed), runs the scraper, and writes the JSON output to a `countries/` directory in your current working directory.
 
+You can also pass arguments by overriding the default command:
+```bash
+docker compose run --rm iso3166-scraper python3 -m iso3166_scraper --countries US,CA
+```
+
 > **Note:** The first run downloads and installs the matching ChromeDriver automatically. Subsequent runs use the cached driver.
 
 ### Docker (manual)
@@ -61,8 +66,11 @@ If you prefer to build and run manually:
 # Build the image
 docker build -t iso3166-scraper .
 
-# Run the scraper
+# Run the scraper (default behavior)
 docker run --shm-size=2g -v ./countries:/app/countries:rw iso3166-scraper
+
+# Run with custom options
+docker run --shm-size=2g -v ./countries:/app/countries:rw iso3166-scraper python3 -m iso3166_scraper --all-only
 ```
 
 > **Important:** The `--shm-size=2g` flag is required. Chrome uses `/dev/shm` for shared memory during rendering — the default 64MB in Docker will cause crashes. This is already configured in `docker-compose.yaml`.
@@ -113,6 +121,10 @@ If you prefer to run directly on your machine:
     ```bash
     PYTHONPATH=src python -m iso3166_scraper
     ```
+
+    You can optionally pass the following arguments:
+    - `--all-only`: Only output the `countries.json` file (skips creating individual country files).
+    - `--countries`: Provide a comma-separated list of 2-letter country codes to scrape only those specific countries (e.g., `--countries US,CA,GB`).
 
 > **Why Google Chrome and not Chromium?** SeleniumBase UC mode patches the ChromeDriver binary to evade bot detection. These patches are built and tested against official Google Chrome releases. Chromium builds may use different versioning or be missing features that UC mode depends on, leading to detection or crashes.
 
@@ -174,7 +186,7 @@ countries/                      # Output directory (created at runtime)
 ├── AC.json
 ├── AD.json
 ├── ...
-└── all_countries.json
+└── countries.json
 .pylintrc                       # Pylint configuration
 .github/workflows/
 └── ci.yml                      # CI pipeline (lint → test → build → push)

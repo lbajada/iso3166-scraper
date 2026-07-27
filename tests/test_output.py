@@ -42,7 +42,7 @@ class TestSaveAllCountries:
 
         assert (tmp_path / "MT.json").exists()
         assert (tmp_path / "DE.json").exists()
-        assert (tmp_path / "all_countries.json").exists()
+        assert (tmp_path / "countries.json").exists()
 
     def test_individual_file_content(self, tmp_path: Path):
         countries = [
@@ -99,7 +99,7 @@ class TestSaveAllCountries:
 
         save_all_countries(countries, tmp_path)
 
-        data = json.loads((tmp_path / "all_countries.json").read_text(encoding="utf-8"))
+        data = json.loads((tmp_path / "countries.json").read_text(encoding="utf-8"))
         assert "countries" in data
         assert len(data["countries"]) == 2
         codes = {c["alpha2_code"] for c in data["countries"]}
