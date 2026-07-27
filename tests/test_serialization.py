@@ -1,12 +1,21 @@
 """Tests for JSON serialization and normalization."""
 
-from iso3166_scraper.models import (
-    AdditionalInformation,
-    Country,
-    Subdivision,
-    SubdivisionCategory,
-)
-from iso3166_scraper.serialization import serialize
+try:
+    from models import (
+        AdditionalInformation,
+        Country,
+        Subdivision,
+        SubdivisionCategory,
+    )
+    from serialization import serialize
+except ImportError:
+    from src.models import (
+        AdditionalInformation,
+        Country,
+        Subdivision,
+        SubdivisionCategory,
+    )
+    from src.serialization import serialize
 
 
 class TestNormalize:

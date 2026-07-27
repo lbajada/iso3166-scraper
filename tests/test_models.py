@@ -1,12 +1,21 @@
 """Tests for data model construction and field defaults."""
 
-from iso3166_scraper.models import (
-    AdditionalInformation,
-    ChangeHistory,
-    Country,
-    Subdivision,
-    SubdivisionCategory,
-)
+try:
+    from models import (
+        AdditionalInformation,
+        ChangeHistory,
+        Country,
+        Subdivision,
+        SubdivisionCategory,
+    )
+except ImportError:
+    from src.models import (
+        AdditionalInformation,
+        ChangeHistory,
+        Country,
+        Subdivision,
+        SubdivisionCategory,
+    )
 
 
 class TestAdditionalInformation:

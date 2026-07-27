@@ -1,1 +1,1 @@
-"""Tests for the iso3166_scraper package."""
+"""Tests for the scraper modules."""

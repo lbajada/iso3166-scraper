@@ -61,4 +61,4 @@ COPY --chown=scraper:scraper src/ ./src/
 COPY --chown=scraper:scraper tests/ ./tests/
 
 ENV PYTHONPATH=/app/src
-CMD ["python3", "-m", "iso3166_scraper"]
+CMD ["python3", "-m", "scraper"]
