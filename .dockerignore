@@ -1,0 +1,11 @@
+.git
+.github
+.gitignore
+.pylintrc
+__pycache__
+venv
+countries
+downloaded_files
+*.md
+*.yaml
+LICENSE

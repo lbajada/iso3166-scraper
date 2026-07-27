@@ -1,1 +1,1 @@
-selenium == 4.28.0
+seleniumbase >= 4.36.0

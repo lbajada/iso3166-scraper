@@ -1,8 +1,8 @@
 {
     "alpha2_code": "BS",
     "short_name": "BAHAMAS",
-    "short_name_lower_case": "Bahamas (the)",
-    "full_name": "the Commonwealth of the Bahamas",
+    "short_name_lower_case": "Bahamas (The)",
+    "full_name": "the Commonwealth of The Bahamas",
     "alpha3_code": "BHS",
     "numeric_code": 44,
     "remarks": null,
@@ -319,10 +319,15 @@
         {
             "administrative_language_alpha2": "en",
             "administrative_language_alpha3": "eng",
-            "local_short_name": "Bahamas (the)"
+            "local_short_name": "Bahamas (The)"
         }
     ],
     "change_history": [
+        {
+            "date": "2025-07-22",
+            "short_description_en": "By a letter dated 10 April 2025, the Permanent Representative of The Bahamas confirmed the name of the country, which should be styled with a capital T.",
+            "short_description_fr": "Par une lettre datée du 10 avril 2025, le Représentant permanent des Bahamas a confirmé que la forme courte était \"Bahamas (Les)\""
+        },
         {
             "date": "2018-11-26",
             "short_description_en": "Addition of island BS-NP; Addition of Remark; Update List Source",

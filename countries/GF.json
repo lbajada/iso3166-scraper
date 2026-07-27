@@ -1,33 +1,16 @@
 {
     "alpha2_code": "GF",
-    "short_name": "FRENCH GUIANA",
-    "short_name_lower_case": "French Guiana",
+    "short_name": "Ascension Island",
+    "short_name_lower_case": null,
     "full_name": null,
-    "alpha3_code": "GUF",
-    "numeric_code": 254,
+    "alpha3_code": "ASC",
+    "numeric_code": null,
     "remarks": null,
-    "independent": "No",
+    "independent": null,
     "territory_name": null,
-    "status": "Officially assigned",
+    "status": "Exceptionally reserved",
     "subdivision_categories": [],
     "subdivisions": [],
-    "additional_information": [
-        {
-            "administrative_language_alpha2": "fr",
-            "administrative_language_alpha3": "fra",
-            "local_short_name": "Guyane française (la )"
-        }
-    ],
-    "change_history": [
-        {
-            "date": "2022-11-29",
-            "short_description_en": "Modification of remark part 2",
-            "short_description_fr": "Modification de la remarque, partie 2"
-        },
-        {
-            "date": "2018-11-26",
-            "short_description_en": "Modification of remark part 2",
-            "short_description_fr": "Modification de la remarque, partie 2"
-        }
-    ]
+    "additional_information": [],
+    "change_history": []
 }

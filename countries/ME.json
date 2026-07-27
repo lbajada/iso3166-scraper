@@ -271,13 +271,13 @@
         },
         {
             "date": "2018-03-26",
-            "short_description_en": "Addition of the alpha 3 administrative language code cnr. Modification of remark part 1.",
-            "short_description_fr": "Ajout du codet alpha 3 de la langue administrative cnr. Modification de la remarque, partie 1."
+            "short_description_en": "Deletion of remark part 2.",
+            "short_description_fr": "Suppression de la remarque, partie 2."
         },
         {
             "date": "2018-03-26",
-            "short_description_en": "Deletion of remark part 2.",
-            "short_description_fr": "Suppression de la remarque, partie 2."
+            "short_description_en": "Addition of the alpha 3 administrative language code cnr. Modification of remark part 1.",
+            "short_description_fr": "Ajout du codet alpha 3 de la langue administrative cnr. Modification de la remarque, partie 1."
         },
         {
             "date": "2015-11-27",
