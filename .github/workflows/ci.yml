@@ -36,7 +36,7 @@ jobs:
       - name: Run Pylint
         env:
           PYTHONPATH: src
-        run: pylint src/
+        run: pylint src/iso3166_scraper/
 
   test:
     name: Test

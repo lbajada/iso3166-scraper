@@ -6,12 +6,8 @@ import json
 import logging
 from pathlib import Path
 
-try:
-    from .models import Country
-    from .serialization import serialize
-except ImportError:
-    from models import Country
-    from serialization import serialize
+from .models import Country
+from .serialization import serialize
 
 logger = logging.getLogger(__name__)
 

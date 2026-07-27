@@ -6,7 +6,7 @@ run:
 
 # Run the scraper locally
 dev:
-	PYTHONPATH=src python3 -m scraper
+	PYTHONPATH=src python3 -m iso3166_scraper
 
 # Run unit tests
 test:
@@ -14,7 +14,7 @@ test:
 
 # Run linter
 lint:
-	PYTHONPATH=src python3 -m pylint src
+	PYTHONPATH=src python3 -m pylint src/iso3166_scraper
 
 # Clean temporary Python cache files
 clean:

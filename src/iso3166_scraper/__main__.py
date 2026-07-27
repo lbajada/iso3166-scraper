@@ -1,13 +1,10 @@
-"""Entry point for ``python -m scraper`` or ``python -m src``."""
+"""Entry point for ``python -m iso3166_scraper``."""
 
 import logging
 
-try:
-    from .output import OUTPUT_DIR, save_all_countries
-    from .scraper import ISO3166Scraper
-except ImportError:
-    from output import OUTPUT_DIR, save_all_countries
-    from scraper import ISO3166Scraper
+from .output import OUTPUT_DIR
+from .scraper import ISO3166Scraper
+from .output import save_all_countries
 
 
 def main() -> None:

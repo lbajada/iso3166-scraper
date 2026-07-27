@@ -15,22 +15,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from seleniumbase import SB
 
-try:
-    from .models import (
-        AdditionalInformation,
-        ChangeHistory,
-        Country,
-        Subdivision,
-        SubdivisionCategory,
-    )
-except ImportError:
-    from models import (
-        AdditionalInformation,
-        ChangeHistory,
-        Country,
-        Subdivision,
-        SubdivisionCategory,
-    )
+from .models import (
+    AdditionalInformation,
+    ChangeHistory,
+    Country,
+    Subdivision,
+    SubdivisionCategory,
+)
 
 logger = logging.getLogger(__name__)
 

@@ -3,12 +3,8 @@
 import json
 from pathlib import Path
 
-try:
-    from models import Country, Subdivision
-    from output import save_all_countries
-except ImportError:
-    from src.models import Country, Subdivision
-    from src.output import save_all_countries
+from iso3166_scraper.models import Country, Subdivision
+from iso3166_scraper.output import save_all_countries
 
 
 class TestSaveAllCountries:
