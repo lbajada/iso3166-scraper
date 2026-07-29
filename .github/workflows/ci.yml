@@ -99,7 +99,6 @@ jobs:
             ${{ secrets.DOCKER_USERNAME }}/iso3166-scraper
           tags: |
             type=raw,value=latest
-            type=sha,prefix=
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v6
